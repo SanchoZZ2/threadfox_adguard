@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 e-cross.gl.at.ply.gg #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1617810/
+127.0.0.1 redirect.dedicated-coords.lol #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1617807/
+127.0.0.1 v1.subgiare.vn #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1617805/
+127.0.0.1 v2.subgiare.vn #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1617806/
+127.0.0.1 gates.subgiare.vn #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1617799/
+127.0.0.1 jaks.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1617800/
+127.0.0.1 ze1exlpvm.localto.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1617801/
+127.0.0.1 loft.wir2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617794/
+127.0.0.1 610294.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617789/
+127.0.0.1 57411.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617788/
+127.0.0.1 4920.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617785/
+127.0.0.1 gem.wir2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617784/
+127.0.0.1 333.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617783/
+127.0.0.1 karmina118.sytes.net #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1617777/
+127.0.0.1 karmina119.sytes.net #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1617778/
+127.0.0.1 nibiru4.duckdns.org #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1617779/
+127.0.0.1 nibiru5.duckdns.org #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1617780/
+127.0.0.1 nibiru6.duckdns.org #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1617781/
+127.0.0.1 karmina117.sytes.net #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1617776/
+127.0.0.1 njkb-24236.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1617774/
+127.0.0.1 slsryatdf.localto.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1617775/
+127.0.0.1 dc14oct.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1617773/
+127.0.0.1 sodfhsiuhdvishvisdhivgh.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1617772/
+127.0.0.1 05b8.i554000.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617770/
+127.0.0.1 964.i554000.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617769/
 127.0.0.1 7123001.i554000.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617768/
 127.0.0.1 180264.i554000.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617766/
 127.0.0.1 77950.i554000.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617765/
@@ -46175,6 +46200,7 @@
 127.0.0.1 cnc.nekololis.ovh #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1251159/
 127.0.0.1 fdh32fsdfhs.shop #botnet_cc, elf.moobot, MooBot https://threatfox.abuse.ch/ioc/1251171/
 127.0.0.1 soneypaly.club #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1250157/
+127.0.0.1 cm3thejmzhlxpvowsv2dk4ybpovmoaqal7o7gqirhgvj24l4ww7w7zid.onion #botnet_cc, win.bit_rat, BitRAT https://threatfox.abuse.ch/ioc/1248080/
 127.0.0.1 hmnms.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1247840/
 127.0.0.1 17.ip.gl.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1246759/
 127.0.0.1 googlesupportacc.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1244726/
@@ -46492,6 +46518,7 @@
 127.0.0.1 chromedata.webredirect.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1157882/
 127.0.0.1 mimihard.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1157872/
 127.0.0.1 vilvaraj-32652.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157373/
+127.0.0.1 karmina113.sytes.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157303/
 127.0.0.1 OrationSeas7145-59097.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157257/
 127.0.0.1 Baguvix918-26613.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157251/
 127.0.0.1 erbaevbann3.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157204/
@@ -47035,6 +47062,7 @@
 127.0.0.1 www.zominoz.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/847020/
 127.0.0.1 strongodss.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/846635/
 127.0.0.1 nybenspyhost.duckdns.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/846600/
+127.0.0.1 nibiru3.duckdns.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/846440/
 127.0.0.1 franexserver.webhop.me #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/846334/
 127.0.0.1 jevomukif.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/846258/
 127.0.0.1 msdnupdate.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/844214/
@@ -47135,4 +47163,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 47136
+# Number of entries: 47164
