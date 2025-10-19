@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zahcomputers.pk.modpersonnel.support #botnet_cc https://threatfox.abuse.ch/ioc/1618012/
+127.0.0.1 cloudstore.cam #botnet_cc https://threatfox.abuse.ch/ioc/1618013/
+127.0.0.1 herandhis.kvus7.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618011/
+127.0.0.1 casadecampoamazonas.com #botnet_cc https://threatfox.abuse.ch/ioc/1617939/
+127.0.0.1 few.wtes4.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617938/
+127.0.0.1 sap.cpak0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617937/
+127.0.0.1 me.bkud4.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617936/
+127.0.0.1 tab.rkuc9.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617935/
 127.0.0.1 zehir.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1617931/
 127.0.0.1 hackingrat.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1617932/
 127.0.0.1 remmom.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1617930/
@@ -47251,4 +47259,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 47252
+# Number of entries: 47260
