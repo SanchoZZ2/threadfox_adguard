@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nap.wir2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617822/
+127.0.0.1 706391.y438414.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617821/
+127.0.0.1 41002.y438414.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617820/
+127.0.0.1 twig.wir2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617819/
+127.0.0.1 3135.y438414.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617818/
+127.0.0.1 925.y438414.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617817/
+127.0.0.1 curl.wir2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617816/
+127.0.0.1 72563.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617815/
+127.0.0.1 080.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617814/
+127.0.0.1 beam.wir2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617813/
+127.0.0.1 3998107.i327147.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1617812/
 127.0.0.1 e-cross.gl.at.ply.gg #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1617810/
 127.0.0.1 redirect.dedicated-coords.lol #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1617807/
 127.0.0.1 v1.subgiare.vn #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1617805/
@@ -47163,4 +47174,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 47164
+# Number of entries: 47175
