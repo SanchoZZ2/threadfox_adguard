@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 219.rv6324.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618462/
+127.0.0.1 edclive.help #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1618455/
+127.0.0.1 034d2.bl8205.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618454/
+127.0.0.1 force5.syc0aq8uy1.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618452/
+127.0.0.1 118.bl8205.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618451/
+127.0.0.1 6901420.bl8205.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618450/
+127.0.0.1 spark7.syc0aq8uy1.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618449/
+127.0.0.1 777012.bl8205.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618448/
+127.0.0.1 30951.bl8205.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618445/
 127.0.0.1 gr.e.eonifyit.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1618440/
 127.0.0.1 gr.e.khabeir.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1618441/
 127.0.0.1 8427.bl8205.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618437/
@@ -47365,4 +47374,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 47366
+# Number of entries: 47375
