@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 913c50.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618313/
+127.0.0.1 0482.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618310/
+127.0.0.1 cdn.myolt.my.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1618305/
+127.0.0.1 cdn.italian-ips.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1618306/
+127.0.0.1 rtx.anditech.my.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1618307/
+127.0.0.1 169.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618298/
+127.0.0.1 admin.mythic.shopify.io #botnet_cc https://threatfox.abuse.ch/ioc/1618260/
+127.0.0.1 www.jonathanglynnphoto.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1618254/
+127.0.0.1 www.studiojordanphoto.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1618253/
+127.0.0.1 rtx.kaizensamawati.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1618037/
+127.0.0.1 7001845.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618297/
+127.0.0.1 toxi-34642.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1618296/
+127.0.0.1 55027.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618295/
+127.0.0.1 8321.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618294/
+127.0.0.1 324.5m9081.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618293/
 127.0.0.1 4137.5h4553.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618292/
 127.0.0.1 0984.5h4553.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618291/
 127.0.0.1 5002201.5h4553.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1618290/
@@ -47300,4 +47315,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 47301
+# Number of entries: 47316
