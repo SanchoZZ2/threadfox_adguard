@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 q7.v-bua0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624647/
+127.0.0.1 g.v-bua0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624645/
+127.0.0.1 xq.2f8-2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624644/
+127.0.0.1 wq0n.zm6392.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624643/
+127.0.0.1 newduck1.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1624642/
+127.0.0.1 h7.2f8-2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624641/
+127.0.0.1 owa.dmg-tech.com #botnet_cc https://threatfox.abuse.ch/ioc/1624217/
+127.0.0.1 bcfremote.dmg-tech.com #botnet_cc https://threatfox.abuse.ch/ioc/1624215/
+127.0.0.1 vpn.dmg-tech.com #botnet_cc https://threatfox.abuse.ch/ioc/1624216/
+127.0.0.1 charityjs.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1624190/
+127.0.0.1 archive.orlandoluxuryproperties.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1624185/
+127.0.0.1 hs-analytics.org #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1624267/
+127.0.0.1 static-hotjar.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1624268/
+127.0.0.1 mawp.us #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1624269/
+127.0.0.1 utahlvs.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1624270/
+127.0.0.1 hollywoodquarterly.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1624271/
+127.0.0.1 api.securebootupdatesystem.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1624336/
+127.0.0.1 l8k.zm6392.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624639/
+127.0.0.1 pv.2f8-2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624638/
 127.0.0.1 a1.2f8-2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1624637/
 127.0.0.1 carprlce.ru #payload_delivery https://threatfox.abuse.ch/ioc/1624636/
 127.0.0.1 logixbrands.com #botnet_cc https://threatfox.abuse.ch/ioc/1624633/
@@ -51681,6 +51700,7 @@
 127.0.0.1 hom135.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1172931/
 127.0.0.1 redlan1.hopto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1172898/
 127.0.0.1 ecutuning.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1172888/
+127.0.0.1 hp600.spdns.eu #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1172558/
 127.0.0.1 dllsys.duckdns.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1172488/
 127.0.0.1 kazya1.hopto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1172110/
 127.0.0.1 alibi66.no-ip.biz #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1171983/
@@ -52421,4 +52441,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 52422
+# Number of entries: 52442
