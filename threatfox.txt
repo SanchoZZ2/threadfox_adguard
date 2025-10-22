@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x.i261au.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1625104/
+127.0.0.1 7july-lithuania.gl.at.ply.gg #botnet_cc, win.orcus_rat, Schnorchel, Orcus RAT https://threatfox.abuse.ch/ioc/1625103/
+127.0.0.1 p-zinc.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1625102/
+127.0.0.1 given-delete.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1625098/
+127.0.0.1 supremogtarp.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1625099/
+127.0.0.1 fazoxxd-45223.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1625097/
 127.0.0.1 ball.k4tem.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1625095/
 127.0.0.1 pl.i261au.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1625093/
 127.0.0.1 xeljson.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1625077/
@@ -52591,4 +52597,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 52592
+# Number of entries: 52598
