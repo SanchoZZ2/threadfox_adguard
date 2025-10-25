@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 flint.fenod.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626428/
+127.0.0.1 ln.yjor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626427/
+127.0.0.1 9o.xvo4.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626425/
+127.0.0.1 bark.sne4p.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626424/
+127.0.0.1 prism.fenod.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626423/
+127.0.0.1 8h.xer-o.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626422/
+127.0.0.1 cpanel.sayyesmovement.ca #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1626230/
+127.0.0.1 6y.x-vo4.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626421/
+127.0.0.1 fern.sne4p.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626419/
+127.0.0.1 a1.vuln5.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626418/
+127.0.0.1 Iyr1c.fenod.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626417/
+127.0.0.1 rn.twy0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626413/
 127.0.0.1 9f.twy-0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626407/
 127.0.0.1 m3t.5u5vbu6.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626406/
 127.0.0.1 amber.fenod.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626405/
@@ -53020,4 +53032,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 53021
+# Number of entries: 53033
