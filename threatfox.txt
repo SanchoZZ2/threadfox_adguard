@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 q8yr.4aeaco0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627021/
+127.0.0.1 ma.r1v-x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627019/
+127.0.0.1 pa55.me-2-v.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627020/
+127.0.0.1 am.x3-ri.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627018/
+127.0.0.1 needleexperience.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1627017/
+127.0.0.1 my.to-qa.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627012/
+127.0.0.1 write-event.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1627010/
+127.0.0.1 ka.s2-ly.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626998/
+127.0.0.1 s1te.me-2-v.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1626999/
 127.0.0.1 classic-dave.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1626996/
 127.0.0.1 rfvlive.help #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1626997/
 127.0.0.1 utps.live #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1626993/
@@ -53198,4 +53207,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 53199
+# Number of entries: 53208
