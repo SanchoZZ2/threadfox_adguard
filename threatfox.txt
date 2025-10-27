@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 aw.re-t0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627312/
+127.0.0.1 quit.ky-4-x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627168/
+127.0.0.1 rift.tr-8-n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627167/
+127.0.0.1 re.s2-ly.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627166/
 127.0.0.1 clay.tr-8-n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627165/
 127.0.0.1 da.wi-7e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627164/
 127.0.0.1 1t.ky-4x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1627163/
@@ -35819,61 +35823,23 @@
 127.0.0.1 electronics-junk.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1512011/
 127.0.0.1 i.30x.ru #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1512008/
 127.0.0.1 srovuongtu.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1512009/
-127.0.0.1 logced.com #botnet_cc, win.doplugs, DOPLUGS https://threatfox.abuse.ch/ioc/1511939/
 127.0.0.1 bid-nova.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1511886/
 127.0.0.1 superaidol-42726.portmap.io #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1511887/
 127.0.0.1 typoi-53795.portmap.io #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1511888/
 127.0.0.1 streamingrpots.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1511885/
-127.0.0.1 farav.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511859/
-127.0.0.1 biwiv.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511843/
-127.0.0.1 security.flacgaurd.com #payload_delivery https://threatfox.abuse.ch/ioc/1511837/
-127.0.0.1 zemiosp.com #payload_delivery https://threatfox.abuse.ch/ioc/1511840/
 127.0.0.1 team-evaluating.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1511842/
-127.0.0.1 cabym.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511821/
-127.0.0.1 becel.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511831/
-127.0.0.1 login.socalmediazone.com #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1511816/
-127.0.0.1 shequw.huixueweng.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1511758/
-127.0.0.1 www.komijon.org #payload_delivery https://threatfox.abuse.ch/ioc/1511757/
-127.0.0.1 security.cloflardg.com #payload_delivery https://threatfox.abuse.ch/ioc/1511741/
-127.0.0.1 defii-larna.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511704/
 127.0.0.1 trust.wallet-web3.ing #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511702/
 127.0.0.1 coinomi.ing #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511703/
 127.0.0.1 en-trezor.io #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511700/
-127.0.0.1 atumicwallet.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511701/
-127.0.0.1 manta-network-v2.us #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511698/
 127.0.0.1 tronilnk.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511699/
-127.0.0.1 core.coligeme.com #payload_delivery https://threatfox.abuse.ch/ioc/1511697/
 127.0.0.1 updateyoubrousergoogle.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511677/
 127.0.0.1 arbitrag38.ru #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511678/
 127.0.0.1 update.clcc.cl #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511676/
-127.0.0.1 klintaps.org #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511674/
 127.0.0.1 jadhaoagroinds.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511675/
 127.0.0.1 rdixit.github.io #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511673/
 127.0.0.1 chromeinstall.xyz #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511672/
 127.0.0.1 todocarritos.top #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1511668/
-127.0.0.1 haidao10.top #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1511666/
-127.0.0.1 erectilehelp.top #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1511707/
-127.0.0.1 h1.unalteredaccuracy.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511724/
-127.0.0.1 transdataa.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511725/
-127.0.0.1 komijon.com #payload_delivery https://threatfox.abuse.ch/ioc/1511744/
-127.0.0.1 qeqek.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511745/
-127.0.0.1 www.coligeme.org #payload_delivery https://threatfox.abuse.ch/ioc/1511665/
-127.0.0.1 matur.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511659/
 127.0.0.1 ronthom.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511501/
-127.0.0.1 sticker-88l.pages.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511499/
-127.0.0.1 netnet.lol #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1511498/
-127.0.0.1 tugrambling.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511482/
-127.0.0.1 boxingcasualty.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511483/
-127.0.0.1 yeaio.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511484/
-127.0.0.1 dentistdomestic.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511485/
-127.0.0.1 wildlifeautograph.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511486/
-127.0.0.1 aoaee.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511487/
-127.0.0.1 eurowatchw.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511479/
-127.0.0.1 eurastratse.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511480/
-127.0.0.1 hindecoo.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511478/
-127.0.0.1 greeconoimy.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511477/
-127.0.0.1 geoecony.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1511476/
-127.0.0.1 teklits.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511804/
 127.0.0.1 physical-loving.gl.at.ply.gg #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1511720/
 127.0.0.1 taoh081018.zapto.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1511716/
 127.0.0.1 payment-lunch.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1511654/
@@ -53273,4 +53239,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 53274
+# Number of entries: 53240
