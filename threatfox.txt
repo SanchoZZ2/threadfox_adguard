@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 why.z3lu.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628015/
+127.0.0.1 ion.v3sa.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628014/
+127.0.0.1 z9k1.4md69.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628013/
+127.0.0.1 yaw.tov4.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628012/
+127.0.0.1 r4yd.1s-1n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628011/
+127.0.0.1 hit.mi4x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628010/
+127.0.0.1 m7qc.1s-1n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628009/
+127.0.0.1 m7p.4md69.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628008/
+127.0.0.1 if.tov-4.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628006/
 127.0.0.1 iit.tweethost.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1627997/
 127.0.0.1 iit.teba-forexport.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1627998/
 127.0.0.1 portal.dmg-tech.com #botnet_cc https://threatfox.abuse.ch/ioc/1627992/
@@ -53504,4 +53513,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 53505
+# Number of entries: 53514
