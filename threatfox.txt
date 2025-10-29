@@ -1,4 +1,33 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bug.tu7q.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628515/
+127.0.0.1 u3kd.1p-8s.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628508/
+127.0.0.1 rye.m4ze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628424/
+127.0.0.1 c7wp.1p-8s.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628423/
+127.0.0.1 bow.k8li.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628422/
+127.0.0.1 brirbxl.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628416/
+127.0.0.1 calbewo.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628417/
+127.0.0.1 meeqgem.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628418/
+127.0.0.1 venezdj.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628419/
+127.0.0.1 stamozp.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628420/
+127.0.0.1 faeadud.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628421/
+127.0.0.1 foodopg.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628407/
+127.0.0.1 irrufnv.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628408/
+127.0.0.1 scatbhn.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628409/
+127.0.0.1 ventagl.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628410/
+127.0.0.1 phthkob.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628411/
+127.0.0.1 splwplx.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628412/
+127.0.0.1 teered.locker #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628413/
+127.0.0.1 anomal.locker #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628414/
+127.0.0.1 strisef.mom #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628401/
+127.0.0.1 kaloop.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628402/
+127.0.0.1 sentmpy.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628403/
+127.0.0.1 texaajc.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628404/
+127.0.0.1 genubxc.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628405/
+127.0.0.1 sounqp.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1628406/
+127.0.0.1 h9r.1p-8s.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628399/
+127.0.0.1 day.vo3n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628398/
+127.0.0.1 mend.s-2-ly.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628384/
+127.0.0.1 up.je5w.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628383/
 127.0.0.1 etch.s-2-ly.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628382/
 127.0.0.1 z1mv.1p-8s.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628381/
 127.0.0.1 bu5.je5w.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628380/
@@ -53728,4 +53757,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 53729
+# Number of entries: 53758
