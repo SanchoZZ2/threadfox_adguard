@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 z1.8g89.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629578/
+127.0.0.1 s9t.ju8r.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629576/
+127.0.0.1 a.8g89.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629575/
+127.0.0.1 y4c.hy6o.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629573/
+127.0.0.1 sheep.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1629572/
+127.0.0.1 E0925-38257.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1629569/
+127.0.0.1 teo875-33757.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1629567/
+127.0.0.1 envio.dynuddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1629564/
+127.0.0.1 ever-lamp.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1629563/
+127.0.0.1 added-aurora.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1629562/
+127.0.0.1 j2m.ju8r.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629559/
+127.0.0.1 b2.78nsy6.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629558/
+127.0.0.1 77w.gl8r.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629557/
+127.0.0.1 iloveboats9.vip #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1629464/
 127.0.0.1 ipu.hy6o.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629555/
 127.0.0.1 t5m.60nma5.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629554/
 127.0.0.1 n6d.ju8r.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1629553/
@@ -54075,4 +54089,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 54076
+# Number of entries: 54090
