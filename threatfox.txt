@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x9nh3.yq2r.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630438/
+127.0.0.1 iid.t1va.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630437/
+127.0.0.1 z6c8q.yq2r.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630430/
+127.0.0.1 t9f.zo8k.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630426/
+127.0.0.1 dydnspriv.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1630424/
+127.0.0.1 systeam.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1630423/
+127.0.0.1 dosscloud.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1630421/
+127.0.0.1 loganwolverin2028.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1630420/
+127.0.0.1 e8f5p.x3le.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630419/
+127.0.0.1 7y.qo1s.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630418/
+127.0.0.1 k1p4v.yq2r.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630417/
 127.0.0.1 mmw.da6v.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630416/
 127.0.0.1 s2j7.x3le.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630415/
 127.0.0.1 r8jkc.qo1s.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1630414/
@@ -53546,6 +53557,7 @@
 127.0.0.1 jesusct944.ddns.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220959/
 127.0.0.1 mastermind.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220826/
 127.0.0.1 kursat205.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220830/
+127.0.0.1 soso1990h.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220822/
 127.0.0.1 adeboyeking.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220783/
 127.0.0.1 btcminer.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220705/
 127.0.0.1 clippico.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220649/
@@ -54427,4 +54439,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 54428
+# Number of entries: 54440
