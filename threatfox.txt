@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wp.8786.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631465/
+127.0.0.1 m5x8r.432b47.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631464/
+127.0.0.1 z83n.0fv1.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631463/
+127.0.0.1 0k.5x7u.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631462/
+127.0.0.1 rl.q3lo.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631461/
+127.0.0.1 v1kpa.0fv1.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631460/
+127.0.0.1 q7dz.432b47.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631459/
+127.0.0.1 sd.77-6.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631458/
+127.0.0.1 anyone-recover.gl.at.ply.gg #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1631457/
+127.0.0.1 until-slope.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1631455/
+127.0.0.1 minecraftmemesmp-55927.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1631453/
 127.0.0.1 h2pk3.432b47.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631452/
 127.0.0.1 q7m2x.0fv1.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631451/
 127.0.0.1 ob1.wi7e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1631450/
@@ -53513,6 +53524,8 @@
 127.0.0.1 neshion.com #botnet_cc, js.magecart, magecart https://threatfox.abuse.ch/ioc/1388301/
 127.0.0.1 www.nemonet.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1388057/
 127.0.0.1 fnnkcnemajnnaja.top #botnet_cc https://threatfox.abuse.ch/ioc/1387824/
+127.0.0.1 wintun.freemyip.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1386097/
+127.0.0.1 tunhost.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1386103/
 127.0.0.1 lggknhaffleahbh.top #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1385412/
 127.0.0.1 somehost.p0c.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1385284/
 127.0.0.1 mgubu48bnxi43.top #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1385236/
@@ -54910,4 +54923,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 54911
+# Number of entries: 54924
