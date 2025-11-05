@@ -1,4 +1,27 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pul.5b-c.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634024/
+127.0.0.1 g7c5.kzg-w-4y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634023/
+127.0.0.1 zon.z-x0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634022/
+127.0.0.1 e9rn.y2u-72.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634021/
+127.0.0.1 9xz.24s6.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634020/
+127.0.0.1 m2q9a.kzg-w-4y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634018/
+127.0.0.1 qak.n2vr.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634017/
+127.0.0.1 u5q8.y2u-72.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634016/
+127.0.0.1 ljh.dc-8.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634015/
+127.0.0.1 y0bn4.kzg-w-4y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634014/
+127.0.0.1 frt.8i-9.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634012/
+127.0.0.1 n6q.i1msth.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634011/
+127.0.0.1 2pq.z2q2.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634010/
+127.0.0.1 00x.7-h9.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634008/
+127.0.0.1 p8t3k.kzg-w-4y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634006/
+127.0.0.1 x9.wo-h3.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634005/
+127.0.0.1 5x.03e3x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634004/
+127.0.0.1 u1r6.kzg-w-4y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634003/
+127.0.0.1 drpolok.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1633996/
+127.0.0.1 kastefer8jagr1.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1633993/
+127.0.0.1 u5bd1.i1msth.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633991/
+127.0.0.1 04.614lo.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633990/
+127.0.0.1 lx.w8i0h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633989/
 127.0.0.1 42.oc57y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633844/
 127.0.0.1 3l.hb0-e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633843/
 127.0.0.1 were-eye.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1633842/
@@ -54712,6 +54735,7 @@
 127.0.0.1 xadrez.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220190/
 127.0.0.1 streetking.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1220072/
 127.0.0.1 sabre2ut.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219949/
+127.0.0.1 compartilhar.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219887/
 127.0.0.1 m6hbl.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219568/
 127.0.0.1 bagir.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219321/
 127.0.0.1 rlndeep8.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219289/
@@ -55594,4 +55618,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55595
+# Number of entries: 55619
