@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 42.oc57y.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633844/
+127.0.0.1 3l.hb0-e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633843/
+127.0.0.1 were-eye.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1633842/
+127.0.0.1 surit2948estoat02.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1633839/
+127.0.0.1 hxipzknrsojnitzv.zip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1633838/
+127.0.0.1 gamindcr.duckdns.org #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1633836/
+127.0.0.1 logs.skillface.xyz #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1633837/
+127.0.0.1 4k.888-c.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633834/
+127.0.0.1 d9.8b-1d.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633816/
+127.0.0.1 amyt11besco01.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1633815/
+127.0.0.1 k0sj.i1msth.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633814/
+127.0.0.1 n3w7a.gfk-8120.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633813/
+127.0.0.1 m7.95tbm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633778/
+127.0.0.1 ik.55-0p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633777/
+127.0.0.1 nzs.d3-6.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633776/
+127.0.0.1 r5z0t.gfk-8120.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633775/
 127.0.0.1 20q.5b-c.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633774/
 127.0.0.1 r8y.i1msth.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633773/
 127.0.0.1 h93.z-x0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1633772/
@@ -30281,11 +30297,11 @@
 127.0.0.1 mohsar.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1535802/
 127.0.0.1 magic-telecom.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1535803/
 127.0.0.1 backup-tlscom.sytes.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1535804/
-127.0.0.1 times.windowstimes.me #botnet_cc, win.vshell, Vshell https://threatfox.abuse.ch/ioc/1535797/
-127.0.0.1 api.xwphd.com #botnet_cc, win.vshell, Vshell https://threatfox.abuse.ch/ioc/1535798/
-127.0.0.1 bkp.windowstimes.me #botnet_cc, win.vshell, Vshell https://threatfox.abuse.ch/ioc/1535799/
-127.0.0.1 images.windowstimes.online #botnet_cc, win.vshell, Vshell https://threatfox.abuse.ch/ioc/1535800/
-127.0.0.1 image.windowstimes.online #botnet_cc, win.vshell, Vshell https://threatfox.abuse.ch/ioc/1535801/
+127.0.0.1 times.windowstimes.me #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1535797/
+127.0.0.1 api.xwphd.com #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1535798/
+127.0.0.1 bkp.windowstimes.me #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1535799/
+127.0.0.1 images.windowstimes.online #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1535800/
+127.0.0.1 image.windowstimes.online #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1535801/
 127.0.0.1 c43f5d6e73a7eb.ccega6r0yph8.com #botnet_cc https://threatfox.abuse.ch/ioc/1535793/
 127.0.0.1 admin.668608.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1535794/
 127.0.0.1 784564141.ccega6r0yph8.com #botnet_cc https://threatfox.abuse.ch/ioc/1535795/
@@ -54706,6 +54722,7 @@
 127.0.0.1 kinkiboy.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1218626/
 127.0.0.1 volkatv500.sytes.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1218153/
 127.0.0.1 van-turtle.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1218043/
+127.0.0.1 eweo9264gtuiort.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217107/
 127.0.0.1 MicrosoftSyst3m.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1213636/
 127.0.0.1 ping.cachespace.net #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1213525/
 127.0.0.1 sentimentprecisio.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1212990/
@@ -55577,4 +55594,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55578
+# Number of entries: 55595
