@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 l2f7.starmarkt.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634584/
+127.0.0.1 alphacinder.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634583/
+127.0.0.1 flowascatch.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1634579/
+127.0.0.1 alpha-cinder.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634582/
+127.0.0.1 p9c.starmarkt.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634577/
+127.0.0.1 ix.n0vaharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634576/
+127.0.0.1 5d.n0vaharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634575/
+127.0.0.1 a6v1.brassufer.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634573/
+127.0.0.1 5kch.n0vaharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634572/
+127.0.0.1 pr.ember-grove.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634571/
+127.0.0.1 51cv.ember-grove.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634570/
 127.0.0.1 d7x.ember-grove.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634569/
 127.0.0.1 flintwiese.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1634568/
 127.0.0.1 dolmain.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1634562/
@@ -55565,4 +55576,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55566
+# Number of entries: 55577
