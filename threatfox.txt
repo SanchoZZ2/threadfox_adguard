@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 erz.nickelweide.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636077/
+127.0.0.1 4q.rubyraum.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636076/
+127.0.0.1 frost.icylotus.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636075/
+127.0.0.1 eis.icylotus.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636074/
+127.0.0.1 weave.m00nweaver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636065/
+127.0.0.1 nacht.m00nweaver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636064/
+127.0.0.1 gale.m00nweaver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636063/
+127.0.0.1 mond.m00nweaver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636062/
 127.0.0.1 mist.1ittleriver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636061/
 127.0.0.1 stern.1ittleriver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636060/
 127.0.0.1 fluss.1ittleriver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636059/
@@ -55731,4 +55739,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55732
+# Number of entries: 55740
