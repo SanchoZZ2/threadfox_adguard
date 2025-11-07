@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 stoat.stoatgasse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636095/
+127.0.0.1 gasse.stoatgasse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636094/
+127.0.0.1 peak.eaglekrone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636093/
+127.0.0.1 krone.eaglekrone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636092/
+127.0.0.1 adler.eaglekrone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636091/
+127.0.0.1 ufer.wrenhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636090/
+127.0.0.1 hafen.wrenhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636089/
+127.0.0.1 wren.wrenhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636088/
+127.0.0.1 eiche.boargrund.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636087/
 127.0.0.1 wild.boargrund.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636086/
 127.0.0.1 hain.boargrund.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636085/
 127.0.0.1 heath.beechmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636084/
@@ -55746,4 +55755,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55747
+# Number of entries: 55756
