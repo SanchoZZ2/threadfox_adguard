@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hrjob-forward-build.store #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1635451/
+127.0.0.1 mi.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635450/
+127.0.0.1 3hg.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635448/
+127.0.0.1 ehu.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635447/
+127.0.0.1 saeam.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1634674/
+127.0.0.1 images.nestledinniagara.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1634695/
+127.0.0.1 bq.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635446/
+127.0.0.1 4r.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635445/
+127.0.0.1 k2m.horizonspur.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635443/
 127.0.0.1 p0x.horizonspur.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635442/
 127.0.0.1 oz.horizonspur.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635440/
 127.0.0.1 sportewindows.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1635438/
@@ -55442,4 +55451,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55443
+# Number of entries: 55452
