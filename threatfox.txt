@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 j4.basaltwerk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635482/
+127.0.0.1 bv9.basaltwerk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635481/
+127.0.0.1 q7.basaltwerk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635479/
+127.0.0.1 wp6.basaltwerk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635475/
+127.0.0.1 uhz.basaltwerk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635474/
+127.0.0.1 3t.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635473/
+127.0.0.1 qq.fabiankorte.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1635456/
+127.0.0.1 74.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635454/
+127.0.0.1 9ls.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635453/
 127.0.0.1 hrjob-forward-build.store #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1635451/
 127.0.0.1 mi.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635450/
 127.0.0.1 3hg.bramblestrom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1635448/
@@ -55451,4 +55460,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55452
+# Number of entries: 55461
