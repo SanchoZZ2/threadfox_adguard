@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 geskw.silversummit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636245/
+127.0.0.1 swa.silversummit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636244/
+127.0.0.1 7b9o0.fr0stp1llar.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636243/
+127.0.0.1 a8eq.fr0stp1llar.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636242/
+127.0.0.1 lkyb.fr0stp1llar.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636241/
+127.0.0.1 gqu3.brightvoyage.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636239/
+127.0.0.1 mreow.store #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1636224/
+127.0.0.1 mreow.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1636225/
+127.0.0.1 zkefi.brightvoyage.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636233/
+127.0.0.1 medialito.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1636230/
+127.0.0.1 cmcare.help #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1636231/
+127.0.0.1 www.gtjoin.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1636232/
+127.0.0.1 suitsoap.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1636226/
+127.0.0.1 framestove.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1636227/
+127.0.0.1 plasticstem.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1636228/
+127.0.0.1 bloodscarf.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1636229/
+127.0.0.1 p0.brightvoyage.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1636223/
 127.0.0.1 solomand.pro #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1636116/
 127.0.0.1 chrmeupdate.com #payload_delivery https://threatfox.abuse.ch/ioc/1636119/
 127.0.0.1 pixelnoased.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1636120/
@@ -55730,4 +55747,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 55731
+# Number of entries: 55748
