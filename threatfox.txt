@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mr5.fogmap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637093/
+127.0.0.1 11.clear-fog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637092/
+127.0.0.1 xmn.clear-fog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637091/
+127.0.0.1 lmy0.clear-fog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637090/
+127.0.0.1 ei.sun-hill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637089/
+127.0.0.1 jfn.sun-hill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637088/
+127.0.0.1 nn15s.sun-hill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637086/
+127.0.0.1 1u74z.moss-owl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637085/
 127.0.0.1 nxc.moss-owl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637083/
 127.0.0.1 enq.moss-owl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637082/
 127.0.0.1 0okm8.dew-root.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637081/
@@ -56362,4 +56370,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56363
+# Number of entries: 56371
