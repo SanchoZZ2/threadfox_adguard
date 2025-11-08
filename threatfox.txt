@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ecohaus.webd.pl #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1636919/
+127.0.0.1 ma.r0ckveil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637058/
+127.0.0.1 ojxk.r0ckveil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637057/
+127.0.0.1 f4vc.clearfog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637056/
+127.0.0.1 g4h.clearfog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637055/
+127.0.0.1 weo.clearfog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637054/
+127.0.0.1 g60.1ronpath.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637053/
+127.0.0.1 dvi.1ronpath.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637052/
 127.0.0.1 n5.1ronpath.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637051/
 127.0.0.1 4jx.mossowl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637047/
 127.0.0.1 super-mega-shop-2025-online.com #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1637045/
@@ -56348,4 +56356,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56349
+# Number of entries: 56357
