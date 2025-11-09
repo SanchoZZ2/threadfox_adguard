@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fjord.copperhang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637686/
+127.0.0.1 wald.copperhang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637684/
+127.0.0.1 eis.copperhang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637680/
+127.0.0.1 pat.microsoft-telemetry.at #botnet_cc, win.resolver_rat, PureHVNC, ResolverRAT https://threatfox.abuse.ch/ioc/1637679/
+127.0.0.1 cnr.microsoft-telemetry.at #botnet_cc, win.coinminer, Coinminer https://threatfox.abuse.ch/ioc/1637678/
+127.0.0.1 dorn.steelpfad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637677/
+127.0.0.1 tau.steelpfad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637674/
+127.0.0.1 rauch.steelpfad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637670/
+127.0.0.1 gleis.atlasufer.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637666/
 127.0.0.1 stern.atlasufer.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637664/
 127.0.0.1 moor.atlasufer.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637663/
 127.0.0.1 birch.orionfeld.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637662/
@@ -56615,4 +56624,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56616
+# Number of entries: 56625
