@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 glut.ravenkamm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637223/
+127.0.0.1 wind.ravenkamm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637222/
+127.0.0.1 ufer.ravenkamm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637221/
+127.0.0.1 nacht.stormgrat.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637220/
+127.0.0.1 blatt.stormgrat.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637219/
+127.0.0.1 ydbao2.cyou #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1637216/
+127.0.0.1 envioansyr.dynuddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1637214/
+127.0.0.1 editor-okay.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1637211/
+127.0.0.1 eis.stormgrat.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637210/
+127.0.0.1 wolke.polarhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637209/
 127.0.0.1 tau.polarhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637208/
 127.0.0.1 fjord.polarhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637207/
 127.0.0.1 wolfe.pixelbuche.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637206/
@@ -56373,4 +56383,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56374
+# Number of entries: 56384
