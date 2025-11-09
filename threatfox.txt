@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 spark.m-0-on-forger.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637408/
+127.0.0.1 glow.wind-barrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637407/
+127.0.0.1 a31a.wind-barrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637406/
+127.0.0.1 dhy.wind-barrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637405/
+127.0.0.1 dune.storm-harrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637396/
+127.0.0.1 hu.storm-harrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637394/
 127.0.0.1 di.storm-harrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637393/
 127.0.0.1 uirs.br1arwild.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637392/
 127.0.0.1 bloom.br1arwild.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637391/
@@ -56488,4 +56494,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56489
+# Number of entries: 56495
