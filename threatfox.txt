@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sonne.frostgipfel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637189/
+127.0.0.1 dampf.frostgipfel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637188/
+127.0.0.1 quarz.ashenkrone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637187/
+127.0.0.1 wolke.ashenkrone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637186/
+127.0.0.1 glut.ashenkrone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637185/
+127.0.0.1 prod.setupcloudos.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1637181/
+127.0.0.1 searchmtcn.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1637182/
+127.0.0.1 wind.cedarsteg.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637180/
+127.0.0.1 app.setupcloudos.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1637179/
 127.0.0.1 ufer.cedarsteg.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637177/
 127.0.0.1 nacht.cedarsteg.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637176/
 127.0.0.1 zorn.brassgipfel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637175/
@@ -56352,4 +56361,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56353
+# Number of entries: 56362
