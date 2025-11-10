@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 f5.night-bloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638295/
+127.0.0.1 glade.night-bloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638294/
 127.0.0.1 0ti.night-bloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638293/
 127.0.0.1 ember.sh4d0wmere.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638292/
 127.0.0.1 thorn.sh4d0wmere.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638291/
@@ -57059,4 +57061,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57060
+# Number of entries: 57062
