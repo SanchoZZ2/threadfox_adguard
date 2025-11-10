@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ufer.shadowtal.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637718/
+127.0.0.1 nacht.shadowtal.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637717/
+127.0.0.1 pfad.crimsonwald.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637716/
+127.0.0.1 grat.crimsonwald.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637714/
+127.0.0.1 eis.crimsonwald.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637707/
+127.0.0.1 stern.quartzhain.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637706/
 127.0.0.1 eiche.quartzhain.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637705/
 127.0.0.1 glut.quartzhain.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637704/
 127.0.0.1 moos.granitebach.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1637703/
@@ -56629,4 +56635,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 56630
+# Number of entries: 56636
