@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 shade.fr0stharrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638345/
+127.0.0.1 vlrbq.fr0stharrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638344/
+127.0.0.1 flood.ink #botnet_cc https://threatfox.abuse.ch/ioc/1638339/
 127.0.0.1 f5.night-bloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638295/
 127.0.0.1 glade.night-bloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638294/
 127.0.0.1 0ti.night-bloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638293/
@@ -45513,6 +45516,7 @@
 127.0.0.1 reformzv.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1485460/
 127.0.0.1 quavabvc.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1485467/
 127.0.0.1 6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1485436/
+127.0.0.1 gecsge4e1e5427f8.com #botnet_cc, apk.vo1d, vo1d https://threatfox.abuse.ch/ioc/1485408/
 127.0.0.1 zestmedo.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1485389/
 127.0.0.1 coi.coicoi.filegear-sg.me #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1485310/
 127.0.0.1 f4jr3v36b1sd7.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1485206/
@@ -57061,4 +57065,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57062
+# Number of entries: 57066
