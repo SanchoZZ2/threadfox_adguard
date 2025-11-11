@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 core.gyrodesk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638625/
+127.0.0.1 r54v.qu1rkfuse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638624/
+127.0.0.1 2iz.qu1rkfuse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638623/
+127.0.0.1 flosinjs.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1638284/
+127.0.0.1 eco-technic.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1638289/
+127.0.0.1 137z.qu1rkfuse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638621/
+127.0.0.1 flux.qu1rkfuse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638616/
+127.0.0.1 blink.v1b3forge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638615/
 127.0.0.1 glaug.v1b3forge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638614/
 127.0.0.1 yoz.v1b3forge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638613/
 127.0.0.1 vbq6.v1b3forge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638612/
@@ -57167,4 +57175,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57168
+# Number of entries: 57176
