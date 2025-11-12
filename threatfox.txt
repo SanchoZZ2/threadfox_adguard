@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 v8im.c-0-sm-1-cweld.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638826/
+127.0.0.1 quark5.glitch-pact.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638825/
+127.0.0.1 fyp.glitch-pact.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638824/
+127.0.0.1 1olj.glitch-pact.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638823/
+127.0.0.1 hiv8.polywhiz.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638822/
+127.0.0.1 2yn.polywhiz.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638821/
 127.0.0.1 nova7.polywhiz.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638820/
 127.0.0.1 xi.v3ctorplum.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638819/
 127.0.0.1 vector.v3ctorplum.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638818/
@@ -39651,45 +39657,22 @@
 127.0.0.1 traxanhc2.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1519827/
 127.0.0.1 electrurm.com #botnet_cc https://threatfox.abuse.ch/ioc/1519583/
 127.0.0.1 14j1eqpwe044f.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519798/
-127.0.0.1 bestwallet.my-profai.com #botnet_cc, osx.poseidonstealer, Rodrigo Stealer, Poseidon Stealer https://threatfox.abuse.ch/ioc/1519611/
-127.0.0.1 tradingview.little-mouse.xyz #botnet_cc, osx.poseidonstealer, Rodrigo Stealer, Poseidon Stealer https://threatfox.abuse.ch/ioc/1519612/
-127.0.0.1 sijyh.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519599/
 127.0.0.1 cv.cbrw.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519584/
-127.0.0.1 sorov.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519501/
-127.0.0.1 kepov.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519556/
-127.0.0.1 pexab.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519523/
-127.0.0.1 ciwid.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519557/
-127.0.0.1 mygar.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519558/
-127.0.0.1 electrurn.com #botnet_cc https://threatfox.abuse.ch/ioc/1519559/
-127.0.0.1 electrurn.org #botnet_cc https://threatfox.abuse.ch/ioc/1519560/
 127.0.0.1 skyprotech.ru #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519576/
 127.0.0.1 ns1.shamless.sbs #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519575/
 127.0.0.1 metalliko-industr.ru #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519574/
 127.0.0.1 lancery.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519572/
 127.0.0.1 samrat4-56907.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1519571/
-127.0.0.1 dhaker.ddns.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1519569/
-127.0.0.1 raypun.eastus.cloudapp.azure.com #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1519570/
 127.0.0.1 magical-lumiere.94-156-177-241.plesk.page #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1519543/
-127.0.0.1 login.mexc-signin.kro.kr #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1519537/
 127.0.0.1 1re0-61442.portmap.io #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1519533/
-127.0.0.1 djkms-32561.portmap.host #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1519532/
-127.0.0.1 ftp.fosna.net #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1519509/
-127.0.0.1 ftp.haliza.com.my #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1519507/
-127.0.0.1 ftp.hitplas.ro #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1519505/
 127.0.0.1 niggerkiller69.duckdns.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1519496/
 127.0.0.1 cov.ph4nt0m.fr #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1519491/
 127.0.0.1 irc.xinxin.cam #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1519477/
 127.0.0.1 xenqxd-42269.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1519478/
-127.0.0.1 zizo.myftp.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1519476/
 127.0.0.1 enzomtp.dragonia-pvp.fr #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1519475/
-127.0.0.1 dn-master.ddns.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1519474/
-127.0.0.1 fepez.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519457/
 127.0.0.1 www.joydome.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519424/
 127.0.0.1 pixelpitstop.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519425/
 127.0.0.1 gamespheres.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519426/
-127.0.0.1 cpcalendars.tempoestil.com #botnet_cc https://threatfox.abuse.ch/ioc/1519435/
-127.0.0.1 electrunn.org #botnet_cc https://threatfox.abuse.ch/ioc/1519449/
-127.0.0.1 cyleb.run #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1519419/
 127.0.0.1 araucahkbm.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519235/
 127.0.0.1 posseswsnc.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519236/
 127.0.0.1 featurlyin.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519237/
@@ -39697,7 +39680,6 @@
 127.0.0.1 www.google-chrome.info #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1519260/
 127.0.0.1 flowerexju.bet #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519233/
 127.0.0.1 easterxeen.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519234/
-127.0.0.1 sliv.ph4nt0m.fr #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1519415/
 127.0.0.1 photoreport.roamdetail.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1519222/
 127.0.0.1 mctestnoip0403.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1519211/
 127.0.0.1 rep.realmensw.life #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1519212/
@@ -39707,8 +39689,6 @@
 127.0.0.1 7sesh-58077.portmap.io #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1519209/
 127.0.0.1 nnmirai.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1519207/
 127.0.0.1 takine.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1519208/
-127.0.0.1 static.195.89.27.37.clients.your-server.de #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1519187/
-127.0.0.1 b95bca55387d2a9ba0d7.webredirect.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1519181/
 127.0.0.1 wwwsyju.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518911/
 127.0.0.1 sumeriavgv.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518912/
 127.0.0.1 ingratgmit.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518913/
@@ -45473,7 +45453,6 @@
 127.0.0.1 ns2.maxscend.buzz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1493280/
 127.0.0.1 ns1.maxscend.buzz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1493278/
 127.0.0.1 micros.office365update.cn #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1493219/
-127.0.0.1 jerrytech.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1493215/
 127.0.0.1 0x503.3738.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1492817/
 127.0.0.1 bot.zwntl.cn #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1492818/
 127.0.0.1 cloud.glowman554.gq #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1492819/
@@ -57278,4 +57257,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57279
+# Number of entries: 57258
