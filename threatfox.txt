@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 core.gl-1-tchgarden.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639734/
+127.0.0.1 y9w7.gl-1-tchgarden.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639733/
+127.0.0.1 q1f1p.twist-nova.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639732/
+127.0.0.1 ux.twist-nova.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639731/
+127.0.0.1 2tkvw.twist-nova.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639715/
+127.0.0.1 server.dczu.dpdns.org #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1639713/
+127.0.0.1 gynar.twist-nova.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639712/
 127.0.0.1 phase.bash-glider.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639711/
 127.0.0.1 shift.bash-glider.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639710/
 127.0.0.1 jet.bash-glider.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639709/
@@ -57514,4 +57521,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57515
+# Number of entries: 57522
