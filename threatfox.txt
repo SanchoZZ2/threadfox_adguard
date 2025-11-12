@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 labs.spryvolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638846/
+127.0.0.1 trail3.knackquill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638845/
+127.0.0.1 gv8.knackquill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638844/
+127.0.0.1 7q.knackquill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638843/
+127.0.0.1 loom5.rumblekin.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638842/
+127.0.0.1 labs.eonlinesuccess.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1638839/
+127.0.0.1 host-winds.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1638838/
+127.0.0.1 edu.eonlinesuccess.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1638837/
+127.0.0.1 courses.eonlinesuccess.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1638836/
+127.0.0.1 ignite6.rumblekin.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638835/
 127.0.0.1 quark1.rumblekin.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638834/
 127.0.0.1 u1yee.spry-volt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638833/
 127.0.0.1 kz17u.spry-volt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1638832/
@@ -57263,4 +57273,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57264
+# Number of entries: 57274
