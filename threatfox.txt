@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dta.vrolijkecreaties.nl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1639454/
+127.0.0.1 dta.holidayuklastminute.co.uk #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1639455/
+127.0.0.1 hugfornow.com #payload_delivery https://threatfox.abuse.ch/ioc/1639210/
+127.0.0.1 fallmusicfestival.com #payload_delivery https://threatfox.abuse.ch/ioc/1639209/
+127.0.0.1 pawprintspublishingllc.com #payload_delivery https://threatfox.abuse.ch/ioc/1639208/
+127.0.0.1 nora-bs.com #payload_delivery https://threatfox.abuse.ch/ioc/1639207/
+127.0.0.1 drsaputo.com #payload_delivery https://threatfox.abuse.ch/ioc/1639206/
+127.0.0.1 addisartist.com #payload_delivery https://threatfox.abuse.ch/ioc/1639203/
+127.0.0.1 pbcustomercare.com #payload_delivery https://threatfox.abuse.ch/ioc/1639202/
+127.0.0.1 frostshiledr.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1639422/
 127.0.0.1 adeyqa.net #botnet_cc, win.amadey, Amadey https://threatfox.abuse.ch/ioc/1639448/
 127.0.0.1 quasar.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1639418/
 127.0.0.1 rajasas35safael1.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639412/
@@ -57470,4 +57480,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57471
+# Number of entries: 57481
