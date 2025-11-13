@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pulse.papervolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639784/
+127.0.0.1 mesh.papervolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639783/
+127.0.0.1 es.jaxdrill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639782/
+127.0.0.1 nut.jaxdrill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639781/
+127.0.0.1 windows-updates-check.com #botnet_cc https://threatfox.abuse.ch/ioc/1639779/
+127.0.0.1 mukphol.com #botnet_cc https://threatfox.abuse.ch/ioc/1639778/
+127.0.0.1 v1.jaxdrill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639773/
+127.0.0.1 byte.jaxdrill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639772/
 127.0.0.1 vale.zenith-snap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639771/
 127.0.0.1 rift.zenith-snap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639770/
 127.0.0.1 012.zenith-snap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639769/
@@ -57351,4 +57359,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57352
+# Number of entries: 57360
