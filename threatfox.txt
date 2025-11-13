@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 s5.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639790/
+127.0.0.1 phase0.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639789/
+127.0.0.1 gleam.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639788/
+127.0.0.1 lqsvi.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639787/
+127.0.0.1 quark.papervolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639786/
+127.0.0.1 updatesbrows.app #payload_delivery https://threatfox.abuse.ch/ioc/1639706/
+127.0.0.1 bcidaho.247supportsolutions.com #botnet_cc https://threatfox.abuse.ch/ioc/1639717/
+127.0.0.1 bd.papervolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639785/
 127.0.0.1 pulse.papervolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639784/
 127.0.0.1 mesh.papervolt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639783/
 127.0.0.1 es.jaxdrill.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639782/
@@ -57359,4 +57367,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57360
+# Number of entries: 57368
