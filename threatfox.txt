@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gleis.hearthwinkel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640952/
+127.0.0.1 rauch.hearthwinkel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640951/
+127.0.0.1 kamm.knollhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640947/
+127.0.0.1 moor.knollhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640946/
+127.0.0.1 fjord.knollhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640942/
+127.0.0.1 tau.sprigkompass.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640941/
+127.0.0.1 birch.sprigkompass.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640940/
+127.0.0.1 lat.vrolijkecreaties.nl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1640937/
+127.0.0.1 lat.hotelsinjacksonvillefl.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1640938/
+127.0.0.1 wolke.sprigkompass.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640934/
+127.0.0.1 orbit9.warpclutch.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640933/
+127.0.0.1 0kj3.warpclutch.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640932/
+127.0.0.1 spark.warpclutch.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640931/
+127.0.0.1 dyy.raven-flux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640930/
+127.0.0.1 trace4.raven-flux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640923/
+127.0.0.1 spark6.raven-flux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640922/
 127.0.0.1 b71yl.pulseknob.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1640921/
 127.0.0.1 centaurustermas.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1640901/
 127.0.0.1 www.iconconsultants.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1640906/
@@ -57472,4 +57488,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57473
+# Number of entries: 57489
