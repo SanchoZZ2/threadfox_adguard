@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 node3.trickilygrey.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639822/
+127.0.0.1 reechel.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1639821/
+127.0.0.1 hcm-technology.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1639820/
+127.0.0.1 week-ut.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1639819/
+127.0.0.1 www.blazingelectricz.store #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639818/
+127.0.0.1 agosto20.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639814/
+127.0.0.1 api25.didns.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639815/
+127.0.0.1 www.blazingelectricz.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639816/
+127.0.0.1 www.blazingelectricz.online #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639817/
+127.0.0.1 465669107.xyz #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1639808/
+127.0.0.1 byteflowing1337.github.io #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1639809/
+127.0.0.1 octubre212024.giize.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1639810/
+127.0.0.1 pinganxzen.shop #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1639811/
+127.0.0.1 rupper9.duckdns.org #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1639812/
+127.0.0.1 api.foodbyte.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1639802/
+127.0.0.1 atri.click #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1639803/
+127.0.0.1 foodbyte.cn #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1639804/
+127.0.0.1 shop.atri.help #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1639805/
+127.0.0.1 hotels-atmospheric.gl.at.ply.gg #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1639806/
+127.0.0.1 proud17.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639797/
+127.0.0.1 proud.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639793/
+127.0.0.1 proudsoldier.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1639792/
 127.0.0.1 s5.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639790/
 127.0.0.1 phase0.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639789/
 127.0.0.1 gleam.inktrap.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639788/
@@ -56178,6 +56200,7 @@
 127.0.0.1 reinforcenh.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1329455/
 127.0.0.1 newlumm.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1329112/
 127.0.0.1 lumnew.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1329068/
+127.0.0.1 ufye28738bd3yv23d783.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1327156/
 127.0.0.1 timez0.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1327153/
 127.0.0.1 flfprlkgpppg.shop #botnet_cc, win.plugx, Destroy RAT, Kaba https://threatfox.abuse.ch/ioc/1326892/
 127.0.0.1 virtual.urban-orthodontics.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1326596/
@@ -57367,4 +57390,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57368
+# Number of entries: 57391
