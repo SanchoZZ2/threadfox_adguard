@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 st6.quartzflip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639854/
+127.0.0.1 orbit.quartzflip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639853/
+127.0.0.1 bw.quartzflip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639852/
+127.0.0.1 8nbw6.shevypro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639851/
+127.0.0.1 66.shevypro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639849/
+127.0.0.1 pulse.shevypro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1639848/
 127.0.0.1 bcidaho.bromleyhealthmanagement.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1639845/
 127.0.0.1 dja.vrolijkecreaties.nl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1639833/
 127.0.0.1 dja.hotelsinjacksonvillefl.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1639834/
@@ -57396,4 +57402,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57397
+# Number of entries: 57403
