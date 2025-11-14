@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 px.gr1tmodule.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641348/
+127.0.0.1 siq.gr1tmodule.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641347/
+127.0.0.1 tla.gr1tmodule.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641346/
+127.0.0.1 srimedhasoft.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1641340/
+127.0.0.1 053.knotberry.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641338/
+127.0.0.1 qg3q2.knotberry.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641337/
+127.0.0.1 kruipro.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1641332/
+127.0.0.1 root.kruipro.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1641333/
+127.0.0.1 sdh3a.knotberry.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641336/
+127.0.0.1 orbit.odd-kraken.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641335/
+127.0.0.1 dock.odd-kraken.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641334/
+127.0.0.1 vibesyncvr.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1641331/
+127.0.0.1 01efv.odd-kraken.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641330/
+127.0.0.1 qkund.gleamspan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641329/
+127.0.0.1 mockerl.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641323/
+127.0.0.1 shutsra.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641324/
+127.0.0.1 poochse.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641325/
+127.0.0.1 oleaceg.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641326/
+127.0.0.1 notionz.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641327/
+127.0.0.1 evasivr.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641328/
+127.0.0.1 ml.gleamspan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641322/
+127.0.0.1 amigor.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641320/
+127.0.0.1 audioux.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641321/
+127.0.0.1 e8.gleamspan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641317/
+127.0.0.1 flux0.quant-melt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641316/
 127.0.0.1 blink.quant-melt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641315/
 127.0.0.1 q40eo.quant-melt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641314/
 127.0.0.1 trail.flintzoo.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641307/
@@ -57248,4 +57273,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57249
+# Number of entries: 57274
