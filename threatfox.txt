@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tau.ironweide.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641410/
+127.0.0.1 hain.ravensteg.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641409/
+127.0.0.1 glut.ravensteg.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641408/
+127.0.0.1 ufer.ravensteg.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641407/
+127.0.0.1 dampf.flintquelle.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641404/
+127.0.0.1 rune.flintquelle.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641403/
+127.0.0.1 moos.flintquelle.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641401/
+127.0.0.1 ctr.hazebinder.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641400/
+127.0.0.1 nova8.hazebinder.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641399/
+127.0.0.1 byte8.hazebinder.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641398/
+127.0.0.1 enivomarzo12.dynuddns.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1641396/
+127.0.0.1 fdsgofgjoefjiooe.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1641395/
+127.0.0.1 core.saffronjet.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641394/
+127.0.0.1 1665s.saffronjet.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641391/
+127.0.0.1 g0pv.saffronjet.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641390/
 127.0.0.1 knot.st1rlingpad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641389/
 127.0.0.1 11v.st1rlingpad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641388/
 127.0.0.1 drop7.st1rlingpad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641387/
@@ -57298,4 +57313,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57299
+# Number of entries: 57314
