@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 knot.st1rlingpad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641389/
+127.0.0.1 11v.st1rlingpad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641388/
+127.0.0.1 drop7.st1rlingpad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641387/
+127.0.0.1 2v1.lumentwist.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641386/
+127.0.0.1 5z.lumentwist.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641383/
+127.0.0.1 mail.outlook365.vip #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1641380/
+127.0.0.1 5lw6.lumentwist.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641379/
 127.0.0.1 getinstallclient32.live #payload_delivery https://threatfox.abuse.ch/ioc/1641362/
 127.0.0.1 verificationsbycapcha.center #payload_delivery https://threatfox.abuse.ch/ioc/1641363/
 127.0.0.1 magicupdate.cfd #botnet_cc, win.aurastealer, AURA Stealer, AURASTEAL https://threatfox.abuse.ch/ioc/1641373/
@@ -57291,4 +57298,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57292
+# Number of entries: 57299
