@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 getinstallclient32.live #payload_delivery https://threatfox.abuse.ch/ioc/1641362/
+127.0.0.1 verificationsbycapcha.center #payload_delivery https://threatfox.abuse.ch/ioc/1641363/
+127.0.0.1 magicupdate.cfd #botnet_cc, win.aurastealer, AURA Stealer, AURASTEAL https://threatfox.abuse.ch/ioc/1641373/
+127.0.0.1 searchagent.cfd #botnet_cc, win.aurastealer, AURA Stealer, AURASTEAL https://threatfox.abuse.ch/ioc/1641374/
+127.0.0.1 7u.viberspan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641377/
+127.0.0.1 module7.viberspan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641375/
+127.0.0.1 1wd.viberspan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641372/
+127.0.0.1 28xr3.clipmorrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641370/
+127.0.0.1 hrtf3.clipmorrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641364/
+127.0.0.1 vpcp.clipmorrow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641361/
+127.0.0.1 xxx.vrolijkecreaties.nl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1641358/
+127.0.0.1 xxx.hotelsinnewjerseyatlanticcity.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1641359/
 127.0.0.1 quark.pr0wldrop.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641355/
 127.0.0.1 yf.pr0wldrop.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641354/
 127.0.0.1 u3z.pr0wldrop.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641353/
@@ -57279,4 +57291,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57280
+# Number of entries: 57292
