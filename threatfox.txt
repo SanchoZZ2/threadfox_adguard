@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 35k.kn1fecast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641664/
+127.0.0.1 beacon1.kn1fecast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641663/
+127.0.0.1 1ojva.g0sslamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641662/
+127.0.0.1 lj.g0sslamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641661/
+127.0.0.1 debt-apartment.gl.at.ply.gg #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1641659/
+127.0.0.1 center-lost.gl.at.ply.gg #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1641658/
+127.0.0.1 ezpz1.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1641655/
+127.0.0.1 kamazec-35137.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1641653/
+127.0.0.1 source-gtk.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1641652/
+127.0.0.1 tuesday-gamma.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1641651/
+127.0.0.1 7uo.g0sslamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641648/
+127.0.0.1 yspm.orbitling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641647/
 127.0.0.1 f3.orbitling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641646/
 127.0.0.1 scramble3.orbitling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641645/
 127.0.0.1 trace.s1nkflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641644/
@@ -57363,4 +57375,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57364
+# Number of entries: 57376
