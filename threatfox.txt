@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ye.scramblehub.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641676/
+127.0.0.1 e0.meltquark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641675/
+127.0.0.1 fvfsf.meltquark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641674/
+127.0.0.1 q9p4.meltquark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641673/
+127.0.0.1 he2.g-0-ss-lamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641672/
+127.0.0.1 ylr.g-0-ss-lamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641671/
+127.0.0.1 hover3.g-0-ss-lamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641670/
+127.0.0.1 www.acd852.me #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1641666/
+127.0.0.1 kpow.kn1fecast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641665/
 127.0.0.1 35k.kn1fecast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641664/
 127.0.0.1 beacon1.kn1fecast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641663/
 127.0.0.1 1ojva.g0sslamp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641662/
@@ -38,7 +47,6 @@
 127.0.0.1 sistemdetect.com #payload_delivery https://threatfox.abuse.ch/ioc/1641460/
 127.0.0.1 aasdtvcvchcvhhhhh.com #payload_delivery https://threatfox.abuse.ch/ioc/1641452/
 127.0.0.1 drugtrh.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641439/
-127.0.0.1 anomal.lockerozonelf.su #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641440/
 127.0.0.1 leathes.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1641438/
 127.0.0.1 agosto13.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1641567/
 127.0.0.1 eg-buzz.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1641565/
@@ -57375,4 +57383,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57376
+# Number of entries: 57384
