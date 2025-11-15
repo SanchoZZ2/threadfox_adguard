@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jet.idealbros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641577/
+127.0.0.1 xsud.idealbros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641576/
 127.0.0.1 bindlib.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1641501/
 127.0.0.1 ldasldalsd.com #payload_delivery https://threatfox.abuse.ch/ioc/1641454/
 127.0.0.1 uploadclient32.com #payload_delivery https://threatfox.abuse.ch/ioc/1641467/
@@ -57342,4 +57344,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57343
+# Number of entries: 57345
