@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x2n.bestffriend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641591/
+127.0.0.1 echo5.bestffriend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641589/
+127.0.0.1 pn.bestffriend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641586/
+127.0.0.1 tap6.bestffriend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641585/
+127.0.0.1 mvu5.idealbros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641581/
 127.0.0.1 jet.idealbros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641577/
 127.0.0.1 xsud.idealbros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641576/
 127.0.0.1 bindlib.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1641501/
@@ -57344,4 +57349,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57345
+# Number of entries: 57350
