@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 f3.orbitling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641646/
+127.0.0.1 scramble3.orbitling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641645/
+127.0.0.1 trace.s1nkflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641644/
+127.0.0.1 drip2.s1nkflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641640/
+127.0.0.1 kans.s1nkflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641627/
+127.0.0.1 obte.dripanchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641626/
+127.0.0.1 ac3d0ee370745f757.awsglobalaccelerator.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1641625/
+127.0.0.1 anchor.dripanchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641624/
 127.0.0.1 q0ck.dripanchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641623/
 127.0.0.1 x2n.bestffriend.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641622/
 127.0.0.1 vibe.bestffriend.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641616/
@@ -57355,4 +57363,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57356
+# Number of entries: 57364
