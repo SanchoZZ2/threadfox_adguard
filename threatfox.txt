@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 weald.saffronhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641514/
+127.0.0.1 glut.saffronhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641513/
+127.0.0.1 klee.saffronhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641512/
+127.0.0.1 moor.saffronhafen.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641511/
+127.0.0.1 funke.thunderkiesel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641505/
 127.0.0.1 nebel.thunderkiesel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641500/
 127.0.0.1 grat.thunderkiesel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641499/
 127.0.0.1 bach.thunderkiesel.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1641498/
@@ -57341,4 +57346,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57342
+# Number of entries: 57347
