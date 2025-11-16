@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 isv.cr1mpoint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643657/
+127.0.0.1 glide.cr1mpoint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643568/
+127.0.0.1 jam.cr1mpoint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643443/
+127.0.0.1 628.torquebud.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643342/
+127.0.0.1 jvjduckdns233.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1643310/
+127.0.0.1 arasik-20044.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1643311/
+127.0.0.1 christmas-historical.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1643309/
+127.0.0.1 8g8.torquebud.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643166/
+127.0.0.1 aka.torquebud.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643165/
 127.0.0.1 2xg.jamcrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643164/
 127.0.0.1 crest.jamcrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643163/
 127.0.0.1 6o.jamcrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1643162/
@@ -57477,4 +57486,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57478
+# Number of entries: 57487
