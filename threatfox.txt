@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 node.bray-circuit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645145/
+127.0.0.1 s8l.bray-circuit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645144/
+127.0.0.1 flip.tundra-flip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645143/
+127.0.0.1 uvu60.tundra-flip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645142/
+127.0.0.1 marble.tundra-flip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645140/
+127.0.0.1 4a.tundra-flip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645139/
+127.0.0.1 0xwdn.marble-tug.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645138/
 127.0.0.1 glv7.marble-tug.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645137/
 127.0.0.1 shard.marble-tug.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645136/
 127.0.0.1 core.s0apthorn.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645135/
@@ -58063,4 +58070,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58064
+# Number of entries: 58071
