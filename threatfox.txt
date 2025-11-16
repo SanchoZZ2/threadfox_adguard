@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 qg2j3.sn-0-rtling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644120/
+127.0.0.1 xm9v.sn0rtling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644107/
+127.0.0.1 phase6.sn0rtling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644106/
+127.0.0.1 sky.sn0rtling.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644105/
+127.0.0.1 k4.torque-bud.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644104/
+127.0.0.1 morrow.torque-bud.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644103/
+127.0.0.1 rift5.torque-bud.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644102/
 127.0.0.1 e9v.morrow-plug.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644101/
 127.0.0.1 04.morrow-plug.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644100/
 127.0.0.1 quark.morrow-plug.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1644099/
@@ -57545,4 +57552,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 57546
+# Number of entries: 57553
