@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wolke.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645398/
+127.0.0.1 licht.bramblequell.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645397/
+127.0.0.1 recenjc.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1645147/
+127.0.0.1 familjw.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1645148/
+127.0.0.1 account-captchapulse.com #payload_delivery https://threatfox.abuse.ch/ioc/1645152/
+127.0.0.1 mijkar.com #payload_delivery https://threatfox.abuse.ch/ioc/1645154/
+127.0.0.1 account-extranetpulse.com #payload_delivery https://threatfox.abuse.ch/ioc/1645156/
+127.0.0.1 account-partner.com #payload_delivery https://threatfox.abuse.ch/ioc/1645160/
+127.0.0.1 account-captchapulse.info #payload_delivery https://threatfox.abuse.ch/ioc/1645162/
+127.0.0.1 sonyarafferty.com #payload_delivery https://threatfox.abuse.ch/ioc/1645165/
+127.0.0.1 civicleague.net #payload_delivery https://threatfox.abuse.ch/ioc/1645167/
+127.0.0.1 ommanilegend.com #botnet_cc https://threatfox.abuse.ch/ioc/1645177/
+127.0.0.1 secure.hoststewart.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1645196/
+127.0.0.1 suprakinini-50793.portmap.host #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1645396/
+127.0.0.1 death-christ.gl.at.ply.gg #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1645395/
+127.0.0.1 winterfall.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1645394/
 127.0.0.1 eiche.bramblequell.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645393/
 127.0.0.1 ufer.bramblequell.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645392/
 127.0.0.1 fels.bramblequell.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645391/
@@ -58098,4 +58114,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58099
+# Number of entries: 58115
