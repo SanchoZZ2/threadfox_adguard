@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 togogeo.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1645528/
+127.0.0.1 mint.cog-whittle.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645511/
 127.0.0.1 sjld.cog-whittle.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645510/
 127.0.0.1 node0.cog-whittle.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645509/
 127.0.0.1 cog.gr1zzlepad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645508/
@@ -58166,4 +58168,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58167
+# Number of entries: 58169
