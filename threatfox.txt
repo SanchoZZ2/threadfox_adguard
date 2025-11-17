@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hor.momentsforme.info #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1645444/
+127.0.0.1 hor.clashofmaps.vip #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1645445/
+127.0.0.1 frx.clashofmaps.vip #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1645446/
+127.0.0.1 dune.ottercrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645443/
+127.0.0.1 wald.ottercrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645431/
+127.0.0.1 rauch.stoneharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645430/
+127.0.0.1 kamm.stoneharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645428/
+127.0.0.1 mond.stoneharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645427/
+127.0.0.1 ufer.stoneharbor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645412/
+127.0.0.1 adler.gladecrown.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645411/
 127.0.0.1 sturm.gladecrown.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645410/
 127.0.0.1 birch.gladecrown.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645409/
 127.0.0.1 weiss.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645408/
@@ -58125,4 +58135,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58126
+# Number of entries: 58136
