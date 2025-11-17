@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sturm.gladecrown.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645410/
+127.0.0.1 birch.gladecrown.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645409/
+127.0.0.1 weiss.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645408/
+127.0.0.1 bach.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645407/
+127.0.0.1 krone.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645406/
+127.0.0.1 persistancejs.store #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1645405/
+127.0.0.1 fun-continuity.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1645404/
+127.0.0.1 tal.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645403/
+127.0.0.1 jayde.servehttp.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1645402/
+127.0.0.1 domo2222.duckdns.org #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1645401/
+127.0.0.1 v3.nahproject.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1645400/
 127.0.0.1 wolke.falconmoor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645398/
 127.0.0.1 licht.bramblequell.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1645397/
 127.0.0.1 recenjc.qpon #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1645147/
@@ -58114,4 +58125,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58115
+# Number of entries: 58126
