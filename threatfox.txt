@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gi0x.aucti-0-nz-7-ir.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647326/
+127.0.0.1 qhnjc.aucti-0-nz-7-ir.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647324/
+127.0.0.1 ugg.wallyapp.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1647321/
+127.0.0.1 ugg.noisolation.org.uk #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1647322/
+127.0.0.1 yl.suf1nau8h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647318/
+127.0.0.1 qaqkongtiao.com #botnet_cc, win.roningloader, RONINGLOADER https://threatfox.abuse.ch/ioc/1647270/
+127.0.0.1 petitesalope.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1647286/
+127.0.0.1 app.myonlineprofits.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1647293/
+127.0.0.1 ak1.xingxings3.org #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1647297/
+127.0.0.1 5egzr.suf1nau8h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647317/
+127.0.0.1 jat.suf1nau8h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647315/
 127.0.0.1 echo.suf1nau8h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647314/
 127.0.0.1 loom.suf-1-nau-8-h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647313/
 127.0.0.1 stack.suf-1-nau-8-h.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647312/
@@ -42,6 +53,7 @@
 127.0.0.1 auul8.dup-1-ic-4-ermaph.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647234/
 127.0.0.1 orbit8.dup-1-ic-4-ermaph.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647233/
 127.0.0.1 dzthj.dup-1-ic-4-ermaph.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647232/
+127.0.0.1 www.baiyangyan.cn #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1647209/
 127.0.0.1 0o.dup-1-ic-4-ermaph.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647207/
 127.0.0.1 dorn6.driftklause.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647205/
 127.0.0.1 grau.driftklause.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647204/
@@ -58533,4 +58545,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58534
+# Number of entries: 58546
