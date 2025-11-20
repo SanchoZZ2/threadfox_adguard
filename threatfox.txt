@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 licht2.wildr0se.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647507/
+127.0.0.1 weide.wildr0se.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647506/
+127.0.0.1 falke.wildr0se.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647505/
+127.0.0.1 kraut.clouddrop.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647503/
+127.0.0.1 ns_cs2.110-110.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1647497/
+127.0.0.1 ns_cs1.110-110.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1647496/
+127.0.0.1 ns2.welslanguageschool.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1647495/
+127.0.0.1 cs.110-110.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1647493/
+127.0.0.1 tal.clouddrop.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647492/
+127.0.0.1 bach.clouddrop.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647486/
 127.0.0.1 pfad4.st0nebyte.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647485/
 127.0.0.1 mist.st0nebyte.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647479/
 127.0.0.1 localhostpin.camdvr.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1647471/
@@ -58571,4 +58581,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58572
+# Number of entries: 58582
