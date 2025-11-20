@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ethupdate.top #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1646874/
+127.0.0.1 xrprelay.top #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1646881/
+127.0.0.1 bach.lindenarc.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647146/
+127.0.0.1 rune.lindenarc.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647145/
+127.0.0.1 strom2.granitehaven.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647144/
+127.0.0.1 weiss.granitehaven.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647141/
+127.0.0.1 igw.myfirewall.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1647137/
+127.0.0.1 hain.brackenloft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647136/
+127.0.0.1 wind5.brackenloft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647135/
+127.0.0.1 licht.brackenloft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647134/
+127.0.0.1 fels.brackenloft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647133/
+127.0.0.1 moor.moonfenster.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647132/
+127.0.0.1 geist.moonfenster.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647131/
+127.0.0.1 ufer1.moonfenster.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647130/
 127.0.0.1 tau.moonfenster.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647129/
 127.0.0.1 glade.moonfenster.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647128/
 127.0.0.1 rauch.thistleforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647127/
@@ -57550,6 +57564,7 @@
 127.0.0.1 kinkiboy.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1218626/
 127.0.0.1 volkatv500.sytes.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1218153/
 127.0.0.1 van-turtle.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1218043/
+127.0.0.1 horsesnje.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217114/
 127.0.0.1 eweo9264gtuiort.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217107/
 127.0.0.1 MicrosoftSyst3m.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1213636/
 127.0.0.1 sentimentprecisio.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1212990/
@@ -58438,4 +58453,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58439
+# Number of entries: 58454
