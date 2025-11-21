@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pulse.mintforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647824/
+127.0.0.1 vale3.fro5tlane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647823/
+127.0.0.1 silver9.fro5tlane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647822/
+127.0.0.1 xcx.fro5tlane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647821/
+127.0.0.1 bv.fro5tlane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647820/
+127.0.0.1 hop.wallyapp.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1647818/
+127.0.0.1 hop.noisolation.org.uk #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1647819/
+127.0.0.1 7l.brightridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647814/
 127.0.0.1 96btv.brightridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647813/
 127.0.0.1 rapid.brightridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647811/
 127.0.0.1 3y.brightridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647810/
@@ -58136,4 +58144,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58137
+# Number of entries: 58145
