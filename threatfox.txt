@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mint.st0nefield.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647836/
+127.0.0.1 cloud8.st0nefield.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647835/
+127.0.0.1 lpx.st0nefield.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647834/
+127.0.0.1 u3i3y.st0nefield.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647833/
+127.0.0.1 silver.cioudnest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647832/
+127.0.0.1 feedback.rightontheroad.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1647831/
+127.0.0.1 nsi.cioudnest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647830/
+127.0.0.1 vale.cioudnest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647829/
+127.0.0.1 sage8.cioudnest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647828/
+127.0.0.1 uy3hc.mintforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647827/
+127.0.0.1 5i.mintforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647826/
+127.0.0.1 35y.mintforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647825/
 127.0.0.1 pulse.mintforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647824/
 127.0.0.1 vale3.fro5tlane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647823/
 127.0.0.1 silver9.fro5tlane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647822/
@@ -58144,4 +58156,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58145
+# Number of entries: 58157
