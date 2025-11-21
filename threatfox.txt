@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pulse1.w1ldforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647799/
+127.0.0.1 vale4.w1ldforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647798/
+127.0.0.1 ee2x.w1ldforge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647797/
+127.0.0.1 0i4.suncrest0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647793/
+127.0.0.1 cucuketeee.dynuddns.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1647782/
+127.0.0.1 goloe2.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1647783/
+127.0.0.1 6menpanelgrace99.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1647781/
+127.0.0.1 shadow.suncrest0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647779/
+127.0.0.1 6xnq.suncrest0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647778/
 127.0.0.1 flare.suncrest0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647776/
 127.0.0.1 spark5.b1uespark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647775/
 127.0.0.1 tw80g.b1uespark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647774/
@@ -58118,4 +58127,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58119
+# Number of entries: 58128
