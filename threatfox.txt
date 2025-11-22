@@ -1,8 +1,44 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sohumbabyproducts.com #payload_delivery https://threatfox.abuse.ch/ioc/1648229/
+127.0.0.1 cld.hashes.today #payload_delivery https://threatfox.abuse.ch/ioc/1648106/
+127.0.0.1 6cfc.frostmark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648228/
+127.0.0.1 tas.frostmark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648226/
+127.0.0.1 account-captchapulse.online #payload_delivery https://threatfox.abuse.ch/ioc/1648225/
+127.0.0.1 mkjjq.com #payload_delivery https://threatfox.abuse.ch/ioc/1648223/
+127.0.0.1 account-extranetpulse.online #payload_delivery https://threatfox.abuse.ch/ioc/1648220/
+127.0.0.1 xa.frostmark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648219/
+127.0.0.1 h6.5h0p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648218/
+127.0.0.1 morning.5h0p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648217/
+127.0.0.1 cryptolaughs.com #payload_delivery https://threatfox.abuse.ch/ioc/1648215/
+127.0.0.1 soltrencher.com #payload_delivery https://threatfox.abuse.ch/ioc/1648213/
+127.0.0.1 solscan.is #payload_delivery https://threatfox.abuse.ch/ioc/1648211/
+127.0.0.1 msnfmicros.com #payload_delivery https://threatfox.abuse.ch/ioc/1648210/
+127.0.0.1 wallet.petrnesterov.com #payload_delivery https://threatfox.abuse.ch/ioc/1648208/
+127.0.0.1 nova.5h0p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648207/
+127.0.0.1 trading-view-app.org #payload_delivery https://threatfox.abuse.ch/ioc/1648205/
+127.0.0.1 sora2-openai.com #payload_delivery https://threatfox.abuse.ch/ioc/1648202/
+127.0.0.1 trace.5h0p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648201/
+127.0.0.1 bfacollege.co.in #payload_delivery https://threatfox.abuse.ch/ioc/1648199/
 127.0.0.1 shop.s1lver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648197/
 127.0.0.1 wild6.s1lver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648196/
+127.0.0.1 chrome-zh-hk.com.cn #payload_delivery https://threatfox.abuse.ch/ioc/1648194/
+127.0.0.1 google-chrome-intl.com.cn #payload_delivery https://threatfox.abuse.ch/ioc/1648191/
+127.0.0.1 chrome-google.org #payload_delivery https://threatfox.abuse.ch/ioc/1648189/
+127.0.0.1 chrom-google.org #payload_delivery https://threatfox.abuse.ch/ioc/1648188/
+127.0.0.1 app-chrome.com #payload_delivery https://threatfox.abuse.ch/ioc/1648187/
 127.0.0.1 g1.s1lver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648186/
+127.0.0.1 guge-chrom.com #payload_delivery https://threatfox.abuse.ch/ioc/1648184/
+127.0.0.1 chrom-app.com #payload_delivery https://threatfox.abuse.ch/ioc/1648182/
+127.0.0.1 cnzh-chrom-google.com #payload_delivery https://threatfox.abuse.ch/ioc/1648180/
+127.0.0.1 apps-chrome.com.cn #payload_delivery https://threatfox.abuse.ch/ioc/1648178/
+127.0.0.1 google-chrome-google.com.cn #payload_delivery https://threatfox.abuse.ch/ioc/1648176/
+127.0.0.1 apps-chrom.com #payload_delivery https://threatfox.abuse.ch/ioc/1648174/
 127.0.0.1 oe.s1lver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648172/
+127.0.0.1 cn-google-chrom.com #payload_delivery https://threatfox.abuse.ch/ioc/1648171/
+127.0.0.1 web.eat82.vip #payload_delivery https://threatfox.abuse.ch/ioc/1648170/
+127.0.0.1 chrome-google-ch.com.cn #payload_delivery https://threatfox.abuse.ch/ioc/1648168/
+127.0.0.1 chrome-zhgoogle.com #payload_delivery https://threatfox.abuse.ch/ioc/1648166/
+127.0.0.1 cnzh-chrom.com #payload_delivery https://threatfox.abuse.ch/ioc/1648164/
 127.0.0.1 wall1.shadowf0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648163/
 127.0.0.1 frost7.shadowf0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648162/
 127.0.0.1 wall6.shadowf0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1648161/
@@ -58394,4 +58430,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 58395
+# Number of entries: 58431
