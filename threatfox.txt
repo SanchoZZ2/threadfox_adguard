@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 svzzv.wildshift.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649347/
+127.0.0.1 byte.mintburst.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649346/
+127.0.0.1 jzyc.mintburst.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649345/
+127.0.0.1 wire8.mintburst.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649344/
+127.0.0.1 trail9.mintburst.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649343/
+127.0.0.1 fjb9d0fp905cc.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1649342/
+127.0.0.1 mist.rockbyte.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649341/
 127.0.0.1 blend4.rockbyte.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649340/
 127.0.0.1 9cm.rockbyte.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649339/
 127.0.0.1 xps.pigeonforgetnrestaurant.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1649313/
@@ -59081,4 +59088,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 59082
+# Number of entries: 59089
