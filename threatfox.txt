@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 grat.shadowc0re.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649720/
+127.0.0.1 wolke.shadowc0re.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649719/
+127.0.0.1 korn.safebl0ck.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649718/
+127.0.0.1 tal2.safebl0ck.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649717/
+127.0.0.1 nest.safebl0ck.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649716/
+127.0.0.1 viedorta.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1649704/
+127.0.0.1 modernrecent.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1649711/
+127.0.0.1 glanz.safebl0ck.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649715/
 127.0.0.1 pfad.darkfeather.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649714/
 127.0.0.1 moor.darkfeather.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649713/
 127.0.0.1 birch.darkfeather.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649705/
@@ -59122,4 +59130,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 59123
+# Number of entries: 59131
