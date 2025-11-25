@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tal.starl1nq.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649965/
+127.0.0.1 microsoft.ms-drivers.cam #botnet_cc, win.sliver, Sliver https://threatfox.abuse.ch/ioc/1649963/
+127.0.0.1 milauth-mygovin.serveftp.com #botnet_cc, win.sliver, Sliver https://threatfox.abuse.ch/ioc/1649964/
+127.0.0.1 wolke.starl1nq.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649962/
+127.0.0.1 gleis2.starl1nq.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649961/
+127.0.0.1 call-sin.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1649959/
+127.0.0.1 update.especificotks.site #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1649957/
+127.0.0.1 v3.socolive105.ac #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1649956/
+127.0.0.1 chocola.ru.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1649952/
+127.0.0.1 maintenance-behavior.gl.at.ply.gg #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1649953/
+127.0.0.1 socolive105.ac #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1649954/
+127.0.0.1 v2.socolive105.ac #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1649955/
+127.0.0.1 stern.starl1nq.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649949/
+127.0.0.1 www.xoilac86e.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1649948/
+127.0.0.1 shadowb1t.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649947/
+127.0.0.1 crest.m1stwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649946/
 127.0.0.1 shore.m1stwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649945/
 127.0.0.1 reef2.m1stwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649944/
 127.0.0.1 spray.m1stwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649942/
@@ -59398,4 +59414,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 59399
+# Number of entries: 59415
