@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ardor.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650098/
+127.0.0.1 solis.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650097/
+127.0.0.1 cptchic.icu #payload_delivery https://threatfox.abuse.ch/ioc/1650093/
+127.0.0.1 flare.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650096/
+127.0.0.1 aurora.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650091/
+127.0.0.1 sora.deep5tone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650089/
+127.0.0.1 lago.deep5tone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650088/
+127.0.0.1 selva.deep5tone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650087/
+127.0.0.1 vento.deep5tone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650086/
+127.0.0.1 mizu.deep5tone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650085/
 127.0.0.1 licht.breezef0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650084/
 127.0.0.1 weald3.breezef0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650082/
 127.0.0.1 zorn.breezef0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1650081/
@@ -59468,4 +59478,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 59469
+# Number of entries: 59479
