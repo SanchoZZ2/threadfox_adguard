@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 crest.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649872/
+127.0.0.1 reef.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649871/
+127.0.0.1 glade2.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649870/
+127.0.0.1 wolke.sunb1aze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649869/
+127.0.0.1 www.cybermac.co.tz #botnet_cc, apk.ermac, ERMAC https://threatfox.abuse.ch/ioc/1649864/
+127.0.0.1 ol.wildcr3st.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649859/
+127.0.0.1 trail.wildcr3st.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649858/
 127.0.0.1 fern2.wildcr3st.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649857/
 127.0.0.1 ridge.wildcr3st.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649856/
 127.0.0.1 wolke.wildcr3st.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1649855/
@@ -59404,4 +59411,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 59405
+# Number of entries: 59412
