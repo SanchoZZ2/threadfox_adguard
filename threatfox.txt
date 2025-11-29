@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 z3.stonefog.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660911/
+127.0.0.1 haze.leafshift.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660910/
+127.0.0.1 d4t.leafshift.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660909/
+127.0.0.1 creek.leafshift.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660908/
+127.0.0.1 y1.leafshift.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660907/
+127.0.0.1 lynx.f1restone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660906/
+127.0.0.1 p5q.f1restone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660905/
+127.0.0.1 flare.f1restone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660904/
 127.0.0.1 u0.f1restone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660903/
 127.0.0.1 ridge.wildspark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660902/
 127.0.0.1 n7v.wildspark.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660900/
@@ -68237,4 +68245,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68238
+# Number of entries: 68246
