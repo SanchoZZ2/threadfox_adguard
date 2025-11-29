@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 flash9.stormglow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663092/
+127.0.0.1 lumen8.stormglow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663088/
+127.0.0.1 cat.imeowforaliving.su #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1663084/
+127.0.0.1 gust5r.stormglow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663064/
+127.0.0.1 bougndi.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1663056/
+127.0.0.1 dianubv.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1663057/
+127.0.0.1 fidppbi.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1663058/
+127.0.0.1 orgpkdm.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1663059/
+127.0.0.1 gl0war.stormglow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663060/
+127.0.0.1 strmx7.stormglow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663055/
+127.0.0.1 cl1ffo.mistpeak.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663054/
 127.0.0.1 summ1t.mistpeak.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663053/
 127.0.0.1 ridge5.mistpeak.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663052/
 127.0.0.1 peak7y.mistpeak.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663051/
@@ -70270,4 +70281,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 70271
+# Number of entries: 70282
