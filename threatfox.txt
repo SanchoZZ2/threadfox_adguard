@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lak3on.brightlake.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660956/
+127.0.0.1 account-extrapulse.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1660727/
+127.0.0.1 account-extranetportal.com #payload_delivery https://threatfox.abuse.ch/ioc/1660730/
+127.0.0.1 ish.co.ke #payload_delivery https://threatfox.abuse.ch/ioc/1660734/
+127.0.0.1 kubetting.org #payload_delivery https://threatfox.abuse.ch/ioc/1660737/
+127.0.0.1 api.equisphire.com #payload_delivery https://threatfox.abuse.ch/ioc/1660789/
+127.0.0.1 sessionsverificates.live #payload_delivery https://threatfox.abuse.ch/ioc/1660797/
+127.0.0.1 rasslablen.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1660694/
+127.0.0.1 btexe3dc53f6dc453f6a9f461a5h.pages.dev #payload_delivery https://threatfox.abuse.ch/ioc/1660812/
+127.0.0.1 br1gty.brightlake.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660951/
+127.0.0.1 haze9r.mistflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660947/
+127.0.0.1 vap0ra.mistflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660946/
+127.0.0.1 dr1zle.mistflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660945/
+127.0.0.1 flar7e.mistflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660942/
+127.0.0.1 m1styx.mistflare.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660941/
+127.0.0.1 moss.starblend.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660940/
 127.0.0.1 c7z.starblend.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660931/
 127.0.0.1 pulse.starblend.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660930/
 127.0.0.1 a2x.starblend.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1660929/
@@ -68251,4 +68267,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68252
+# Number of entries: 68268
