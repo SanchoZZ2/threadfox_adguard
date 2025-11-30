@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hope9r.keyhope.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663330/
+127.0.0.1 key7hp.keyhope.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663329/
+127.0.0.1 quak3r.fr0gtime.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663328/
+127.0.0.1 sprng9.fr0gtime.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663327/
+127.0.0.1 pond5x.fr0gtime.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663319/
 127.0.0.1 t1melo.fr0gtime.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663317/
 127.0.0.1 for.drearilystrobe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663316/
 127.0.0.1 frog7y.fr0gtime.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663314/
@@ -52939,6 +52944,7 @@
 127.0.0.1 updateyoubrousergoogle.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511677/
 127.0.0.1 arbitrag38.ru #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511678/
 127.0.0.1 update.clcc.cl #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511676/
+127.0.0.1 klintaps.org #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511674/
 127.0.0.1 jadhaoagroinds.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511675/
 127.0.0.1 rdixit.github.io #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511673/
 127.0.0.1 chromeinstall.xyz #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511672/
@@ -70350,4 +70356,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 70351
+# Number of entries: 70357
