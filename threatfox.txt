@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 h3.def1nmem0r.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663872/
+127.0.0.1 qh1wl.5eertr1ad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663871/
+127.0.0.1 crystal.5eertr1ad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663870/
+127.0.0.1 ld8bd.5eertr1ad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663867/
+127.0.0.1 beta.5eertr1ad.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663866/
+127.0.0.1 night.f1nsh2ytan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663865/
 127.0.0.1 sunny.f1nsh2ytan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663863/
 127.0.0.1 silent.f1nsh2ytan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663862/
 127.0.0.1 flame.f1nsh2ytan.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1663861/
@@ -47957,7 +47963,6 @@
 127.0.0.1 vv4.qpalzmonline.uk #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1538281/
 127.0.0.1 www.inphyra.com #botnet_cc https://threatfox.abuse.ch/ioc/1538279/
 127.0.0.1 ip-89-40-31-203.hosted-by-hosterdaddy.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1538271/
-127.0.0.1 www.rurusstore.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538269/
 127.0.0.1 ns1.cxtwh.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1538192/
 127.0.0.1 law-nc.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1538130/
 127.0.0.1 flytouur.shop #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1538129/
@@ -47965,391 +47970,47 @@
 127.0.0.1 nanotism.nolanwh.cf #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1538127/
 127.0.0.1 affiliate-47437.portmap.io #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1538125/
 127.0.0.1 eliteaffiliate-24198.portmap.io #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1538126/
-127.0.0.1 chahid123.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1538124/
-127.0.0.1 138-201-220-186.top #payload_delivery https://threatfox.abuse.ch/ioc/1537983/
 127.0.0.1 updaterswindows.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537979/
 127.0.0.1 631dgmj9-8085.usw3.devtunnels.ms #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537978/
-127.0.0.1 multiperfect.cloud #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1537894/
-127.0.0.1 kimbeech.cfd #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1537842/
-127.0.0.1 yie-cpj.pages.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1537843/
-127.0.0.1 orange-service.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1537844/
-127.0.0.1 erika-mugia.mikahouse.my.id #botnet_cc https://threatfox.abuse.ch/ioc/1537777/
-127.0.0.1 www.arcadealley.fun #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537769/
-127.0.0.1 185-36-145-226.static.sslip.io #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537768/
-127.0.0.1 security.gurradfclre.com #payload_delivery https://threatfox.abuse.ch/ioc/1537667/
-127.0.0.1 loakens.com #payload_delivery https://threatfox.abuse.ch/ioc/1537668/
-127.0.0.1 brefif.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537837/
-127.0.0.1 majlkj.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537838/
 127.0.0.1 makeyrlo.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537839/
-127.0.0.1 racueu.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537840/
 127.0.0.1 stockyslam.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537841/
 127.0.0.1 windowsmsn-cn.live #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1537835/
-127.0.0.1 anichind.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1537836/
 127.0.0.1 held-isle.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537833/
 127.0.0.1 rcglobo.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537834/
 127.0.0.1 takerhumble.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1537832/
-127.0.0.1 lordegypt.no-ip.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1537831/
 127.0.0.1 supersha256.run.place #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537830/
-127.0.0.1 shilex.dyndns.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537829/
 127.0.0.1 hold-asy.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1537828/
 127.0.0.1 cdn.pollogreatagain.click #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537763/
-127.0.0.1 tavge.duckdns.org #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1537747/
-127.0.0.1 s4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537744/
 127.0.0.1 sitemaps.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537742/
-127.0.0.1 sitemaps.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537743/
 127.0.0.1 asdxxcg.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537683/
 127.0.0.1 802y5hys810na.cfc-execute.gz.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1537682/
 127.0.0.1 jkpod.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1537671/
 127.0.0.1 southern-monsters.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537670/
 127.0.0.1 amafiles.net #botnet_cc, win.amadey, Amadey https://threatfox.abuse.ch/ioc/1537650/
-127.0.0.1 www.maps.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537636/
-127.0.0.1 sitemap.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537637/
-127.0.0.1 sitemap.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537633/
-127.0.0.1 www.map.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537634/
-127.0.0.1 www.map.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537635/
-127.0.0.1 www.maps.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1537632/
 127.0.0.1 nnork.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537611/
-127.0.0.1 thankstolaw.rdpputtysession.shop #botnet_cc https://threatfox.abuse.ch/ioc/1537606/
-127.0.0.1 world-thousand.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537571/
-127.0.0.1 six-fi.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537572/
-127.0.0.1 certain-cheese.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537573/
-127.0.0.1 web-investments.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537574/
-127.0.0.1 popachka.serveminecraft.net #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537575/
-127.0.0.1 river-times.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537576/
-127.0.0.1 tapok-51185.portmap.io #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537577/
-127.0.0.1 testirovaniy1-64378.portmap.io #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537578/
-127.0.0.1 tell-britney.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537579/
-127.0.0.1 corporate-linking.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537580/
-127.0.0.1 recent-peter.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537581/
-127.0.0.1 sara0xs.duckdns.org #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537582/
-127.0.0.1 common-smoke.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537583/
-127.0.0.1 let-kinda.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537584/
-127.0.0.1 insurance-alcohol.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537585/
-127.0.0.1 organization-macro.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537568/
-127.0.0.1 214fewsdgsg-62303.portmap.io #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537569/
-127.0.0.1 language-transexuales.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1537570/
-127.0.0.1 cnc.isisnet.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537560/
-127.0.0.1 scan.r00ts.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537561/
-127.0.0.1 xaxa.marvisxoxo.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537562/
-127.0.0.1 r0.vampwrotesatori.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537563/
-127.0.0.1 scan.fdstat.vip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537564/
-127.0.0.1 cnc.boatrep.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537565/
-127.0.0.1 cnc.discordservers.fun #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537566/
-127.0.0.1 report.hydrasec.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537567/
-127.0.0.1 tai.fdstat.vip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537547/
-127.0.0.1 j48asd.dns.army #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537548/
-127.0.0.1 shiina.ilove26.cf #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537549/
-127.0.0.1 nv6b6ka9.z1001.net #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537550/
-127.0.0.1 jyk85mxc.z1001.net #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537551/
-127.0.0.1 cnc.botnetrep.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537552/
-127.0.0.1 hulo.r00ts.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537553/
-127.0.0.1 cnc.bigbots.cc #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537554/
-127.0.0.1 ts5.kir22.ru #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537555/
-127.0.0.1 realitygaming.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537556/
-127.0.0.1 realitygamingph.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537557/
-127.0.0.1 scan.isisnet.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537558/
-127.0.0.1 netflux.r00ts.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537559/
-127.0.0.1 kaderikoo.zapto.org #botnet_cc, win.extreme_rat, ExtRat, Xtreme RAT https://threatfox.abuse.ch/ioc/1537541/
-127.0.0.1 opsshacker11.no-ip.biz #botnet_cc, win.extreme_rat, ExtRat, Xtreme RAT https://threatfox.abuse.ch/ioc/1537542/
-127.0.0.1 eyupman98.no-ip.info #botnet_cc, win.extreme_rat, ExtRat, Xtreme RAT https://threatfox.abuse.ch/ioc/1537543/
-127.0.0.1 obras.duckdns.org #botnet_cc, win.extreme_rat, ExtRat, Xtreme RAT https://threatfox.abuse.ch/ioc/1537544/
-127.0.0.1 updatechrome.duckdns.org #botnet_cc, win.extreme_rat, ExtRat, Xtreme RAT https://threatfox.abuse.ch/ioc/1537545/
-127.0.0.1 c2.vampwrotesatori.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1537546/
-127.0.0.1 silversolution.ddns.net #botnet_cc, win.netwire, NetWeird, NetWire https://threatfox.abuse.ch/ioc/1537538/
-127.0.0.1 ceo2021.duckdns.org #botnet_cc, win.netwire, NetWeird, NetWire https://threatfox.abuse.ch/ioc/1537539/
-127.0.0.1 blockchainsync.dynns.com #botnet_cc, win.netwire, NetWeird, NetWire https://threatfox.abuse.ch/ioc/1537540/
-127.0.0.1 haxorhack.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537529/
-127.0.0.1 irdazza.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537530/
-127.0.0.1 flooderx220.no-ip.info #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537531/
-127.0.0.1 epicmealtime.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537532/
-127.0.0.1 biopla007.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537533/
-127.0.0.1 rottamato.no-ip.info #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537534/
-127.0.0.1 godnet-host.zapto.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537535/
-127.0.0.1 panadora78.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537536/
-127.0.0.1 dsptiger.zapto.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537537/
-127.0.0.1 1337sauce.zapto.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537510/
-127.0.0.1 winserver25.redirectme.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537511/
-127.0.0.1 itzacock.ddns.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537512/
-127.0.0.1 logic32.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537513/
-127.0.0.1 nothingimportant.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537514/
-127.0.0.1 hopeless-ip.zapto.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537515/
-127.0.0.1 darkavantv.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537516/
-127.0.0.1 sapuer.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537517/
-127.0.0.1 retributionxyz.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537518/
-127.0.0.1 sameg2.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537519/
-127.0.0.1 networkinterface.redirectme.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537520/
-127.0.0.1 rspsplaynow.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537521/
-127.0.0.1 somethingdarkside.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537522/
-127.0.0.1 wrongip.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537523/
-127.0.0.1 kashif.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537524/
-127.0.0.1 skfantomazzz00.ddns.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537525/
-127.0.0.1 the-x.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537526/
-127.0.0.1 martinboss.ddns.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537527/
-127.0.0.1 niclas-hackt.zapto.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537528/
-127.0.0.1 sunnysmith2010s.ddns.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537494/
-127.0.0.1 adampie2.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537495/
-127.0.0.1 darkjabber.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537496/
-127.0.0.1 cometserv.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537497/
-127.0.0.1 henicssist.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537498/
-127.0.0.1 comethostraulian.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537499/
-127.0.0.1 fud4life.redirectme.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537500/
-127.0.0.1 megatrone6.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537501/
-127.0.0.1 xzitkavani.duckdns.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537502/
-127.0.0.1 remotesystem.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537503/
-127.0.0.1 w1dlovesboobs.zapto.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537504/
-127.0.0.1 reverse12.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537505/
-127.0.0.1 t3am.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537506/
-127.0.0.1 shefketbrq.no-ip.info #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537507/
-127.0.0.1 rawrhg.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537508/
-127.0.0.1 fingermybum.no-ip.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1537509/
-127.0.0.1 rainb0w.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537453/
-127.0.0.1 frankyjosh.ddns.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537454/
-127.0.0.1 terms-pieces.gl.at.ply.gg #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537455/
-127.0.0.1 letmewatchyou.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537456/
-127.0.0.1 jubileuteteu.ddns.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537457/
-127.0.0.1 bbrat.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537458/
-127.0.0.1 hackound.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537459/
-127.0.0.1 mouniroo.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537460/
-127.0.0.1 rahull.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537461/
-127.0.0.1 sqmlfkjqlgksv.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537462/
-127.0.0.1 ativo2k.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537463/
-127.0.0.1 cleopatra.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537464/
-127.0.0.1 grga.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537465/
-127.0.0.1 appleseed2.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537431/
-127.0.0.1 akinayla21200.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537432/
-127.0.0.1 notarat.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537433/
-127.0.0.1 pindonga123.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537434/
-127.0.0.1 besthacker.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537435/
-127.0.0.1 zidani.no-ip.info #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537436/
-127.0.0.1 chris1337.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537437/
-127.0.0.1 imsosmart.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537438/
-127.0.0.1 satelite1995.sytes.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537439/
-127.0.0.1 y4sser.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537440/
-127.0.0.1 dracula4000.duckdns.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537441/
-127.0.0.1 edhardy.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537442/
-127.0.0.1 nsreedhar.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537443/
-127.0.0.1 hackersarrived.no-ip.info #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537444/
-127.0.0.1 tornado.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537445/
-127.0.0.1 511x.no-ip.info #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537446/
-127.0.0.1 nbvc.no-ip.info #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537447/
-127.0.0.1 evolution2008.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537448/
-127.0.0.1 cordinator.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537449/
-127.0.0.1 gzustotal.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537450/
-127.0.0.1 facebooking.serveirc.com #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537451/
-127.0.0.1 sadam.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537452/
-127.0.0.1 senna.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537421/
-127.0.0.1 eminemjjbby.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537422/
-127.0.0.1 stalkerru.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537423/
-127.0.0.1 video-youtube.serveblog.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537424/
-127.0.0.1 tariktakichi.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537425/
-127.0.0.1 wajddix.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537426/
-127.0.0.1 dns0ip.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537427/
-127.0.0.1 lorteman8088.myftp.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537428/
-127.0.0.1 jalansempit.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537429/
-127.0.0.1 selectronicx.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1537430/
-127.0.0.1 kidhackerman.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537406/
-127.0.0.1 lastborn.hopto.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537407/
-127.0.0.1 pancakes.hopto.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537408/
-127.0.0.1 mikelpikel.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537409/
-127.0.0.1 thechair112.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537410/
-127.0.0.1 jarvism98076.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537411/
-127.0.0.1 drfalamin-24780.portmap.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537412/
-127.0.0.1 femolampa2.tk #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1537413/
-127.0.0.1 morsaz04.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/1537401/
-127.0.0.1 bibikyky01.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/1537402/
-127.0.0.1 morcya05.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/1537403/
-127.0.0.1 rasros53.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/1537404/
-127.0.0.1 duocxn43.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/1537405/
-127.0.0.1 substancemove.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1537263/
-127.0.0.1 earthroute.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1537264/
-127.0.0.1 pointrespect.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1537265/
-127.0.0.1 net-2-39-10-26.cust.vodafonedsl.it #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1537257/
 127.0.0.1 plausa.camdvr.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1537173/
 127.0.0.1 scottfortune.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537171/
-127.0.0.1 thanksbadbeer.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1537169/
-127.0.0.1 cpanel.help4dad.org #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1537008/
-127.0.0.1 kanshuwang.top #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1537013/
-127.0.0.1 www.surethinks.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1537017/
-127.0.0.1 artisanaqua.ddnsking.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537165/
-127.0.0.1 javascriptplugin.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537166/
-127.0.0.1 javascriptplugin.lovestoblog.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537167/
-127.0.0.1 rivalohelp.zendesk.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1537168/
-127.0.0.1 www.w1372.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537160/
-127.0.0.1 www.ztk4b.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537161/
-127.0.0.1 www.oogmail.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537144/
-127.0.0.1 www.opureai.cloud #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537145/
-127.0.0.1 www.pdosa.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537146/
-127.0.0.1 www.pupua05.app #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537147/
-127.0.0.1 www.ras-79701.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537148/
-127.0.0.1 www.rash.studio #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537149/
-127.0.0.1 www.ravel-insurance-68069.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537150/
-127.0.0.1 www.rg-mwnym.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537151/
-127.0.0.1 www.rimestash.lat #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537152/
-127.0.0.1 www.roli.tech #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537153/
-127.0.0.1 www.scortlar643.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537154/
-127.0.0.1 www.t30sw.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537155/
-127.0.0.1 www.uctions-61523.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537156/
-127.0.0.1 www.unny-nas.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537157/
-127.0.0.1 www.urniture-22300.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537158/
-127.0.0.1 www.w125i.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537159/
-127.0.0.1 www.inlhzhunnwztlynb.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537129/
-127.0.0.1 www.inup9876casino.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537130/
-127.0.0.1 www.ivoralunepox.click #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537131/
-127.0.0.1 www.j25may1d2.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537132/
-127.0.0.1 www.j40u.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537133/
-127.0.0.1 www.jc2tk.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537134/
-127.0.0.1 www.jpwjb155e.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537135/
-127.0.0.1 www.lavuta.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537136/
-127.0.0.1 www.lion.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537137/
-127.0.0.1 www.migrasibanten.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537138/
-127.0.0.1 www.ndmuc.cfd #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537139/
-127.0.0.1 www.ngioffice.app #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537140/
-127.0.0.1 www.oadrunnersupply.llc #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537141/
-127.0.0.1 www.ompete.lat #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537142/
-127.0.0.1 www.onus.boats #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537143/
-127.0.0.1 www.az-upi.website #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537114/
 127.0.0.1 www.bvcder.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537115/
-127.0.0.1 www.crib.studio #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537116/
-127.0.0.1 www.ddsec.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537117/
-127.0.0.1 www.eetpulsepostai.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537118/
-127.0.0.1 www.egapari-612095.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537119/
-127.0.0.1 www.enithbattle445.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537120/
-127.0.0.1 www.exxa.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537121/
-127.0.0.1 www.herapy-centers-33444.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537122/
-127.0.0.1 www.hilotech.group #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537123/
-127.0.0.1 www.hoppivio.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537124/
-127.0.0.1 www.hrivestrong.app #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537125/
-127.0.0.1 www.ie77s.cfd #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537126/
-127.0.0.1 www.ifhs.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537127/
-127.0.0.1 www.inchen0424.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537128/
-127.0.0.1 www.1lzi4.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537097/
-127.0.0.1 www.32192.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537098/
-127.0.0.1 www.399a.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537099/
-127.0.0.1 www.3m75r.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537100/
-127.0.0.1 www.5c4vy.vip #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537101/
-127.0.0.1 www.7i26j.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537102/
-127.0.0.1 www.87699.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537103/
-127.0.0.1 www.967tg62.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537104/
-127.0.0.1 www.a3rumm.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537105/
-127.0.0.1 www.amacook.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537106/
-127.0.0.1 www.andwormlabs.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537107/
-127.0.0.1 www.ango.wine #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537108/
-127.0.0.1 www.anut88.gives #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537109/
-127.0.0.1 www.araprager.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537110/
-127.0.0.1 www.arelreacing.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537111/
-127.0.0.1 www.arinote.app #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537112/
-127.0.0.1 www.aubergerestaurant.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1537113/
-127.0.0.1 ip85.ip-51-195-229.eu #botnet_cc https://threatfox.abuse.ch/ioc/1537002/
-127.0.0.1 ahmadkurda.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1536988/
-127.0.0.1 labza-hack.no-ip.biz #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1536989/
-127.0.0.1 www.tefanaboxhorn.info #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536978/
-127.0.0.1 www.ualitybeautyhk.clinic #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536979/
-127.0.0.1 www.urlightelectrical.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536980/
-127.0.0.1 www.usbud.nyc #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536981/
-127.0.0.1 www.ustlink.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536982/
-127.0.0.1 www.w2zf.cyou #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536983/
-127.0.0.1 www.weiriicdhjs.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536984/
-127.0.0.1 www.yvux.town #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536985/
-127.0.0.1 www.z9m17.cfd #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536986/
-127.0.0.1 www.ocinas.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536965/
-127.0.0.1 www.ocorporatesolar.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536966/
-127.0.0.1 www.op-sidenko-pdr.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536967/
-127.0.0.1 www.opsexes.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536968/
-127.0.0.1 www.ordserialer.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536969/
-127.0.0.1 www.pzen.art #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536970/
-127.0.0.1 www.randelektra.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536971/
-127.0.0.1 www.rcakubpj4i7xem.buzz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536972/
-127.0.0.1 www.redit-cards-realtime-454.sbs #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536973/
-127.0.0.1 www.rql9d.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536974/
-127.0.0.1 www.rrnuveo.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536975/
-127.0.0.1 www.studiomh.store #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536976/
-127.0.0.1 www.t402.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536977/
-127.0.0.1 www.heexpress.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536951/
-127.0.0.1 www.hepedipro.info #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536952/
-127.0.0.1 www.hewaters.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536953/
-127.0.0.1 www.hisliturgicallife.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536954/
-127.0.0.1 www.hkql.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536955/
-127.0.0.1 www.homas-et-dorothee.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536956/
-127.0.0.1 www.hskvm.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536957/
-127.0.0.1 www.igtaskforce.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536958/
-127.0.0.1 www.iviral.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536959/
-127.0.0.1 www.k-travel-ce8119a9.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536960/
-127.0.0.1 www.k6rp.cyou #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536961/
-127.0.0.1 www.ksp680.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536962/
-127.0.0.1 www.ljhhx.loan #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536963/
-127.0.0.1 www.mdgmgmdfm.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536964/
-127.0.0.1 www.bjvs.town #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536936/
-127.0.0.1 www.ea4xu.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536937/
-127.0.0.1 www.edartech.store #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536938/
-127.0.0.1 www.eet-new-people-95417.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536939/
-127.0.0.1 www.elvetvoiceocean.website #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536940/
-127.0.0.1 www.elvorn.cfd #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536941/
-127.0.0.1 www.eoul-bestmassage9.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536942/
-127.0.0.1 www.ercep88megahoki.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536943/
-127.0.0.1 www.erezdondurmacisi.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536944/
-127.0.0.1 www.est-k.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536945/
-127.0.0.1 www.estzeny.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536946/
-127.0.0.1 www.etrox.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536947/
-127.0.0.1 www.ettersfromthefront.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536948/
-127.0.0.1 www.fertasvivas.shop #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536949/
-127.0.0.1 www.fvendas.online #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536950/
-127.0.0.1 www.11320a.buzz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536923/
-127.0.0.1 www.329-nearsightedness-01.cfd #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536924/
-127.0.0.1 www.33dz.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536925/
-127.0.0.1 www.41244.club #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536926/
-127.0.0.1 www.63-gd.pro #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536927/
-127.0.0.1 www.7ev5.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536928/
-127.0.0.1 www.88es.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536929/
-127.0.0.1 www.915b.app #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536930/
-127.0.0.1 www.aglelakerecovery.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536931/
-127.0.0.1 www.anarysocied.info #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536932/
-127.0.0.1 www.argill-invest.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536933/
 127.0.0.1 www.aser-skin-treatment-88304.bond #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536934/
-127.0.0.1 www.avision.store #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1536935/
 127.0.0.1 b2sys.eu #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1536837/
-127.0.0.1 web.ydhjs4.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1536822/
-127.0.0.1 web.hrtp46.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1536823/
-127.0.0.1 wpthelp.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1536821/
 127.0.0.1 battlefled.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1536772/
-127.0.0.1 spartel.com #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536809/
-127.0.0.1 ogw-srl.com #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536810/
-127.0.0.1 slamarama.org #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536811/
-127.0.0.1 account.mexc-en.kro.kr #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536812/
-127.0.0.1 allowservice.store #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536813/
-127.0.0.1 check-gooqle.site #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536814/
-127.0.0.1 ejioasd.top #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536815/
-127.0.0.1 login.mexc-ko.kro.kr #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536816/
-127.0.0.1 myaccount.check-gooqle.site #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536817/
-127.0.0.1 pasevperson.store #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536818/
-127.0.0.1 peopellifesuccess.site #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536819/
 127.0.0.1 force-cylinder.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1536808/
 127.0.0.1 azido.zapto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1536804/
 127.0.0.1 mxsuname.gotdns.ch #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1536805/
 127.0.0.1 valeasy-25091.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1536803/
 127.0.0.1 valeasy.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1536802/
-127.0.0.1 cnc.r00ts.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1536798/
 127.0.0.1 milkor723.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1536799/
-127.0.0.1 ooo.asdfcompany.o-r.kr #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1536800/
 127.0.0.1 urabenet.ddns.net #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1536801/
-127.0.0.1 bkngnet.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536796/
-127.0.0.1 205.181.174.34.bc.googleusercontent.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536736/
-127.0.0.1 ecs-113-44-148-65.compute.hwclouds-dns.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536734/
 127.0.0.1 3dmaine.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1536724/
 127.0.0.1 kingdomholding.top #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1536726/
-127.0.0.1 security.flreshieelds.com #payload_delivery https://threatfox.abuse.ch/ioc/1536602/
-127.0.0.1 wekosle.com #payload_delivery https://threatfox.abuse.ch/ioc/1536603/
-127.0.0.1 analytiscnode.com #payload_delivery https://threatfox.abuse.ch/ioc/1536601/
 127.0.0.1 geo.cwlabtes.shop #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536728/
-127.0.0.1 m.login1-sow.com #botnet_cc https://threatfox.abuse.ch/ioc/1536688/
 127.0.0.1 iqb1.ru #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1536548/
-127.0.0.1 www.azaleacapital.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1536554/
 127.0.0.1 ns2.flashcloud.icu #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536557/
 127.0.0.1 ns1.flashcloud.icu #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536556/
 127.0.0.1 infra.hitius.bar #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1536512/
 127.0.0.1 meow.analystic-see.de #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1536511/
 127.0.0.1 ry8fjzbwal.execute-api.ap-southeast-1.amazonaws.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536368/
 127.0.0.1 8ajmswdkjya6r.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536367/
-127.0.0.1 3smqt0fdwhnc5.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536366/
 127.0.0.1 booking.extranet-listing.com #payload_delivery https://threatfox.abuse.ch/ioc/1536364/
 127.0.0.1 thundeqqbw.bet #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1536340/
 127.0.0.1 browser-update.lesalid.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1536351/
@@ -48364,13 +48025,6 @@
 127.0.0.1 ondamalucacdt.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1536316/
 127.0.0.1 skynetx2025.accesscam.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1536318/
 127.0.0.1 skynetx2025.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1536319/
-127.0.0.1 sevstats.top #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536303/
-127.0.0.1 sixtestats.top #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536304/
-127.0.0.1 thirtstat.top #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536305/
-127.0.0.1 twelvestats.top #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536306/
-127.0.0.1 partnervrft.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536307/
-127.0.0.1 hekpaharma.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1536302/
-127.0.0.1 retailparkderventa.com #botnet_cc, win.kimsuky, Kimsuky https://threatfox.abuse.ch/ioc/1536263/
 127.0.0.1 brutico2025aprende.kozow.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1536258/
 127.0.0.1 friendlyman69.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1536257/
 127.0.0.1 ss1x1.demonjoe.site #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536193/
@@ -48378,7 +48032,6 @@
 127.0.0.1 60z89fnebpz1v.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536005/
 127.0.0.1 news.computer-centa.com #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1535950/
 127.0.0.1 industry-decreased.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1535529/
-127.0.0.1 adwwworks.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1535778/
 127.0.0.1 security.cloflguared.com #payload_delivery https://threatfox.abuse.ch/ioc/1535832/
 127.0.0.1 fopelas.com #payload_delivery https://threatfox.abuse.ch/ioc/1535833/
 127.0.0.1 promo.summat10n.org #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1535940/
@@ -48395,8 +48048,6 @@
 127.0.0.1 alayebambam.kozow.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1535730/
 127.0.0.1 alayebambam1.kozow.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1535731/
 127.0.0.1 www.tundst.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1535708/
-127.0.0.1 www.mwcauk.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1535672/
-127.0.0.1 www.-lordserial82.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1535530/
 127.0.0.1 ns2.niccontrol.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1535326/
 127.0.0.1 ns1.niccontrol.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1535325/
 127.0.0.1 ns0.niccontrol.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1535324/
@@ -48478,10 +48129,8 @@
 127.0.0.1 blockhubr.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1533430/
 127.0.0.1 icureq.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1533436/
 127.0.0.1 have-printing.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1533378/
-127.0.0.1 iwishiamhappy.zapto.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1533374/
 127.0.0.1 feedback-pearl.gl.at.ply.gg #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1533373/
 127.0.0.1 async.uhdengine.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1533372/
-127.0.0.1 butbot.sytes.net #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1532931/
 127.0.0.1 v10.events.logc.msft-api.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532921/
 127.0.0.1 performance.edge.msft-api.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532920/
 127.0.0.1 writintrvh.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1532876/
@@ -48496,7 +48145,6 @@
 127.0.0.1 cejopom135-26610.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1532643/
 127.0.0.1 opppppo-56419.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1532644/
 127.0.0.1 sandernl-51499.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1532645/
-127.0.0.1 apexservices.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1532636/
 127.0.0.1 envio21-05.duckdns.org #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1532634/
 127.0.0.1 retardz.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1532633/
 127.0.0.1 net.proxyscanner.cc #botnet_cc, elf.moobot, MooBot https://threatfox.abuse.ch/ioc/1532580/
@@ -48505,7 +48153,6 @@
 127.0.0.1 www.luc-logistics.tech #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532343/
 127.0.0.1 wiew.weihuikang.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532342/
 127.0.0.1 msg.msdegeup.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532341/
-127.0.0.1 fuckjapanese.microsoftcloudapi.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532336/
 127.0.0.1 fedor-dostoevskiy.com #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1532282/
 127.0.0.1 yuriy-andropov.com #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1532279/
 127.0.0.1 yhs-gthjhxltud.cn-zhangjiakou.fcapp.run #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1532167/
@@ -52210,8 +51857,6 @@
 127.0.0.1 unknown-7222-47030.portmap.io #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1527406/
 127.0.0.1 www.imexinternationaltrader.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1527404/
 127.0.0.1 frankusd.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1527398/
-127.0.0.1 mail.miliao.cc #botnet_cc, win.rhadamanthys, Rhadamanthys https://threatfox.abuse.ch/ioc/1527372/
-127.0.0.1 set-proc.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1526972/
 127.0.0.1 respainc.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1526949/
 127.0.0.1 enermax-com.cc #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1526926/
 127.0.0.1 condition-sealed.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1526850/
@@ -52250,14 +51895,8 @@
 127.0.0.1 mooncarc.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1525623/
 127.0.0.1 leasegjjr.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1525574/
 127.0.0.1 haircuirfm.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1525575/
-127.0.0.1 cnc.rspay.top #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1525323/
-127.0.0.1 bothehedoxiahihi.zapto.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1525559/
-127.0.0.1 botnet.exiled.rip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1525560/
-127.0.0.1 zbtgzbt.duckdns.org #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1525558/
 127.0.0.1 next.avianix.tech #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1525232/
-127.0.0.1 kniznetwork.duckdns.org #botnet_cc, elf.moobot, MooBot https://threatfox.abuse.ch/ioc/1525206/
 127.0.0.1 giajgdfgcs63da2s.ksf123.icu #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1525117/
-127.0.0.1 botnet.s3oox.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1524781/
 127.0.0.1 koegje.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1524741/
 127.0.0.1 skjym.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1524742/
 127.0.0.1 normacw.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1524743/
@@ -52282,12 +51921,8 @@
 127.0.0.1 ns2.taipower.energy #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1524103/
 127.0.0.1 ns1.taipower.energy #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1524102/
 127.0.0.1 narrathfpt.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1523982/
-127.0.0.1 n6shbbkm-88.usw3.devtunnels.ms #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1523872/
 127.0.0.1 d1ecnze4r6f2q.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1523871/
-127.0.0.1 betbot.mchbee.cloud #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1523850/
-127.0.0.1 anon26.ddns.net #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1523836/
 127.0.0.1 hunterinrx.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1523810/
-127.0.0.1 zrysdxnzmo.antiwifi.cc #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1523803/
 127.0.0.1 newjourneynewstartfreshthingforfuture.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1523793/
 127.0.0.1 fanclubsemantics.sbs #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1523338/
 127.0.0.1 wss.telegrma.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1523364/
@@ -52369,198 +52004,6 @@
 127.0.0.1 cornerdurv.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1521634/
 127.0.0.1 house-allowed.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1521288/
 127.0.0.1 www.q74vn.live #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1520998/
-127.0.0.1 yh4x0620pw1ap.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520946/
-127.0.0.1 ypki3cocq1asj.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520947/
-127.0.0.1 yqijzlle1r3rl.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520948/
-127.0.0.1 yv8yhgwsm81x7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520949/
-127.0.0.1 zf8sn8l1c1c16.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520950/
-127.0.0.1 zit5if516dao2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520951/
-127.0.0.1 zpvptw82h5c00.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520952/
-127.0.0.1 zx1qk0w02fke7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520953/
-127.0.0.1 whzw13p3r7lzp.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520932/
-127.0.0.1 wz3qdxhxns2g4.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520934/
-127.0.0.1 x357y9ss65tdu.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520935/
-127.0.0.1 x3an9oqhcf2mf.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520936/
-127.0.0.1 xhuahzm5uiimo.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520938/
-127.0.0.1 xjfbfo2a6koef.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520939/
-127.0.0.1 xnxutbo5etuw9.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520940/
-127.0.0.1 xtbt0ekpcxnak.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520941/
-127.0.0.1 xxx4tb82ly3p2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520942/
-127.0.0.1 y2iv17lkdmj55.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520943/
-127.0.0.1 y37vxmir7miwq.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520944/
-127.0.0.1 y5i7fcp0z2vdv.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520945/
-127.0.0.1 uh61rmo8drq8c.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520917/
-127.0.0.1 uimcnlvkowuot.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520918/
-127.0.0.1 uld7tnpvgr1ir.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520919/
-127.0.0.1 unluozjsodi8i.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520920/
-127.0.0.1 uod2mz4es33ka.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520921/
-127.0.0.1 v0kgi0osnu7pw.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520922/
-127.0.0.1 v0p0woy3f8ze7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520923/
-127.0.0.1 v66tip8ogttrf.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520924/
-127.0.0.1 vncik1psdrrbl.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520925/
-127.0.0.1 vns5srpw5p315.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520926/
-127.0.0.1 vqzguhj0laj7p.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520927/
-127.0.0.1 vrnf4tj48nxod.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520928/
-127.0.0.1 vs3b5qgn6ksql.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520929/
-127.0.0.1 vujdfffgcjd7k.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520930/
-127.0.0.1 w79vt2diz7dml.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520931/
-127.0.0.1 s8akau9vlsrbq.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520903/
-127.0.0.1 scu2pm45pz9q2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520904/
-127.0.0.1 sfrq624fuus5k.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520905/
-127.0.0.1 si8p7wuxa7ddt.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520906/
-127.0.0.1 sijq1m7wknt6g.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520907/
-127.0.0.1 t9toueu4d6gzm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520908/
-127.0.0.1 tcvttq08r9jty.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520909/
-127.0.0.1 tldemeczwtpb7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520911/
-127.0.0.1 tmuu1ryu4fvbm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520912/
-127.0.0.1 u2eqkj41hheze.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520913/
-127.0.0.1 u7d1qd724touv.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520914/
-127.0.0.1 uaooxwnck1qwk.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520915/
-127.0.0.1 ug2a0sj16kerd.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520916/
-127.0.0.1 q8r7omleri0pd.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520889/
-127.0.0.1 qcvgu67ml13r1.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520890/
-127.0.0.1 qo5lmcyhdzxlf.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520891/
-127.0.0.1 quqd8ic552xs4.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520892/
-127.0.0.1 qv4njcerh3hsj.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520893/
-127.0.0.1 qy6ctflx8ydfe.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520894/
-127.0.0.1 r0lethdy5ytqp.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520895/
-127.0.0.1 r9mkypblrf7ai.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520896/
-127.0.0.1 rjgkw1xkq6tgo.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520897/
-127.0.0.1 rn07j0x1acnyz.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520898/
-127.0.0.1 rrfz818tk7l3b.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520899/
-127.0.0.1 rxaswnnmmce9g.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520900/
-127.0.0.1 rzxkvxyj2i9qj.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520901/
-127.0.0.1 s6tbv8w63f840.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520902/
-127.0.0.1 nins8k5g0f1dx.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520872/
-127.0.0.1 nramyw3ac65tz.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520873/
-127.0.0.1 nucp69y9nhvm2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520874/
-127.0.0.1 nz9sjxx21tp5x.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520875/
-127.0.0.1 nzsgq8404xxkm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520876/
-127.0.0.1 oefia9wp8je6z.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520877/
-127.0.0.1 ogb5xkgmg4oju.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520878/
-127.0.0.1 ogbh7anjjdjdd.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520879/
-127.0.0.1 os5ryl12zmx42.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520880/
-127.0.0.1 oulq1xmd91yva.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520881/
-127.0.0.1 p8ya80enl7muq.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520882/
-127.0.0.1 phofkkfcuixei.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520883/
-127.0.0.1 phwix4m5d2xcl.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520884/
-127.0.0.1 piur2ev55twj7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520885/
-127.0.0.1 pl43cimufnrmu.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520886/
-127.0.0.1 pnqu4zi9mlahx.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520887/
-127.0.0.1 pz9k9kaihtptd.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520888/
-127.0.0.1 jqyeegna3lht2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520858/
-127.0.0.1 k7b843izg720e.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520859/
-127.0.0.1 k8tdxptwoarz9.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520860/
-127.0.0.1 knmekk4xh1yfu.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520862/
-127.0.0.1 kt1zpdc26avtr.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520863/
-127.0.0.1 lsoj8le5dvbzq.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520864/
-127.0.0.1 mt07ykdxl55cw.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520865/
-127.0.0.1 n5d6y67plvnto.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520866/
-127.0.0.1 n7fyq5glyab2j.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520867/
-127.0.0.1 nbfg014yic1qb.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520868/
-127.0.0.1 nbs6lnzvk9nkg.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520869/
-127.0.0.1 nd6h2ldqkvdw6.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520870/
-127.0.0.1 nia2qq0etuzpb.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520871/
-127.0.0.1 gvygkcpol74gy.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520844/
-127.0.0.1 h28r6gebma715.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520845/
-127.0.0.1 hb0nsim3indj8.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520846/
-127.0.0.1 hij11nti41rxp.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520847/
-127.0.0.1 hlqz0e62ixrnp.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520848/
-127.0.0.1 ho0e0fu2f1ehu.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520849/
-127.0.0.1 hrjcfbz49zbdn.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520850/
-127.0.0.1 htc8v674o5340.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520851/
-127.0.0.1 hvrcruhojtv59.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520852/
-127.0.0.1 i9lnrwpyl6q1s.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520853/
-127.0.0.1 igdibsm1sy5ef.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520854/
-127.0.0.1 ikp95oty597zb.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520855/
-127.0.0.1 il3ha3mtfvku8.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520856/
-127.0.0.1 iptckm8axh4up.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520857/
-127.0.0.1 gap5w2em9msor.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520841/
-127.0.0.1 gennj5glepbm3.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520842/
-127.0.0.1 ghyouopkphf2x.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520843/
-127.0.0.1 dyrsovg0janxg.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520829/
-127.0.0.1 e12sw2209cc53.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520830/
-127.0.0.1 e21hhjf8659tt.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520831/
-127.0.0.1 e3h08otb6xmu3.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520832/
-127.0.0.1 ec8puhgxe2irq.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520834/
-127.0.0.1 f24yew7yxdas9.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520835/
-127.0.0.1 f5bdp5r97x63z.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520836/
-127.0.0.1 f5l5coo21t986.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520837/
-127.0.0.1 fa03e75bicux5.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520838/
-127.0.0.1 fk522cqcb411i.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520839/
-127.0.0.1 fl2ifygitryuh.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520840/
-127.0.0.1 9k7m4sno3n6zf.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520813/
-127.0.0.1 ai66uq00ax202.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520815/
-127.0.0.1 atpk4sqovxf2y.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520816/
-127.0.0.1 awfdktgdajxzt.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520817/
-127.0.0.1 bnbm2ncu9edm7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520818/
-127.0.0.1 bsobgla5ebrjj.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520819/
-127.0.0.1 cj92kmlm09rx6.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520820/
-127.0.0.1 cmpf8huatefqk.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520821/
-127.0.0.1 cn20xuahy8t1g.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520822/
-127.0.0.1 csyn20vl3z4q0.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520823/
-127.0.0.1 cwdnohn9obt5r.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520824/
-127.0.0.1 darveicg7xcj0.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520825/
-127.0.0.1 dn50y7ahnc1bj.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520826/
-127.0.0.1 dt2cg075ch11u.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520827/
-127.0.0.1 dt2hlgmn1nzpl.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520828/
-127.0.0.1 7m959mli25a72.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520801/
-127.0.0.1 7qdvi1ojq79ap.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520802/
-127.0.0.1 7vcfugjejghtu.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520803/
-127.0.0.1 822xkcv8p7yj5.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520804/
-127.0.0.1 830pmmvl3x3qb.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520805/
-127.0.0.1 86dcshj21wg6m.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520806/
-127.0.0.1 8a3peanh4uz8e.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520807/
-127.0.0.1 8k9dg54uoiaig.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520808/
-127.0.0.1 902zrmiyj0203.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520809/
-127.0.0.1 93k4iwdrz9dv0.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520810/
-127.0.0.1 94sd02j2s8w5g.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520811/
-127.0.0.1 9ir8es90oecw2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520812/
-127.0.0.1 5gimy9lgi9xbl.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520784/
-127.0.0.1 5izwfepuwh2ic.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520785/
-127.0.0.1 5oqmgkgz5rf70.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520786/
-127.0.0.1 5p981xjz7sbyt.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520787/
-127.0.0.1 5sq4py78k91rm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520788/
-127.0.0.1 5vhkbv1vxxsnm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520789/
-127.0.0.1 6bs426zjqpbth.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520790/
-127.0.0.1 6dbu605hajf1q.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520791/
-127.0.0.1 6ep9wbu6v24n0.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520792/
-127.0.0.1 6km9ottqfh6zn.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520793/
-127.0.0.1 74of7b9bmuags.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520796/
-127.0.0.1 7d0qhl3jn2xp2.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520797/
-127.0.0.1 7d2zsoxb59ie1.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520798/
-127.0.0.1 7dxudveyrs1qv.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520799/
-127.0.0.1 7e3xn5owh54h1.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520800/
-127.0.0.1 2odsenx2yp0lo.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520768/
-127.0.0.1 2yj7j6r9vo33o.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520769/
-127.0.0.1 35vy1pligjgul.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520770/
-127.0.0.1 397nrivd76yo3.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520771/
-127.0.0.1 3jxjww65p5maz.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520772/
-127.0.0.1 3mar7y5c3r4zx.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520773/
-127.0.0.1 3obruwxmqzonj.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520774/
-127.0.0.1 3w2o83k0n8265.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520775/
-127.0.0.1 3y9cnn3ltwru4.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520776/
-127.0.0.1 456iqa3y1dx4m.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520777/
-127.0.0.1 4sntr015i7xom.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520778/
-127.0.0.1 4ui23j0z9jjrn.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520779/
-127.0.0.1 4v0qmowukun68.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520780/
-127.0.0.1 54x58q8lib4hu.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520781/
-127.0.0.1 55ueww9semkcm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520782/
-127.0.0.1 59vajiveghhtk.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520783/
-127.0.0.1 05by1jl7fjlpm.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520754/
-127.0.0.1 06g15h6u4co8d.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520755/
-127.0.0.1 08cke7akux8kw.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520756/
-127.0.0.1 0a2oobiviohq1.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520757/
-127.0.0.1 0vmyb63gn2ptp.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520758/
-127.0.0.1 0vwdh086y6617.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520759/
-127.0.0.1 16pul9mybq7xz.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520760/
-127.0.0.1 1j89dadarol4g.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520761/
-127.0.0.1 1tznpvtx5dfm8.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520762/
-127.0.0.1 20ztrlynhqrkl.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520763/
-127.0.0.1 296e90bwwbghd.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520764/
-127.0.0.1 2970uw58lq0x7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520765/
-127.0.0.1 2ekg1e4hsed7c.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520766/
-127.0.0.1 2nviz2u0243nr.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520767/
 127.0.0.1 daxbkb16ebdao.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520740/
 127.0.0.1 m4ivqiz0weqy7.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520741/
 127.0.0.1 0ei4jxf0cszgd.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1520742/
@@ -52667,14 +52110,12 @@
 127.0.0.1 tvmovies.online #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1520244/
 127.0.0.1 udevd.microsoftools.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1520245/
 127.0.0.1 coinomi.space #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1519923/
-127.0.0.1 microsoftdefenderr.serveftp.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1519861/
 127.0.0.1 playnest.tech #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519800/
 127.0.0.1 14j1eqpwe044f.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519798/
 127.0.0.1 skyprotech.ru #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519576/
 127.0.0.1 ns1.shamless.sbs #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519575/
 127.0.0.1 metalliko-industr.ru #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519574/
 127.0.0.1 lancery.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519572/
-127.0.0.1 enzomtp.dragonia-pvp.fr #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1519475/
 127.0.0.1 pixelpitstop.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1519425/
 127.0.0.1 posseswsnc.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519236/
 127.0.0.1 featurlyin.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519237/
@@ -52683,8 +52124,6 @@
 127.0.0.1 flowerexju.bet #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519233/
 127.0.0.1 easterxeen.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1519234/
 127.0.0.1 huy1612-24727.portmap.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1519210/
-127.0.0.1 nnmirai.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1519207/
-127.0.0.1 takine.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1519208/
 127.0.0.1 wwwsyju.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518911/
 127.0.0.1 sumeriavgv.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518912/
 127.0.0.1 ingratgmit.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518913/
@@ -52746,8 +52185,6 @@
 127.0.0.1 sidebyafzy.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518727/
 127.0.0.1 wwwcloudfiare.com #payload_delivery https://threatfox.abuse.ch/ioc/1518725/
 127.0.0.1 selectbrasil.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1518714/
-127.0.0.1 botnet.fkgpt.xyz #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1518709/
-127.0.0.1 ccn.fdstat.vip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1518710/
 127.0.0.1 overcovtcg.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518689/
 127.0.0.1 blackswmxc.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1518690/
 127.0.0.1 www.tsesec.site #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1518626/
@@ -52867,8 +52304,6 @@
 127.0.0.1 wincertfm.store #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1516288/
 127.0.0.1 vpn.coupmgrki.org #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1516263/
 127.0.0.1 666.20250503.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1516160/
-127.0.0.1 app-uni-infos.com #botnet_cc https://threatfox.abuse.ch/ioc/1515714/
-127.0.0.1 en-bitcoin.org #botnet_cc https://threatfox.abuse.ch/ioc/1515730/
 127.0.0.1 us-ledger.io #botnet_cc https://threatfox.abuse.ch/ioc/1515609/
 127.0.0.1 theuni-swap.com #botnet_cc https://threatfox.abuse.ch/ioc/1515641/
 127.0.0.1 webexone.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1515432/
@@ -52912,8 +52347,6 @@
 127.0.0.1 mdexswap.live #botnet_cc https://threatfox.abuse.ch/ioc/1515211/
 127.0.0.1 thebalan-er.com #botnet_cc https://threatfox.abuse.ch/ioc/1515212/
 127.0.0.1 dodoexchange.live #botnet_cc https://threatfox.abuse.ch/ioc/1515213/
-127.0.0.1 www.ledger.limited #botnet_cc https://threatfox.abuse.ch/ioc/1515230/
-127.0.0.1 helplive-ledger.com #botnet_cc https://threatfox.abuse.ch/ioc/1515229/
 127.0.0.1 kodiak-finance.org #botnet_cc https://threatfox.abuse.ch/ioc/1515231/
 127.0.0.1 zeddexexchange.live #botnet_cc https://threatfox.abuse.ch/ioc/1515235/
 127.0.0.1 septembergoodwine.top #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1514674/
@@ -52930,8 +52363,6 @@
 127.0.0.1 scriptao.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1514138/
 127.0.0.1 disciplipna.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1514139/
 127.0.0.1 darjkafsg.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1514122/
-127.0.0.1 neon.galaxias.cc #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1513932/
-127.0.0.1 666.20240829.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1513921/
 127.0.0.1 victoreqs.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513865/
 127.0.0.1 moriartybirds.click #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1513762/
 127.0.0.1 wlandersmountain.click #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1513796/
@@ -52990,10 +52421,6 @@
 127.0.0.1 buzzarddf.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1512040/
 127.0.0.1 fishgh.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1512041/
 127.0.0.1 bearjk.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1512043/
-127.0.0.1 trust.wallet-web3.ing #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511702/
-127.0.0.1 coinomi.ing #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511703/
-127.0.0.1 en-trezor.io #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511700/
-127.0.0.1 tronilnk.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1511699/
 127.0.0.1 updateyoubrousergoogle.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511677/
 127.0.0.1 arbitrag38.ru #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511678/
 127.0.0.1 update.clcc.cl #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1511676/
@@ -58541,12 +57968,8 @@
 127.0.0.1 sonorous-horizon-cfd.cfd #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1491893/
 127.0.0.1 iqronrose.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1491885/
 127.0.0.1 owlflright.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1491881/
-127.0.0.1 www.netuzio.xyz #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1491637/
 127.0.0.1 register-resulting.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1491097/
 127.0.0.1 async1177.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1491075/
-127.0.0.1 electrum-faq.org #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1487329/
-127.0.0.1 en-btc-electrum.newzenler.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1487330/
-127.0.0.1 atomik-wallet.me #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1487331/
 127.0.0.1 wizmodi.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1487505/
 127.0.0.1 adaptwrx.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1487506/
 127.0.0.1 dynamiczl.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1487507/
@@ -58845,7 +58268,6 @@
 127.0.0.1 byteplusx.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1458510/
 127.0.0.1 sparkiob.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1458513/
 127.0.0.1 appgridn.live #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1458514/
-127.0.0.1 electrum-xmr.net #botnet_cc https://threatfox.abuse.ch/ioc/1458412/
 127.0.0.1 ns2.chedn.shop #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1458230/
 127.0.0.1 ns1.chedn.shop #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1458229/
 127.0.0.1 familyfriend.dynu.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1457902/
@@ -59307,7 +58729,6 @@
 127.0.0.1 aegieuueueuuruire.top #botnet_cc, win.phorpiex, Trik, phorphiex https://threatfox.abuse.ch/ioc/1446648/
 127.0.0.1 www.dyshop.online #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1446559/
 127.0.0.1 ns1.svchost.ddns-ip.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1446557/
-127.0.0.1 data.australiasoutheast.cloudapp.azure.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1446554/
 127.0.0.1 moluntmarke.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1446359/
 127.0.0.1 fittinvgfie.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1446360/
 127.0.0.1 compgonentco.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1446361/
@@ -69017,7 +68438,6 @@
 127.0.0.1 hh.vvbb321.com #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1393685/
 127.0.0.1 hh.jjkk567.com #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1393686/
 127.0.0.1 hh.nnmm234.com #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1393687/
-127.0.0.1 cdn.easyjlpt.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1393683/
 127.0.0.1 apiapi.it121fdg.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1393395/
 127.0.0.1 xmm.register.below #botnet_cc, win.raccoon, Mohazo, RaccoonStealer https://threatfox.abuse.ch/ioc/1393370/
 127.0.0.1 foxpartsearch.com #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1392539/
@@ -69380,7 +68800,6 @@
 127.0.0.1 microstar.cfd #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1269721/
 127.0.0.1 sweetsquarediaslw.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1269029/
 127.0.0.1 beshomandotestbesnd.run.place #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1266236/
-127.0.0.1 d00d7ks32.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1266087/
 127.0.0.1 strollheavengwu.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1263233/
 127.0.0.1 auctiongutollyjkui.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1263235/
 127.0.0.1 tolerateilusidjukl.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1259496/
@@ -69511,7 +68930,6 @@
 127.0.0.1 fjeden.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1218627/
 127.0.0.1 kinkiboy.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1218626/
 127.0.0.1 volkatv500.sytes.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1218153/
-127.0.0.1 van-turtle.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1218043/
 127.0.0.1 horsesnje.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217114/
 127.0.0.1 eweo9264gtuiort.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217107/
 127.0.0.1 MicrosoftSyst3m.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1213636/
@@ -70405,4 +69823,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 70406
+# Number of entries: 69824
