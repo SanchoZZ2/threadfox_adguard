@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pew.stonef1eld.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666045/
+127.0.0.1 b2x0.stonef1eld.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666044/
+127.0.0.1 owl.stonef1eld.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666043/
+127.0.0.1 wild.f1recrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666042/
+127.0.0.1 group.f1recrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666041/
+127.0.0.1 glow.f1recrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666039/
+127.0.0.1 crest.f1recrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666032/
+127.0.0.1 public.dvrexpert.st #botnet_cc, elf.aisuru, Aisuru https://threatfox.abuse.ch/ioc/1666006/
 127.0.0.1 work.nightm1nt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666005/
 127.0.0.1 stone.nightm1nt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666003/
 127.0.0.1 tovool123343123-42020.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1666002/
@@ -70120,4 +70128,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 70121
+# Number of entries: 70129
