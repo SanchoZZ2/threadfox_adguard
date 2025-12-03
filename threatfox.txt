@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fox.skyhollow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666970/
+127.0.0.1 forest.skyhollow.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666969/
+127.0.0.1 k8yq6.ch2pernev0d.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666968/
+127.0.0.1 trace.ch2pernev0d.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666967/
+127.0.0.1 screwbirth.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1666966/
+127.0.0.1 gate.ch2pernev0d.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666965/
+127.0.0.1 iao3.ch2pernev0d.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666959/
+127.0.0.1 qqplive.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1666958/
+127.0.0.1 t4r7.chimef2ce1e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666955/
+127.0.0.1 r6tb5.chimef2ce1e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666954/
+127.0.0.1 1yoye.chimef2ce1e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666953/
 127.0.0.1 ts.chimef2ce1e.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666952/
 127.0.0.1 28xt8.id1otre5ist.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666950/
 127.0.0.1 mint.id1otre5ist.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666949/
@@ -70472,4 +70483,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 70473
+# Number of entries: 70484
