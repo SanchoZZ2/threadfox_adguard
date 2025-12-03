@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nova.cheb0t5agit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666446/
+127.0.0.1 t77n.cheb0t5agit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666445/
+127.0.0.1 gamma.cheb0t5agit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666443/
+127.0.0.1 kj4j9.cheb0t5agit.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666442/
+127.0.0.1 sunny.dur2treces5.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666441/
+127.0.0.1 snow.dur2treces5.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666440/
 127.0.0.1 vector.dur2treces5.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666439/
 127.0.0.1 kxqeq.dur2treces5.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666438/
 127.0.0.1 y5gxz.em1npe0ny.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1666437/
@@ -48375,7 +48381,6 @@
 127.0.0.1 opanbes.com #payload_delivery https://threatfox.abuse.ch/ioc/1539047/
 127.0.0.1 security.flsecuard.com #payload_delivery https://threatfox.abuse.ch/ioc/1539046/
 127.0.0.1 ruowa.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1539115/
-127.0.0.1 23-95-197-208.cprapid.com #botnet_cc, elf.bashlite, gayfgt, Gafgyt https://threatfox.abuse.ch/ioc/1539103/
 127.0.0.1 adfsrss.pullovereshirt.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1539101/
 127.0.0.1 portal.pullovereshirt.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1539102/
 127.0.0.1 zvv007n2e9.execute-api.ap-southeast-1.amazonaws.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1538989/
@@ -48383,7 +48388,6 @@
 127.0.0.1 prior-organizational.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1538988/
 127.0.0.1 marianna.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1538984/
 127.0.0.1 sleeperhehehe.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1538985/
-127.0.0.1 bensassiperson.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1538982/
 127.0.0.1 skills.sytes.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1538983/
 127.0.0.1 fadbook.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1538981/
 127.0.0.1 pnrt.kotomari-vn.dev #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1538980/
@@ -48410,50 +48414,9 @@
 127.0.0.1 spwha.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538910/
 127.0.0.1 lumamarket.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538912/
 127.0.0.1 slqpny.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538913/
-127.0.0.1 techradar.top #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1538915/
-127.0.0.1 www.judahshop.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1538919/
-127.0.0.1 pre-order.chablalker.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1538887/
 127.0.0.1 walltechsistem.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1538884/
 127.0.0.1 tinklertjp.bet #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538867/
-127.0.0.1 xx.7.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1538864/
-127.0.0.1 cd.iconstaff.top #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538828/
-127.0.0.1 cdn.iconstaff.top #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538829/
-127.0.0.1 clearnetfab.net #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538830/
-127.0.0.1 cnd-analytics.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538831/
-127.0.0.1 cpeciadogfoods.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538832/
-127.0.0.1 dobrowork.space #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538833/
-127.0.0.1 dorton.org #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538834/
-127.0.0.1 fallodick87-78.sbs #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538835/
-127.0.0.1 gatetpere.space #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538836/
-127.0.0.1 js-agentnewrelic.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538838/
-127.0.0.1 gstatlc.org #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538837/
-127.0.0.1 jstatic201.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538839/
-127.0.0.1 lererikal.org #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538840/
-127.0.0.1 mamatmavali.ru #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538841/
-127.0.0.1 privatstripp.tech #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538842/
-127.0.0.1 schneemann.tech #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538843/
-127.0.0.1 tetsted.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538844/
-127.0.0.1 webexcelsior.org #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1538845/
-127.0.0.1 analyticnodes.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538813/
-127.0.0.1 security.claufgaurd.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538814/
-127.0.0.1 security.clodaflare.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538815/
-127.0.0.1 security.clodujflare.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538816/
-127.0.0.1 security.cloofalerg.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538817/
-127.0.0.1 security.clouodgrd.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538819/
-127.0.0.1 security.cloudstwr.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538818/
-127.0.0.1 security.flclodshield.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538820/
-127.0.0.1 security.flearegaurdc.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538821/
-127.0.0.1 security.shieldclouds.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538823/
-127.0.0.1 security.flflaegaurd.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538822/
-127.0.0.1 core.sopeited.info #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538825/
-127.0.0.1 core.sopeited.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538824/
-127.0.0.1 core.sopeited.org #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538826/
-127.0.0.1 elomaio.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1538827/
 127.0.0.1 hi-nurses.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1538806/
-127.0.0.1 ecs-189-1-223-179.compute.hwclouds-dns.com #botnet_cc https://threatfox.abuse.ch/ioc/1538793/
-127.0.0.1 1254528c-235e-4b9b-9bf3-850214133e82.selcdn.net #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538780/
-127.0.0.1 cat.fedor-turin.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538767/
-127.0.0.1 www.owa.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1538766/
 127.0.0.1 cdn.moneycomesagain.click #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1538759/
 127.0.0.1 548125.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1538758/
 127.0.0.1 cdlink3.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1538645/
@@ -48513,7 +48476,6 @@
 127.0.0.1 ns1.flashcloud.icu #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536556/
 127.0.0.1 infra.hitius.bar #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1536512/
 127.0.0.1 meow.analystic-see.de #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1536511/
-127.0.0.1 ry8fjzbwal.execute-api.ap-southeast-1.amazonaws.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536368/
 127.0.0.1 8ajmswdkjya6r.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536367/
 127.0.0.1 booking.extranet-listing.com #payload_delivery https://threatfox.abuse.ch/ioc/1536364/
 127.0.0.1 thundeqqbw.bet #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1536340/
@@ -48536,8 +48498,6 @@
 127.0.0.1 60z89fnebpz1v.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1536005/
 127.0.0.1 news.computer-centa.com #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1535950/
 127.0.0.1 industry-decreased.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1535529/
-127.0.0.1 security.cloflguared.com #payload_delivery https://threatfox.abuse.ch/ioc/1535832/
-127.0.0.1 fopelas.com #payload_delivery https://threatfox.abuse.ch/ioc/1535833/
 127.0.0.1 promo.summat10n.org #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1535940/
 127.0.0.1 which-submission.gl.at.ply.gg #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1535936/
 127.0.0.1 1.tcp.hk.cpolar.io #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1535879/
@@ -48627,7 +48587,6 @@
 127.0.0.1 rustore.sasha-solzhenicyn.ru #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1533645/
 127.0.0.1 mail0.hswl.shop #botnet_cc https://threatfox.abuse.ch/ioc/1533603/
 127.0.0.1 web.ucucuga.tech #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1533476/
-127.0.0.1 anallyticsnodde.com #payload_delivery https://threatfox.abuse.ch/ioc/1533410/
 127.0.0.1 4-slovo.ru #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1533030/
 127.0.0.1 gofzm.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1533428/
 127.0.0.1 have-printing.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1533378/
@@ -52890,7 +52849,6 @@
 127.0.0.1 zenithcorde.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513197/
 127.0.0.1 techguidet.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513198/
 127.0.0.1 toptalentw.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513201/
-127.0.0.1 28.ip.gl.ply.gg #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1513065/
 127.0.0.1 heraldryr.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1512052/
 127.0.0.1 dragonfireq.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1512053/
 127.0.0.1 blacksmeiths.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1512054/
@@ -58239,11 +58197,6 @@
 127.0.0.1 uiuqygeuogieacgw.xyz #botnet_cc, win.metastealer, MetaStealer https://threatfox.abuse.ch/ioc/1499106/
 127.0.0.1 healhgf.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1493582/
 127.0.0.1 redcurrczx.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1493570/
-127.0.0.1 security.clodufshield.com #payload_delivery https://threatfox.abuse.ch/ioc/1493463/
-127.0.0.1 security.flaiegaurd.com #payload_delivery https://threatfox.abuse.ch/ioc/1493470/
-127.0.0.1 security.colkudflare.com #payload_delivery https://threatfox.abuse.ch/ioc/1493475/
-127.0.0.1 analytido.com #payload_delivery https://threatfox.abuse.ch/ioc/1493453/
-127.0.0.1 security.clodufgard.com #payload_delivery https://threatfox.abuse.ch/ioc/1493457/
 127.0.0.1 xbytehubi.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1493340/
 127.0.0.1 swedecoy.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1493341/
 127.0.0.1 techscapeh.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1493342/
@@ -58417,22 +58370,10 @@
 127.0.0.1 tapejstryart.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1492255/
 127.0.0.1 digitreepco.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1492242/
 127.0.0.1 owlfmamir.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1492243/
-127.0.0.1 snowsro.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1492234/
 127.0.0.1 pomelohgj.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1492193/
 127.0.0.1 kazeku.duckdns.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1492181/
 127.0.0.1 cryptoghost.zapto.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1492171/
-127.0.0.1 security.cloydgvarde.com #payload_delivery, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1492064/
 127.0.0.1 shop.nongfushan.org #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1492088/
-127.0.0.1 amoliera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491667/
-127.0.0.1 amoliera.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491662/
-127.0.0.1 security.flargyard.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491663/
-127.0.0.1 goclouder.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491664/
-127.0.0.1 analytiwave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491665/
-127.0.0.1 security.secuclauf.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491666/
-127.0.0.1 core.amoliera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491668/
-127.0.0.1 amoliera.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491669/
-127.0.0.1 core.amoliera.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491670/
-127.0.0.1 core.amoliera.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1491671/
 127.0.0.1 sonorous-horizon-cfd.cfd #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1491893/
 127.0.0.1 iqronrose.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1491885/
 127.0.0.1 owlflright.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1491881/
@@ -58447,9 +58388,6 @@
 127.0.0.1 mail-exchange.phermera.ru #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1487084/
 127.0.0.1 enhancrea.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1487051/
 127.0.0.1 lumc2-market.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1486883/
-127.0.0.1 sharecloud.click #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1486632/
-127.0.0.1 security.closecufre.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1486634/
-127.0.0.1 stat.bundlehulu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1486635/
 127.0.0.1 www.cdn-web-app-10.tech #botnet_cc, win.smokedham, SMOKEDHAM https://threatfox.abuse.ch/ioc/1486471/
 127.0.0.1 dash-server2.servertech02.workers.dev #botnet_cc, win.smokedham, SMOKEDHAM https://threatfox.abuse.ch/ioc/1486433/
 127.0.0.1 efc04b0016686e5b9c1b54af55e8a208.uatider.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1486200/
@@ -69099,7 +69037,6 @@
 127.0.0.1 timez0.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1327153/
 127.0.0.1 flfprlkgpppg.shop #botnet_cc, win.plugx, Destroy RAT, Kaba https://threatfox.abuse.ch/ioc/1326892/
 127.0.0.1 virtual.urban-orthodontics.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1326596/
-127.0.0.1 enemybotnet.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1326349/
 127.0.0.1 domainlumm.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1325008/
 127.0.0.1 govpet.mysynology.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1324290/
 127.0.0.1 danzimmer.space #botnet_cc https://threatfox.abuse.ch/ioc/1324185/
@@ -69109,7 +69046,6 @@
 127.0.0.1 korkos.now-dns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1321298/
 127.0.0.1 lokjopppkuimlpo.shop #botnet_cc, win.plugx, Destroy RAT, Kaba https://threatfox.abuse.ch/ioc/1321140/
 127.0.0.1 pepecasas123.mywire.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1320732/
-127.0.0.1 22.ip.gl.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1319902/
 127.0.0.1 innovationows.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1316971/
 127.0.0.1 rvenom.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1316818/
 127.0.0.1 qualificationjdwko.xyz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1313108/
@@ -70280,4 +70216,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 70281
+# Number of entries: 70217
