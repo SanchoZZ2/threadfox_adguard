@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 og.l1ghtwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667684/
+127.0.0.1 lzsj.l1ghtwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667678/
+127.0.0.1 d4d.automanpk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1667675/
+127.0.0.1 d4d.aqarhoosh.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1667676/
+127.0.0.1 gate.l1ghtwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667671/
+127.0.0.1 omega.shadowsprint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667666/
+127.0.0.1 gold.shadowsprint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667664/
+127.0.0.1 gui.shadowsprint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667663/
 127.0.0.1 bk.shadowsprint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667662/
 127.0.0.1 5g95w.brightpeak.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667661/
 127.0.0.1 stream.brightpeak.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667659/
@@ -60252,4 +60260,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60253
+# Number of entries: 60261
