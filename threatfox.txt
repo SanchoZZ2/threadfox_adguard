@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 forest.darkb1rd.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667795/
+127.0.0.1 sunrise.deep0asis.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667794/
+127.0.0.1 4mjo.deep0asis.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667793/
+127.0.0.1 fev5.deep0asis.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667790/
+127.0.0.1 field.deep0asis.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667788/
+127.0.0.1 jjjgaasda.live #botnet_cc https://threatfox.abuse.ch/ioc/1667786/
+127.0.0.1 7p1e0901tm70n.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1667785/
+127.0.0.1 alpha.ironbl0om.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667784/
+127.0.0.1 asmweosiqsaaw.com #botnet_cc https://threatfox.abuse.ch/ioc/1667781/
+127.0.0.1 silent.ironbl0om.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667780/
+127.0.0.1 apdlive.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1667779/
+127.0.0.1 quick.ironbl0om.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667778/
+127.0.0.1 nimbsjoa.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1667748/
+127.0.0.1 deregulatedenergy.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1667753/
+127.0.0.1 tmy.ironbl0om.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667777/
+127.0.0.1 vk8w.st0neleaf.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667775/
+127.0.0.1 r4.st0neleaf.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667762/
+127.0.0.1 fk3v.st0neleaf.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667761/
 127.0.0.1 c1uo.st0neleaf.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667758/
 127.0.0.1 nv47.dreamc0ast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667757/
 127.0.0.1 nc.dreamc0ast.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667756/
@@ -51929,6 +51947,7 @@
 127.0.0.1 eaglekl.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513615/
 127.0.0.1 vecturar.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513520/
 127.0.0.1 porcupineq.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513338/
+127.0.0.1 quag.cn #botnet_cc, win.tofsee, Gheg, Tofsee https://threatfox.abuse.ch/ioc/1513349/
 127.0.0.1 zenithcorde.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513197/
 127.0.0.1 techguidet.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513198/
 127.0.0.1 toptalentw.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1513201/
@@ -60301,4 +60320,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60302
+# Number of entries: 60321
