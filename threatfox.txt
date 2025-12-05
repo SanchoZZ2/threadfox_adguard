@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 m0tad.crystalwind.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667975/
+127.0.0.1 b9j.wildrange.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667973/
+127.0.0.1 stone.wildrange.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667972/
+127.0.0.1 6p.wildrange.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667971/
+127.0.0.1 hdzr.wildrange.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667968/
+127.0.0.1 bn.automanpk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1667965/
+127.0.0.1 bn.btreena.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1667966/
+127.0.0.1 djv.deepc1iff.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667963/
 127.0.0.1 shadow.deepc1iff.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667957/
 127.0.0.1 nimeshpatel.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1667938/
 127.0.0.1 malware.nimeshpatel.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1667939/
@@ -60309,4 +60317,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60310
+# Number of entries: 60318
