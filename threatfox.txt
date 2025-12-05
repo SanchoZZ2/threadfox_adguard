@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rzv.firecrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668087/
+127.0.0.1 forest.firecrest.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668086/
+127.0.0.1 h3.darkh1ll.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668085/
+127.0.0.1 iqurf.darkh1ll.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668083/
+127.0.0.1 dods.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668080/
+127.0.0.1 sso.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668077/
+127.0.0.1 pas.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668078/
+127.0.0.1 outk.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668079/
+127.0.0.1 sci.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668074/
+127.0.0.1 graph.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668075/
+127.0.0.1 o.fern-estates.com #botnet_cc https://threatfox.abuse.ch/ioc/1668076/
+127.0.0.1 conquestcourier.testingweblink.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1668072/
+127.0.0.1 buzzglobal.testingweblink.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1668073/
+127.0.0.1 qualitia.testingweblink.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1668071/
+127.0.0.1 xd.darkh1ll.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668064/
+127.0.0.1 nova.darkh1ll.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668063/
 127.0.0.1 fd.windbr1dge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668062/
 127.0.0.1 wave.windbr1dge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668061/
 127.0.0.1 svqwb.windbr1dge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668060/
@@ -60366,4 +60382,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60367
+# Number of entries: 60383
