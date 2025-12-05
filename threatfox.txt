@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 0up.shadowstream.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668038/
+127.0.0.1 sbh.shadowstream.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668037/
+127.0.0.1 flare.shadowstream.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668035/
+127.0.0.1 sky.r1verstone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668034/
+127.0.0.1 LeDivineEnfant-60344.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1668032/
+127.0.0.1 medloqservices.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1668029/
+127.0.0.1 e2cw.r1verstone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668027/
+127.0.0.1 td.r1verstone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668026/
 127.0.0.1 ps31j.r1verstone.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668025/
 127.0.0.1 r8uw.cl0udwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668024/
 127.0.0.1 zkc.cl0udwave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668023/
@@ -60341,4 +60349,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60342
+# Number of entries: 60350
