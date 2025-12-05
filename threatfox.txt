@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beta.darkc0re.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668001/
+127.0.0.1 nmj.darkc0re.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1668000/
+127.0.0.1 hobmjoi.click #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1667995/
+127.0.0.1 56p3d.darkc0re.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667994/
+127.0.0.1 elastolutdoc.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1667992/
+127.0.0.1 eltesoro000.dynuddns.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1667993/
+127.0.0.1 50625.client.sudorat.ru #botnet_cc, win.orcus_rat, Schnorchel, Orcus RAT https://threatfox.abuse.ch/ioc/1667987/
+127.0.0.1 50625.client.sudorat.top #botnet_cc, win.orcus_rat, Schnorchel, Orcus RAT https://threatfox.abuse.ch/ioc/1667988/
+127.0.0.1 draft22.redirectme.net #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1667986/
+127.0.0.1 telechea123.dynuddns.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1667985/
+127.0.0.1 brownandgraymusic.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1667982/
+127.0.0.1 gatex.brownandgraymusic.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1667983/
+127.0.0.1 myfile.mywire.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1667984/
+127.0.0.1 omega.crystalwind.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667979/
+127.0.0.1 7h7gd.crystalwind.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667977/
+127.0.0.1 tv.crystalwind.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667976/
 127.0.0.1 m0tad.crystalwind.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667975/
 127.0.0.1 b9j.wildrange.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667973/
 127.0.0.1 stone.wildrange.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1667972/
@@ -60317,4 +60333,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60318
+# Number of entries: 60334
