@@ -57930,6 +57930,7 @@
 127.0.0.1 rodformi.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1462353/
 127.0.0.1 dreliefr.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1462355/
 127.0.0.1 tcp.cloudpub.ru #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1462102/
+127.0.0.1 authentifycheck.com #payload_delivery https://threatfox.abuse.ch/ioc/1461870/
 127.0.0.1 conniterot.com #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1461980/
 127.0.0.1 intesteron.com #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1461981/
 127.0.0.1 commoffice.xyz #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1461821/
@@ -60451,4 +60452,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 60452
+# Number of entries: 60453
