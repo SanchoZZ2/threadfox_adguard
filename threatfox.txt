@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jr.minglecrate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671804/
+127.0.0.1 wy3.minglecrate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671758/
+127.0.0.1 storm.minglecrate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671753/
+127.0.0.1 www.msupdate.online #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1671750/
+127.0.0.1 np.minglecrate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671749/
+127.0.0.1 xal.f-1-sslehub.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671746/
+127.0.0.1 sun.f-1-sslehub.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671745/
 127.0.0.1 ocean.f-1-sslehub.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671744/
 127.0.0.1 silent.f-1-sslehub.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671743/
 127.0.0.1 8oc.sprintmold.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671742/
@@ -62162,4 +62169,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62163
+# Number of entries: 62170
