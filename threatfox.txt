@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 range.s0ckthorn.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671092/
+127.0.0.1 2avp8.s0ckthorn.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671091/
+127.0.0.1 9w.s0ckthorn.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671090/
+127.0.0.1 fqusx.s0ckthorn.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671089/
+127.0.0.1 omega.puffwarden.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671087/
+127.0.0.1 pingback.quadixde.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1671083/
+127.0.0.1 ptag1956.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1671082/
+127.0.0.1 malware.motchilltv.you #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1671081/
+127.0.0.1 crystal.puffwarden.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671071/
+127.0.0.1 k4l.puffwarden.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671070/
 127.0.0.1 kqkm9.puffwarden.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671068/
 127.0.0.1 dfad.he2rthyoun8.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671066/
 127.0.0.1 soubrettebaseballlore.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1671065/
@@ -58783,6 +58793,7 @@
 127.0.0.1 server1.humisnee.com #botnet_cc, win.glupteba, Glupteba https://threatfox.abuse.ch/ioc/1491840/
 127.0.0.1 server10.humisnee.com #botnet_cc, win.glupteba, Glupteba https://threatfox.abuse.ch/ioc/1491844/
 127.0.0.1 server2.humisnee.com #botnet_cc, win.glupteba, Glupteba https://threatfox.abuse.ch/ioc/1491848/
+127.0.0.1 approach-af.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1491150/
 127.0.0.1 register-resulting.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1491097/
 127.0.0.1 async1177.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1491075/
 127.0.0.1 wizmodi.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1487505/
@@ -61526,4 +61537,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61527
+# Number of entries: 61538
