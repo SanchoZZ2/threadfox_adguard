@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 watchsmiler.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1670856/
+127.0.0.1 daveshobbymarket.com #payload_delivery https://threatfox.abuse.ch/ioc/1670860/
+127.0.0.1 app.rev-prot.org #payload_delivery https://threatfox.abuse.ch/ioc/1670864/
+127.0.0.1 moxtern.com #payload_delivery https://threatfox.abuse.ch/ioc/1670866/
+127.0.0.1 kuliboku.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1670852/
+127.0.0.1 gru.automanpk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1670849/
+127.0.0.1 gru.diraiat.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1670850/
+127.0.0.1 www.ironhorseauctionai.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670803/
+127.0.0.1 www.91wx.top #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670804/
+127.0.0.1 www.fangdd.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670805/
+127.0.0.1 www.ontra.live #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670806/
+127.0.0.1 www.jrdsj.wiki #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670807/
+127.0.0.1 www.ethegenesis.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670801/
+127.0.0.1 www.lmabogado.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670802/
 127.0.0.1 www.nastyslice.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670788/
 127.0.0.1 www.point-star.net #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670789/
 127.0.0.1 www.kuwn35.com #botnet_cc, win.formbook, win.xloader, Formbook https://threatfox.abuse.ch/ioc/1670790/
@@ -61465,4 +61479,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61466
+# Number of entries: 61480
