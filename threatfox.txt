@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 avocado.gay #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1671015/
+127.0.0.1 www.foldacces.online #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1671013/
+127.0.0.1 www.blackprofit.online #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1671014/
+127.0.0.1 core.l2nd0fenet.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671012/
+127.0.0.1 wtvaa.ba7bdecep.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1671011/
+127.0.0.1 heartofalion.hopto.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1671009/
+127.0.0.1 fqxtcare.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1671007/
+127.0.0.1 flavorwood.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1671006/
+127.0.0.1 polystore9-servicebucket.cc #botnet_cc, win.amatera, Amatera https://threatfox.abuse.ch/ioc/1671002/
+127.0.0.1 globalsnn3-new.cc #botnet_cc, win.amatera, Amatera https://threatfox.abuse.ch/ioc/1671003/
+127.0.0.1 telemetry-updatehub.cc #botnet_cc, win.amatera, Amatera https://threatfox.abuse.ch/ioc/1671004/
 127.0.0.1 watchsmiler.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1670856/
 127.0.0.1 daveshobbymarket.com #payload_delivery https://threatfox.abuse.ch/ioc/1670860/
 127.0.0.1 app.rev-prot.org #payload_delivery https://threatfox.abuse.ch/ioc/1670864/
@@ -61479,4 +61490,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61480
+# Number of entries: 61491
