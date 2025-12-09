@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wavren.oceanpath.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673765/
+127.0.0.1 oceryl.oceanpath.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673762/
+127.0.0.1 merqil.bl0omgate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673760/
+127.0.0.1 teldan.bl0omgate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673759/
+127.0.0.1 heronwater1337.com #botnet_cc https://threatfox.abuse.ch/ioc/1673736/
+127.0.0.1 adani.ddnsgeek.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1673753/
+127.0.0.1 brik0n.bl0omgate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673742/
+127.0.0.1 vlooma.bl0omgate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673735/
 127.0.0.1 garmet.bl0omgate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673734/
 127.0.0.1 durnel.sunshift.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673729/
 127.0.0.1 mechiraz.com #botnet_cc, win.matanbuchus, Matanbuchus https://threatfox.abuse.ch/ioc/1673728/
@@ -63523,4 +63531,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63524
+# Number of entries: 63532
