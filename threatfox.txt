@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beta.twirlpane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673905/
+127.0.0.1 weird.twirl-pane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673904/
+127.0.0.1 pixel.twirl-pane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673903/
+127.0.0.1 bit.twirl-pane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673902/
+127.0.0.1 myaccount.sentihey.dedyn.io #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1673900/
+127.0.0.1 jt5.twirl-pane.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673894/
+127.0.0.1 v5.quirkpaste.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673893/
 127.0.0.1 dizzy.quirkpaste.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673892/
 127.0.0.1 o27y.quirkpaste.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673891/
 127.0.0.1 crumb.quirkpaste.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673890/
@@ -63582,4 +63589,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63583
+# Number of entries: 63590
