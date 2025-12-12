@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 1tza.starl1tewave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676754/
+127.0.0.1 mouc.starl1tewave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676742/
+127.0.0.1 intercttp.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1676702/
+127.0.0.1 italy-divine.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1676706/
+127.0.0.1 content-v2-verisoiu.icu #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1676721/
+127.0.0.1 joyeriatauro.com #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1676722/
+127.0.0.1 alpha.starl1tewave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676737/
+127.0.0.1 z9s.starl1tewave.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676736/
+127.0.0.1 peak.nightl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676723/
+127.0.0.1 zj3m0.nightl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676717/
 127.0.0.1 branch.nightl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676707/
 127.0.0.1 uqdz.nightl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676704/
 127.0.0.1 clear.brightgate.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1676703/
@@ -64339,4 +64349,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64340
+# Number of entries: 64350
