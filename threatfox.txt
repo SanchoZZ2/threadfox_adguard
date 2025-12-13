@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 prong.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677815/
+127.0.0.1 gnash.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677814/
+127.0.0.1 orbit.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677813/
+127.0.0.1 seal.hollow-zip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677812/
+127.0.0.1 minedonate10.waizerfly.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1677807/
+127.0.0.1 login.10x.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1677806/
+127.0.0.1 version3.spc.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1677805/
+127.0.0.1 atthewr.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1677801/
+127.0.0.1 injecto.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1677802/
+127.0.0.1 phytonr.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1677803/
+127.0.0.1 proselw.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1677804/
+127.0.0.1 peshmef.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1677800/
+127.0.0.1 dedefoenumnigga-44957.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1677799/
+127.0.0.1 twine.hollow-zip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677798/
+127.0.0.1 vault.hollow-zip.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677797/
 127.0.0.1 thrust.r0bintorque.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677796/
 127.0.0.1 shear.r0bintorque.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677795/
 127.0.0.1 axle.r0bintorque.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677794/
@@ -64347,4 +64362,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64348
+# Number of entries: 64363
