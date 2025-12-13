@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 glint.stormpixei.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677831/
+127.0.0.1 squall.stormpixei.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677829/
+127.0.0.1 weft.tangleflux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677828/
+127.0.0.1 snarl.tangleflux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677827/
+127.0.0.1 eddy.tangleflux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677826/
+127.0.0.1 whip.tangleflux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677825/
+127.0.0.1 braid.tangleflux.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677823/
+127.0.0.1 spar.plume-anchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677822/
+127.0.0.1 boom.plume-anchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677820/
+127.0.0.1 rope.plume-anchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677819/
+127.0.0.1 dock.plume-anchor.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677818/
+127.0.0.1 maw.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677816/
 127.0.0.1 prong.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677815/
 127.0.0.1 gnash.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677814/
 127.0.0.1 orbit.c1rclefang.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1677813/
@@ -51514,6 +51526,7 @@
 127.0.0.1 nmsl.cnmnm.top #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1544189/
 127.0.0.1 testbotgame.zapto.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1544190/
 127.0.0.1 envio1919.duckdns.org #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1544184/
+127.0.0.1 angularapiworld.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1544069/
 127.0.0.1 goldenclear.top #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1544042/
 127.0.0.1 andrescasablanca9030.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1543956/
 127.0.0.1 reader-chicken.gl.at.ply.gg #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1543942/
@@ -64362,4 +64375,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64363
+# Number of entries: 64376
