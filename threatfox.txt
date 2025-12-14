@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mint.stormf0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678571/
+127.0.0.1 tvlounge.aw #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1678535/
+127.0.0.1 associacaodejudosi.org #payload_delivery, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1678536/
+127.0.0.1 asos1.net #payload_delivery, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1678537/
+127.0.0.1 microsoft.shopmzx.in.net #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1678542/
+127.0.0.1 verify.shopmzx.in.net #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1678543/
+127.0.0.1 storm.stormf0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678570/
+127.0.0.1 ch.stormf0x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678569/
+127.0.0.1 mix.kettle-wisp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678567/
+127.0.0.1 fizz.kettle-wisp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678564/
+127.0.0.1 odd.kettle-wisp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678563/
 127.0.0.1 cask.kettle-wisp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678562/
 127.0.0.1 ejt0w.kettlewisp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678561/
 127.0.0.1 89pdo.kettlewisp.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678560/
@@ -64370,4 +64381,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64371
+# Number of entries: 64382
