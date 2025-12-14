@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 castlerocks.za.com #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1678613/
+127.0.0.1 byte.darkbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678651/
+127.0.0.1 hog.darkbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678650/
+127.0.0.1 4n.darkbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678649/
+127.0.0.1 crest.rockstorm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678642/
+127.0.0.1 mist.rockstorm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678640/
+127.0.0.1 5wnc.rockstorm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678639/
 127.0.0.1 delta.rockstorm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678638/
 127.0.0.1 ab.clearl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678637/
 127.0.0.1 nexus.clearl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1678636/
@@ -64422,4 +64429,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64423
+# Number of entries: 64430
