@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 arch.safebr1dge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679507/
+127.0.0.1 flare.redb1rth.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679506/
+127.0.0.1 dawn.redb1rth.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679505/
+127.0.0.1 nova3.redb1rth.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679504/
+127.0.0.1 ember.redb1rth.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679502/
+127.0.0.1 trh.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1679021/
+127.0.0.1 miov2iaiaoubqosiqoiajwowiwjso.online #botnet_cc, osx.unidentified_001, Unidentified macOS 001 (UnionCryptoTrader) https://threatfox.abuse.ch/ioc/1679304/
+127.0.0.1 mioisiskwowiwjowuwjwolab.club #botnet_cc, osx.unidentified_001, Unidentified macOS 001 (UnionCryptoTrader) https://threatfox.abuse.ch/ioc/1679305/
+127.0.0.1 ns524280.ip-192-99-232.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1679314/
+127.0.0.1 mail.livesquare.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1678895/
+127.0.0.1 img.livesquare.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1678893/
+127.0.0.1 log.livesquare.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1678894/
+127.0.0.1 download.livesquare.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1678892/
+127.0.0.1 api.livesquare.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1678891/
+127.0.0.1 tvm-systems.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1678887/
+127.0.0.1 dusk.black0wl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679495/
+127.0.0.1 readbookstory.kozow.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679494/
 127.0.0.1 hoot.black0wl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679493/
 127.0.0.1 perch.black0wl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679492/
 127.0.0.1 talon2.black0wl.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679491/
@@ -64543,4 +64560,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64544
+# Number of entries: 64561
