@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 delta.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679757/
+127.0.0.1 us.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679756/
+127.0.0.1 forge.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679755/
+127.0.0.1 tra.akina.ovh #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1679753/
+127.0.0.1 tra.asrkala.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1679754/
+127.0.0.1 node.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679750/
+127.0.0.1 o3n.corest0rm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679748/
+127.0.0.1 range.corest0rm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679746/
+127.0.0.1 zpv.corest0rm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679745/
+127.0.0.1 7kqic.corest0rm.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679742/
+127.0.0.1 work.cloudn0de.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679741/
+127.0.0.1 88r.cloudn0de.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679739/
+127.0.0.1 querahinor.xyz #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1679735/
+127.0.0.1 kanagoriyn.xyz #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1679736/
+127.0.0.1 hadachannt.xyz #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1679737/
+127.0.0.1 yuseef-57605.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679727/
+127.0.0.1 gx5xq.cloudn0de.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679725/
+127.0.0.1 mind.cloudn0de.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679724/
 127.0.0.1 bridge.stormm1nt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679723/
 127.0.0.1 crest.stormm1nt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679722/
 127.0.0.1 j24uv.stormm1nt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679721/
@@ -166,7 +184,6 @@
 127.0.0.1 satin.softdr1ve.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679037/
 127.0.0.1 velvet.softdr1ve.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679036/
 127.0.0.1 plush2.softdr1ve.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679035/
-127.0.0.1 1.tcp.jp.ngrok.io #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679033/
 127.0.0.1 francaeso-ctrik-51614.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679032/
 127.0.0.1 grenki2005-34712.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679030/
 127.0.0.1 centre-instruction.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679031/
@@ -64635,4 +64652,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64636
+# Number of entries: 64653
