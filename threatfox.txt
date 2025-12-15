@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nai.kurol.c.sparixx.silverpath.qzz.io #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1679862/
+127.0.0.1 6w5w.darksh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679861/
+127.0.0.1 storm.darksh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679859/
+127.0.0.1 1jm.cloudm1x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679858/
+127.0.0.1 nexus.cloudm1x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679857/
+127.0.0.1 pedhelp.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1679856/
+127.0.0.1 s28z.cloudm1x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679855/
+127.0.0.1 gb.cloudm1x.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679853/
+127.0.0.1 lmsx6.lightw1nd.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679850/
 127.0.0.1 kimv9.lightw1nd.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679844/
 127.0.0.1 dark.lightw1nd.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679843/
 127.0.0.1 n8a.lightw1nd.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679841/
@@ -64690,4 +64699,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64691
+# Number of entries: 64700
