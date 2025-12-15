@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hgdm.mistw0rk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679803/
+127.0.0.1 sotavpn.shop #payload_delivery https://threatfox.abuse.ch/ioc/1679802/
+127.0.0.1 10controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679799/
+127.0.0.1 9controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679797/
+127.0.0.1 8controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679795/
+127.0.0.1 7controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679793/
+127.0.0.1 6controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679791/
+127.0.0.1 8controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679776/
+127.0.0.1 9controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679778/
+127.0.0.1 10controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679780/
+127.0.0.1 2controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679782/
+127.0.0.1 3controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679784/
+127.0.0.1 4controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679786/
+127.0.0.1 5controller.online #payload_delivery https://threatfox.abuse.ch/ioc/1679789/
+127.0.0.1 7controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679773/
+127.0.0.1 6controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679771/
+127.0.0.1 5controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679769/
+127.0.0.1 4controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679767/
+127.0.0.1 3controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679765/
+127.0.0.1 2controller.ru #payload_delivery https://threatfox.abuse.ch/ioc/1679763/
+127.0.0.1 rain.mistw0rk.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679801/
+127.0.0.1 apm.frostl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679787/
+127.0.0.1 sbbc8.frostl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679774/
+127.0.0.1 rm.frostl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679759/
+127.0.0.1 stone.frostl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679758/
 127.0.0.1 delta.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679757/
 127.0.0.1 us.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679756/
 127.0.0.1 forge.skysh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679755/
@@ -64652,4 +64677,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64653
+# Number of entries: 64678
