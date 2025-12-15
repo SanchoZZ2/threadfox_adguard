@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cloud.mintl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679877/
+127.0.0.1 sky.mintl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679875/
+127.0.0.1 shift.mintl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679874/
+127.0.0.1 ra7.mintl1ne.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679873/
+127.0.0.1 cloudflaredns.duckdns.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1679872/
+127.0.0.1 lmn293498-43963.portmap.host #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679871/
+127.0.0.1 dndn01.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1679870/
+127.0.0.1 doitdoit.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1679869/
+127.0.0.1 DONNYDONZG123-55083.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1679868/
+127.0.0.1 www.exodusupdate.app #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1679845/
+127.0.0.1 api.upscholarship.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679846/
+127.0.0.1 bim.sa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679842/
+127.0.0.1 chrome.upscholarship.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679847/
+127.0.0.1 download.upscholarship.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679848/
+127.0.0.1 mail.upscholarship.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679849/
+127.0.0.1 elijah.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679851/
+127.0.0.1 pbcollege.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679852/
+127.0.0.1 monginiscake.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1679854/
+127.0.0.1 vseq.darksh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679866/
+127.0.0.1 u31.darksh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679865/
 127.0.0.1 nai.kurol.c.sparixx.silverpath.qzz.io #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1679862/
 127.0.0.1 6w5w.darksh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679861/
 127.0.0.1 storm.darksh1ft.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1679859/
@@ -64699,4 +64719,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64700
+# Number of entries: 64720
