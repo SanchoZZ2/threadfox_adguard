@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mh.racket-loom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680393/
+127.0.0.1 valid.marvisxoxo.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1680392/
+127.0.0.1 claw.racket-loom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680390/
+127.0.0.1 alpha.racket-loom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680389/
+127.0.0.1 cdn.extremepornvideos.com #botnet_cc https://threatfox.abuse.ch/ioc/1680374/
+127.0.0.1 ellison.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1680388/
+127.0.0.1 pulse.hexapulse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680387/
+127.0.0.1 rootsys.duckdns.org #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1680386/
+127.0.0.1 lowbilding.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1680384/
+127.0.0.1 ortyfivev.crabdance.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1680385/
+127.0.0.1 malware.vle.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1680383/
+127.0.0.1 malware.beachshades.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1680382/
+127.0.0.1 edge.onthewifi.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1680377/
+127.0.0.1 respaldo30000.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1680376/
+127.0.0.1 ellu2222-37691.portmap.hos #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1680375/
+127.0.0.1 hexa.hexapulse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680373/
+127.0.0.1 mediatron.eu.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1679867/
+127.0.0.1 separatto.xyz #payload_delivery https://threatfox.abuse.ch/ioc/1680194/
+127.0.0.1 hazystripe2004.shop #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1680193/
+127.0.0.1 fttyyu-could.icu #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1680242/
+127.0.0.1 sunwin.moi #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1680245/
+127.0.0.1 u24b.hexapulse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680372/
 127.0.0.1 9luf.hexapulse.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680371/
 127.0.0.1 hshvw.racketloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680370/
 127.0.0.1 lq4f.racketloom.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680360/
@@ -2017,7 +2039,6 @@
 127.0.0.1 merahmerona.sbs #botnet_cc https://threatfox.abuse.ch/ioc/1673956/
 127.0.0.1 meomeoli.mooo.com #botnet_cc https://threatfox.abuse.ch/ioc/1673957/
 127.0.0.1 pub-dc84e32afcfa417fa04d36454032549b.r2.dev #botnet_cc https://threatfox.abuse.ch/ioc/1673958/
-127.0.0.1 f003.backblazeb2.com #botnet_cc https://threatfox.abuse.ch/ioc/1673959/
 127.0.0.1 ojqgoengwrbeepixspmsu9zuomvrpzdy5.oast.fun #botnet_cc https://threatfox.abuse.ch/ioc/1673960/
 127.0.0.1 6y504.hex-wander.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673953/
 127.0.0.1 trace.hex-wander.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1673951/
@@ -64710,4 +64731,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64711
+# Number of entries: 64732
