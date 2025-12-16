@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nsd1.indig5pir1t.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1681035/
+127.0.0.1 39nb1.indig5pir1t.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1681027/
+127.0.0.1 y7.indig5pir1t.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1681023/
+127.0.0.1 uysjt.a1tistt0rt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1681019/
+127.0.0.1 quacksar-31780.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1681011/
+127.0.0.1 secureconnection.anondns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1681010/
+127.0.0.1 rem1225.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1681009/
+127.0.0.1 1y.a1tistt0rt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1681005/
+127.0.0.1 ku.a1tistt0rt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1681004/
 127.0.0.1 9nn.a1tistt0rt.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680807/
 127.0.0.1 warp.sk2tear0und.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680806/
 127.0.0.1 rgqg.sk2tear0und.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1680805/
@@ -64911,4 +64920,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64912
+# Number of entries: 64921
