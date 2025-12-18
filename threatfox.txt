@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lumen.sv0orchond0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682327/
+127.0.0.1 synap3.sv0orchond0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682324/
+127.0.0.1 ala.marcialongman.com.br #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1682320/
+127.0.0.1 ala.cimansazan.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1682321/
+127.0.0.1 chord.sv0orchond0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682313/
+127.0.0.1 organ.sv0orchond0.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682311/
+127.0.0.1 rampart.obor1shwron8.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682281/
+127.0.0.1 sentry5.obor1shwron8.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682280/
 127.0.0.1 ward.obor1shwron8.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682279/
 127.0.0.1 muster.b2ckymembe7.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682278/
 127.0.0.1 roll.b2ckymembe7.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1682275/
@@ -65019,4 +65027,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65020
+# Number of entries: 65028
