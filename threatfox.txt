@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 groovyfox.today #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1683409/
+127.0.0.1 qumral.e9uilyb5opr.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683408/
+127.0.0.1 hom1e-c2ity.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1683402/
+127.0.0.1 grandideapay.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1683403/
+127.0.0.1 socialcloudguru.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1683404/
+127.0.0.1 cardlowestgroup.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1683405/
+127.0.0.1 kelzir.c1imby2p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683401/
+127.0.0.1 punv0x.c1imby2p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683399/
+127.0.0.1 drasqi.c1imby2p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683397/
+127.0.0.1 lem7ur.c1imby2p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683384/
+127.0.0.1 wobnix.c1imby2p.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683383/
 127.0.0.1 texuld.c2rb0lduty.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1683333/
 127.0.0.1 atalowh.sbs #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1683329/
 127.0.0.1 philanm.sbs #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1683330/
@@ -65207,4 +65218,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65208
+# Number of entries: 65219
