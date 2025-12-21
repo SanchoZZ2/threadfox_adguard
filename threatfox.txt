@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 oi.bracket-fern.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684418/
+127.0.0.1 kurol.io #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1684417/
+127.0.0.1 10.bracket-fern.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684416/
+127.0.0.1 py9.bracketfern.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684415/
+127.0.0.1 rblfh.bracketfern.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684413/
+127.0.0.1 maaahao.vip #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1684412/
+127.0.0.1 danaloids-38924.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1684411/
+127.0.0.1 scd.bracketfern.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684409/
+127.0.0.1 cc.bracketfern.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684408/
 127.0.0.1 507.fl-1-ntrelay.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684407/
 127.0.0.1 trace.fl-1-ntrelay.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684406/
 127.0.0.1 8o9r.fl-1-ntrelay.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684405/
@@ -65531,4 +65540,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65532
+# Number of entries: 65541
