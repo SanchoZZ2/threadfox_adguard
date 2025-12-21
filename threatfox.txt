@@ -1,4 +1,40 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 warp.fl1ntrelay.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684356/
+127.0.0.1 crackle.fl1ntrelay.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684355/
+127.0.0.1 nxu6.amber-coil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684354/
+127.0.0.1 qt.amber-coil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684352/
+127.0.0.1 convergepay.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684218/
+127.0.0.1 southstateonline.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684219/
+127.0.0.1 saferpay.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684220/
+127.0.0.1 spendesk.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684221/
+127.0.0.1 carterfcu.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684222/
+127.0.0.1 flagstarbank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684223/
+127.0.0.1 tivimate.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684224/
+127.0.0.1 app-slash.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684225/
+127.0.0.1 fleetone.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684226/
+127.0.0.1 tronskan.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684227/
+127.0.0.1 skinbaaron.com #botnet_cc https://threatfox.abuse.ch/ioc/1684228/
+127.0.0.1 firstcitizensonline.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684230/
+127.0.0.1 skinbaron.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684229/
+127.0.0.1 achievacredit.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684232/
+127.0.0.1 websterbank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684231/
+127.0.0.1 synovusbank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684233/
+127.0.0.1 bannerbank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684234/
+127.0.0.1 ephratanational.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684235/
+127.0.0.1 numericacredit.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684236/
+127.0.0.1 renasantbank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684237/
+127.0.0.1 commercebank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684238/
+127.0.0.1 comericawebbanking.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684239/
+127.0.0.1 amerisbank.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684240/
+127.0.0.1 vacuonline.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684241/
+127.0.0.1 fusebox-elavon.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684247/
+127.0.0.1 psecumember.co.com #botnet_cc https://threatfox.abuse.ch/ioc/1684242/
+127.0.0.1 horizon-united-cherry.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1684253/
+127.0.0.1 koz1.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1684204/
+127.0.0.1 e2etestsworker.localhost #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1684322/
+127.0.0.1 domain1.sa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1684333/
+127.0.0.1 torch.amber-coil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684351/
+127.0.0.1 nova.amber-coil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684350/
 127.0.0.1 8ux.ambercoil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684349/
 127.0.0.1 vixen.ambercoil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684348/
 127.0.0.1 omega.ambercoil.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1684347/
@@ -65469,4 +65505,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65470
+# Number of entries: 65506
