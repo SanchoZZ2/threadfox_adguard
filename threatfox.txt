@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 alpha.cl0udriver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685152/
+127.0.0.1 fire.cl0udriver.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685151/
+127.0.0.1 miraisystem1337.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1685150/
+127.0.0.1 0mp8j.n1ghtbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685148/
+127.0.0.1 forge.n1ghtbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685146/
+127.0.0.1 ember.n1ghtbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685137/
+127.0.0.1 airvcastro.duckdns.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1685135/
+127.0.0.1 blue.n1ghtbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685134/
 127.0.0.1 pixel.n1ghtbreeze.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685131/
 127.0.0.1 xet.kievholod.kiev.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1685103/
 127.0.0.1 wepay.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1685118/
@@ -65926,4 +65934,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65927
+# Number of entries: 65935
