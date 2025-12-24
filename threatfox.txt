@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sf.fl0wmortar.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685991/
+127.0.0.1 patch.fl0wmortar.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685990/
+127.0.0.1 lv2.fl0wmortar.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685988/
+127.0.0.1 jr33x.amber-flint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685986/
+127.0.0.1 nccf0.amber-flint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685984/
+127.0.0.1 drive.sentihey.dedyn.io #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1685977/
+127.0.0.1 content.sentihey.dedyn.io #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1685976/
+127.0.0.1 kno.amber-flint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685975/
+127.0.0.1 odd.amber-flint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685974/
 127.0.0.1 pixel.amber-flint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685973/
 127.0.0.1 zigzag.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685972/
 127.0.0.1 63.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685971/
@@ -66219,4 +66228,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66220
+# Number of entries: 66229
