@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pixel.amber-flint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685973/
+127.0.0.1 zigzag.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685972/
+127.0.0.1 63.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685971/
+127.0.0.1 basin.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685970/
+127.0.0.1 ua4ch.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685969/
+127.0.0.1 5x80a.amberflint.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685968/
+127.0.0.1 l9o.knurl-pocket.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685967/
+127.0.0.1 pocket.knurl-pocket.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685966/
+127.0.0.1 alpha.knurl-pocket.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685965/
+127.0.0.1 jinx.knurl-pocket.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685964/
+127.0.0.1 flow.knurl-pocket.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685961/
 127.0.0.1 oul.v0xenridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685960/
 127.0.0.1 ripple.v0xenridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685956/
 127.0.0.1 nova.v0xenridge.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1685955/
@@ -66208,4 +66219,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66209
+# Number of entries: 66220
