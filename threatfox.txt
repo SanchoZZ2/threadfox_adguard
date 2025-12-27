@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tspmo-40154.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1687270/
+127.0.0.1 hhgyqyai.savefalke.qpon #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687269/
+127.0.0.1 r4ojz98h.savefalke.qpon #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687268/
+127.0.0.1 yhkd41e4.savefalke.qpon #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687267/
 127.0.0.1 9pbhrc3o.bargainbucht.qpon #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687260/
 127.0.0.1 cisun35q.bargainbucht.qpon #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687259/
 127.0.0.1 84sruvb9.bargainbucht.qpon #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687258/
@@ -64340,6 +64344,7 @@
 127.0.0.1 vozaspecial.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1452513/
 127.0.0.1 oversizes.ghostgames.mom #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1452512/
 127.0.0.1 s3awscloud.com #botnet_cc, win.netwire, NetWeird, NetWire https://threatfox.abuse.ch/ioc/1452197/
+127.0.0.1 pinkpanther54.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1451971/
 127.0.0.1 soothingpitllow.icu #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1451857/
 127.0.0.1 battlefie.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1451856/
 127.0.0.1 googlelivenews.com #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1451544/
@@ -65897,6 +65902,7 @@
 127.0.0.1 srpmx.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1171009/
 127.0.0.1 redlan.hopto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170922/
 127.0.0.1 sptx1.duckdns.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170711/
+127.0.0.1 faccbookcom.zapto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170560/
 127.0.0.1 dreem.linkpc.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170148/
 127.0.0.1 mohbeebnew.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168378/
 127.0.0.1 blackbenz.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168333/
@@ -66642,4 +66648,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66643
+# Number of entries: 66649
