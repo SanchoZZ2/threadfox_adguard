@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 booksbabies.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1687042/
+127.0.0.1 grassturkey.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1687043/
+127.0.0.1 paperbee.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1687044/
+127.0.0.1 viewblood.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1687041/
+127.0.0.1 shalyunkotmoroz-104.icu #botnet_cc https://threatfox.abuse.ch/ioc/1687040/
+127.0.0.1 koz7.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686910/
+127.0.0.1 koz9.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686911/
+127.0.0.1 koz3.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686912/
+127.0.0.1 koz6.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686914/
+127.0.0.1 koz4.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686913/
+127.0.0.1 koz8.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686915/
+127.0.0.1 teklynx.eu.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1686935/
 127.0.0.1 k62hnb6k.bristlecove.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687028/
 127.0.0.1 8rkjy130.bristlecove.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687027/
 127.0.0.1 dtr2u19m.hush-ripple.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687026/
@@ -66555,4 +66567,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66556
+# Number of entries: 66568
