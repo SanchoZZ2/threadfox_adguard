@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 micesisters.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1687451/
+127.0.0.1 hpkr.help #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1687450/
+127.0.0.1 suzoo.ryxuz.com #botnet_cc https://threatfox.abuse.ch/ioc/1687439/
+127.0.0.1 setkapls99.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687436/
+127.0.0.1 setkapls88.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687435/
+127.0.0.1 setkapls77.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687434/
 127.0.0.1 aacademica.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687256/
 127.0.0.1 brightcleaners.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687266/
 127.0.0.1 sarkariexamresult.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1687315/
@@ -66649,4 +66655,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66650
+# Number of entries: 66656
