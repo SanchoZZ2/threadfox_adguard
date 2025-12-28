@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 h-crime.gl.at.ply.gg #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1687804/
+127.0.0.1 doddmandi-51221.portmap.io #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687801/
+127.0.0.1 jerseys-store.us.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1687800/
+127.0.0.1 condor90-50240.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1687797/
+127.0.0.1 305v33-40382.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1687798/
 127.0.0.1 y9eygjch.skym0ti0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687795/
 127.0.0.1 un5gi16o.skym0ti0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687794/
 127.0.0.1 uvo951pg.skym0ti0n.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1687793/
@@ -65737,6 +65742,7 @@
 127.0.0.1 revivewronggykwos.xyz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1312629/
 127.0.0.1 trickysymptommysqu.xyz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1312632/
 127.0.0.1 agosto14.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312407/
+127.0.0.1 method8888.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312406/
 127.0.0.1 2015wuyun.cc #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1310529/
 127.0.0.1 yanzu.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1310076/
 127.0.0.1 vxsrwrm.duckdns.org #botnet_cc, win.donut_injector, Donut, donut_injector https://threatfox.abuse.ch/ioc/1307884/
@@ -66722,4 +66728,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66723
+# Number of entries: 66729
