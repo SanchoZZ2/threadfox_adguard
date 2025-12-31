@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 barbermoo.today #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1689192/
+127.0.0.1 eyadking.linkpc.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1689191/
+127.0.0.1 masonratopngga-51671.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1689190/
+127.0.0.1 logs.veredictum.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689183/
+127.0.0.1 skdlfsd-56502.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1689181/
+127.0.0.1 yassinedfe4-39487.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1689182/
 127.0.0.1 abdumido20181.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1689153/
 127.0.0.1 dark-kok01.duckdns.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1689154/
 127.0.0.1 xxnx.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1689155/
@@ -66860,4 +66866,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66861
+# Number of entries: 66867
