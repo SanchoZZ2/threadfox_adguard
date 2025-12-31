@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 Mitch275-37737.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1689096/
 127.0.0.1 jasm72mf.vagusbra.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1689010/
 127.0.0.1 goe0vvjr.vagusbra.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1689009/
 127.0.0.1 qzf73dvm.vagusbra.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1689008/
@@ -66802,4 +66803,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66803
+# Number of entries: 66804
