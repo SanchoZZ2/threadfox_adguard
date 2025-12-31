@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 capture.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689236/
+127.0.0.1 googletagmanager.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689237/
+127.0.0.1 gstatic.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689234/
+127.0.0.1 static.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689235/
+127.0.0.1 ctwebhook.chatutor.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689232/
 127.0.0.1 altex.jpn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689195/
 127.0.0.1 kubet.de.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689196/
 127.0.0.1 www.adunion.se #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689202/
@@ -66874,4 +66879,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66875
+# Number of entries: 66880
