@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bornodatabase.ng #payload_delivery https://threatfox.abuse.ch/ioc/1689304/
+127.0.0.1 ekoplod.pentasoftcomputers.eu #payload_delivery https://threatfox.abuse.ch/ioc/1689303/
+127.0.0.1 usajili.hamasagroup.com #payload_delivery https://threatfox.abuse.ch/ioc/1689302/
+127.0.0.1 www.weiterbildungsblog.de #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689301/
 127.0.0.1 momcherries.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1689293/
 127.0.0.1 umbrellaroad.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1689294/
 127.0.0.1 landerror.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1689292/
@@ -10,14 +14,27 @@
 127.0.0.1 x.vlxx.bz #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1689289/
 127.0.0.1 smartcloaker.sbs #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1689280/
 127.0.0.1 google.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689264/
+127.0.0.1 www.bsdeboomgaard.be #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689260/
 127.0.0.1 ctn8n.chatutor.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689253/
 127.0.0.1 www.xbwa1.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1689250/
 127.0.0.1 wzy.firstanquan.cn #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1689249/
+127.0.0.1 www.taylorwebsolutions.com #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689248/
+127.0.0.1 www.tnpconsultants.ch #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689247/
+127.0.0.1 zaklad.zoloautor.pl #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689246/
+127.0.0.1 www.axpdresources.com #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689245/
+127.0.0.1 www.dimant.laena.de #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689244/
 127.0.0.1 capture.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689236/
 127.0.0.1 googletagmanager.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689237/
 127.0.0.1 gstatic.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689234/
 127.0.0.1 static.coppsindoor.org #botnet_cc https://threatfox.abuse.ch/ioc/1689235/
 127.0.0.1 ctwebhook.chatutor.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689232/
+127.0.0.1 www.assenmacher-koeln.de #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689230/
+127.0.0.1 www.eclairons.com #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689229/
+127.0.0.1 www.kaffa.se #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689228/
+127.0.0.1 www.davidberger.net #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689215/
+127.0.0.1 viridissima.ch #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689214/
+127.0.0.1 tv.german-mma.de #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689210/
+127.0.0.1 yasminbusko.pl #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689209/
 127.0.0.1 altex.jpn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689195/
 127.0.0.1 kubet.de.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689196/
 127.0.0.1 www.adunion.se #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689202/
@@ -76,6 +93,7 @@
 127.0.0.1 secure.seketafrica.org #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1689069/
 127.0.0.1 f0f5d142773c9409d043c11054bb39b4.be15023586893006b4acf9ef23a9691f.traefik.default #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1689070/
 127.0.0.1 Mitch275-37737.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1689096/
+127.0.0.1 setting.cc #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689016/
 127.0.0.1 jasm72mf.vagusbra.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1689010/
 127.0.0.1 goe0vvjr.vagusbra.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1689009/
 127.0.0.1 qzf73dvm.vagusbra.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1689008/
@@ -66847,4 +66865,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66848
+# Number of entries: 66866
