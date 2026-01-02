@@ -66768,6 +66768,7 @@
 127.0.0.1 childhealthresources.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1023854/
 127.0.0.1 360safeupdate.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1023821/
 127.0.0.1 aksaholdings.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1021044/
+127.0.0.1 blax-market.com #payload_delivery, win.qakbot, Oakboat, Pinkslipbot https://threatfox.abuse.ch/ioc/1018735/
 127.0.0.1 msisfx.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1012628/
 127.0.0.1 get-smartbuyer.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1009773/
 127.0.0.1 zx.stakcl.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1000513/
@@ -66944,4 +66945,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66945
+# Number of entries: 66946
