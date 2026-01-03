@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 diao.jingxiaoliandong.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1690801/
+127.0.0.1 c1.msft-config-service.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1690797/
 127.0.0.1 invoicing-kyc.com #payload_delivery https://threatfox.abuse.ch/ioc/1690788/
 127.0.0.1 www.dev.ostra-regal.com #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1689867/
 127.0.0.1 www.diallocksmith.keydesigndevelopment.com #botnet_cc, js.gootloader, SLOWPOUR, GootLoader https://threatfox.abuse.ch/ioc/1690689/
@@ -831,7 +833,7 @@
 127.0.0.1 habs.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689385/
 127.0.0.1 oceanic.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689386/
 127.0.0.1 cno.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689387/
-127.0.0.1 probable-winner.info #botnet_cc https://threatfox.abuse.ch/ioc/1689389/
+127.0.0.1 probable-winner.info #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1689389/
 127.0.0.1 dctask8000.ydns.eu #payload_delivery, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1689400/
 127.0.0.1 militgy.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1689795/
 127.0.0.1 offenms.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1689796/
@@ -67454,4 +67456,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67455
+# Number of entries: 67457
