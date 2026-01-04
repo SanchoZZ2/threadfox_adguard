@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 velvetpaw2031.cfd #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690877/
+127.0.0.1 my-api-lol.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690878/
+127.0.0.1 lgr7mgmwdnswvdgw.wincryptapi.com #botnet_cc https://threatfox.abuse.ch/ioc/1690846/
+127.0.0.1 goooooogk.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1690828/
+127.0.0.1 korex.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1690827/
+127.0.0.1 ptn.kievteplo.kiev.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1690800/
+127.0.0.1 ptn.tfba.me #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1690799/
+127.0.0.1 juridico.tjtjusticia.com #payload_delivery https://threatfox.abuse.ch/ioc/1690943/
 127.0.0.1 shabi9988-64207.portmap.host #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1690935/
 127.0.0.1 secure.ciberseguridad-eia.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1690876/
 127.0.0.1 customer.cathost.io #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1690873/
@@ -67451,4 +67459,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67452
+# Number of entries: 67460
