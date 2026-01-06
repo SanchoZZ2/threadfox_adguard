@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tpl.tfba.me #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1692060/
+127.0.0.1 tpl.kievteplo.kiev.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1692061/
 127.0.0.1 invoice-statement.com #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692057/
 127.0.0.1 eaupdateservice.ddns.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1692055/
 127.0.0.1 saliangel.ru #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1692053/
@@ -67535,4 +67537,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67536
+# Number of entries: 67538
