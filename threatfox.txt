@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 stoyo-59509.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1692554/
+127.0.0.1 msservice.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692229/
+127.0.0.1 avserivce.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692230/
+127.0.0.1 msmanager.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692231/
+127.0.0.1 plugins-manager.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692227/
+127.0.0.1 avumanager.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692228/
+127.0.0.1 connectmanager.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1692226/
+127.0.0.1 dinozozo.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1692178/
+127.0.0.1 pippyheydguide.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1692180/
 127.0.0.1 rang.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1692202/
 127.0.0.1 techsanjay.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1692201/
 127.0.0.1 pqs.uk.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1692200/
@@ -67486,4 +67495,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67487
+# Number of entries: 67496
