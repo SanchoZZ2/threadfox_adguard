@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 login.ciberseguridad-eia.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1693356/
+127.0.0.1 join.ciberseguridad-eia.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1693354/
+127.0.0.1 outlook.ciberseguridad-eia.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1693355/
+127.0.0.1 sonbaharindirimi.sbs #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1693352/
 127.0.0.1 ewaewaeawwe-47532.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1693334/
 127.0.0.1 arvrestbnkonline.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1693316/
 127.0.0.1 vci.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1693314/
@@ -67639,4 +67643,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67640
+# Number of entries: 67644
