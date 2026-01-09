@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mcafeeupdates.com #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1693246/
+127.0.0.1 frttsch.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1693304/
+127.0.0.1 roadmap.lifeinsurancemasters.net #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1693307/
+127.0.0.1 foresposition.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1693328/
+127.0.0.1 mercedesheritage.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1693336/
+127.0.0.1 vdsturkiye.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1693346/
+127.0.0.1 farforshop.cfd #botnet_cc, win.aurastealer, AURA Stealer, AURASTEAL https://threatfox.abuse.ch/ioc/1693350/
 127.0.0.1 ZobyYog3nyah123-35769.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1693415/
 127.0.0.1 bbb.flash-china.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1693401/
 127.0.0.1 wey.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1693392/
@@ -67602,4 +67609,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67603
+# Number of entries: 67610
