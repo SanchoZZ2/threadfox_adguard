@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 relay.trankor.online #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1700186/
+127.0.0.1 export.galmabuna.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1700199/
+127.0.0.1 mintyfang2026.cyou #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1700187/
+127.0.0.1 docs.exitdriving.school #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1700290/
+127.0.0.1 ziplocker.duckdns.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1700294/
+127.0.0.1 fish-needed.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1700293/
 127.0.0.1 fnlipr.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1700269/
 127.0.0.1 xqjiin.sa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1700205/
 127.0.0.1 orionshipping.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1700204/
@@ -67658,4 +67664,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67659
+# Number of entries: 67665
