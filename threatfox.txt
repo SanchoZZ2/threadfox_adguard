@@ -65157,6 +65157,7 @@
 127.0.0.1 ns1.connectlink.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1458994/
 127.0.0.1 e.x.formaxprime.co.uk #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1458982/
 127.0.0.1 519nmcj312v7y.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1458974/
+127.0.0.1 dynamicjsdevelopers.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1458926/
 127.0.0.1 cdn.chatgpt-cdn.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1458913/
 127.0.0.1 ferrousz.digital #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1458778/
 127.0.0.1 wordingvenuo.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1458690/
@@ -67518,4 +67519,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67519
+# Number of entries: 67520
