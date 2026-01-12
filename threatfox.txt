@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 readconfig.x1s.icu #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1701308/
+127.0.0.1 nightcopper.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1701302/
+127.0.0.1 beeftexture.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1701303/
+127.0.0.1 distancebedroom.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1701304/
+127.0.0.1 animalrecord.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1701305/
+127.0.0.1 crrhelp.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1701301/
+127.0.0.1 indian-lotus.cc #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1701236/
+127.0.0.1 backend-knwv.onrender.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1701275/
+127.0.0.1 solfson.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1701278/
+127.0.0.1 portwinejoke.icu #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1701282/
+127.0.0.1 inforash.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1701284/
+127.0.0.1 fuzzy-pickle.cc #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1701290/
 127.0.0.1 sub.erom-e.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1701294/
 127.0.0.1 sub.zeronoiseclassroom.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1701295/
 127.0.0.1 uberdeltagss.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1701274/
@@ -67480,4 +67492,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67481
+# Number of entries: 67493
