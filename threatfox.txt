@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 potential-memory.cc #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1731571/
+127.0.0.1 iploits.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1731572/
+127.0.0.1 lowin.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1731566/
+127.0.0.1 siren20260105.com #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1731564/
+127.0.0.1 nimm666.biz #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1731563/
+127.0.0.1 sayfalse-33597.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1731557/
+127.0.0.1 disco222222-31929.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1731558/
+127.0.0.1 hustleathem.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1731556/
 127.0.0.1 srgsy.za.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731540/
 127.0.0.1 verify-my-accounts.com #payload_delivery https://threatfox.abuse.ch/ioc/1731535/
 127.0.0.1 invoice-simplee.com #payload_delivery https://threatfox.abuse.ch/ioc/1731536/
@@ -67522,4 +67530,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67523
+# Number of entries: 67531
