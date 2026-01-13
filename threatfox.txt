@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 watchstore.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731607/
+127.0.0.1 getpan.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731606/
+127.0.0.1 fly881.us.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731605/
+127.0.0.1 fedralmouint.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731604/
+127.0.0.1 dxyiz.za.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731603/
+127.0.0.1 anaycarrentalcabbookings.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731602/
+127.0.0.1 6183.cn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1731601/
+127.0.0.1 gts.zeronoiseclassroom.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1731600/
+127.0.0.1 gts.erom-e.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1731599/
+127.0.0.1 basvuru.kurasizkatilim.sbs #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1731595/
+127.0.0.1 nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1731587/
+127.0.0.1 tgsst34i6z4mwdj2kpigixxb3k3xfz7xhuqnsowvfvyu3snm6nv4s5ad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1731588/
+127.0.0.1 myeli53ogsryjg2kob4xqxtwkr5oc5zj7jr5fcfizpytwe566k5thxyd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1731589/
+127.0.0.1 6oeuvb4fq65xlrft2ezxjmkeqnu7oafbsevrr3ocer27wft6ivvhstqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1731590/
+127.0.0.1 ryrw2ojab62yij4y33ssfgvm2d2vwt3tcqetu6qmpwznqhooqxz3wpqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1731591/
 127.0.0.1 wealthybanks.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1731586/
 127.0.0.1 n3bulast34l3r.es #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1731575/
 127.0.0.1 remaxbemidji.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1731577/
@@ -67535,4 +67550,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67536
+# Number of entries: 67551
