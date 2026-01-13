@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nom.erom-e.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1731582/
+127.0.0.1 nom.zeronoiseclassroom.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1731583/
 127.0.0.1 potential-memory.cc #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1731571/
 127.0.0.1 iploits.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1731572/
 127.0.0.1 lowin.zapto.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1731566/
@@ -67530,4 +67532,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67531
+# Number of entries: 67533
