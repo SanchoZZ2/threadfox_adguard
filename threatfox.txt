@@ -67367,6 +67367,7 @@
 127.0.0.1 broskabrwaf.com #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1033907/
 127.0.0.1 googlecontentuser.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1031731/
 127.0.0.1 test.227api.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1031726/
+127.0.0.1 lacasadeltexu.com #payload_delivery, win.qakbot, Oakboat, Pinkslipbot https://threatfox.abuse.ch/ioc/1031286/
 127.0.0.1 palalto.live #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1029025/
 127.0.0.1 esoftwareupdates.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1028963/
 127.0.0.1 globalplayservices.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1028767/
@@ -67550,4 +67551,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67551
+# Number of entries: 67552
