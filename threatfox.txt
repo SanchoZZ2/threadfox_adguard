@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gracefulm.fun #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1732486/
+127.0.0.1 ns1.padyhost.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1732467/
+127.0.0.1 cerkery.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1732446/
+127.0.0.1 gigglywhisker2010.sbs #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1732456/
+127.0.0.1 meeller.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1732469/
 127.0.0.1 newscontractors.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1732472/
 127.0.0.1 motabhaitadka.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1732471/
 127.0.0.1 quentin.it.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1732464/
@@ -67964,4 +67969,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67965
+# Number of entries: 67970
