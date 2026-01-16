@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mxx.sekershuk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1732666/
+127.0.0.1 mxx.123230.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1732667/
+127.0.0.1 tth.sekershuk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1732668/
+127.0.0.1 tth.123230.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1732669/
 127.0.0.1 aliyundunupdate.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1732631/
 127.0.0.1 triplecust.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1732563/
 127.0.0.1 buenisa.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1732567/
@@ -67980,4 +67984,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67981
+# Number of entries: 67985
