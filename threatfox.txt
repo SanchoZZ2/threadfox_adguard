@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 psp.jpn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733598/
+127.0.0.1 166bet.com.br #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733597/
+127.0.0.1 poc.sekershuk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1733589/
+127.0.0.1 poc.123230.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1733590/
+127.0.0.1 kle.sekershuk.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1733591/
+127.0.0.1 kle.123230.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1733592/
+127.0.0.1 test.dnslogger.site #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1733583/
 127.0.0.1 www.oe1m4w297y.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733582/
 127.0.0.1 www.67betapp.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733581/
 127.0.0.1 vlxx.ms #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733580/
@@ -68374,4 +68381,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68375
+# Number of entries: 68382
