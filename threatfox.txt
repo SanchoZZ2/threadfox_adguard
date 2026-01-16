@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 greatlyspeak.co.za #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1733645/
+127.0.0.1 oconneln.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1733594/
 127.0.0.1 aassecc.ydns.eu #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733641/
 127.0.0.1 privatedns.lcweikiki.com #botnet_cc, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1733620/
 127.0.0.1 ukg.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1733618/
@@ -68384,4 +68386,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68385
+# Number of entries: 68387
