@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 deterministic-physics.api-cloud-dispatch-core.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1734064/
+127.0.0.1 latency-compensation-lyr.rt-sim-ws-repl-clstr.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1734063/
+127.0.0.1 gameplay-event-date.data-plane-api-gateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1734062/
 127.0.0.1 a2.auaacc2.vip #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1734036/
 127.0.0.1 a2.auaadd1.vip #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1734037/
 127.0.0.1 anbui7.ddns.net #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1733988/
@@ -68409,4 +68412,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68410
+# Number of entries: 68413
