@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wilknnson.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1734849/
+127.0.0.1 dl.zeekitchenandbathdesign.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1734860/
+127.0.0.1 operiteons.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1734884/
+127.0.0.1 static.urgaacoffeeroastery.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1734904/
+127.0.0.1 filipsesperanto.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1734905/
+127.0.0.1 seramyuthrenodycollect.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1734903/
 127.0.0.1 d2d.agfoodpos.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1734872/
 127.0.0.1 severo.mobilefoundationrepair.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1734873/
 127.0.0.1 zak.agfoodpos.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1734874/
@@ -68339,4 +68345,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68340
+# Number of entries: 68346
