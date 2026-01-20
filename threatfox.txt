@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www1.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734770/
+127.0.0.1 shoe.eu.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734769/
+127.0.0.1 floorspace.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734768/
+127.0.0.1 fb888.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734767/
+127.0.0.1 cngov.cn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734766/
 127.0.0.1 qoz.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734765/
 127.0.0.1 www.wiklpedia.net #botnet_cc, win.vshell, VShell https://threatfox.abuse.ch/ioc/1734461/
 127.0.0.1 touchkasablanka.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1734440/
@@ -68312,4 +68317,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68313
+# Number of entries: 68318
