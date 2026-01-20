@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 1.ooocyber.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1734987/
+127.0.0.1 2.ooocyber.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1734988/
+127.0.0.1 3.ooocyber.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1734989/
+127.0.0.1 cdn-css-framework.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1734990/
+127.0.0.1 cpass.verf-secu4u.art #botnet_cc https://threatfox.abuse.ch/ioc/1734991/
+127.0.0.1 js-framework.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1734992/
+127.0.0.1 cdn-js-connection.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1734993/
+127.0.0.1 update211.security-ssa-gov.com #botnet_cc https://threatfox.abuse.ch/ioc/1734994/
+127.0.0.1 winiks.com #botnet_cc https://threatfox.abuse.ch/ioc/1734995/
 127.0.0.1 otraprueba.ddnsfree.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1734928/
 127.0.0.1 wsergoijnrjewgewr.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1734925/
 127.0.0.1 boats.kaisenc2.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1734918/
@@ -68373,4 +68382,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68374
+# Number of entries: 68383
