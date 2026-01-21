@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xxblessing2026now.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1735045/
+127.0.0.1 panel.kalygenesis.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1734912/
+127.0.0.1 gl1g7tts-5500.euw.devtunnels.ms #payload_delivery, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1734938/
 127.0.0.1 atlretf7m.localto.net #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1735042/
 127.0.0.1 us-neuroquiet.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1735038/
 127.0.0.1 losespadadz.myftp.biz #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1735037/
@@ -68369,4 +68372,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68370
+# Number of entries: 68373
