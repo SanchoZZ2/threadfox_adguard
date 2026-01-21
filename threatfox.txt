@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 moon.sunwinn.earth #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1735176/
+127.0.0.1 moon.sunwin.sx #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1735175/
+127.0.0.1 moon.sunwin.moi #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1735174/
+127.0.0.1 moon.sun.win #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1735173/
+127.0.0.1 drain.it.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1735172/
+127.0.0.1 medhrrst.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1735065/
+127.0.0.1 winnheiser.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1735148/
+127.0.0.1 0thjokxbgefw2ejh.wincryptapi.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1735151/
+127.0.0.1 imbalanceposib.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1735153/
 127.0.0.1 chibenu6223.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1735150/
 127.0.0.1 newincomes.minhaempresa.tv #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1735143/
 127.0.0.1 globalbusinesstradings.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1735144/
@@ -68403,4 +68412,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68404
+# Number of entries: 68413
