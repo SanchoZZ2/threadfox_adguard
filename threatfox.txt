@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 t9vdmkdro.localto.net #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1735286/
+127.0.0.1 moon.drain.it.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1735279/
+127.0.0.1 the-banned.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1735275/
+127.0.0.1 we.isecure.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1735274/
+127.0.0.1 ddy.yago.fun #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1735272/
+127.0.0.1 elevor.mobilefoundationrepair.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1735273/
 127.0.0.1 3iss-online.3iss-online.com.br #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1735178/
 127.0.0.1 99idesign.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1735179/
 127.0.0.1 africaexports.click #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1735180/
@@ -68505,4 +68511,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68506
+# Number of entries: 68512
