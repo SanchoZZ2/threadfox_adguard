@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lmn990112-54741.portmap.host #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1736206/
+127.0.0.1 luvxc1de.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1736202/
+127.0.0.1 hL2k-32291.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1736201/
 127.0.0.1 elimnasir.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1736191/
 127.0.0.1 cbb.lidiia.com.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1736199/
 127.0.0.1 cbb.borendrokontho.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1736198/
@@ -67914,6 +67917,7 @@
 127.0.0.1 rsaupdatr.jumpingcrab.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160468/
 127.0.0.1 poykoqnl7jkj632.info #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160456/
 127.0.0.1 PgqduOYXVZeNNam.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160451/
+127.0.0.1 swapo222.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160439/
 127.0.0.1 eaidali.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160410/
 127.0.0.1 settings.wifizone.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160354/
 127.0.0.1 3xe94lqhph0janx.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160341/
@@ -68602,4 +68606,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68603
+# Number of entries: 68607
