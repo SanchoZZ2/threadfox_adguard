@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jaskolkki.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1736166/
+127.0.0.1 helsibreak.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1736169/
+127.0.0.1 app.tatatech.co #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1736174/
 127.0.0.1 www.lyraconnect.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1736158/
 127.0.0.1 www.lyra-connect.us #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1736157/
 127.0.0.1 s38omfg2.cinderpouch.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1736110/
@@ -68595,4 +68598,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68596
+# Number of entries: 68599
