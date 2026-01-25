@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 goaenergy.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1737076/
+127.0.0.1 57c42474b0ea.ofalias.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1737074/
+127.0.0.1 garellla-30563.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1737030/
 127.0.0.1 enemy1.no-ip.info #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1736799/
 127.0.0.1 genetichax.no-ip.biz #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1736796/
 127.0.0.1 kc15.no-ip.info #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1736798/
@@ -67074,4 +67077,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67075
+# Number of entries: 67078
