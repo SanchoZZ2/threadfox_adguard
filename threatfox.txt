@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 thitandaeru.top #botnet_cc https://threatfox.abuse.ch/ioc/1737738/
+127.0.0.1 onetime-authentication.cruiserscrib.com #botnet_cc https://threatfox.abuse.ch/ioc/1737737/
+127.0.0.1 dno.cdcmn.edu.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1737730/
+127.0.0.1 dno.lidiia.com.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1737731/
+127.0.0.1 heismanscholarship.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1737708/
+127.0.0.1 miabiollen.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1737710/
+127.0.0.1 special.blainrealtor.net #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1737726/
 127.0.0.1 lmd.cdcmn.edu.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1737724/
 127.0.0.1 lmd.lidiia.com.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1737725/
 127.0.0.1 hqnq.sa.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1737720/
@@ -67095,4 +67102,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67096
+# Number of entries: 67103
