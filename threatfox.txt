@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 forkgramme.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1737906/
+127.0.0.1 mif.cdcmn.edu.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1737877/
+127.0.0.1 mif.lidiia.com.ua #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1737878/
 127.0.0.1 modaaura.store #payload_delivery https://threatfox.abuse.ch/ioc/1737784/
 127.0.0.1 lionsmanetech.shop #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1737864/
 127.0.0.1 winterfall102.ddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1737867/
@@ -67116,4 +67119,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67117
+# Number of entries: 67120
