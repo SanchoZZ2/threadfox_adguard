@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 yoga.tatatech.net #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1738561/
+127.0.0.1 nra.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1738591/
+127.0.0.1 jwwp.cn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1738590/
+127.0.0.1 d8zljb.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1738589/
+127.0.0.1 changingcanoes.us.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1738588/
+127.0.0.1 asianswitch.gb.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1738587/
+127.0.0.1 mail.onetime-authentication.cruiserscrib.com #botnet_cc https://threatfox.abuse.ch/ioc/1738570/
 127.0.0.1 banengids.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1738548/
 127.0.0.1 globaljira.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1738551/
 127.0.0.1 gty.cloudvaly.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738558/
@@ -67126,4 +67133,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67127
+# Number of entries: 67134
