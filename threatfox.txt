@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 midlandaudio.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1738714/
+127.0.0.1 bek.cloudvaly.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738701/
+127.0.0.1 bek.beznervov.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738702/
+127.0.0.1 pov.cloudvaly.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738703/
+127.0.0.1 pov.beznervov.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738704/
+127.0.0.1 tor.cloudvaly.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738705/
+127.0.0.1 tor.beznervov.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1738706/
 127.0.0.1 Th3Hunt3r-53504.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1738661/
 127.0.0.1 deeyou.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1738631/
 127.0.0.1 www.carhartt-market.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1738624/
@@ -67115,4 +67122,4 @@
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 gstatuslog.com #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1875/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67116
+# Number of entries: 67123
