@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 app-google3.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1757249/
+127.0.0.1 majekssoftware.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757248/
+127.0.0.1 newangelnewlifenewhopeformoneygetrichbac.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757247/
+127.0.0.1 smartmultiservice.in.net #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1757246/
 127.0.0.1 fogwharf.graydock.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757184/
 127.0.0.1 pks.jhotpot.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757174/
 127.0.0.1 pks.cricket-matters.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757175/
@@ -61203,6 +61207,7 @@
 127.0.0.1 jqni1my7489jkmb.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161585/
 127.0.0.1 johnhoff2.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161586/
 127.0.0.1 5bwfdr9ipmxb0qq.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161572/
+127.0.0.1 rem3876.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161553/
 127.0.0.1 johnhoff.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161527/
 127.0.0.1 rex2020.myddns.me #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161524/
 127.0.0.1 favour2021.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161516/
@@ -61922,4 +61927,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61923
+# Number of entries: 61928
