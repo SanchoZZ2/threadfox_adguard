@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jkoyz.tollabemakki.info #botnet_cc https://threatfox.abuse.ch/ioc/1757494/
+127.0.0.1 asteriaproject.dstat.click #botnet_cc, elf.bashlite, gayfgt, Gafgyt https://threatfox.abuse.ch/ioc/1757498/
+127.0.0.1 pjnwbd.za.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757491/
+127.0.0.1 pubs.eu.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757490/
+127.0.0.1 vee.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757489/
+127.0.0.1 buy-cheap-online.us.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757488/
+127.0.0.1 www.belaijobackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757487/
+127.0.0.1 www.belaijobackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757486/
 127.0.0.1 manuelee.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757415/
 127.0.0.1 bot.jhotpot.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757283/
 127.0.0.1 bot.cricket-physio.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757284/
@@ -59138,6 +59146,7 @@
 127.0.0.1 cnm.mom #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1563320/
 127.0.0.1 logandlog.ddns.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1563259/
 127.0.0.1 darkstore.pw #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1562919/
+127.0.0.1 anything-desired.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1562925/
 127.0.0.1 www.qlchacha.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1562890/
 127.0.0.1 web.d-you.uk #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1562889/
 127.0.0.1 googlecloudtest.webredirect.org #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1562888/
@@ -59491,6 +59500,7 @@
 127.0.0.1 odyssey-st.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1551553/
 127.0.0.1 17.aa.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1551535/
 127.0.0.1 qr.ap.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1551533/
+127.0.0.1 her-workshops.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1551217/
 127.0.0.1 dns1.globalcdn.autos #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1550783/
 127.0.0.1 jobs.qtelcloud.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1549847/
 127.0.0.1 supihk.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1549739/
@@ -61988,4 +61998,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61989
+# Number of entries: 61999
