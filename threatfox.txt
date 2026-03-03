@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fogwharf.graydock.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757184/
+127.0.0.1 pks.jhotpot.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757174/
+127.0.0.1 pks.cricket-matters.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757175/
 127.0.0.1 mainecourtreporting.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757148/
 127.0.0.1 halleyforsaf.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757143/
 127.0.0.1 marimarivelley.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757144/
@@ -61919,4 +61922,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61920
+# Number of entries: 61923
