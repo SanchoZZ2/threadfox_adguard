@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 marcos.techadvisor.mx #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757897/
+127.0.0.1 save-node.savingssit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757896/
 127.0.0.1 loyalcap.website #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757895/
 127.0.0.1 trail-x.goldtrail.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757894/
 127.0.0.1 lovinglifewithcass.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757892/
@@ -62093,4 +62095,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62094
+# Number of entries: 62096
