@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 floridamovietheaters.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1757592/
+127.0.0.1 marceloubaldo.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757584/
+127.0.0.1 forest-run.oaktrail.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757583/
+127.0.0.1 oak05.oaktrail.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757582/
+127.0.0.1 marcavalado.anavalado.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757562/
 127.0.0.1 jkoyz.tollabemakki.info #botnet_cc https://threatfox.abuse.ch/ioc/1757494/
 127.0.0.1 asteriaproject.dstat.click #botnet_cc, elf.bashlite, gayfgt, Gafgyt https://threatfox.abuse.ch/ioc/1757498/
 127.0.0.1 pjnwbd.za.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757491/
@@ -61998,4 +62003,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61999
+# Number of entries: 62004
