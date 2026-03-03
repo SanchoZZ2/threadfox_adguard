@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 manuelee.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757415/
+127.0.0.1 bot.jhotpot.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757283/
+127.0.0.1 bot.cricket-physio.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1757284/
+127.0.0.1 mantena.mg.gov.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757279/
+127.0.0.1 mansi.cmpatelandcompany.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757278/
+127.0.0.1 medipeads.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1757275/
 127.0.0.1 solarbase.suncrest.in.net@80 #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757267/
 127.0.0.1 crest01.suncrest.in.net@80 #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757266/
 127.0.0.1 hazesenpai67-61821.portmap.host #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757258/
@@ -61982,4 +61988,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61983
+# Number of entries: 61989
