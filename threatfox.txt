@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 9.tcp.cpolar.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1758003/
+127.0.0.1 jimej54602-35562.portmap.host #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1758002/
+127.0.0.1 crop-sync.croprotation.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758001/
 127.0.0.1 marshalljonesjr.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758000/
 127.0.0.1 medical.digibuddy.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757999/
 127.0.0.1 marks-blindajefinanciero.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757998/
@@ -62123,4 +62126,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62124
+# Number of entries: 62127
