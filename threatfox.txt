@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 blue03.bluehaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758189/
+127.0.0.1 sky-sync.bluehaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758186/
+127.0.0.1 haven-v1.bluehaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758185/
+127.0.0.1 blue-node.bluehaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758183/
+127.0.0.1 h1gh-xpl0r.highexplos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758182/
 127.0.0.1 mcot.thai.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758179/
 127.0.0.1 8a2yizw9.earedteach.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758177/
 127.0.0.1 v0ad7mre.earedteach.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758176/
@@ -62195,4 +62200,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62196
+# Number of entries: 62201
