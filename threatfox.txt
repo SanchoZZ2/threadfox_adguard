@@ -1,4 +1,81 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 marketingdigital.uno #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757981/
+127.0.0.1 insur-net.dachshreinsur.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757980/
+127.0.0.1 bank-sync.savingssit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757979/
+127.0.0.1 vault08.savingssit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757978/
+127.0.0.1 nowof.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1757977/
+127.0.0.1 somethinggoodfeaturesarewaitingforyoumyf.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757976/
+127.0.0.1 llonger.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1757973/
+127.0.0.1 ggq.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757971/
+127.0.0.1 giovannini.eu.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757972/
+127.0.0.1 v3.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757966/
+127.0.0.1 v3.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757967/
+127.0.0.1 v3.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757968/
+127.0.0.1 v3.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757969/
+127.0.0.1 v3.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757970/
+127.0.0.1 ddos.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757937/
+127.0.0.1 ddos.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757938/
+127.0.0.1 ddos.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757939/
+127.0.0.1 ddos.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757940/
+127.0.0.1 malware.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757941/
+127.0.0.1 malware.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757942/
+127.0.0.1 malware.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757943/
+127.0.0.1 malware.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757944/
+127.0.0.1 malware.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757945/
+127.0.0.1 malware.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757946/
+127.0.0.1 phishing.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757947/
+127.0.0.1 phishing.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757948/
+127.0.0.1 phishing.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757949/
+127.0.0.1 phishing.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757950/
+127.0.0.1 phishing.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757951/
+127.0.0.1 phishing.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757952/
+127.0.0.1 quantri.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757953/
+127.0.0.1 quantri.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757954/
+127.0.0.1 quantri.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757955/
+127.0.0.1 quantri.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757956/
+127.0.0.1 quantri.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757957/
+127.0.0.1 quantri.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757958/
+127.0.0.1 v2.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757959/
+127.0.0.1 v2.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757960/
+127.0.0.1 v2.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757961/
+127.0.0.1 v2.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757962/
+127.0.0.1 v2.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757963/
+127.0.0.1 v2.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757964/
+127.0.0.1 v3.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757965/
+127.0.0.1 90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757916/
+127.0.0.1 atex.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757917/
+127.0.0.1 atex.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757918/
+127.0.0.1 atex.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757919/
+127.0.0.1 atex.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757920/
+127.0.0.1 atex.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757921/
+127.0.0.1 atex.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757922/
+127.0.0.1 backup.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757923/
+127.0.0.1 backup.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757924/
+127.0.0.1 backup.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757925/
+127.0.0.1 backup.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757926/
+127.0.0.1 backup.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757927/
+127.0.0.1 backup.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757928/
+127.0.0.1 data.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757929/
+127.0.0.1 data.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757930/
+127.0.0.1 data.harassmentfreealbany.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757931/
+127.0.0.1 data.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757932/
+127.0.0.1 data.xoilac86ez.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757933/
+127.0.0.1 data.yearofcolour.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757934/
+127.0.0.1 ddos.90phutiu.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757935/
+127.0.0.1 ddos.cakhiaas.cc #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757936/
+127.0.0.1 andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757906/
+127.0.0.1 atex.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757907/
+127.0.0.1 backup.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757908/
+127.0.0.1 data.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757909/
+127.0.0.1 ddos.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757910/
+127.0.0.1 malware.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757911/
+127.0.0.1 phishing.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757912/
+127.0.0.1 quantri.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757913/
+127.0.0.1 v2.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757914/
+127.0.0.1 v3.andregiordan.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757915/
+127.0.0.1 mq3.za.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757905/
+127.0.0.1 broadres5.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1757904/
+127.0.0.1 mariodeganelli.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757903/
 127.0.0.1 odx9za7g.suffocturkey.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757902/
 127.0.0.1 68s7z85n.suffocturkey.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757901/
 127.0.0.1 sit-v1.savingssit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757900/
@@ -62100,4 +62177,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62101
+# Number of entries: 62178
