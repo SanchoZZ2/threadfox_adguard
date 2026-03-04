@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 meetings.niagads.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758472/
+127.0.0.1 sorny-v3.pastorsorny.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758471/
+127.0.0.1 past-core.pastorsorny.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758468/
+127.0.0.1 long-run.longtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758467/
+127.0.0.1 go88vn.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1758465/
+127.0.0.1 vcq.uk.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1758466/
+127.0.0.1 chrono07.longtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758464/
+127.0.0.1 time-v2.longtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758463/
 127.0.0.1 long-site.longtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758462/
 127.0.0.1 medicompu.mx #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758455/
 127.0.0.1 medicalnutri.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758454/
@@ -62286,4 +62294,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62287
+# Number of entries: 62295
