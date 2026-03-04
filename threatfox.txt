@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 phys-sync.dysenteryphysics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758506/
+127.0.0.1 physics09.dysenteryphysics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758502/
+127.0.0.1 dys-v4.dysenteryphysics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758501/
+127.0.0.1 phys-unit.dysenteryphysics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758476/
+127.0.0.1 medvis.ro #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758475/
+127.0.0.1 past01.pastorsorny.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758473/
 127.0.0.1 meetings.niagads.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758472/
 127.0.0.1 sorny-v3.pastorsorny.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758471/
 127.0.0.1 past-core.pastorsorny.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758468/
@@ -62294,4 +62300,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62295
+# Number of entries: 62301
