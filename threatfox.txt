@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 long-site.longtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758462/
+127.0.0.1 medicompu.mx #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758455/
+127.0.0.1 medicalnutri.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758454/
+127.0.0.1 sync-base.multilsacred.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758453/
+127.0.0.1 multi03.multilsacred.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758452/
+127.0.0.1 zhanhu.ydns.eu #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1758450/
+127.0.0.1 yinhukong.ydns.eu #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1758451/
+127.0.0.1 k4mtpn.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1758449/
+127.0.0.1 sacred-v1.multilsacred.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758447/
+127.0.0.1 mediaro-demo.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758446/
+127.0.0.1 multi-node.multilsacred.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758445/
+127.0.0.1 wolf01.wolfhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758444/
+127.0.0.1 wild-sync.wolfhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758443/
 127.0.0.1 media.math4teaching.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758442/
 127.0.0.1 haven-v9.wolfhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758441/
 127.0.0.1 wolf-run.wolfhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758440/
@@ -62273,4 +62286,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62274
+# Number of entries: 62287
