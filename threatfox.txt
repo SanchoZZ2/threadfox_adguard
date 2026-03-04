@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mataimenes.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758036/
+127.0.0.1 vec-v1.suspendvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758035/
+127.0.0.1 feedback.grovecitypestcontrol.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1757581/
+127.0.0.1 haven-core.redhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757604/
+127.0.0.1 wind-unit.windcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757607/
+127.0.0.1 massimuta.ru #payload_delivery https://threatfox.abuse.ch/ioc/1757608/
+127.0.0.1 soundlovlr.ru #payload_delivery https://threatfox.abuse.ch/ioc/1757610/
+127.0.0.1 crest03.windcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757613/
+127.0.0.1 porora.icu #payload_delivery https://threatfox.abuse.ch/ioc/1757614/
+127.0.0.1 wind-v1.windcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757621/
+127.0.0.1 air-path.windcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757619/
+127.0.0.1 joseph-stalin.top #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1757624/
+127.0.0.1 dach-core.dachshreinsur.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757982/
+127.0.0.1 rot-node.croprotation.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758010/
+127.0.0.1 susp-node.suspendvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758025/
+127.0.0.1 mcjohnnycruz.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758034/
+127.0.0.1 www.windowstoolsupdate4278874.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1758033/
+127.0.0.1 web.yg.ink #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1758030/
+127.0.0.1 web.vx.ink #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1758031/
+127.0.0.1 service.hsjyxx.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1758032/
+127.0.0.1 system.yg.ink #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1758028/
+127.0.0.1 system.vx.ink #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1758029/
+127.0.0.1 mastrainer.app #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758026/
+127.0.0.1 masterwall.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758024/
+127.0.0.1 hengxin588.com #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1758018/
 127.0.0.1 vec-core.suspendvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758016/
 127.0.0.1 massumifukuda.work #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758015/
 127.0.0.1 rot04.croprotation.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758014/
@@ -62132,4 +62157,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62133
+# Number of entries: 62158
