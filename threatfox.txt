@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 doth-sync.caliphdotham.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758046/
+127.0.0.1 olf4rjbg.hardmosolenog.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758044/
+127.0.0.1 whsacrev.hardmosolenog.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758043/
+127.0.0.1 cal-node.caliphdotham.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758042/
+127.0.0.1 materasso.by #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758041/
+127.0.0.1 2v42nbtg.deliainaturner.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758040/
+127.0.0.1 nlxzjez2.deliainaturner.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758039/
+127.0.0.1 susp03.suspendvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758038/
 127.0.0.1 mataimenes.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758036/
 127.0.0.1 vec-v1.suspendvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758035/
 127.0.0.1 feedback.grovecitypestcontrol.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1757581/
@@ -60018,6 +60026,7 @@
 127.0.0.1 ministry.ilovegaysex.su #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1518095/
 127.0.0.1 news.zf-emea.com #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1517158/
 127.0.0.1 cestfinidns.vip #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1517064/
+127.0.0.1 r-exploring.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516950/
 127.0.0.1 field-alpha.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516920/
 127.0.0.1 paltalkroom.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1516682/
 127.0.0.1 webexone.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1515432/
@@ -62157,4 +62166,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62158
+# Number of entries: 62167
