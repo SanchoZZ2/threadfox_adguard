@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 marks-blindajefinanciero.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757998/
+127.0.0.1 insur02.dachshreinsur.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757984/
+127.0.0.1 shre-v1.dachshreinsur.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757983/
 127.0.0.1 marketingdigital.uno #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1757981/
 127.0.0.1 insur-net.dachshreinsur.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757980/
 127.0.0.1 bank-sync.savingssit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1757979/
@@ -62177,4 +62180,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62178
+# Number of entries: 62181
