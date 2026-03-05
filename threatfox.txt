@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 disc-v9.grimasdiscuss.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758655/
+127.0.0.1 micled.cn #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758654/
+127.0.0.1 grim-vault.grimasdiscuss.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758653/
+127.0.0.1 down-path.falldown.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758651/
+127.0.0.1 michalispavlidis-lab.eu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758650/
+127.0.0.1 yardvalue.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1758649/
+127.0.0.1 bre93qhl.bullymarvel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758648/
+127.0.0.1 fall05.falldown.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758647/
+127.0.0.1 michaelsolanke.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758646/
+127.0.0.1 5h8l4tqq.bullymarvel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758645/
+127.0.0.1 down-v8.falldown.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758642/
+127.0.0.1 fall-node.falldown.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758641/
 127.0.0.1 yelpmo.com #payload_delivery https://threatfox.abuse.ch/ioc/1758290/
 127.0.0.1 vipflorence.com #payload_delivery https://threatfox.abuse.ch/ioc/1758294/
 127.0.0.1 stylenemesiis.com #payload_delivery, js.magecart, magecart https://threatfox.abuse.ch/ioc/1758503/
@@ -60155,6 +60167,7 @@
 127.0.0.1 httpss.ooguy.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516914/
 127.0.0.1 field-alpha.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516920/
 127.0.0.1 paltalkroom.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1516682/
+127.0.0.1 brolyx95.duckdns.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1515749/
 127.0.0.1 webexone.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1515432/
 127.0.0.1 cromatsfewbears.top #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1515397/
 127.0.0.1 dodoexchange.live #botnet_cc https://threatfox.abuse.ch/ioc/1515213/
@@ -61246,6 +61259,7 @@
 127.0.0.1 ti.twilight.zip #botnet_cc, js.more_eggs, SpicyOmelette, SKID https://threatfox.abuse.ch/ioc/1358808/
 127.0.0.1 asdasw21.icu #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1358688/
 127.0.0.1 cmacnnkfbhlcncm.top #botnet_cc https://threatfox.abuse.ch/ioc/1358361/
+127.0.0.1 wodresomdaymomentum.org #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1357355/
 127.0.0.1 mcajijknegnbbga.top #botnet_cc https://threatfox.abuse.ch/ioc/1357319/
 127.0.0.1 bkkeiekjfcdaaen.top #botnet_cc https://threatfox.abuse.ch/ioc/1357307/
 127.0.0.1 cignjjgmdnbchhc.top #botnet_cc https://threatfox.abuse.ch/ioc/1357308/
@@ -62287,4 +62301,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62288
+# Number of entries: 62302
