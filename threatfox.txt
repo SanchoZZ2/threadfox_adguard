@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 break-v4.breakskird.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758993/
+127.0.0.1 dog.myserver.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1758990/
+127.0.0.1 dog.cricket-physio.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1758991/
+127.0.0.1 break-unit.breakskird.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758987/
+127.0.0.1 trav01.constelluntrav.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758985/
+127.0.0.1 const-v3.constelluntrav.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758984/
+127.0.0.1 trav-base.constelluntrav.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758983/
 127.0.0.1 coach-v2.coachsoup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758980/
 127.0.0.1 coach-sync.coachsoup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758977/
 127.0.0.1 caregiveme.org #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1758970/
@@ -61598,4 +61605,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61599
+# Number of entries: 61606
