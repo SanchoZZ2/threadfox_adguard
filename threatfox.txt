@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lose06.amperelose.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759237/
+127.0.0.1 amp-v1.amperelose.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759236/
+127.0.0.1 volt-sync.amperelose.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759235/
+127.0.0.1 amp-lose.amperelose.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759231/
+127.0.0.1 kero-net.avonkerosene.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759029/
+127.0.0.1 avon-core.avonkerosene.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759028/
 127.0.0.1 maku07.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759027/
 127.0.0.1 port-v8.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759026/
 127.0.0.1 maku-base.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759025/
@@ -8540,6 +8546,7 @@
 127.0.0.1 imacdrivedock.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1738964/
 127.0.0.1 new-endpoints.byteconnect.io #botnet_cc https://threatfox.abuse.ch/ioc/1738957/
 127.0.0.1 trabahando.theworkpc.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1738844/
+127.0.0.1 www.ski-snowboardvancouver.ca #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1738878/
 127.0.0.1 accounts.booking.ciberseguridad-eia.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1738908/
 127.0.0.1 vitoboy.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1738886/
 127.0.0.1 captolls.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1738884/
@@ -61641,4 +61648,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61642
+# Number of entries: 61649
