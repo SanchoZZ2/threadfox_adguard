@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 yelpmo.com #payload_delivery https://threatfox.abuse.ch/ioc/1758290/
+127.0.0.1 vipflorence.com #payload_delivery https://threatfox.abuse.ch/ioc/1758294/
+127.0.0.1 stylenemesiis.com #payload_delivery, js.magecart, magecart https://threatfox.abuse.ch/ioc/1758503/
+127.0.0.1 stylecanoonon.com #payload_delivery, js.magecart, magecart https://threatfox.abuse.ch/ioc/1758505/
+127.0.0.1 ofaskfaksfmtjmka.com #payload_delivery https://threatfox.abuse.ch/ioc/1758510/
+127.0.0.1 stylewowcafwe.com #payload_delivery, js.magecart, magecart https://threatfox.abuse.ch/ioc/1758504/
+127.0.0.1 PlixoWorks.com #payload_delivery https://threatfox.abuse.ch/ioc/1758514/
+127.0.0.1 plixolabsaf.com #payload_delivery https://threatfox.abuse.ch/ioc/1758517/
+127.0.0.1 mvjfkakfkfkaiai.com #payload_delivery https://threatfox.abuse.ch/ioc/1758520/
+127.0.0.1 zevoroz.com #payload_delivery https://threatfox.abuse.ch/ioc/1758524/
+127.0.0.1 shorteverydaynnn.com #payload_delivery https://threatfox.abuse.ch/ioc/1758525/
+127.0.0.1 cam4fr.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1758530/
+127.0.0.1 cpanel.grovecityhvacservices.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1758532/
+127.0.0.1 fasrbaundidnbb.vg #payload_delivery https://threatfox.abuse.ch/ioc/1758535/
+127.0.0.1 cdnwoopress.com #payload_delivery https://threatfox.abuse.ch/ioc/1758564/
+127.0.0.1 palanusantara.com #payload_delivery https://threatfox.abuse.ch/ioc/1758566/
+127.0.0.1 mrinmay.net #payload_delivery https://threatfox.abuse.ch/ioc/1758572/
+127.0.0.1 subsgod.com #payload_delivery https://threatfox.abuse.ch/ioc/1758573/
+127.0.0.1 traderslinkfx.com #payload_delivery https://threatfox.abuse.ch/ioc/1758574/
+127.0.0.1 nobovcs.com #payload_delivery https://threatfox.abuse.ch/ioc/1758578/
 127.0.0.1 mi.ngarengan.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758623/
 127.0.0.1 mhtp.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758622/
 127.0.0.1 mgfurniture.com.my #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758619/
@@ -60132,6 +60152,7 @@
 127.0.0.1 news.zf-emea.com #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1517158/
 127.0.0.1 cestfinidns.vip #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1517064/
 127.0.0.1 r-exploring.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516950/
+127.0.0.1 httpss.ooguy.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516914/
 127.0.0.1 field-alpha.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1516920/
 127.0.0.1 paltalkroom.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1516682/
 127.0.0.1 webexone.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1515432/
@@ -62266,4 +62287,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62267
+# Number of entries: 62288
