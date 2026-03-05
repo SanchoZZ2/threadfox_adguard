@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 m3it2tb0.bullymarvel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758694/
+127.0.0.1 bkaxd9y8.bullymarvel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758693/
+127.0.0.1 gad.myserver.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1758685/
+127.0.0.1 gad.cricket-physio.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1758686/
+127.0.0.1 wwe.myserver.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1758687/
+127.0.0.1 wwe.cricket-physio.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1758688/
+127.0.0.1 farm-run.rabbitfarm.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758676/
+127.0.0.1 talk-sync.grimasdiscuss.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758663/
+127.0.0.1 gb31welb.bullymarvel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758661/
+127.0.0.1 enzab92d.bullymarvel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758657/
+127.0.0.1 grim06.grimasdiscuss.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758656/
 127.0.0.1 disc-v9.grimasdiscuss.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758655/
 127.0.0.1 micled.cn #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1758654/
 127.0.0.1 grim-vault.grimasdiscuss.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758653/
@@ -17,10 +28,10 @@
 127.0.0.1 stylecanoonon.com #payload_delivery, js.magecart, magecart https://threatfox.abuse.ch/ioc/1758505/
 127.0.0.1 ofaskfaksfmtjmka.com #payload_delivery https://threatfox.abuse.ch/ioc/1758510/
 127.0.0.1 stylewowcafwe.com #payload_delivery, js.magecart, magecart https://threatfox.abuse.ch/ioc/1758504/
-127.0.0.1 PlixoWorks.com #payload_delivery https://threatfox.abuse.ch/ioc/1758514/
-127.0.0.1 plixolabsaf.com #payload_delivery https://threatfox.abuse.ch/ioc/1758517/
+127.0.0.1 PlixoWorks.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1758514/
+127.0.0.1 plixolabsaf.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1758517/
 127.0.0.1 mvjfkakfkfkaiai.com #payload_delivery https://threatfox.abuse.ch/ioc/1758520/
-127.0.0.1 zevoroz.com #payload_delivery https://threatfox.abuse.ch/ioc/1758524/
+127.0.0.1 zevoroz.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1758524/
 127.0.0.1 shorteverydaynnn.com #payload_delivery https://threatfox.abuse.ch/ioc/1758525/
 127.0.0.1 cam4fr.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1758530/
 127.0.0.1 cpanel.grovecityhvacservices.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1758532/
@@ -62301,4 +62312,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62302
+# Number of entries: 62313
