@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 maku07.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759027/
+127.0.0.1 port-v8.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759026/
+127.0.0.1 maku-base.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759025/
+127.0.0.1 port-fol.makuhaportfol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759024/
+127.0.0.1 synch03.corvetsynchron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759023/
+127.0.0.1 net-hub.commundesign.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758964/
+127.0.0.1 com04.commundesign.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758976/
+127.0.0.1 soup-node.coachsoup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758978/
+127.0.0.1 soup09.coachsoup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758981/
+127.0.0.1 const-gate.constelluntrav.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758982/
+127.0.0.1 skird-net.breakskird.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758992/
+127.0.0.1 skird05.breakskird.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758994/
+127.0.0.1 hryv08.hryvmicrobiol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759005/
+127.0.0.1 hryv-node.hryvmicrobiol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759003/
+127.0.0.1 login.craftyinkymagic.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1759006/
+127.0.0.1 big-prog.bigamyprogramm.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759007/
+127.0.0.1 sys-node.bigamyprogramm.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759008/
+127.0.0.1 prog-v6.bigamyprogramm.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759009/
+127.0.0.1 Dldo3-53471.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1759020/
+127.0.0.1 motchillio.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1759019/
+127.0.0.1 corvet-v7.corvetsynchron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759017/
+127.0.0.1 dinosaursjam.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1759016/
+127.0.0.1 achievershelf.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1759015/
+127.0.0.1 synch-node.corvetsynchron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759013/
+127.0.0.1 corvet-sync.corvetsynchron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759011/
 127.0.0.1 big02.bigamyprogramm.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759010/
 127.0.0.1 micro-v5.hryvmicrobiol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759004/
 127.0.0.1 saj.gr.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1759002/
@@ -59163,6 +59188,7 @@
 127.0.0.1 8xney90cqcr5m.cfc-execute.su.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1547849/
 127.0.0.1 rockyx22.duckdns.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1546536/
 127.0.0.1 cstest250617.ddns.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1546517/
+127.0.0.1 yj233.e1.luyouxia.net #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1546358/
 127.0.0.1 mohamed88.work.gd #botnet_cc, win.houdini, Hworm, Jenxcus https://threatfox.abuse.ch/ioc/1546295/
 127.0.0.1 bavmv.xyz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1545566/
 127.0.0.1 agnioysz.xyz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1545111/
@@ -61615,4 +61641,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61616
+# Number of entries: 61642
