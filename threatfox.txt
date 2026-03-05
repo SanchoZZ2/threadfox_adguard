@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 coach-v2.coachsoup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758980/
+127.0.0.1 coach-sync.coachsoup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758977/
+127.0.0.1 caregiveme.org #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1758970/
+127.0.0.1 design-v1.commundesign.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758965/
+127.0.0.1 update.mythic.cymru #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1758961/
+127.0.0.1 com-design.commundesign.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758962/
 127.0.0.1 mimi-knotline.mimisttie.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758959/
 127.0.0.1 tinythread.mimisttie.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758958/
 127.0.0.1 zk8q4.mimisttie.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758955/
@@ -61592,4 +61598,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61593
+# Number of entries: 61599
