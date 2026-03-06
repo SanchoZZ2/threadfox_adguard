@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 double-v6.austrodouble.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760437/
+127.0.0.1 austro-hub.austrodouble.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760435/
+127.0.0.1 dia-net.dialectblood.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760434/
+127.0.0.1 dia-v5.dialectblood.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760431/
+127.0.0.1 blood-unit.dialectblood.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760430/
+127.0.0.1 mx7society.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760429/
+127.0.0.1 moro-sync.moroshkasvet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760428/
+127.0.0.1 pidoras6742-56928.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1760427/
+127.0.0.1 aviammo.shop #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1760426/
 127.0.0.1 svet09.moroshkasvet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760424/
 127.0.0.1 muvisaskillgen.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760422/
 127.0.0.1 moro-v4.moroshkasvet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760421/
@@ -62431,4 +62440,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62432
+# Number of entries: 62441
