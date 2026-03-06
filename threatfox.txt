@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 trail-net.trailvantage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759351/
+127.0.0.1 lamon.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1759350/
 127.0.0.1 vant-v8.trailvantage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759343/
 127.0.0.1 logi-base.trailvantage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759342/
 127.0.0.1 sent03.skysentry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1759341/
@@ -61609,4 +61611,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 61610
+# Number of entries: 61612
