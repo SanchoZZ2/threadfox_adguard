@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 com03.comenskeptic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760331/
+127.0.0.1 skept-v1.comenskeptic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760330/
+127.0.0.1 loja.controlink.pt #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760329/
+127.0.0.1 com-node.comenskeptic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760328/
+127.0.0.1 fieldman-toolnode.fieldmanfix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760327/
+127.0.0.1 qi1.xin #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1760326/
+127.0.0.1 vrf.myserver.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1760324/
+127.0.0.1 vrf.digitalmatters360.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1760325/
+127.0.0.1 ruralcraft.fieldmanfix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760322/
 127.0.0.1 y6mrx.fieldmanfix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760319/
 127.0.0.1 blind-devgrid.blinderdevour.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760318/
 127.0.0.1 darkconsume.blinderdevour.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760317/
@@ -62379,4 +62388,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62380
+# Number of entries: 62389
