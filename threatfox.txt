@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mine08.minenrichment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760455/
+127.0.0.1 rich-v7.minenrichment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760454/
+127.0.0.1 mine-base.minenrichment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760453/
+127.0.0.1 double-sync.austrodouble.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760452/
 127.0.0.1 www.uqr4lo1t.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1760446/
 127.0.0.1 www.vqpnhn8j.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1760445/
 127.0.0.1 austro02.austrodouble.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760438/
@@ -62443,4 +62447,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62444
+# Number of entries: 62448
