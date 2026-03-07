@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 auto-compass.automodcompass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760580/
+127.0.0.1 m2afutbol.es #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760579/
+127.0.0.1 m.sdfauto.ro #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760575/
+127.0.0.1 www.antalyarehber.xyz #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1760568/
+127.0.0.1 manisarehber.xyz #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1760567/
 127.0.0.1 ional-hub.nasotoptional.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760562/
 127.0.0.1 nasot-opt.nasotoptional.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760561/
 127.0.0.1 lent-net.chopexcellent.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760559/
@@ -62445,4 +62450,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62446
+# Number of entries: 62451
