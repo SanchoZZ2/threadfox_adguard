@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 plain-net.frostplain.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761147/
+127.0.0.1 frost-v77.frostplain.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761146/
+127.0.0.1 plain-site.frostplain.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761145/
+127.0.0.1 storm-base.stormridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761144/
+127.0.0.1 ridge-sys.stormridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761143/
+127.0.0.1 storm-v6.stormridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761141/
+127.0.0.1 lp.rtcursos.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761140/
+127.0.0.1 ridge-peak.stormridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761139/
+127.0.0.1 grove-node.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761138/
 127.0.0.1 ash-hub.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761137/
 127.0.0.1 grove-v05.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761136/
 127.0.0.1 ash-vault.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761135/
@@ -62706,4 +62715,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62707
+# Number of entries: 62716
