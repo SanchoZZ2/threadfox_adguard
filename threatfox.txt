@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 par-v33.parishwhale.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761092/
+127.0.0.1 whale-port.parishwhale.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761089/
+127.0.0.1 mapp.ma #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761088/
+127.0.0.1 volup-net.antivoluptuous.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761087/
+127.0.0.1 malware.malotabcn.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761086/
+127.0.0.1 anti-02.antivoluptuous.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761085/
+127.0.0.1 volup-v6.antivoluptuous.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761084/
+127.0.0.1 sdn-inapi-server.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1761045/
+127.0.0.1 anti-vol.antivoluptuous.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761083/
+127.0.0.1 upload.frostupload.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1761081/
+127.0.0.1 crea-sync.nightcreate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761079/
+127.0.0.1 chickensmine.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1761078/
+127.0.0.1 nonebutok.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1761077/
+127.0.0.1 beggarscastle.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761062/
+127.0.0.1 beingbeautiful.in.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761061/
+127.0.0.1 comtech.sa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761060/
+127.0.0.1 finmax.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761059/
+127.0.0.1 night-gate.nightcreate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761058/
+127.0.0.1 crea-v11.nightcreate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761055/
 127.0.0.1 night-mode.nightcreate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761049/
 127.0.0.1 9niang.cloud #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1761048/
 127.0.0.1 rusphelp.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1761047/
@@ -62657,4 +62676,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62658
+# Number of entries: 62677
