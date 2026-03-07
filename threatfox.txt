@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fallshie.stonefield.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760912/
+127.0.0.1 alt-cor3.darkridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760911/
+127.0.0.1 moonjoggers.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760910/
+127.0.0.1 tintttw.darkridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760909/
+127.0.0.1 min0r-stream.darkridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760908/
+127.0.0.1 maisonhildegarde.fr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760906/
+127.0.0.1 filmreplikleri.org #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1760898/
+127.0.0.1 vvest-route.darkridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760893/
 127.0.0.1 maintenance.ourhamlet.website #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760892/
 127.0.0.1 5ync4-loop.goldridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760891/
 127.0.0.1 klu8kdx.goldridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760890/
@@ -62587,4 +62595,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62588
+# Number of entries: 62596
