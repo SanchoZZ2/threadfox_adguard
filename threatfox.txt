@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pine-v3.pinecliff.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761127/
+127.0.0.1 cliff-gate.pinecliff.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761126/
+127.0.0.1 lp.aproveiteotempolivre.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761124/
+127.0.0.1 mist-net.mistgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761123/
+127.0.0.1 grove-v12.mistgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761122/
+127.0.0.1 www.efilmizle.net #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1761116/
+127.0.0.1 mist-base.mistgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761113/
+127.0.0.1 sun-path.sunvalley.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761107/
+127.0.0.1 valley-sync.sunvalley.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761106/
+127.0.0.1 sun-v01.sunvalley.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761105/
 127.0.0.1 valley-node.sunvalley.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761104/
 127.0.0.1 way-logic.clingway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761103/
 127.0.0.1 cling-05.clingway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761102/
@@ -62687,4 +62697,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62688
+# Number of entries: 62698
