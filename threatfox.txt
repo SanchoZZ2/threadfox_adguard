@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ash-hub.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761137/
+127.0.0.1 grove-v05.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761136/
+127.0.0.1 ash-vault.ashgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761135/
+127.0.0.1 river-data.riverbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761134/
+127.0.0.1 bend-sync.riverbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761133/
+127.0.0.1 river-v44.riverbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761131/
+127.0.0.1 bend-core.riverbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761130/
+127.0.0.1 pine-edge.pinecliff.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761129/
+127.0.0.1 cliff-unit.pinecliff.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761128/
 127.0.0.1 pine-v3.pinecliff.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761127/
 127.0.0.1 cliff-gate.pinecliff.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761126/
 127.0.0.1 lp.aproveiteotempolivre.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761124/
@@ -62697,4 +62706,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62698
+# Number of entries: 62707
