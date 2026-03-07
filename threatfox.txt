@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 macrobatic.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760801/
+127.0.0.1 put-play.putreplay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760800/
+127.0.0.1 mod-logic.automodcompass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760799/
+127.0.0.1 mabnetsolutions.co.za #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760798/
+127.0.0.1 auto-v33.automodcompass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760797/
+127.0.0.1 m3geeks.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760796/
+127.0.0.1 mod-track.automodcompass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760795/
+127.0.0.1 m3-cleaning.solution25-staging.website #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760794/
 127.0.0.1 auto-compass.automodcompass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760580/
 127.0.0.1 m2afutbol.es #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760579/
 127.0.0.1 m.sdfauto.ro #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760575/
@@ -62450,4 +62458,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62451
+# Number of entries: 62459
