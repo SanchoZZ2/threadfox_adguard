@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 driv3-logic.padohooing.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760813/
+127.0.0.1 revi-clust.padohooing.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760812/
+127.0.0.1 vect0-signal.padohooing.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760811/
+127.0.0.1 replay-net.putreplay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760810/
+127.0.0.1 g70aw0re.bucketeuthan.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760805/
+127.0.0.1 kgcrad14.bucketeuthan.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760804/
+127.0.0.1 put08.putreplay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760803/
+127.0.0.1 replay-v1.putreplay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760802/
 127.0.0.1 macrobatic.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1760801/
 127.0.0.1 put-play.putreplay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760800/
 127.0.0.1 mod-logic.automodcompass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1760799/
@@ -62458,4 +62466,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62459
+# Number of entries: 62467
