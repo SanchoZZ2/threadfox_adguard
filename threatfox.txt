@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tens-v11.tensora.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761266/
+127.0.0.1 ext-vault.tensora.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761265/
+127.0.0.1 frac-run.fractalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761264/
+127.0.0.1 blogsaglik.net #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1761259/
+127.0.0.1 filmlian.com #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1761257/
+127.0.0.1 www.hackhaberi.org #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1761258/
+127.0.0.1 www.blogtc.net #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1761256/
 127.0.0.1 dist-hub.fractalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761251/
 127.0.0.1 frac-v08.fractalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761250/
 127.0.0.1 marketingplexus.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761249/
@@ -62741,4 +62748,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62742
+# Number of entries: 62749
