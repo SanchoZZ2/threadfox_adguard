@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sub-net.kinetica.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761275/
+127.0.0.1 kine-v07.kinetica.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761274/
+127.0.0.1 marrealestatecordoba.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761273/
+127.0.0.1 monhappy.edu.vn #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761272/
+127.0.0.1 sub-node.kinetica.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761271/
+127.0.0.1 tens-base.tensora.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761269/
+127.0.0.1 maroness.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761268/
+127.0.0.1 ext-sync.tensora.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761267/
 127.0.0.1 tens-v11.tensora.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761266/
 127.0.0.1 ext-vault.tensora.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761265/
 127.0.0.1 frac-run.fractalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761264/
@@ -62748,4 +62756,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62749
+# Number of entries: 62757
