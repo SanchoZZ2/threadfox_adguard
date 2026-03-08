@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sync-gate.modula.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761316/
+127.0.0.1 vol-base.volumex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761315/
+127.0.0.1 masterclass.brunamaronesi.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761314/
+127.0.0.1 trace-net.volumex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761313/
+127.0.0.1 vol-v19.volumex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761309/
+127.0.0.1 malware.yokohama-happylife.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761308/
+127.0.0.1 jpwcoffee.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761306/
+127.0.0.1 malware.jpwcoffee.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761307/
+127.0.0.1 mx5.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761302/
+127.0.0.1 newmail.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761303/
+127.0.0.1 smtp1.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761304/
+127.0.0.1 sniper.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761305/
+127.0.0.1 gate.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761298/
+127.0.0.1 mail9.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761299/
+127.0.0.1 mails.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761300/
+127.0.0.1 malware.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761301/
+127.0.0.1 email.homeamulet.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761297/
+127.0.0.1 trace-unit.volumex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761296/
+127.0.0.1 ou3yrweygtbesw.icu #botnet_cc, win.santa_stealer, SantaStealer https://threatfox.abuse.ch/ioc/1761295/
+127.0.0.1 grove-flow.mistgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761125/
+127.0.0.1 stab-core.stabulis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761247/
+127.0.0.1 basketballyear.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1761290/
+127.0.0.1 cakeeyes.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1761291/
+127.0.0.1 punishmentslave.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1761292/
+127.0.0.1 main-sync.axonia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761282/
 127.0.0.1 axon-v2.axonia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761281/
 127.0.0.1 main-way.axonia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761280/
 127.0.0.1 malware.yourgymstory.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1761279/
@@ -62762,4 +62787,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62763
+# Number of entries: 62788
