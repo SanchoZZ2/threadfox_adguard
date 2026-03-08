@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gate-node.lakegate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761809/
+127.0.0.1 nathanjokers.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761808/
+127.0.0.1 lake-hub.lakegate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761807/
+127.0.0.1 lake-vault.lakegate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761804/
+127.0.0.1 iron-data.ironford.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761800/
+127.0.0.1 iron-v44.ironford.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761792/
+127.0.0.1 ford-core.ironford.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761791/
 127.0.0.1 bend-edge.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761790/
 127.0.0.1 star-unit.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761789/
 127.0.0.1 bend-v3.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761784/
@@ -62997,4 +63004,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62998
+# Number of entries: 63005
