@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 stab-v33.stabulis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761239/
+127.0.0.1 maritbosman.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761238/
+127.0.0.1 quan-sys.quantoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761237/
+127.0.0.1 marinmedya.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761236/
+127.0.0.1 gen-flow.quantoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761235/
 127.0.0.1 quan-v5.quantoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761234/
 127.0.0.1 gen-unit.quantoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761233/
 127.0.0.1 nimb-net.nimbura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761232/
@@ -62726,4 +62731,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62727
+# Number of entries: 62732
