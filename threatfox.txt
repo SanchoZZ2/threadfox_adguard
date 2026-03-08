@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bend-edge.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761790/
+127.0.0.1 star-unit.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761789/
+127.0.0.1 bend-v3.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761784/
+127.0.0.1 star-zone.starbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761780/
+127.0.0.1 peak-flow.glacierpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761772/
+127.0.0.1 glac-net.glacierpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761768/
+127.0.0.1 peak-v12.glacierpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761766/
+127.0.0.1 glac-point.glacierpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761762/
+127.0.0.1 nanzeducation.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761761/
+127.0.0.1 grove-base.harvestgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761760/
+127.0.0.1 nanoair.brandit.ws #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761759/
+127.0.0.1 harvest-sync.harvestgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761758/
 127.0.0.1 grove-v01.harvestgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761755/
 127.0.0.1 harvest-map.harvestgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761754/
 127.0.0.1 mant-net.overtmantram.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761752/
@@ -62985,4 +62997,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62986
+# Number of entries: 62998
