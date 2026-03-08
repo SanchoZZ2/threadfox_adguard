@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 grove-v01.harvestgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761755/
+127.0.0.1 harvest-map.harvestgrove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761754/
+127.0.0.1 mant-net.overtmantram.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761752/
+127.0.0.1 overt-base.overtmantram.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761751/
+127.0.0.1 mant-v11.overtmantram.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761749/
+127.0.0.1 overt-ref.overtmantram.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761731/
+127.0.0.1 time-unit.goodtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761729/
+127.0.0.1 time-v09.goodtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761720/
 127.0.0.1 good-logic.goodtime.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761717/
 127.0.0.1 figma-stellar.cc #botnet_cc https://threatfox.abuse.ch/ioc/1761714/
 127.0.0.1 cimetria.top #botnet_cc https://threatfox.abuse.ch/ioc/1761715/
@@ -62977,4 +62985,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62978
+# Number of entries: 62986
