@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 newenergypartnership.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761951/
+127.0.0.1 ops-gate.lumitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761950/
+127.0.0.1 zen-flow.zenithra.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761949/
+127.0.0.1 alt-net.zenithra.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761948/
+127.0.0.1 new.tsypin.partners #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761947/
+127.0.0.1 zen-v12.zenithra.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761946/
+127.0.0.1 new.avtograf.ee #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761945/
+127.0.0.1 neuroconsultas.pt #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761944/
 127.0.0.1 alt-hub.zenithra.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761943/
 127.0.0.1 nex-base.nexoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761942/
 127.0.0.1 vult-sync.nexoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761941/
@@ -62914,4 +62922,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62915
+# Number of entries: 62923
