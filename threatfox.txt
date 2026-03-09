@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nevikup.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761959/
+127.0.0.1 dist-core.veloxis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761958/
+127.0.0.1 lumi-edge.lumitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761957/
+127.0.0.1 naosagioulouka.gr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761956/
+127.0.0.1 ops-unit.lumitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761955/
+127.0.0.1 mpt.pedagogiai-tarsasag.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761954/
+127.0.0.1 newlinekitchens.hdps.co.za #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761953/
 127.0.0.1 newenergypartnership.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761951/
 127.0.0.1 ops-gate.lumitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761950/
 127.0.0.1 zen-flow.zenithra.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761949/
@@ -62922,4 +62929,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 62923
+# Number of entries: 62930
