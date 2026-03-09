@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.cloudflara.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1762458/
+127.0.0.1 term-way.vibratronic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762457/
+127.0.0.1 obsi-base.obsidianix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762456/
+127.0.0.1 main-sys.obsidianix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762454/
+127.0.0.1 obsi-v6.obsidianix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762453/
+127.0.0.1 main-peak.obsidianix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762452/
+127.0.0.1 spec-node.spectrometric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762451/
+127.0.0.1 vult-hub.spectrometric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762450/
+127.0.0.1 f0fjv96k.demogsystemat.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762449/
+127.0.0.1 yhcy21oo.demogsystemat.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762448/
+127.0.0.1 spec-v05.spectrometric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762447/
+127.0.0.1 vult-vault.spectrometric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762446/
+127.0.0.1 novo.blockerbrasil.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762445/
 127.0.0.1 prim-data.primordialis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762444/
 127.0.0.1 novikon.nikolaev.ua #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762443/
 127.0.0.1 logic-sync.primordialis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762442/
@@ -63221,4 +63234,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63222
+# Number of entries: 63235
