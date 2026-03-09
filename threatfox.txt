@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 orbi-v6.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762309/
+127.0.0.1 nfkavn.bond #botnet_cc https://threatfox.abuse.ch/ioc/1762305/
+127.0.0.1 main-peak.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762302/
+127.0.0.1 zent-node.zentalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762301/
+127.0.0.1 bit-hub.zentalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762298/
+127.0.0.1 zent-v05.zentalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762297/
+127.0.0.1 bit-vault.zentalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762295/
+127.0.0.1 nlp.edu.sofine.ua #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762294/
+127.0.0.1 nexu-data.nexulon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762293/
+127.0.0.1 kampf.huehnchenfarm.ru #botnet_cc, win.pure_rat, PureHVNC, ResolverRAT https://threatfox.abuse.ch/ioc/1762288/
+127.0.0.1 dist-sync.nexulon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762287/
+127.0.0.1 espace.servebeer.com #botnet_cc https://threatfox.abuse.ch/ioc/1762285/
+127.0.0.1 venom-stealer.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1762284/
+127.0.0.1 nexu-v44.nexulon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762280/
+127.0.0.1 dist-core.nexulon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762279/
 127.0.0.1 8r6d1s3j.cheesechubary.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762278/
 127.0.0.1 dyna-edge.dynastis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762277/
 127.0.0.1 eo4quhil.cheesechubary.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762276/
@@ -63138,4 +63153,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63139
+# Number of entries: 63154
