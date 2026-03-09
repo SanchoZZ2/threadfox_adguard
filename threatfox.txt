@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nearchos-akte.gr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761932/
+127.0.0.1 bend-ref.oakbend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761931/
+127.0.0.1 red-unit.redclay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761930/
+127.0.0.1 clay-gate.redclay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761929/
+127.0.0.1 red-v09.redclay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761928/
+127.0.0.1 clay-logic.redclay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761927/
+127.0.0.1 nbdeco.fr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761926/
+127.0.0.1 wind-flow.winddock.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761909/
+127.0.0.1 dock-sync.winddock.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761896/
+127.0.0.1 wind-v08.winddock.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761893/
 127.0.0.1 dock-way.winddock.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761892/
 127.0.0.1 gold-run.goldpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761875/
 127.0.0.1 path-net.goldpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761865/
@@ -63021,4 +63031,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63022
+# Number of entries: 63032
