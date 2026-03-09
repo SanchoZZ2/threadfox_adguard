@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sol-v6.solarisx.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762044/
+127.0.0.1 nflug.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762043/
+127.0.0.1 main-peak.solarisx.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762042/
+127.0.0.1 cryp-node.cryptixy.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761991/
+127.0.0.1 nexxusmanagement.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761990/
+127.0.0.1 bit-hub.cryptixy.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761989/
+127.0.0.1 cryp-v05.cryptixy.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761987/
 127.0.0.1 nexoeasy-88.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1761986/
 127.0.0.1 bit-vault.cryptixy.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761984/
 127.0.0.1 vel-data.veloxis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1761982/
@@ -63005,4 +63012,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63006
+# Number of entries: 63013
