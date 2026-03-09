@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 link-logic.spectris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762352/
+127.0.0.1 vibr-flow.vibrante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762351/
+127.0.0.1 term-sync.vibrante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762347/
+127.0.0.1 vibr-v08.vibrante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762346/
+127.0.0.1 files.jeaniescott.digital #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1762296/
+127.0.0.1 nero-ns-cdns.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1762311/
+127.0.0.1 api-server-cdn.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1762323/
+127.0.0.1 api-imager-host.beer #payload_delivery https://threatfox.abuse.ch/ioc/1762328/
+127.0.0.1 ns-server-isdjs-icons.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1762334/
+127.0.0.1 ns-cyber-server.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1762338/
+127.0.0.1 term-way.vibrante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762344/
+127.0.0.1 flux-run.fluxoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762341/
+127.0.0.1 site-net.fluxoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762340/
+127.0.0.1 flux-v77.fluxoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762337/
+127.0.0.1 site-node.fluxoris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762327/
+127.0.0.1 noa360.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762326/
+127.0.0.1 orbi-base.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762324/
+127.0.0.1 main-sys.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762320/
+127.0.0.1 adcdn.ster.nl #botnet_cc, win.amatera, Amatera https://threatfox.abuse.ch/ioc/1762319/
 127.0.0.1 orbi-v6.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762309/
 127.0.0.1 nfkavn.bond #botnet_cc https://threatfox.abuse.ch/ioc/1762305/
 127.0.0.1 main-peak.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762302/
@@ -63153,4 +63172,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63154
+# Number of entries: 63173
