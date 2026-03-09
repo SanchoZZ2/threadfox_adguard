@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cent-v01.centurionix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762412/
+127.0.0.1 syst-node.centurionix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762411/
+127.0.0.1 notepad.promadesign.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762410/
+127.0.0.1 u1tr5-bridge.lookback.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762408/
+127.0.0.1 3zwcexo.lookback.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762405/
+127.0.0.1 sp4rrow-phase.lookback.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762400/
 127.0.0.1 mars-sort.lookback.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762394/
 127.0.0.1 eaec4m.droplast.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762392/
 127.0.0.1 northoflajollapublishing.com.quickcooldesign.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762389/
@@ -63199,4 +63205,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63200
+# Number of entries: 63206
