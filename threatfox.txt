@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gala-v11.galactoview.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762471/
+127.0.0.1 tech-ref.galactoview.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762470/
+127.0.0.1 sync-unit.synchromesh.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762469/
+127.0.0.1 npj.app #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762468/
+127.0.0.1 flow-gate.synchromesh.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762467/
+127.0.0.1 sync-v09.synchromesh.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762466/
+127.0.0.1 flow-logic.synchromesh.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762465/
+127.0.0.1 vibr-flow.vibratronic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762464/
+127.0.0.1 term-sync.vibratronic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762463/
+127.0.0.1 vibr-v08.vibratronic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762461/
 127.0.0.1 www.cloudflara.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1762458/
 127.0.0.1 term-way.vibratronic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762457/
 127.0.0.1 obsi-base.obsidianix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762456/
@@ -63234,4 +63244,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63235
+# Number of entries: 63245
