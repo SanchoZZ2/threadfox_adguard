@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 prim-data.primordialis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762444/
+127.0.0.1 novikon.nikolaev.ua #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762443/
+127.0.0.1 logic-sync.primordialis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762442/
+127.0.0.1 prim-v44.primordialis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762440/
+127.0.0.1 logic-core.primordialis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762439/
+127.0.0.1 quan-edge.quantovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762438/
+127.0.0.1 data-unit.quantovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762437/
+127.0.0.1 quan-v3.quantovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762436/
+127.0.0.1 data-gate.quantovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762435/
+127.0.0.1 alti-flow.altimetrica.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762434/
+127.0.0.1 www.7dk5l721.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1762429/
+127.0.0.1 www.nlmz602h.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1762428/
+127.0.0.1 www.r15p5l5b.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1762427/
+127.0.0.1 www.kludt8zn.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1762426/
+127.0.0.1 infra-net.altimetrica.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762418/
+127.0.0.1 alti-v12.altimetrica.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762417/
 127.0.0.1 cent-v01.centurionix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762412/
 127.0.0.1 syst-node.centurionix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762411/
 127.0.0.1 notepad.promadesign.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762410/
@@ -63205,4 +63221,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63206
+# Number of entries: 63222
