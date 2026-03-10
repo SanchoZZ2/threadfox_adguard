@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 obrasmata.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762540/
+127.0.0.1 tens-r8.tensorfield.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762539/
+127.0.0.1 bz1-gh55.tensorfield.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762538/
+127.0.0.1 obranova.safirerealestate.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762537/
+127.0.0.1 site-w7.signalforest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762536/
+127.0.0.1 obitelji3plus.hr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762535/
+127.0.0.1 entry-m0.signalforest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762534/
+127.0.0.1 sign-j3.signalforest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762533/
+127.0.0.1 root-x2.metricfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762521/
 127.0.0.1 metr-k44.metricfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762518/
 127.0.0.1 serv-z9.metricfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762517/
 127.0.0.1 tw4-nw08.metricfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762516/
@@ -63071,4 +63080,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63072
+# Number of entries: 63081
