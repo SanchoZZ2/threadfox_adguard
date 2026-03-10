@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 stru-run.structovista.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762485/
+127.0.0.1 nslwzqa.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762484/
+127.0.0.1 link-net.structovista.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762483/
+127.0.0.1 nsgpara.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762482/
+127.0.0.1 stru-v77.structovista.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762481/
+127.0.0.1 dytdttyhhmjfjtydukytdtdrtrtjrttgyuttfdtd.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1762479/
+127.0.0.1 link-node.structovista.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762478/
+127.0.0.1 gala-net.galactoview.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762477/
+127.0.0.1 tech-base.galactoview.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762476/
 127.0.0.1 gala-v11.galactoview.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762471/
 127.0.0.1 tech-ref.galactoview.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762470/
 127.0.0.1 sync-unit.synchromesh.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762469/
@@ -63244,4 +63253,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63245
+# Number of entries: 63254
