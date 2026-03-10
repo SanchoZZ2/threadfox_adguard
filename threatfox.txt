@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 open1-branch.windev.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762800/
+127.0.0.1 basa-cod.skyroad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762798/
+127.0.0.1 mastoken.skyroad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762797/
+127.0.0.1 omerghazali.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762796/
+127.0.0.1 st0n-index.skyroad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762795/
+127.0.0.1 72jk.skyroad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762794/
+127.0.0.1 kt9p9evj.lighthouseup.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762792/
+127.0.0.1 ak83mo4q.lighthouseup.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762791/
+127.0.0.1 gath3r1-phase.skybit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762790/
+127.0.0.1 om.data1.co.za #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762781/
+127.0.0.1 glyphcrest.skybit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762780/
+127.0.0.1 t3rm-trace.skybit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762779/
 127.0.0.1 xhepy.skybit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762778/
 127.0.0.1 5xt2jam.moondev.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762777/
 127.0.0.1 canvsoc.moondev.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762775/
@@ -232,7 +244,6 @@
 127.0.0.1 noa360.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1762326/
 127.0.0.1 orbi-base.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762324/
 127.0.0.1 main-sys.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762320/
-127.0.0.1 adcdn.ster.nl #botnet_cc, win.amatera, Amatera https://threatfox.abuse.ch/ioc/1762319/
 127.0.0.1 orbi-v6.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762309/
 127.0.0.1 nfkavn.bond #botnet_cc https://threatfox.abuse.ch/ioc/1762305/
 127.0.0.1 main-peak.orbisura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1762302/
@@ -63196,4 +63207,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63197
+# Number of entries: 63208
