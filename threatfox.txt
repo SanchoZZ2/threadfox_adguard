@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 p_r4.quonaris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763042/
+127.0.0.1 m_z2.quonaris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763039/
+127.0.0.1 k_x9.quonaris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763038/
+127.0.0.1 dv-77k.moxitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763037/
+127.0.0.1 br-44z.moxitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763035/
+127.0.0.1 ap-90x.moxitron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763034/
+127.0.0.1 0-rw1-t.jelvax.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763028/
+127.0.0.1 5-sw8-q.jelvax.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763027/
 127.0.0.1 2-nw4-z.jelvax.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763026/
 127.0.0.1 order.purplewaveofficial.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763025/
 127.0.0.1 7-tw9-x.jelvax.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763016/
@@ -63376,4 +63384,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63377
+# Number of entries: 63385
