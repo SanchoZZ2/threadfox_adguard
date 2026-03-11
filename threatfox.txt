@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tr4c-craft.keysum.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763251/
+127.0.0.1 padsante.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763250/
+127.0.0.1 8uasm.keysum.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763249/
+127.0.0.1 5wif5-leaf.testload.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763247/
+127.0.0.1 crat-mas.testload.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763245/
+127.0.0.1 padel-ancises.fr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763244/
+127.0.0.1 jvrkh.testload.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763243/
+127.0.0.1 asybk.ydns.eu #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1763241/
+127.0.0.1 asy.ydns.eu #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1763240/
+127.0.0.1 dgg.paihost.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1763228/
+127.0.0.1 dgg.ssffaa18.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1763229/
+127.0.0.1 epy.nexs.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1763230/
+127.0.0.1 epy.ssffaa18.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1763231/
+127.0.0.1 audiosolar.testload.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763214/
+127.0.0.1 packpros.co.za #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763202/
+127.0.0.1 crestrai.backtest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763201/
+127.0.0.1 inv0ic-line.backtest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763200/
 127.0.0.1 lumvenos.backtest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763199/
 127.0.0.1 bridg3-scope.backtest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763198/
 127.0.0.1 pablorichter.com.ar #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763197/
@@ -63180,4 +63197,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63181
+# Number of entries: 63198
