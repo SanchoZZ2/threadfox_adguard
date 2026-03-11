@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 super-day.novalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763110/
+127.0.0.1 oticasolarvision.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763107/
+127.0.0.1 best7.novalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763106/
+127.0.0.1 otepaa.biathlon.ee #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763105/
+127.0.0.1 otec.inducampus.cl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763104/
+127.0.0.1 only-one.novalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763103/
+127.0.0.1 otaviocardoso.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763102/
 127.0.0.1 bright-up.novalis.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763101/
 127.0.0.1 hot-line.mirante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763100/
 127.0.0.1 clear-sky.mirante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763099/
@@ -63105,4 +63112,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63106
+# Number of entries: 63113
