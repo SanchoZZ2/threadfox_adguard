@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 soft-touch.velante.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763138/
+127.0.0.1 owc1.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763136/
+127.0.0.1 free-99.silvura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763135/
+127.0.0.1 land-site.silvura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763134/
+127.0.0.1 quick-go.silvura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763133/
+127.0.0.1 small-hub.silvura.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763131/
+127.0.0.1 ouzourilada.fr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763130/
+127.0.0.1 deep-sea.estoria.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763129/
 127.0.0.1 sunny9.estoria.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763128/
 127.0.0.1 new-place.estoria.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763127/
 127.0.0.1 wild-cat.estoria.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763126/
@@ -63122,4 +63130,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63123
+# Number of entries: 63131
