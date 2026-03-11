@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cold-peak.ambertide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763700/
+127.0.0.1 datalink.valeriana.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763697/
+127.0.0.1 point-up.valeriana.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763696/
+127.0.0.1 home-90.valeriana.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763695/
+127.0.0.1 smart-fix.valeriana.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763694/
+127.0.0.1 stepforward.novalento.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763693/
+127.0.0.1 all-clean.novalento.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763692/
+127.0.0.1 pdfnext.katado.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763691/
 127.0.0.1 quick-7.novalento.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763687/
 127.0.0.1 red-stone.novalento.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763686/
 127.0.0.1 softweb.silvaterra.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763683/
@@ -63323,4 +63331,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63324
+# Number of entries: 63332
