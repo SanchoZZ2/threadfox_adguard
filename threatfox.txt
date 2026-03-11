@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 opserver-styles-svg.click #payload_delivery https://threatfox.abuse.ch/ioc/1763280/
+127.0.0.1 image-fonts-awesomeserver.click #payload_delivery https://threatfox.abuse.ch/ioc/1763283/
+127.0.0.1 cdn-compress-image.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1763288/
+127.0.0.1 oplod-cdn-bootstrap-28.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1763292/
+127.0.0.1 vlns-andb-cdn.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1763295/
+127.0.0.1 wldsc-api-cloud.click #payload_delivery https://threatfox.abuse.ch/ioc/1763298/
+127.0.0.1 cash-js-server.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1763300/
+127.0.0.1 hcountry-cdn.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1763303/
+127.0.0.1 hw94h.backlog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763265/
+127.0.0.1 pangeaebook.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763308/
+127.0.0.1 panel.sirenadoro.it #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763306/
+127.0.0.1 iondawn.checksum.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763287/
+127.0.0.1 n4rro5-panel.checksum.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763279/
 127.0.0.1 civilsandbo.whitelist.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763278/
 127.0.0.1 rhyfpa2f.whitelist.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763277/
 127.0.0.1 panaderiaconfiteriasanfrancisco.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763276/
@@ -62450,6 +62463,7 @@
 127.0.0.1 redlan.hopto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170922/
 127.0.0.1 faccbookcom.zapto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170560/
 127.0.0.1 netcatclink.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1169976/
+127.0.0.1 chefdnshost.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168521/
 127.0.0.1 blackbenz.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168333/
 127.0.0.1 wealth.warzonedns.com #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168295/
 127.0.0.1 skyrocket.ooguy.com #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168190/
@@ -62520,6 +62534,7 @@
 127.0.0.1 PgqduOYXVZeNNam.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160451/
 127.0.0.1 swapo222.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160439/
 127.0.0.1 eaidali.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160410/
+127.0.0.1 zoonm.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160350/
 127.0.0.1 3xe94lqhph0janx.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160341/
 127.0.0.1 pMfiryhhkiN98Px.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160318/
 127.0.0.1 top.alton01.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160315/
@@ -63220,4 +63235,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63221
+# Number of entries: 63236
