@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pee.esplugues.cat #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763733/
+127.0.0.1 blue-forest7.silvermount.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763709/
+127.0.0.1 bluestonerepair.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763707/
+127.0.0.1 asia.gtleway.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763708/
+127.0.0.1 ildisabilitylawyer.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763706/
+127.0.0.1 nextlevelballoons.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763705/
+127.0.0.1 woupp.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763704/
+127.0.0.1 myspace.ambertide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763703/
+127.0.0.1 light-way.ambertide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763702/
+127.0.0.1 fire-v12.ambertide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763701/
 127.0.0.1 cold-peak.ambertide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763700/
 127.0.0.1 datalink.valeriana.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763697/
 127.0.0.1 point-up.valeriana.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763696/
@@ -63331,4 +63341,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63332
+# Number of entries: 63342
