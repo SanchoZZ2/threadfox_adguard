@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sun-88.ventomaris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763576/
+127.0.0.1 pattigame.co.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763575/
+127.0.0.1 quickpage.ventomaris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763573/
+127.0.0.1 blue-forest7.ventomaris.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763565/
+127.0.0.1 hyper-5m4r.checksum.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763561/
+127.0.0.1 patomgroup.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763560/
+127.0.0.1 b0ld3-vector.checksum.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763559/
+127.0.0.1 pathseekersgame.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763558/
 127.0.0.1 mer-forgea.sightup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763557/
 127.0.0.1 refinewinter.sightup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763556/
 127.0.0.1 ultra-5tric.sightup.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763554/
@@ -63276,4 +63284,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63277
+# Number of entries: 63285
