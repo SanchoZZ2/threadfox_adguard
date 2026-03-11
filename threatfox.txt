@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pantografocnc.mx #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763338/
+127.0.0.1 ngrokhi2.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1763328/
+127.0.0.1 panoramaslz.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763315/
+127.0.0.1 fjnghv.fastlog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763314/
 127.0.0.1 opserver-styles-svg.click #payload_delivery https://threatfox.abuse.ch/ioc/1763280/
 127.0.0.1 image-fonts-awesomeserver.click #payload_delivery https://threatfox.abuse.ch/ioc/1763283/
 127.0.0.1 cdn-compress-image.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1763288/
@@ -63235,4 +63239,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63236
+# Number of entries: 63240
