@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pflege-fortuna.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763851/
+127.0.0.1 petrolinecompany.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763850/
 127.0.0.1 petplast.com.tr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763849/
 127.0.0.1 petitjeanmarc.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763846/
 127.0.0.1 pestil.softmile.com.au #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763843/
@@ -63237,4 +63239,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63238
+# Number of entries: 63240
