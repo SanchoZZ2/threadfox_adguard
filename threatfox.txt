@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 brasyn.restpay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763993/
+127.0.0.1 01n680.calloak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763988/
+127.0.0.1 pinlux.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763987/
+127.0.0.1 eubz.calloak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763986/
+127.0.0.1 9jmu.calloak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763985/
+127.0.0.1 growt1-field.calloak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763983/
+127.0.0.1 pingodemel.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763981/
 127.0.0.1 refineterminal.jacksend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763980/
 127.0.0.1 pineappleconsignment.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763979/
 127.0.0.1 strictinspect.jacksend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763978/
@@ -63299,4 +63306,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63300
+# Number of entries: 63307
