@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 photo.tgo4u.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763904/
+127.0.0.1 photo.sobko.cc #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763903/
+127.0.0.1 vinayaknashikdhol.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763898/
+127.0.0.1 sainienterprises.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763897/
+127.0.0.1 phonenewsblog.victoriamedia.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763896/
 127.0.0.1 phocks.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763894/
 127.0.0.1 philvabien.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763888/
 127.0.0.1 phichcamcongnghiep.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763886/
@@ -63244,4 +63249,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63245
+# Number of entries: 63250
