@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 plandevents.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1764056/
+127.0.0.1 2umw.bluebay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764053/
+127.0.0.1 couriframe.goldpit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764051/
+127.0.0.1 www.erp.asyx.co.tz #botnet_cc, win.mimikatz, MimiKatz https://threatfox.abuse.ch/ioc/1764049/
+127.0.0.1 www.mnhhxvyf.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1764044/
+127.0.0.1 meidusa.cn #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1764045/
+127.0.0.1 www.8csypfvd.shop #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1764043/
+127.0.0.1 placafacil.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1764038/
+127.0.0.1 endpo2-craft.goldpit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764037/
+127.0.0.1 tri-valear.goldpit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764036/
 127.0.0.1 exteneur.windbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764032/
 127.0.0.1 dydqa.windbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764025/
 127.0.0.1 elenviel.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1764002/
@@ -63335,4 +63345,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63336
+# Number of entries: 63346
