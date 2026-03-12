@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 palmettopremierconsulting.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763959/
+127.0.0.1 osmann-versicherungsvermittlung.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763957/
 127.0.0.1 7o9ige3i.documentarygo.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763948/
 127.0.0.1 physio-curatio.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763947/
 127.0.0.1 sb1ugaig.documentarygo.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763946/
@@ -63285,4 +63287,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63286
+# Number of entries: 63288
