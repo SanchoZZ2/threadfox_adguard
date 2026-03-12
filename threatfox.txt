@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 top-line1.altovento.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763834/
+127.0.0.1 peptidesuk.gbdesignstudio.co.uk #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763744/
 127.0.0.1 peoplesbenefit.co.uk #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763741/
 127.0.0.1 datah.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1763739/
 127.0.0.1 datahawk.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1763740/
@@ -63345,4 +63347,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63346
+# Number of entries: 63348
