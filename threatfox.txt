@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 refineterminal.jacksend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763980/
+127.0.0.1 pineappleconsignment.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763979/
+127.0.0.1 strictinspect.jacksend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763978/
+127.0.0.1 58winz.bio #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763973/
+127.0.0.1 58win.rsvp #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763972/
+127.0.0.1 58win.computer #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763970/
+127.0.0.1 58win.boo #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763971/
+127.0.0.1 artemisc2-62621.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763968/
+127.0.0.1 58win.trading #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1763969/
+127.0.0.1 validacontrato.site #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763965/
+127.0.0.1 banderaboardingkennels.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1763963/
+127.0.0.1 percentagecal.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763962/
 127.0.0.1 palmettopremierconsulting.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763959/
 127.0.0.1 osmann-versicherungsvermittlung.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1763957/
 127.0.0.1 7o9ige3i.documentarygo.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1763948/
@@ -63287,4 +63299,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63288
+# Number of entries: 63300
