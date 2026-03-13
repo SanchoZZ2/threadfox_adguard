@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 power-grid-88.starkstrom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764297/
+127.0.0.1 internal-dns.cielonumerique.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764296/
+127.0.0.1 cache-dist-12.cielonumerique.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764294/
+127.0.0.1 backend-core-7.cielonumerique.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764293/
+127.0.0.1 remote-access-v4.cielonumerique.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764292/
 127.0.0.1 app-data-sync.vittoriastrada.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764291/
 127.0.0.1 mwp.mws360.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1764290/
 127.0.0.1 web-proxy-99.vittoriastrada.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764285/
@@ -63381,4 +63386,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63382
+# Number of entries: 63387
