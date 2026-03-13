@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 catalogmonitor.whitebus.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765031/
+127.0.0.1 subscribe-marina.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1765022/
+127.0.0.1 criloya.whitebus.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765020/
+127.0.0.1 iceevery.whitebus.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765016/
 127.0.0.1 teal-goat-784716.hostingersite.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765008/
 127.0.0.1 egravy.com #payload_delivery https://threatfox.abuse.ch/ioc/1765003/
 127.0.0.1 arcupondepago.com #payload_delivery https://threatfox.abuse.ch/ioc/1765004/
@@ -63332,6 +63336,7 @@
 127.0.0.1 4Mekey.myftp.biz #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1156862/
 127.0.0.1 noinmy.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1156782/
 127.0.0.1 bevdona.theworkpc.com #botnet_cc, win.bit_rat, BitRAT https://threatfox.abuse.ch/ioc/1156656/
+127.0.0.1 ftap-29332.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156346/
 127.0.0.1 212.ip.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156296/
 127.0.0.1 hurricane.ydns.eu #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156286/
 127.0.0.1 line-ellis.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156263/
@@ -63971,4 +63976,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63972
+# Number of entries: 63977
