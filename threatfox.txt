@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.spcosq.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1765557/
+127.0.0.1 www.callapq.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1765556/
+127.0.0.1 srv-cluster-7.fortezzablu.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765555/
+127.0.0.1 mystemstars.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765554/
+127.0.0.1 cloud-storage-b.fortezzablu.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765552/
+127.0.0.1 api-v3-auth.sturmwelle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765549/
+127.0.0.1 myprojectsecurity.com.ng #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765548/
+127.0.0.1 mail.kakitangan.cam #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1765539/
+127.0.0.1 cdn-static-2.sturmwelle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765531/
+127.0.0.1 zendraix.stayflat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765530/
 127.0.0.1 exposedemand.stayflat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765529/
 127.0.0.1 organizecourier.stayflat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765527/
 127.0.0.1 marshlagoon.stayflat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765525/
@@ -64022,4 +64032,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64023
+# Number of entries: 64033
