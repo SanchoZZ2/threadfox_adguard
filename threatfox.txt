@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 core-shell-11.kaltesystem.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765619/
+127.0.0.1 alpha-trace-x.kaltesystem.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765618/
+127.0.0.1 point-entry-1.mondoluce.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765617/
+127.0.0.1 data-base-v4.mondoluce.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765616/
+127.0.0.1 base-infra-5.mondoluce.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765614/
+127.0.0.1 naijalivesmatter.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765613/
+127.0.0.1 fkeasfodsfkefoapdsofkp-38135.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1765611/
+127.0.0.1 www.foundernews.online #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1765609/
+127.0.0.1 datesnewplus.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1765608/
+127.0.0.1 mussard01.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1765604/
+127.0.0.1 global-net-2.mondoluce.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765603/
+127.0.0.1 local-hub-sec.espacerapide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765599/
+127.0.0.1 staff-portal-9.espacerapide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765598/
 127.0.0.1 work-flow-v3.espacerapide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765592/
 127.0.0.1 office-link-1.espacerapide.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765583/
 127.0.0.1 internal-dns-2.vitagrazia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765580/
@@ -64040,4 +64053,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64041
+# Number of entries: 64054
