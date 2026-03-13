@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 app-data-sync.vittoriastrada.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764291/
+127.0.0.1 mwp.mws360.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1764290/
+127.0.0.1 web-proxy-99.vittoriastrada.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764285/
+127.0.0.1 srv-cluster-beta.vittoriastrada.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764284/
+127.0.0.1 cloud-storage-5.vittoriastrada.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764282/
+127.0.0.1 mutosint.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1764280/
 127.0.0.1 metrics-sync.kristallwelt.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764271/
 127.0.0.1 dev-test-01.kristallwelt.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764269/
 127.0.0.1 cdn-static-1.kristallwelt.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764267/
@@ -63375,4 +63381,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63376
+# Number of entries: 63382
