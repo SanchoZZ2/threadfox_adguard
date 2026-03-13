@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vision-sync.nachtlicht.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764365/
+127.0.0.1 scan-point-21.nachtlicht.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764364/
+127.0.0.1 dark-room-v8.nachtlicht.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764362/
+127.0.0.1 ms-munchen.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1764359/
+127.0.0.1 user-auth-x2.cybergeist.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764358/
 127.0.0.1 core-shell-77.cybergeist.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764357/
 127.0.0.1 wmfkj2w9.oakbit.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764356/
 127.0.0.1 alpha-trace-0.cybergeist.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1764355/
@@ -63421,4 +63426,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63422
+# Number of entries: 63427
