@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 climole.stoppit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766369/
+127.0.0.1 rzlt.getron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766368/
+127.0.0.1 nirgua.com.ve #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766366/
+127.0.0.1 dshqj1.getron.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766364/
+127.0.0.1 pieplant.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1766363/
+127.0.0.1 ninemotoring.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766359/
+127.0.0.1 2pumpservices.com #botnet_cc https://threatfox.abuse.ch/ioc/1766358/
+127.0.0.1 churchpail.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1766351/
 127.0.0.1 nilsonpaper.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766329/
 127.0.0.1 cyrexmods.to #payload_delivery https://threatfox.abuse.ch/ioc/1765853/
 127.0.0.1 cyrexmods.cc #payload_delivery https://threatfox.abuse.ch/ioc/1765854/
@@ -63836,4 +63844,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63837
+# Number of entries: 63845
