@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 metrics-node.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765675/
+127.0.0.1 dev-test-hub.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765674/
+127.0.0.1 api-v1-storage.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765673/
+127.0.0.1 cdn-static-3.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765672/
+127.0.0.1 nationalmarinaday.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765671/
+127.0.0.1 nathaniellouk.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765669/
+127.0.0.1 data-sync-00.grandemuro.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765668/
+127.0.0.1 gate-proxy-7.grandemuro.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765667/
+127.0.0.1 infra-web-v4.grandemuro.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765666/
+127.0.0.1 natas-haarstudio.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765665/
+127.0.0.1 sat-uplink-2.silenziovia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765664/
 127.0.0.1 natturamty.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765663/
 127.0.0.1 rock-core-99.silenziovia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765662/
 127.0.0.1 steel-base-1.silenziovia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765661/
@@ -63493,4 +63504,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63494
+# Number of entries: 63505
