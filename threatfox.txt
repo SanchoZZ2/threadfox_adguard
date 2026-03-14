@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vision-sync-x.altovelocita.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766444/
+127.0.0.1 scan-point-0.altovelocita.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766442/
+127.0.0.1 sacromante.availinfra.cam #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1766441/
+127.0.0.1 dextecrop.availinfra.cam #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1766440/
+127.0.0.1 belazay.availinfra.cam #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1766439/
+127.0.0.1 remote-access-7.petitreseau.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766385/
+127.0.0.1 internal-sys.petitreseau.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766391/
+127.0.0.1 core-shell-v4.froidespace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766420/
+127.0.0.1 user-auth-11.froidespace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766421/
+127.0.0.1 dark-room-z.altovelocita.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766435/
+127.0.0.1 virtual-cdncloud.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1766436/
+127.0.0.1 light-bridge-1.altovelocita.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766438/
+127.0.0.1 ghost-node-x.froidespace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766432/
+127.0.0.1 nodoublestandards.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766431/
+127.0.0.1 universalgsinc.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1766430/
+127.0.0.1 unigedgsinc.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1766429/
+127.0.0.1 grsjth.club #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1766426/
+127.0.0.1 forsacecobol.online #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1766425/
+127.0.0.1 unhookmerip-38294.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1766424/
+127.0.0.1 vn.hugo-lapp.co #botnet_cc https://threatfox.abuse.ch/ioc/1766422/
 127.0.0.1 spadeleg.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1766419/
 127.0.0.1 alpha-trace-9.froidespace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766417/
 127.0.0.1 point-entry-z.mondolavoro.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766412/
@@ -66,7 +86,7 @@
 127.0.0.1 niuvum4m.stoplo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766140/
 127.0.0.1 wuurrgc.uptrend.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766141/
 127.0.0.1 cloflart.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1765825/
-127.0.0.1 firmkoacocos.com #payload_delivery https://threatfox.abuse.ch/ioc/1765820/
+127.0.0.1 firmkoacocos.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1765820/
 127.0.0.1 sap0-node.zecoko.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766328/
 127.0.0.1 cube.zecoko.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766313/
 127.0.0.1 yxngqe.cutlog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766312/
@@ -63895,4 +63915,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63896
+# Number of entries: 63916
