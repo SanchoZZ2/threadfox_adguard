@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 newmergecpa.pankalla.ca #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765771/
+127.0.0.1 oljan-stajnie.pl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765764/
+127.0.0.1 newlifevalley.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765763/
+127.0.0.1 quor-valeis.farman.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765762/
+127.0.0.1 newdiamondbusiness.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765760/
+127.0.0.1 gam.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1765758/
+127.0.0.1 filmyzilla.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1765757/
+127.0.0.1 suhailqureshi.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1765756/
+127.0.0.1 asawana.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1765754/
 127.0.0.1 new.ilcalessinotranto.it #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765746/
 127.0.0.1 neko.makoti.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765740/
 127.0.0.1 nebuto.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765739/
@@ -63527,4 +63536,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63528
+# Number of entries: 63537
