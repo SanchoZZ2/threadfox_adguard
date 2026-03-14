@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nebuto.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765739/
+127.0.0.1 point-entry-b.petitjardin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765738/
+127.0.0.1 neaventures.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765737/
+127.0.0.1 data-base-101.petitjardin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765736/
+127.0.0.1 nda.khuddam.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765734/
+127.0.0.1 base-infra-v3.petitjardin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765733/
+127.0.0.1 global-net-8.petitjardin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765732/
+127.0.0.1 local-hub-01.ondeviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765731/
+127.0.0.1 nctam.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765729/
+127.0.0.1 staff-portal-x.ondeviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765724/
+127.0.0.1 work-flow-99.ondeviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765705/
+127.0.0.1 office-link-z.ondeviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765703/
+127.0.0.1 internal-dns-v.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765699/
 127.0.0.1 cache-dist-77.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765684/
 127.0.0.1 backend-core-v.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765682/
 127.0.0.1 remote-access-0.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765681/
@@ -63512,4 +63525,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63513
+# Number of entries: 63526
