@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cache-dist-77.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765684/
+127.0.0.1 backend-core-v.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765682/
+127.0.0.1 remote-access-0.schnellkraft.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765681/
+127.0.0.1 app-data-sync.bleusoleil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765680/
+127.0.0.1 navajowhite-capybara-119115.hostingersite.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765679/
+127.0.0.1 web-proxy-12.bleusoleil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765678/
+127.0.0.1 srv-cluster-9.bleusoleil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765677/
+127.0.0.1 cloud-drive-x.bleusoleil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765676/
 127.0.0.1 metrics-node.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765675/
 127.0.0.1 dev-test-hub.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765674/
 127.0.0.1 api-v1-storage.altamontagna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765673/
@@ -63504,4 +63512,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63505
+# Number of entries: 63513
