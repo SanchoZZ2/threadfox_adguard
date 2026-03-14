@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 workeractive.cutlog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765848/
+127.0.0.1 welarith.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765846/
+127.0.0.1 eldrynworld.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765847/
+127.0.0.1 dashlune.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765838/
+127.0.0.1 crushfall.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765839/
+127.0.0.1 slumpcute.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765840/
+127.0.0.1 banterplugins.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765841/
+127.0.0.1 velyonar.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765842/
+127.0.0.1 churilend.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765843/
+127.0.0.1 zarvethion.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765844/
+127.0.0.1 kittycraftmc.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1765845/
+127.0.0.1 nfc.iamart.com.do #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765837/
+127.0.0.1 4nch-route.cutlog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765836/
+127.0.0.1 sat-uplink-x.mondofresco.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765835/
+127.0.0.1 infra-web-v9.silberstern.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765834/
+127.0.0.1 gate-proxy-1.silberstern.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765823/
 127.0.0.1 data-sync-v2.silberstern.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765822/
 127.0.0.1 newyork.bootcampdetails.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1765818/
 127.0.0.1 main-point-5.silberstern.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1765817/
@@ -3685,7 +3701,7 @@
 127.0.0.1 sman1secanggang.sch.id #payload_delivery https://threatfox.abuse.ch/ioc/1758866/
 127.0.0.1 sozvpltds.com #payload_delivery https://threatfox.abuse.ch/ioc/1758874/
 127.0.0.1 smokeylife.com #payload_delivery https://threatfox.abuse.ch/ioc/1758883/
-127.0.0.1 lubazra.com #payload_delivery https://threatfox.abuse.ch/ioc/1758896/
+127.0.0.1 lubazra.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1758896/
 127.0.0.1 bitcog.com.de #payload_delivery https://threatfox.abuse.ch/ioc/1758906/
 127.0.0.1 fgwfa66x.isconizloty.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758908/
 127.0.0.1 y94slh1u.isconizloty.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1758905/
@@ -63586,4 +63602,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63587
+# Number of entries: 63603
