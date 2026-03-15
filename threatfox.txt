@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 noticiasdeisrael.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767384/
+127.0.0.1 auth-z7-gate.schnellnetz.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767383/
+127.0.0.1 noarootsi.planet.ee #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767382/
+127.0.0.1 node-55-static.ponteluna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767381/
+127.0.0.1 sync-v9-meta.ponteluna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767379/
+127.0.0.1 srv-x11-host.ponteluna.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767377/
+127.0.0.1 main-z1-point.metallopunto.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767376/
+127.0.0.1 sync-v9-data.metallopunto.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767375/
+127.0.0.1 gate-x3-proxy.metallopunto.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767374/
+127.0.0.1 web-z7-infra.metallopunto.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767352/
+127.0.0.1 nlf.ssffaa19.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1767341/
+127.0.0.1 ggl.rongtv.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1767342/
+127.0.0.1 ggl.ssffaa19.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1767343/
+127.0.0.1 red.rvoox.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1767338/
+127.0.0.1 red.ssffaa1.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1767339/
+127.0.0.1 nlf.rongtv.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1767340/
+127.0.0.1 link-v11-sat.grandevitesse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767328/
+127.0.0.1 core-x4-rock.grandevitesse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767321/
 127.0.0.1 base-z9-steel.grandevitesse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767320/
 127.0.0.1 nuvixohub.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1767319/
 127.0.0.1 orbit-v0-moon.grandevitesse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767318/
@@ -64288,4 +64306,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64289
+# Number of entries: 64307
