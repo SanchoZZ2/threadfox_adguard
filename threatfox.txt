@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 app-v4-data.schnellerechner.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766738/
+127.0.0.1 nuevopilates.com.ar #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766730/
+127.0.0.1 infra-static-z.vittoriaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766725/
+127.0.0.1 dist-v8-cache.vittoriaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766724/
+127.0.0.1 sync-01-edge.vittoriaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766723/
+127.0.0.1 nuet.cn #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766722/
+127.0.0.1 node-b92-auth.vittoriaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766721/
+127.0.0.1 nspj.lebork.pl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766720/
+127.0.0.1 main-point-v.silberstrom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766719/
 127.0.0.1 data-sync-01.silberstrom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766718/
 127.0.0.1 gate-proxy-x.silberstrom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766716/
 127.0.0.1 infra-web-v2.silberstrom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766715/
@@ -63893,4 +63902,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63894
+# Number of entries: 63903
