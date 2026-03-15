@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nwonop.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766783/
+127.0.0.1 sync-z0-vision.altotensione.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766782/
+127.0.0.1 point-x2-scan.altotensione.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766781/
+127.0.0.1 bridge-v4-light.altotensione.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766780/
+127.0.0.1 room-51-dark.altotensione.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766779/
+127.0.0.1 vision-x8-sync.froidelumiere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766778/
+127.0.0.1 ghost-z1-node.froidelumiere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766777/
+127.0.0.1 shell-v7-core.froidelumiere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766776/
+127.0.0.1 nuu.zone #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766775/
+127.0.0.1 nutrivet.com.vn #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766774/
+127.0.0.1 trace-44-alpha.froidelumiere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766773/
 127.0.0.1 db-v12-point.mondofuturo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766769/
 127.0.0.1 nutri.claudineroberto.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766768/
 127.0.0.1 base-x5-infra.mondofuturo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766767/
@@ -63922,4 +63933,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 63923
+# Number of entries: 63934
