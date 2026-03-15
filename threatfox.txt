@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 638490.idealgo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766866/
+127.0.0.1 www.fahrzeugshaus-mueller.de #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1766864/
+127.0.0.1 antenistabarcelona.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766848/
+127.0.0.1 concel.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766849/
+127.0.0.1 email.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766850/
+127.0.0.1 gate.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766851/
+127.0.0.1 mail9.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766852/
+127.0.0.1 mails.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766853/
+127.0.0.1 malware.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766854/
+127.0.0.1 mx5.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766855/
+127.0.0.1 newmail.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766856/
+127.0.0.1 selot.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766857/
+127.0.0.1 smtp1.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766858/
+127.0.0.1 sniper.webtechcorp.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766859/
+127.0.0.1 xn--gmq90amm486bwinn5dqrt.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1766860/
+127.0.0.1 genomecouri.idealgo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766843/
+127.0.0.1 guidecoral.idealgo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766836/
+127.0.0.1 mer-forgeon.idealgo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766835/
 127.0.0.1 obsdeboomgaard.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766825/
 127.0.0.1 obrazdzs.ru #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1766824/
 127.0.0.1 foresrebat.foldername.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1766823/
@@ -64057,4 +64075,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64058
+# Number of entries: 64076
