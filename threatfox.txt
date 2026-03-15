@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ghost-v9-node.froidefibre.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767238/
+127.0.0.1 shell-01-core.froidefibre.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767237/
+127.0.0.1 onlinebusinessbee.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767213/
+127.0.0.1 trace-x7-alpha.froidefibre.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767212/
+127.0.0.1 auth-v2-user.mondolucente.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767211/
+127.0.0.1 db-x55-point.mondolucente.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767210/
+127.0.0.1 online.prealternativo.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767209/
+127.0.0.1 base-z3-infra.mondolucente.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767199/
+127.0.0.1 net-v11-global.mondolucente.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767198/
+127.0.0.1 flow-z4-work.starkewolke.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767196/
+127.0.0.1 online.igad.edu.ec #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767195/
+127.0.0.1 hub-v22-local.starkewolke.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767194/
+127.0.0.1 link-x9-power.starkewolke.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767193/
 127.0.0.1 sys-01-monitor.starkewolke.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767192/
 127.0.0.1 gate-v5-entry.petitreseauv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767191/
 127.0.0.1 dev-x11-host.petitreseauv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767188/
@@ -64259,4 +64272,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64260
+# Number of entries: 64273
