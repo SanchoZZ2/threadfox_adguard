@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 a4-scan-point.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767771/
+127.0.0.1 e6-bridge-light.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767758/
+127.0.0.1 v0-room-dark.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767736/
+127.0.0.1 osiconnect.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767705/
+127.0.0.1 i1-vision-sync.duronodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767704/
+127.0.0.1 u3-ghost-node.duronodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767703/
+127.0.0.1 t5-shell-core.duronodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767702/
+127.0.0.1 y2-trace-alpha.duronodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767701/
+127.0.0.1 l9-auth-user.velocicorsa.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767700/
 127.0.0.1 g7-db-point.velocicorsa.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767699/
 127.0.0.1 f4-base-infra.velocicorsa.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767698/
 127.0.0.1 d8-net-global.velocicorsa.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767697/
@@ -64259,4 +64268,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64260
+# Number of entries: 64269
