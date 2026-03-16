@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 p7-gate-proxy.ferroviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767797/
+127.0.0.1 s3-web-infra.ferroviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767796/
+127.0.0.1 r5-link-sat.secretovalle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767795/
+127.0.0.1 q1-core-rock.secretovalle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767794/
+127.0.0.1 osvetlenie.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767793/
+127.0.0.1 b9-base-steel.secretovalle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767792/
+127.0.0.1 n4-orbit-moon.secretovalle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767791/
+127.0.0.1 ostseefrische.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1767789/
+127.0.0.1 x0-space-open.altasphera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767788/
+127.0.0.1 connect.xdmserverconnect.website #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1767787/
+127.0.0.1 xjt4wnlhmi.localto.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1767786/
+127.0.0.1 www.trankuneca.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1767785/
+127.0.0.1 z7-field-vast.altasphera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767784/
+127.0.0.1 w1-zone-area.altasphera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767776/
+127.0.0.1 k9-rim-outer.altasphera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767775/
+127.0.0.1 m8-sync-vision.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767772/
 127.0.0.1 a4-scan-point.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767771/
 127.0.0.1 e6-bridge-light.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767758/
 127.0.0.1 v0-room-dark.puroflusso.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1767736/
@@ -61419,6 +61435,7 @@
 127.0.0.1 idf-dev.nacc.store #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1581238/
 127.0.0.1 inkseed.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1581184/
 127.0.0.1 ethiopialocal.site #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1581152/
+127.0.0.1 oldone888d.casacam.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1581056/
 127.0.0.1 www.fwefwefwe.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1580992/
 127.0.0.1 ns2.microoosoft.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1580721/
 127.0.0.1 ns1.microoosoft.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1580720/
@@ -64268,4 +64285,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64269
+# Number of entries: 64286
