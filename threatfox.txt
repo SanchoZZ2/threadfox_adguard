@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bigsmart.beer #payload_delivery https://threatfox.abuse.ch/ioc/1769276/
+127.0.0.1 lstyle-sdn.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1769274/
+127.0.0.1 4tty4.cokefun.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769273/
+127.0.0.1 sceneneur.cokenote.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769272/
+127.0.0.1 developerstation.live #payload_delivery https://threatfox.abuse.ch/ioc/1769269/
+127.0.0.1 ysviurpy.cokenote.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769268/
+127.0.0.1 kentuckyfiredepartment.com #payload_delivery https://threatfox.abuse.ch/ioc/1769265/
+127.0.0.1 pw3290s.cokenote.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769263/
+127.0.0.1 rwmudmx.backyard.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769258/
+127.0.0.1 reedlea.backyard.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769248/
+127.0.0.1 urbaoutlet.norsdwest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769247/
+127.0.0.1 api-proxy.mersiblagodarutebya.workers.dev #payload_delivery https://threatfox.abuse.ch/ioc/1769243/
+127.0.0.1 f0rrn-core.norsdwest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769242/
 127.0.0.1 2dqe6hsl.norsdwest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769241/
 127.0.0.1 ser-draon.easttea.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769240/
 127.0.0.1 pilsner-creative-media.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1769239/
@@ -64409,6 +64422,7 @@
 127.0.0.1 4Mekey.myftp.biz #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1156862/
 127.0.0.1 noinmy.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1156782/
 127.0.0.1 bevdona.theworkpc.com #botnet_cc, win.bit_rat, BitRAT https://threatfox.abuse.ch/ioc/1156656/
+127.0.0.1 pradeepprabhu705.hopto.org #botnet_cc, win.bit_rat, BitRAT https://threatfox.abuse.ch/ioc/1156614/
 127.0.0.1 ftap-29332.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156346/
 127.0.0.1 212.ip.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156296/
 127.0.0.1 hurricane.ydns.eu #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156286/
@@ -65058,4 +65072,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65059
+# Number of entries: 65073
