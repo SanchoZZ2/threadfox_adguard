@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 interpincafetr.com #payload_delivery https://threatfox.abuse.ch/ioc/1769805/
+127.0.0.1 c1-core-j3.amplitudo-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769804/
+127.0.0.1 x4-web-p09.amplitudo-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769803/
+127.0.0.1 z6-app-h11.amplitudo-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769802/
+127.0.0.1 v0-srv-q82.amplitudo-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769801/
+127.0.0.1 k5-dist-z07.versicodex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769764/
+127.0.0.1 w3-sync-v99.versicodex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769763/
+127.0.0.1 r8-node-x101.versicodex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769762/
+127.0.0.1 retainerflee.rassvet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769761/
+127.0.0.1 b1rch0-route.yellglass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769760/
 127.0.0.1 driver-tru.yellglass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769756/
 127.0.0.1 portaildocs.cloud #payload_delivery https://threatfox.abuse.ch/ioc/1769752/
 127.0.0.1 dynlineal3.yellglass.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769751/
@@ -65231,4 +65241,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65232
+# Number of entries: 65242
