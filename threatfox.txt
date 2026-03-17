@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 peteruncaged.menshealthclinics.us #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1768982/
+127.0.0.1 k8s-992-node.fjordpulse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1768980/
+127.0.0.1 peter-rodriguez.globaldivide.info #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1768979/
+127.0.0.1 l0-main-v7.navispazio.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1768977/
 127.0.0.1 s5-sync-x1.navispazio.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1768976/
 127.0.0.1 f2-gate-v0.navispazio.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1768972/
 127.0.0.1 t4-link-x2.muralis-tech.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1768970/
@@ -64875,4 +64879,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 64876
+# Number of entries: 64880
