@@ -1,4 +1,27 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hub-v02-local.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771088/
+127.0.0.1 link-p1-power.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771087/
+127.0.0.1 sys-s33-monitor.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771086/
+127.0.0.1 gate-v5-entry.densa-materia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771085/
+127.0.0.1 dev-t0-host.densa-materia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771083/
+127.0.0.1 api-r2-remote.densa-materia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771081/
+127.0.0.1 cloud-w11-store.densa-materia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771079/
+127.0.0.1 core-j1-sync.faser-tech.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771051/
+127.0.0.1 web-proxy-707.faser-tech.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771050/
+127.0.0.1 app-v09-data.faser-tech.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771048/
+127.0.0.1 srv-k44-meta.faser-tech.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771047/
+127.0.0.1 infra-m2-static.optico-voda.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771046/
+127.0.0.1 cdn-z7-edge.optico-voda.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771045/
+127.0.0.1 sync-v01-auth.optico-voda.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771044/
+127.0.0.1 pop-x88-node.optico-voda.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771043/
+127.0.0.1 node-x33-auth.curvaforte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771040/
+127.0.0.1 l22vyxd8.fastbit.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771039/
+127.0.0.1 04cbe3jm.fastbit.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771038/
+127.0.0.1 main-j5-point.curvaforte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771037/
+127.0.0.1 sync-h4-data.curvaforte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771036/
+127.0.0.1 gate-p1-proxy.curvaforte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771034/
+127.0.0.1 web-s09-infra.prismaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771033/
+127.0.0.1 uplink-r2-sat.prismaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771032/
 127.0.0.1 core-q7-rock.prismaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771029/
 127.0.0.1 base-b1-steel.prismaviva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771023/
 127.0.0.1 orbit-n2-moon.sinapsitech.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771022/
@@ -65515,4 +65538,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65516
+# Number of entries: 65539
