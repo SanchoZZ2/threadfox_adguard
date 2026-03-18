@@ -1,4 +1,30 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gate3proxy.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771148/
+127.0.0.1 app2data.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771147/
+127.0.0.1 web1meta.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771146/
+127.0.0.1 db4static.flexonode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771145/
+127.0.0.1 cdn3edge.flexonode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771144/
+127.0.0.1 api2sync.flexonode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771143/
+127.0.0.1 srv1node.flexonode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771142/
+127.0.0.1 gbp.cn.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1771139/
+127.0.0.1 obf.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1771140/
+127.0.0.1 www.crysaltimedubai.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1771136/
+127.0.0.1 www.crysaltimedubaibackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1771137/
+127.0.0.1 www.crysaltimedubaibackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1771138/
+127.0.0.1 main-v4-point.vortex-lab.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771135/
+127.0.0.1 sync-z9-data.vortex-lab.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771125/
+127.0.0.1 gate-x1-proxy.vortex-lab.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771124/
+127.0.0.1 web-v03-infra.vortex-lab.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771123/
+127.0.0.1 link-z2-sat.soma-grid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771119/
+127.0.0.1 core-x4-rock.soma-grid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771118/
+127.0.0.1 base-v5-steel.soma-grid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771117/
+127.0.0.1 orbit-z01-moon.soma-grid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771116/
+127.0.0.1 space-x9-open.lumen-nodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771115/
+127.0.0.1 field-z1-vast.lumen-nodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771113/
+127.0.0.1 zone-v8-area.lumen-nodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771112/
+127.0.0.1 rim-k12-outer.lumen-nodo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771111/
+127.0.0.1 sync-v9-vision.terra-data.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771110/
+127.0.0.1 scan-z0-point.terra-data.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771108/
 127.0.0.1 bridge-x4-light.terra-data.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771106/
 127.0.0.1 room-v51-dark.terra-data.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771105/
 127.0.0.1 vision-v4-sync.nux-systems.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771104/
@@ -65548,4 +65574,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65549
+# Number of entries: 65575
