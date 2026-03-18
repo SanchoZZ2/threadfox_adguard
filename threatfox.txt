@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sync-m8-vision.nexustech-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769903/
+127.0.0.1 scan-a4-point.nexustech-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769902/
+127.0.0.1 bridge-e6-light.nexustech-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769900/
+127.0.0.1 room-v0-dark.nexustech-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769899/
+127.0.0.1 vision-i1-sync.primasfera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769898/
+127.0.0.1 ghost-u3-node.primasfera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769897/
+127.0.0.1 shell-t5-core.primasfera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769896/
+127.0.0.1 trace-y2-alpha.primasfera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769893/
+127.0.0.1 auth-l9-user.optimumvia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769866/
+127.0.0.1 db-g7-point.optimumvia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769865/
+127.0.0.1 base-f4-infra.optimumvia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769864/
+127.0.0.1 net-d8-global.optimumvia.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769863/
+127.0.0.1 gate-v7-entry.veloxfundo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769862/
+127.0.0.1 dev-t44-host.veloxfundo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769861/
+127.0.0.1 api-r8-remote.veloxfundo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769860/
+127.0.0.1 cloud-w2-store.veloxfundo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769859/
+127.0.0.1 infra-z0-static.fluxovivavo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769858/
+127.0.0.1 dist-k4-meta.fluxovivavo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769857/
+127.0.0.1 v1-sync-h07.fluxovivavo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769856/
+127.0.0.1 asd.exfrp.sbs #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1769855/
+127.0.0.1 teamadmin.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1769854/
+127.0.0.1 id-x992-node.fluxovivavo.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769853/
 127.0.0.1 interpincafetr.com #payload_delivery https://threatfox.abuse.ch/ioc/1769805/
 127.0.0.1 c1-core-j3.amplitudo-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769804/
 127.0.0.1 x4-web-p09.amplitudo-v.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1769803/
@@ -65241,4 +65263,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65242
+# Number of entries: 65264
