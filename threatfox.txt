@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bridge-x4-light.terra-data.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771106/
+127.0.0.1 room-v51-dark.terra-data.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771105/
+127.0.0.1 vision-v4-sync.nux-systems.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771104/
+127.0.0.1 shell-v7-core.nux-systems.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771101/
+127.0.0.1 trace-x11-alpha.nux-systems.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771100/
+127.0.0.1 auth-l2-user.foco-global.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771094/
+127.0.0.1 db-g0-point.foco-global.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771093/
+127.0.0.1 base-f4-infra.foco-global.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771091/
+127.0.0.1 net-v88-global.foco-global.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771090/
+127.0.0.1 flow-z9-work.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771089/
 127.0.0.1 hub-v02-local.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771088/
 127.0.0.1 link-p1-power.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771087/
 127.0.0.1 sys-s33-monitor.punto-viva.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771086/
@@ -65538,4 +65548,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65539
+# Number of entries: 65549
