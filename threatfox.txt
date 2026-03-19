@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 base2point.optigrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771184/
+127.0.0.1 glob1infra.optigrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771183/
+127.0.0.1 flow4work.densapoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771182/
+127.0.0.1 net3local.densapoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771181/
+127.0.0.1 sys2power.densapoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771180/
+127.0.0.1 mon1point.densapoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771179/
+127.0.0.1 entry4link.metracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771177/
+127.0.0.1 dev3host.metracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771153/
+127.0.0.1 rpc2remote.metracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771151/
+127.0.0.1 cloud1store.metracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771150/
+127.0.0.1 hub4sync.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771149/
 127.0.0.1 gate3proxy.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771148/
 127.0.0.1 app2data.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771147/
 127.0.0.1 web1meta.vivaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771146/
@@ -64273,6 +64284,7 @@
 127.0.0.1 nicefeide.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1428306/
 127.0.0.1 1305-43463.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1428216/
 127.0.0.1 behind-token.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1428199/
+127.0.0.1 wait.imiul.com #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1428117/
 127.0.0.1 maxdesigns.top #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1428115/
 127.0.0.1 google.baobecgiang.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1414527/
 127.0.0.1 adanddcdjbdefml.top #botnet_cc, js.mints_loader, MintsLoader https://threatfox.abuse.ch/ioc/1414302/
@@ -64584,6 +64596,8 @@
 127.0.0.1 agosto14.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312407/
 127.0.0.1 method8888.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312406/
 127.0.0.1 2015wuyun.cc #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1310529/
+127.0.0.1 update.micro.gay #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297780/
+127.0.0.1 ns.supermirco.us #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297784/
 127.0.0.1 21.ip.gl.ply.gg #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1297163/
 127.0.0.1 londopas.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1291297/
 127.0.0.1 berjimek.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1291296/
@@ -65574,4 +65588,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65575
+# Number of entries: 65589
