@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 stor4static.astropoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771687/
+127.0.0.1 dist3edge.astropoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771686/
+127.0.0.1 lb2sync.astropoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771684/
+127.0.0.1 rack1node.astropoint.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771683/
+127.0.0.1 main4point.lumenlabs.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771682/
+127.0.0.1 asyc.pukkre.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1771681/
+127.0.0.1 data3sync.lumenlabs.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771680/
+127.0.0.1 gate2proxy.lumenlabs.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771679/
+127.0.0.1 web1infra.lumenlabs.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771676/
+127.0.0.1 sat4link.terracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771673/
+127.0.0.1 rock3core.terracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771672/
 127.0.0.1 base2steel.terracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771671/
 127.0.0.1 moon1orbit.terracore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771669/
 127.0.0.1 open4space.nuxflow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771668/
@@ -65699,4 +65710,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65700
+# Number of entries: 65711
