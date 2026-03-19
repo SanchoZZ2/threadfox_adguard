@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 data3sync.nuxbase.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771216/
+127.0.0.1 gate2proxy.nuxbase.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771214/
+127.0.0.1 web1infra.nuxbase.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771213/
+127.0.0.1 sat4link.termocenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771211/
+127.0.0.1 rock3core.termocenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771209/
+127.0.0.1 base2steel.termocenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771208/
+127.0.0.1 moon1orbit.termocenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771206/
+127.0.0.1 open4space.altasync.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771204/
+127.0.0.1 vast3field.altasync.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771203/
+127.0.0.1 zone2area.altasync.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771202/
 127.0.0.1 rim1outer.altasync.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771197/
 127.0.0.1 path4gate.protovoda.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771195/
 127.0.0.1 view3sync.protovoda.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771194/
@@ -65483,4 +65493,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65484
+# Number of entries: 65494
