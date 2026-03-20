@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pnt3gate.infrastructurecloud.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772697/
+127.0.0.1 pnt2proc.infrastructurecloud.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772692/
+127.0.0.1 pnt1meta.infrastructurecloud.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772691/
+127.0.0.1 res3edge.analyticsprocessing.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772689/
+127.0.0.1 res2data.analyticsprocessing.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772688/
+127.0.0.1 res1sync.analyticsprocessing.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772687/
+127.0.0.1 bj88-11.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1772685/
+127.0.0.1 bj88games.center #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1772684/
+127.0.0.1 gpseven.it.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1772683/
+127.0.0.1 rvu.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1772682/
+127.0.0.1 dc4point.applicationbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772681/
+127.0.0.1 dc3data.applicationbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772680/
+127.0.0.1 dc2proxy.applicationbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772679/
+127.0.0.1 dgp13ezr.winddev.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772678/
+127.0.0.1 k9a7tswv.winddev.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772677/
 127.0.0.1 dc1infra.applicationbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772676/
 127.0.0.1 app4sat.distributedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772675/
 127.0.0.1 app3core.distributedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1772674/
@@ -66290,4 +66305,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66291
+# Number of entries: 66306
