@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 load3core.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771818/
+127.0.0.1 entry2steel.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771817/
+127.0.0.1 proc1orbit.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771816/
+127.0.0.1 open4space.staticboundary.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771815/
+127.0.0.1 load3field.staticboundary.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771814/
+127.0.0.1 entry2area.staticboundary.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771813/
+127.0.0.1 proc1outer.staticboundary.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771812/
+127.0.0.1 gate4path.remotenetwork.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771811/
 127.0.0.1 load3view.remotenetwork.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771810/
 127.0.0.1 entry2point.remotenetwork.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771809/
 127.0.0.1 proc1dark.remotenetwork.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771808/
@@ -65663,4 +65671,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65664
+# Number of entries: 65672
