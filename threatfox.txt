@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 core3user.systeminterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771858/
+127.0.0.1 core2base.systeminterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771857/
+127.0.0.1 core1infra.systeminterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771856/
+127.0.0.1 point4work.virtualresource.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771855/
+127.0.0.1 point3local.virtualresource.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771854/
+127.0.0.1 point2power.virtualresource.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771853/
+127.0.0.1 point1proc.virtualresource.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771851/
+127.0.0.1 host4link.datacentricnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771850/
 127.0.0.1 host3dev.datacentricnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771849/
 127.0.0.1 host2remote.datacentricnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771848/
 127.0.0.1 host1store.datacentricnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771847/
@@ -65690,4 +65698,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65691
+# Number of entries: 65699
