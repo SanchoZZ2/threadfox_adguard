@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 node3edge.networkobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771833/
+127.0.0.1 node2data.networkobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771832/
+127.0.0.1 node1sync.networkobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771831/
+127.0.0.1 sweet1617181921.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1771830/
+127.0.0.1 main4point.secureterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771824/
+127.0.0.1 load3data.secureterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771823/
+127.0.0.1 satrp.eu.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1771822/
+127.0.0.1 entry2proxy.secureterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771821/
+127.0.0.1 proc1infra.secureterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771820/
+127.0.0.1 sat4link.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771819/
 127.0.0.1 load3core.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771818/
 127.0.0.1 entry2steel.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771817/
 127.0.0.1 proc1orbit.infravariable.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1771816/
@@ -65671,4 +65681,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 65672
+# Number of entries: 65682
