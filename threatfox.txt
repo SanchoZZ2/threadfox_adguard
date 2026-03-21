@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 msk4point.datacenterstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773123/
+127.0.0.1 msk3data.datacenterstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773122/
+127.0.0.1 msk2proxy.datacenterstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773121/
+127.0.0.1 msk1infra.datacenterstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773120/
+127.0.0.1 cfg4sat.networkoptimizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773119/
+127.0.0.1 cfg3core.networkoptimizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773118/
+127.0.0.1 cfg2steel.networkoptimizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773117/
+127.0.0.1 cfg1proc.networkoptimizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773116/
+127.0.0.1 rt4space.terminalobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773115/
+127.0.0.1 rt3field.terminalobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773114/
 127.0.0.1 rt2outer.terminalobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773113/
 127.0.0.1 rt1proc.terminalobserver.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773112/
 127.0.0.1 msk4path.gatewayprocessor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773111/
@@ -66481,4 +66491,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66482
+# Number of entries: 66492
