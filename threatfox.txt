@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cfg1store.resourcebalancer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773088/
+127.0.0.1 rt4sync.integritychecker.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773087/
+127.0.0.1 rt3gate.integritychecker.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773052/
+127.0.0.1 rt2proc.integritychecker.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773051/
+127.0.0.1 rt1meta.integritychecker.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773050/
+127.0.0.1 msk4static.distributedledger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773049/
+127.0.0.1 msk3edge.distributedledger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773048/
+127.0.0.1 msk2data.distributedledger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773047/
+127.0.0.1 msk1sync.distributedledger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773044/
 127.0.0.1 vld4point.logicflowmanager.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773043/
 127.0.0.1 vld3data.logicflowmanager.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773006/
 127.0.0.1 vld2proxy.logicflowmanager.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773005/
@@ -66451,4 +66460,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66452
+# Number of entries: 66461
