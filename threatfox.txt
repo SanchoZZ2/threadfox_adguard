@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ayodhaltbohy-59438.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1773233/
+127.0.0.1 forgeledg.clocknet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773229/
+127.0.0.1 compr-hinge.getverif.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773228/
 127.0.0.1 unl25bit.getverif.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773227/
 127.0.0.1 kelvenum.getverif.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773226/
 127.0.0.1 runwa1-path.getverif.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773225/
@@ -66563,4 +66566,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66564
+# Number of entries: 66567
