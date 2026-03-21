@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hub4work.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773416/
+127.0.0.1 hub3local.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773415/
+127.0.0.1 hub2power.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773414/
+127.0.0.1 hub1proc.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773413/
+127.0.0.1 int4link.networkresourcebuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773412/
+127.0.0.1 int3dev.networkresourcebuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773411/
+127.0.0.1 int2remote.networkresourcebuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773410/
+127.0.0.1 int1store.networkresourcebuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773409/
+127.0.0.1 ext4sync.securityaccessgateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773408/
+127.0.0.1 ext3gate.securityaccessgateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773407/
+127.0.0.1 ext2proc.securityaccessgateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773406/
 127.0.0.1 ext1meta.securityaccessgateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773405/
 127.0.0.1 hub4static.terminaldataprocessor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773404/
 127.0.0.1 hub3edge.terminaldataprocessor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773403/
@@ -66654,4 +66665,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66655
+# Number of entries: 66666
