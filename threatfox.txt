@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 loc4point.analyticspipeline.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773374/
+127.0.0.1 loc3data.analyticspipeline.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773373/
+127.0.0.1 loc2proxy.analyticspipeline.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773372/
+127.0.0.1 loc1infra.analyticspipeline.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773371/
+127.0.0.1 node4sat.remotemanagement.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773370/
+127.0.0.1 node3core.remotemanagement.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773369/
+127.0.0.1 node2steel.remotemanagement.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773368/
+127.0.0.1 node1proc.remotemanagement.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773367/
+127.0.0.1 srv4space.virtualenvironment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773366/
+127.0.0.1 srv3field.virtualenvironment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773365/
+127.0.0.1 srv2outer.virtualenvironment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773364/
+127.0.0.1 srv1proc.virtualenvironment.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773363/
+127.0.0.1 loc4path.systemintegration.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773362/
+127.0.0.1 loc3view.systemintegration.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773361/
+127.0.0.1 loc2point.systemintegration.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773360/
+127.0.0.1 loc1proc.systemintegration.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773358/
+127.0.0.1 node4view.databaseintegrity.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773357/
+127.0.0.1 node3ghost.databaseintegrity.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773356/
+127.0.0.1 risunok-zimy.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1773353/
+127.0.0.1 vlitke.za.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1773352/
+127.0.0.1 uko.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1773351/
+127.0.0.1 dateseticos.bounceme.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1773350/
+127.0.0.1 node2core.databaseintegrity.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773349/
+127.0.0.1 node1proc.databaseintegrity.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773348/
+127.0.0.1 srv4link.resourcevalidator.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773347/
 127.0.0.1 srv3user.resourcevalidator.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773346/
 127.0.0.1 srv2base.resourcevalidator.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773345/
 127.0.0.1 srv1infra.resourcevalidator.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773344/
@@ -66624,4 +66649,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66625
+# Number of entries: 66650
