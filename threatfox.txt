@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hub1infra.infrastructurestream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773448/
+127.0.0.1 int3core.distributedlogicunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773446/
+127.0.0.1 int2steel.distributedlogicunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773445/
+127.0.0.1 int1proc.distributedlogicunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773444/
+127.0.0.1 ext4space.remotediagnosticlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773443/
+127.0.0.1 ext3field.remotediagnosticlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773442/
+127.0.0.1 ext2outer.remotediagnosticlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773434/
+127.0.0.1 ext1proc.remotediagnosticlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773433/
+127.0.0.1 hub4path.cloudoperationcenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773432/
+127.0.0.1 hub3view.cloudoperationcenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773431/
+127.0.0.1 hub2point.cloudoperationcenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773430/
+127.0.0.1 hub1proc.cloudoperationcenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773429/
+127.0.0.1 int4view.globalmetricshandler.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773427/
+127.0.0.1 int3ghost.globalmetricshandler.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773426/
+127.0.0.1 int2core.globalmetricshandler.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773425/
+127.0.0.1 int1proc.globalmetricshandler.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773424/
+127.0.0.1 ext4link.virtualinterfacenet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773423/
+127.0.0.1 8wddgfqliy.localto.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1773422/
+127.0.0.1 www.kjbdi.fit #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1773420/
+127.0.0.1 ext3user.virtualinterfacenet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773419/
+127.0.0.1 ext2base.virtualinterfacenet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773418/
+127.0.0.1 ext1infra.virtualinterfacenet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773417/
 127.0.0.1 hub4work.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773416/
 127.0.0.1 hub3local.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773415/
 127.0.0.1 hub2power.systemintegritynode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1773414/
@@ -64163,6 +64185,7 @@
 127.0.0.1 surfshark.pw #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1548609/
 127.0.0.1 ns1.basicvitals.com #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1548320/
 127.0.0.1 test.manageenglne.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1548350/
+127.0.0.1 ms-pupils.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1548368/
 127.0.0.1 ns3.admlistdel.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1548333/
 127.0.0.1 ns2.admlistdel.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1548330/
 127.0.0.1 pluepf.xyz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1548300/
@@ -65823,6 +65846,7 @@
 127.0.0.1 boiibzqmk12j.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1190577/
 127.0.0.1 borbrbmrtxtrbxrq.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1190578/
 127.0.0.1 opkfijuifbuyynyny.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1190586/
+127.0.0.1 29122021.sytes.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1189582/
 127.0.0.1 airlinesapp.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1189545/
 127.0.0.1 lectricelfuel.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1188605/
 127.0.0.1 bakedmatela.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1188001/
@@ -66665,4 +66689,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66666
+# Number of entries: 66690
