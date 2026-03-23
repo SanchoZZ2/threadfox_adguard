@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ext4view.vectorstreamlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774100/
+127.0.0.1 ext3ghost.vectorstreamlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774098/
+127.0.0.1 ext2core.vectorstreamlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774097/
+127.0.0.1 svc3user.systemictracebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774094/
+127.0.0.1 svc2base.systemictracebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774093/
+127.0.0.1 svc1infra.systemictracebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774087/
+127.0.0.1 dev4work.photonicdatanode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774080/
+127.0.0.1 dev3local.photonicdatanode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774079/
 127.0.0.1 dev1proc.photonicdatanode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774077/
 127.0.0.1 cl4link.microflowprocess.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774076/
 127.0.0.1 cl2remote.microflowprocess.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774074/
@@ -66590,4 +66598,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66591
+# Number of entries: 66599
