@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dev1proc.photonicdatanode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774077/
+127.0.0.1 cl4link.microflowprocess.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774076/
+127.0.0.1 cl2remote.microflowprocess.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774074/
+127.0.0.1 ext4sync.topologygatehub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774067/
+127.0.0.1 ext3gate.topologygatehub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774066/
+127.0.0.1 jbbjbjkb-61631.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1774064/
+127.0.0.1 Dementiatic-33091.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1774062/
+127.0.0.1 habibaahmaduu.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1774061/
+127.0.0.1 svc4static.spectralsyncunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774058/
 127.0.0.1 svc1sync.spectralsyncunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774054/
 127.0.0.1 cl4static.orbitaltraceunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774053/
 127.0.0.1 cl3edge.orbitaltraceunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774052/
@@ -66581,4 +66590,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66582
+# Number of entries: 66591
