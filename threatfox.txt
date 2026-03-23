@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 svc1proc.activestaticsync.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774578/
+127.0.0.1 dev4space.linearprocessnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774576/
+127.0.0.1 dev3field.linearprocessnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774575/
+127.0.0.1 dev2outer.linearprocessnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774572/
+127.0.0.1 dev1proc.linearprocessnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774569/
+127.0.0.1 cl4path.synchrometrixbox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774563/
+127.0.0.1 cl3view.synchrometrixbox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774560/
+127.0.0.1 cl2point.synchrometrixbox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774543/
+127.0.0.1 cl1proc.synchrometrixbox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774542/
+127.0.0.1 ext4view.vectordiffusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774541/
+127.0.0.1 ext3ghost.vectordiffusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774540/
 127.0.0.1 ext2core.vectordiffusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774539/
 127.0.0.1 tjousypbf.localto.net #botnet_cc, win.darkcomet, Breut, Fynloski https://threatfox.abuse.ch/ioc/1774538/
 127.0.0.1 m7rumt45s8.localto.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1774537/
@@ -66871,4 +66882,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66872
+# Number of entries: 66883
