@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ext4view.tensorpointlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774021/
+127.0.0.1 ext2core.tensorpointlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774017/
+127.0.0.1 ext1proc.tensorpointlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774016/
+127.0.0.1 svc4link.binaryflowbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774015/
+127.0.0.1 svc3user.binaryflowbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774014/
+127.0.0.1 svc2base.binaryflowbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774007/
+127.0.0.1 dev4work.vectorquantizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774005/
+127.0.0.1 dev3local.vectorquantizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774004/
 127.0.0.1 dev2power.vectorquantizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774003/
 127.0.0.1 dev1proc.vectorquantizer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774002/
 127.0.0.1 cl3dev.spectralunitgate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774000/
@@ -66789,4 +66797,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66790
+# Number of entries: 66798
