@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ext4view.nebularpointtrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774673/
+127.0.0.1 ext3ghost.nebularpointtrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774671/
+127.0.0.1 ext2core.nebularpointtrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774670/
+127.0.0.1 ext1proc.nebularpointtrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774669/
+127.0.0.1 svc4link.coherentmetricunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774667/
+127.0.0.1 svc3user.coherentmetricunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774665/
+127.0.0.1 svc2base.coherentmetricunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774664/
+127.0.0.1 sigmatopki-60241.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1774663/
+127.0.0.1 lnescgkwgt.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1774662/
+127.0.0.1 lvwjo2n0w3.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1774661/
+127.0.0.1 sonderaktionen.de.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1774658/
+127.0.0.1 vta.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1774659/
+127.0.0.1 svc1infra.coherentmetricunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774655/
+127.0.0.1 dev4work.tensorvortexlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774654/
+127.0.0.1 dev3local.tensorvortexlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774653/
 127.0.0.1 dev2power.tensorvortexlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774652/
 127.0.0.1 dev1proc.tensorvortexlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774649/
 127.0.0.1 shitrba.click #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1774644/
@@ -66307,6 +66322,7 @@
 127.0.0.1 redline957.duckdns.org #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1146196/
 127.0.0.1 lazerprojekt.store #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1145998/
 127.0.0.1 lahorivelor.xyz #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1145991/
+127.0.0.1 koreamonitoring.com #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1145984/
 127.0.0.1 kaiaiannial.xyz #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1145970/
 127.0.0.1 hueref.eu #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1145920/
 127.0.0.1 flestriche.xyz #botnet_cc, win.redline_stealer, RECORDSTEALER, RedLine Stealer https://threatfox.abuse.ch/ioc/1145848/
@@ -66916,4 +66932,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66917
+# Number of entries: 66933
