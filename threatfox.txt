@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 svc1sync.spectralsyncunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774054/
+127.0.0.1 cl4static.orbitaltraceunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774053/
+127.0.0.1 cl3edge.orbitaltraceunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774052/
+127.0.0.1 cl2data.orbitaltraceunit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774051/
+127.0.0.1 ext4point.thermalmetrichub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774049/
+127.0.0.1 ext2proxy.thermalmetrichub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774046/
+127.0.0.1 ext1infra.thermalmetrichub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774045/
 127.0.0.1 svc3core.acousticnodebase.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774041/
 127.0.0.1 svc2steel.acousticnodebase.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774040/
 127.0.0.1 dev2outer.chromadatacenter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774036/
@@ -66574,4 +66581,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66575
+# Number of entries: 66582
