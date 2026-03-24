@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 svc1infra.arthropodameta.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775151/
+127.0.0.1 dev4work.annelidatrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775149/
+127.0.0.1 dev3local.annelidatrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775146/
+127.0.0.1 dev2power.annelidatrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775144/
+127.0.0.1 dev1proc.annelidatrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775142/
+127.0.0.1 cl4link.echinodermgate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775139/
+127.0.0.1 undighh.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1775137/
+127.0.0.1 equilmm.click #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1775138/
+127.0.0.1 cl3dev.echinodermgate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775135/
+127.0.0.1 cl2remote.echinodermgate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775133/
+127.0.0.1 cl1store.echinodermgate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775130/
+127.0.0.1 ext4sync.molluskflowlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775129/
 127.0.0.1 ext3gate.molluskflowlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775127/
 127.0.0.1 ext2proc.molluskflowlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775126/
 127.0.0.1 ext1meta.molluskflowlink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775125/
@@ -66949,4 +66961,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66950
+# Number of entries: 66962
