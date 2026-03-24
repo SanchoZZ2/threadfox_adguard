@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kerneldelive.velvet-dune.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774823/
+127.0.0.1 svc4sat.exuviaestreamnet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774821/
+127.0.0.1 enotbanknoti.co #payload_delivery, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1774817/
+127.0.0.1 svc3core.exuviaestreamnet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774815/
+127.0.0.1 arnicnm.click #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1774810/
+127.0.0.1 svc2steel.exuviaestreamnet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774809/
+127.0.0.1 fastfilenext.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1774808/
+127.0.0.1 svc1proc.exuviaestreamnet.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774807/
+127.0.0.1 dev4space.ovipositortrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774806/
+127.0.0.1 gsl.syslicense.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1774780/
+127.0.0.1 gsl.ssffaa4.xyz #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1774781/
+127.0.0.1 dev3field.ovipositortrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774779/
+127.0.0.1 workcdnmass.beer #payload_delivery https://threatfox.abuse.ch/ioc/1774770/
+127.0.0.1 alwaysnewbackup.info #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1774769/
+127.0.0.1 dev2outer.ovipositortrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774767/
 127.0.0.1 webex-online.ch #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1774763/
 127.0.0.1 dev1proc.ovipositortrace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774760/
 127.0.0.1 cl4path.tarsusdatagate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774757/
@@ -66763,4 +66778,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66764
+# Number of entries: 66779
