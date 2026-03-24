@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cl3dev.chrysalisbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774731/
 127.0.0.1 visualstudioserverredirect.duckdns.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1774713/
 127.0.0.1 cl2remote.chrysalisbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774711/
 127.0.0.1 cl1store.chrysalisbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774710/
@@ -66731,4 +66732,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66732
+# Number of entries: 66733
