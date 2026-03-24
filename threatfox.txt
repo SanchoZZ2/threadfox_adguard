@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cl2remote.chrysalisbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774711/
+127.0.0.1 cl1store.chrysalisbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774710/
+127.0.0.1 ext4sync.mandibulateflow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774709/
+127.0.0.1 ext3gate.mandibulateflow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774708/
+127.0.0.1 ext2proc.mandibulateflow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774707/
+127.0.0.1 ext1meta.mandibulateflow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774706/
+127.0.0.1 svc4static.formicidavortex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774705/
+127.0.0.1 svc3edge.formicidavortex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774704/
 127.0.0.1 svc2data.formicidavortex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774703/
 127.0.0.1 svc1sync.formicidavortex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774702/
 127.0.0.1 cl4static.inertialstreamhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1774701/
@@ -66720,4 +66728,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66721
+# Number of entries: 66729
