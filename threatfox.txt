@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ext4view.feldspargateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775240/
+127.0.0.1 ext3ghost.feldspargateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775239/
+127.0.0.1 ext2core.feldspargateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775238/
+127.0.0.1 kiyona.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1775237/
+127.0.0.1 ext1proc.feldspargateway.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775236/
+127.0.0.1 svc4link.magmaticbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775233/
+127.0.0.1 svc3user.magmaticbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775232/
+127.0.0.1 ks48f3vnga.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1775227/
+127.0.0.1 dxn.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1775226/
+127.0.0.1 svc2base.magmaticbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775225/
+127.0.0.1 svc1infra.magmaticbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775224/
+127.0.0.1 dev4work.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775223/
 127.0.0.1 dev3local.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775222/
 127.0.0.1 dev2power.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775217/
 127.0.0.1 dev1proc.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775216/
@@ -65719,6 +65731,7 @@
 127.0.0.1 ramcxx.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335229/
 127.0.0.1 highestlotto.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335228/
 127.0.0.1 privmerkt.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335227/
+127.0.0.1 dave17.bumbleshrimp.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335226/
 127.0.0.1 025sep.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1332301/
 127.0.0.1 partyyeisdo.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1327845/
 127.0.0.1 nnamoo.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1327157/
@@ -65810,6 +65823,7 @@
 127.0.0.1 brianystafford.geek #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1250580/
 127.0.0.1 sfdopospdofpsdo.dyn #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1250578/
 127.0.0.1 soneypaly.club #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1250157/
+127.0.0.1 newssssssssssssss.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1248272/
 127.0.0.1 akamaicute.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1248214/
 127.0.0.1 sdfsdfhhps.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1248212/
 127.0.0.1 hailnet.online #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1248213/
@@ -65900,6 +65914,7 @@
 127.0.0.1 dev.theokanegroup.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1200343/
 127.0.0.1 bwyb.love #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1199506/
 127.0.0.1 www.sunwu.world #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1199160/
+127.0.0.1 war.bumbleshrimp.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1196987/
 127.0.0.1 asegurar100.4cloud.click #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1196993/
 127.0.0.1 b1omodh51hw6g3d.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1192290/
 127.0.0.1 www.goocoinorg.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1191379/
@@ -66019,6 +66034,7 @@
 127.0.0.1 cwt1u0vv8ic357ov.info #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161267/
 127.0.0.1 toptoptop3.site #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161216/
 127.0.0.1 399i6fi7voahk2g.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161191/
+127.0.0.1 xboxoner.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161189/
 127.0.0.1 myb50.myddns.me #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161178/
 127.0.0.1 callito2024.sytes.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161172/
 127.0.0.1 zl5uyooepo2sqez.info #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161143/
@@ -66757,4 +66773,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66758
+# Number of entries: 66774
