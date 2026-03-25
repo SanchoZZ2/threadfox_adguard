@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 agentscript.dawnspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775565/
+127.0.0.1 oexe.dawnspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775563/
+127.0.0.1 sap3-route.f0xharbor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775560/
+127.0.0.1 stagesandbo.f0xharbor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775557/
+127.0.0.1 4ggo.f0xharbor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775556/
+127.0.0.1 kl.wholeunfrosted.cfd #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1775553/
+127.0.0.1 b23.denmap.cfd #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1775552/
+127.0.0.1 wcslrl.f0xharbor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775551/
+127.0.0.1 ecs-ent-aff-mgr.in.net #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1775535/
+127.0.0.1 download-version.1-4-9.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1775536/
+127.0.0.1 official-teams-storage.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1775537/
+127.0.0.1 tmobile-support.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1775538/
+127.0.0.1 rn0dul-grid.f0xharbor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775548/
+127.0.0.1 Crysiox-48355.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1775547/
+127.0.0.1 nxvfa.sa.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1775543/
+127.0.0.1 patnadergsi.sa.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1775544/
+127.0.0.1 raise.jp.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1775545/
+127.0.0.1 xn----7sbbfcmjq2dxj.ru.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1775546/
+127.0.0.1 globalgri.cinderpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775534/
+127.0.0.1 5fzltr.cinderpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775532/
 127.0.0.1 sales-oas.cinderpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775531/
 127.0.0.1 thic-bridge.cinderpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775529/
 127.0.0.1 jfkwjd.cinderpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775527/
@@ -66922,4 +66942,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66923
+# Number of entries: 66943
