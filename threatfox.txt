@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dev3local.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775222/
+127.0.0.1 dev2power.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775217/
+127.0.0.1 dev1proc.tectonicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775216/
+127.0.0.1 cl4link.sedimentmetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775215/
+127.0.0.1 cl3dev.sedimentmetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775214/
+127.0.0.1 cl2remote.sedimentmetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775213/
+127.0.0.1 cl1store.sedimentmetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775212/
+127.0.0.1 ext4sync.lithosphereduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775210/
+127.0.0.1 ext3gate.lithosphereduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775209/
 127.0.0.1 ext2proc.lithosphereduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775208/
 127.0.0.1 ext1meta.lithosphereduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775207/
 127.0.0.1 svc4static.petrographyflow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1775206/
@@ -66748,4 +66757,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 66749
+# Number of entries: 66758
