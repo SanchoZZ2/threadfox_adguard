@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dev2outer.ironrootprocessor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776933/
+127.0.0.1 dev1proc.ironrootprocessor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776929/
+127.0.0.1 cl4path.wildbranchcluster.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776927/
+127.0.0.1 cl3view.wildbranchcluster.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776926/
+127.0.0.1 cl2point.wildbranchcluster.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776925/
+127.0.0.1 cl1proc.wildbranchcluster.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776924/
+127.0.0.1 ext4view.coldstonemetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776923/
+127.0.0.1 ext3ghost.coldstonemetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776921/
+127.0.0.1 cooempresasltda104.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1776920/
+127.0.0.1 ext2core.coldstonemetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776919/
+127.0.0.1 ext1proc.coldstonemetrics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776918/
+127.0.0.1 svc4link.whitetideinterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776917/
 127.0.0.1 svc3user.whitetideinterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776916/
 127.0.0.1 svc2base.whitetideinterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776912/
 127.0.0.1 svc1infra.whitetideinterface.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776911/
@@ -67444,4 +67456,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67445
+# Number of entries: 67457
