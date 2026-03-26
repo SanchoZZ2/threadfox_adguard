@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tr1g-cache.blugrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776611/
+127.0.0.1 l0ad-mark.redbyte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776610/
+127.0.0.1 zen-fluxex.oakcore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776609/
+127.0.0.1 FXassistant.4nmn.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1776600/
+127.0.0.1 sercresta3.sunnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776599/
+127.0.0.1 velg.deepoak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776597/
+127.0.0.1 vdyrne1g.westpit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776596/
+127.0.0.1 18.tcp.cpolar.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1776595/
+127.0.0.1 newlinkforconnect.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1776590/
+127.0.0.1 akl1.northoak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776589/
+127.0.0.1 events.wealth-london.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1776349/
+127.0.0.1 bulletproofdomai2n.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1776363/
+127.0.0.1 moondev.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776498/
+127.0.0.1 dev1proc.oakcore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776538/
+127.0.0.1 borntolease.com #botnet_cc, win.xpertrat, XpertRAT https://threatfox.abuse.ch/ioc/1776544/
+127.0.0.1 suddencul.greenpit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776588/
 127.0.0.1 freightvalley.darkbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776587/
 127.0.0.1 0rrpdvc.blueoak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776586/
 127.0.0.1 directdrive.blugrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776585/
@@ -66222,6 +66238,7 @@
 127.0.0.1 agosto14.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312407/
 127.0.0.1 method8888.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312406/
 127.0.0.1 2015wuyun.cc #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1310529/
+127.0.0.1 2024remcmon.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1304195/
 127.0.0.1 update.micro.gay #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297780/
 127.0.0.1 ns.supermirco.us #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297784/
 127.0.0.1 21.ip.gl.ply.gg #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1297163/
@@ -67235,4 +67252,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67236
+# Number of entries: 67253
