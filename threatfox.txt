@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 merlithar9.driftmuse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776639/
+127.0.0.1 hcsrx.driftmuse.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776636/
+127.0.0.1 vaultdispatch.thorncoil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776634/
+127.0.0.1 4mp-loop.thorncoil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776629/
+127.0.0.1 d3fen-line.thorncoil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776627/
+127.0.0.1 cree-crest.thorncoil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776617/
+127.0.0.1 pixe-forge.thorncoil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776614/
+127.0.0.1 airplanemove.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1776612/
+127.0.0.1 wingevent.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1776613/
 127.0.0.1 tr1g-cache.blugrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776611/
 127.0.0.1 l0ad-mark.redbyte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776610/
 127.0.0.1 zen-fluxex.oakcore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1776609/
@@ -64713,6 +64722,7 @@
 127.0.0.1 17.aa.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1551535/
 127.0.0.1 qr.ap.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1551533/
 127.0.0.1 her-workshops.gl.at.ply.gg #botnet_cc, apk.spynote, CypherRat, SpyNote https://threatfox.abuse.ch/ioc/1551217/
+127.0.0.1 producesound.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1550798/
 127.0.0.1 dns1.globalcdn.autos #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1550783/
 127.0.0.1 jobs.qtelcloud.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1549847/
 127.0.0.1 supihk.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1549739/
@@ -67252,4 +67262,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67253
+# Number of entries: 67263
