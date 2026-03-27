@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cl2remote.conditoverwinter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777436/
+127.0.0.1 cl1store.conditoverwinter.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777435/
+127.0.0.1 api.api-calculatorscore.com #payload_delivery https://threatfox.abuse.ch/ioc/1777433/
+127.0.0.1 ext4sync.droolingman.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777432/
+127.0.0.1 ext3gate.droolingman.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777431/
+127.0.0.1 ext2proc.droolingman.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777430/
+127.0.0.1 ext1meta.droolingman.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777428/
+127.0.0.1 vault-cracker.com #payload_delivery https://threatfox.abuse.ch/ioc/1777425/
+127.0.0.1 svc4static.apatitemoshka.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777423/
+127.0.0.1 ivermecstar.zip #payload_delivery https://threatfox.abuse.ch/ioc/1777422/
+127.0.0.1 svc3edge.apatitemoshka.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777417/
+127.0.0.1 svc2data.apatitemoshka.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777416/
+127.0.0.1 svc1sync.apatitemoshka.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777415/
 127.0.0.1 extendecho.keystonebloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777411/
 127.0.0.1 tailsilk.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1777406/
 127.0.0.1 raildecode.radiantventure.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777405/
@@ -67619,4 +67632,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67620
+# Number of entries: 67633
