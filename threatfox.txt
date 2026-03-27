@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 estimapro.io #payload_delivery https://threatfox.abuse.ch/ioc/1777518/
+127.0.0.1 carlosenriqueflores.com #payload_delivery https://threatfox.abuse.ch/ioc/1777516/
+127.0.0.1 svc2data.pendantwhip.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777515/
+127.0.0.1 bongoshilposociety.com #payload_delivery https://threatfox.abuse.ch/ioc/1777513/
+127.0.0.1 frozen-bites.com #payload_delivery https://threatfox.abuse.ch/ioc/1777511/
+127.0.0.1 svc1sync.pendantwhip.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777510/
+127.0.0.1 ext4point.hastyraja.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777508/
+127.0.0.1 ext3data.hastyraja.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777507/
+127.0.0.1 ext2proxy.hastyraja.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777506/
+127.0.0.1 ext1infra.hastyraja.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777505/
+127.0.0.1 hu.yunduans.com #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1777504/
+127.0.0.1 svc4sat.playrevenater.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777503/
+127.0.0.1 remchukwugix231fgh.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1777498/
+127.0.0.1 remchukwugixiemu4.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1777499/
+127.0.0.1 svc3core.playrevenater.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777497/
+127.0.0.1 svc2steel.playrevenater.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777495/
+127.0.0.1 svc1proc.playrevenater.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777494/
+127.0.0.1 dev4space.controlpeople.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777492/
 127.0.0.1 dev3field.controlpeople.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777491/
 127.0.0.1 dev2outer.controlpeople.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777490/
 127.0.0.1 dev1proc.controlpeople.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777489/
@@ -64956,6 +64974,7 @@
 127.0.0.1 5ndg65b68274v.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1560785/
 127.0.0.1 intanschools.py628fxjlk-gok67gvk2652.p.temp-site.link #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1560692/
 127.0.0.1 timestamp.logogogogo.click #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1560613/
+127.0.0.1 log-bi.gl.at.ply.gg #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1560608/
 127.0.0.1 perpenab.icu #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1560428/
 127.0.0.1 keulkgl.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1560431/
 127.0.0.1 test.livepanel.pw #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1560420/
@@ -67662,4 +67681,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67663
+# Number of entries: 67682
