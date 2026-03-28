@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dev3local.apexbloomera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777752/
+127.0.0.1 dev2power.apexbloomera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777751/
+127.0.0.1 dev1proc.apexbloomera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777750/
+127.0.0.1 cl4link.horizonprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777749/
+127.0.0.1 cl3dev.horizonprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777748/
+127.0.0.1 cl2remote.horizonprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777747/
+127.0.0.1 cl1store.horizonprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777746/
+127.0.0.1 ext4sync.catalystventure.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777744/
+127.0.0.1 ext3gate.catalystventure.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777743/
+127.0.0.1 ext2proc.catalystventure.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777742/
 127.0.0.1 ext1meta.catalystventure.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777741/
 127.0.0.1 svc4static.vectorharbinger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777740/
 127.0.0.1 svc3edge.vectorharbinger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1777729/
@@ -67803,4 +67813,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67804
+# Number of entries: 67814
