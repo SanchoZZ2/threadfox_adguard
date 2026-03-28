@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cl4link.latticeharbinger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778147/
+127.0.0.1 cl3dev.latticeharbinger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778146/
+127.0.0.1 cl2remote.latticeharbinger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778145/
+127.0.0.1 cl1store.latticeharbinger.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778144/
+127.0.0.1 ext4sync.radiantpatronage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778143/
+127.0.0.1 ext3gate.radiantpatronage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778142/
+127.0.0.1 ext2proc.radiantpatronage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778140/
+127.0.0.1 ext1meta.radiantpatronage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778139/
+127.0.0.1 svc4static.zenithprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778138/
+127.0.0.1 svc3edge.zenithprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778137/
+127.0.0.1 svc2data.zenithprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778136/
 127.0.0.1 svc1sync.zenithprospera.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778134/
 127.0.0.1 ext4point.authenticoperation.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778098/
 127.0.0.1 ext3data.authenticoperation.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778096/
@@ -67696,4 +67707,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67697
+# Number of entries: 67708
