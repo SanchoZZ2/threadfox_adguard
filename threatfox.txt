@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bot.pay-portal.pro #payload_delivery https://threatfox.abuse.ch/ioc/1778532/
+127.0.0.1 oohdvj.foxwhirl.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778531/
+127.0.0.1 0dxtenvl.foxwhirl.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778528/
+127.0.0.1 raven-core.foxwhirl.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778527/
+127.0.0.1 norspireen5.stormcove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778526/
+127.0.0.1 entreprise-docs-secure.online #payload_delivery https://threatfox.abuse.ch/ioc/1778522/
+127.0.0.1 qu1c-mesh.stormcove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778519/
+127.0.0.1 ahbn5c.stormcove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778504/
+127.0.0.1 quorfluxet.stormcove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778500/
 127.0.0.1 woodspeci.stormcove.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778499/
 127.0.0.1 betaworkercf.org #payload_delivery https://threatfox.abuse.ch/ioc/1778497/
 127.0.0.1 arnb3r-line.n1ghtbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778495/
@@ -67746,4 +67755,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67747
+# Number of entries: 67756
