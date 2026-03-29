@@ -1,4 +1,33 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 summit-dev.elevationnodebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778740/
+127.0.0.1 level-check.elevationnodebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778739/
+127.0.0.1 peak-traffic.elevationnodebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778738/
+127.0.0.1 top-tier.elevationnodebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778737/
+127.0.0.1 high-point.elevationnodebox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778736/
+127.0.0.1 arch-tunnel.cantileverbridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778735/
+127.0.0.1 truss-api.cantileverbridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778734/
+127.0.0.1 beam-handler.cantileverbridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778721/
+127.0.0.1 stress-test.cantileverbridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778720/
+127.0.0.1 load-balancer.cantileverbridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778719/
+127.0.0.1 span-control.cantileverbridge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778718/
+127.0.0.1 archive-site.alignmentstorage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778717/
+127.0.0.1 backup-hub.alignmentstorage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778716/
+127.0.0.1 cache-node.alignmentstorage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778715/
+127.0.0.1 file-share.alignmentstorage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778714/
+127.0.0.1 block-storage.alignmentstorage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778713/
+127.0.0.1 sync-portal.alignmentstorage.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778712/
+127.0.0.1 index-master.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778711/
+127.0.0.1 legacy-bridge.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778710/
+127.0.0.1 stat-collector.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778709/
+127.0.0.1 v3.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778708/
+127.0.0.1 v2.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778707/
+127.0.0.1 quantri.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778706/
+127.0.0.1 phishing.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778705/
+127.0.0.1 ddos.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778704/
+127.0.0.1 data.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778703/
+127.0.0.1 backup.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778702/
+127.0.0.1 atex.xoilaczzzze.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778701/
+127.0.0.1 audit-trail.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778700/
 127.0.0.1 root-access.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778698/
 127.0.0.1 base-logic.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778697/
 127.0.0.1 grid-backbone.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778693/
@@ -67910,4 +67939,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67911
+# Number of entries: 67940
