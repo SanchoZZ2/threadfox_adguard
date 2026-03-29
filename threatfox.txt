@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 root-access.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778698/
+127.0.0.1 base-logic.foundationmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778697/
+127.0.0.1 grid-backbone.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778693/
+127.0.0.1 tensor-unit.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778690/
+127.0.0.1 shield-relay.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778689/
+127.0.0.1 mesh-gateway.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778688/
+127.0.0.1 fiber-optic.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778687/
+127.0.0.1 core-lattice.reinforcedmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778686/
+127.0.0.1 mapping-svc.navigationalpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778685/
+127.0.0.1 vector-base.navigationalpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778684/
+127.0.0.1 trace-beacon.navigationalpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778683/
 127.0.0.1 geo-spatial.navigationalpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778682/
 127.0.0.1 route-engine.navigationalpath.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778681/
 127.0.0.1 sabet7.cfd #botnet_cc, osx.odyssey_stealer, Odyssey Stealer https://threatfox.abuse.ch/ioc/1778645/
@@ -67899,4 +67910,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67900
+# Number of entries: 67911
