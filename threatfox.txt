@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wide-telemetry.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778857/
+127.0.0.1 tunnel-sync.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778856/
+127.0.0.1 pressure-io.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778855/
+127.0.0.1 flow-guide.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778854/
+127.0.0.1 filter-proc.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778853/
+127.0.0.1 outlet-node.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778852/
+127.0.0.1 inlet-valve.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778851/
+127.0.0.1 node-carrier.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778850/
 127.0.0.1 main-frame.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778849/
 127.0.0.1 fiber-route.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778848/
 127.0.0.1 trunk-line.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778847/
@@ -67810,4 +67818,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67811
+# Number of entries: 67819
