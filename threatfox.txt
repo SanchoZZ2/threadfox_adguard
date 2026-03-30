@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 remote-desk.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778841/
+127.0.0.1 unit-command.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778840/
+127.0.0.1 admin-panel.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778839/
+127.0.0.1 site-archive.districtbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778838/
+127.0.0.1 load-buffer.districtbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778837/
+127.0.0.1 relay-point.districtbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778836/
+127.0.0.1 acannaaaaa-32635.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1778835/
+127.0.0.1 fnhztgxdqg.a.pinggy.link #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1778834/
+127.0.0.1 malware.xoilaczzw.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1778833/
+127.0.0.1 premwork.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1778831/
+127.0.0.1 queue-manager.districtbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778830/
+127.0.0.1 temp-storage.districtbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778829/
+127.0.0.1 local-cache.districtbuffer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778828/
+127.0.0.1 topo-render.precisemapnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778824/
 127.0.0.1 view-finder.precisemapnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778823/
 127.0.0.1 scale-vector.precisemapnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778822/
 127.0.0.1 layer-stack.precisemapnode.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778821/
@@ -67788,4 +67802,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67789
+# Number of entries: 67803
