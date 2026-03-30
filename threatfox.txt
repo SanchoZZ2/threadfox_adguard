@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pin3-point.glowhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779140/
+127.0.0.1 fz01ob.glowhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779139/
+127.0.0.1 quatrigge.glowhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779138/
+127.0.0.1 normesh0a.glowhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779135/
+127.0.0.1 triforgea4.cinderbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779134/
+127.0.0.1 coralsolid.cinderbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779132/
+127.0.0.1 ziuyacdv.cinderbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779131/
+127.0.0.1 talline1is.cinderbay.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779130/
+127.0.0.1 falldusk.mossbyte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779128/
 127.0.0.1 zennexos5.cl0verpeak.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779106/
 127.0.0.1 bruxelti.top #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1779109/
 127.0.0.1 wkilqh.mossbyte.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779127/
@@ -66867,6 +66876,7 @@
 127.0.0.1 64-176-59-232.ipv4.staticdns3.io #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1378918/
 127.0.0.1 kcehmenjdibnmni.top #botnet_cc https://threatfox.abuse.ch/ioc/1378844/
 127.0.0.1 impoliterenei.click #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1377604/
+127.0.0.1 abolhb.com #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1377227/
 127.0.0.1 www.micheeasodh.top #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1368634/
 127.0.0.1 abaftebeetl.biz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1359643/
 127.0.0.1 consirepdi.biz #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1359611/
@@ -68013,4 +68023,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68014
+# Number of entries: 68024
