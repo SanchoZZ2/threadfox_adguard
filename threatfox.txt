@@ -1,4 +1,27 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wave-monitor.stellarflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779270/
+127.0.0.1 relay-server.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779267/
+127.0.0.1 secure-link.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779266/
+127.0.0.1 backup-node.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779265/
+127.0.0.1 guest-access.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779264/
+127.0.0.1 cloud-vault.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779263/
+127.0.0.1 lol42647-37621.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1779262/
+127.0.0.1 OmniSec-33243.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1779260/
+127.0.0.1 servemail.exprotedsteel.pro #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1779259/
+127.0.0.1 auth-proxy.vectorforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779258/
+127.0.0.1 build-deploy.vectorforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779246/
+127.0.0.1 data-pipeline.vectorforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779245/
+127.0.0.1 load-stress.vectorforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779241/
+127.0.0.1 core-engine.vectorforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779232/
+127.0.0.1 rpaizy.ashenkite.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779231/
+127.0.0.1 185ez3.ashenkite.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779230/
+127.0.0.1 pixelsola.ashenkite.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779228/
+127.0.0.1 cr4t-flow.ashenkite.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779227/
+127.0.0.1 uyr3.ashenkite.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779226/
+127.0.0.1 frk9qw3pqt0dx.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1779225/
+127.0.0.1 arkmeshet6.ashenkite.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779224/
+127.0.0.1 open-mesh.quillspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779223/
+127.0.0.1 bin4ry-ring.quillspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779222/
 127.0.0.1 m3rg-hinge.quillspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779221/
 127.0.0.1 nuaeftf.quillspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779220/
 127.0.0.1 mer-forgeex.quillspire.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779218/
@@ -68084,4 +68107,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68085
+# Number of entries: 68108
