@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 land-mark.territoriallink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778865/
+127.0.0.1 proxy-edge.territoriallink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778864/
+127.0.0.1 border-gate.territoriallink.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778863/
+127.0.0.1 remote-log.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778862/
+127.0.0.1 wave-form.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778861/
+127.0.0.1 data-packet.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778860/
+127.0.0.1 signal-box.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778859/
+127.0.0.1 field-report.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778858/
 127.0.0.1 wide-telemetry.regionaltelemetry.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778857/
 127.0.0.1 tunnel-sync.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778856/
 127.0.0.1 pressure-io.centralizedduct.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778855/
@@ -360,7 +368,6 @@
 127.0.0.1 hxwatertreatment.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778408/
 127.0.0.1 iepbritanico.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778409/
 127.0.0.1 internetowa.tv #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778410/
-127.0.0.1 kingbillydrinks.co.uk #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778411/
 127.0.0.1 lanterna.ru.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778412/
 127.0.0.1 lioisanigger-38893.portmap.host #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778413/
 127.0.0.1 malware.29dsasprosnowmeprona.za.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1778414/
@@ -67818,4 +67825,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67819
+# Number of entries: 67826
