@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 logic-rule.axiomforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779315/
+127.0.0.1 leaf-proxy.orbitbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779314/
+127.0.0.1 root-cluster.orbitbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779313/
+127.0.0.1 plant-logic.orbitbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779312/
+127.0.0.1 green-node.orbitbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779311/
+127.0.0.1 eco-system.orbitbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779310/
+127.0.0.1 bio-growth.orbitbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779309/
+127.0.0.1 ion-stream.stellarflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779304/
+127.0.0.1 jnlysj.com #payload_delivery https://threatfox.abuse.ch/ioc/1779299/
+127.0.0.1 drift-sensor.stellarflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779298/
+127.0.0.1 luthel.com #payload_delivery https://threatfox.abuse.ch/ioc/1779293/
+127.0.0.1 heethcote.com #payload_delivery https://threatfox.abuse.ch/ioc/1779288/
+127.0.0.1 pulse-gate.stellarflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779284/
+127.0.0.1 zgsjyxzx.com #payload_delivery https://threatfox.abuse.ch/ioc/1779282/
+127.0.0.1 meharsons.com #payload_delivery https://threatfox.abuse.ch/ioc/1779273/
 127.0.0.1 wave-monitor.stellarflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779270/
 127.0.0.1 relay-server.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779267/
 127.0.0.1 secure-link.nexushaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779266/
@@ -68107,4 +68122,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68108
+# Number of entries: 68123
