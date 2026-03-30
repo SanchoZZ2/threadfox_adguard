@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 main-frame.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778849/
+127.0.0.1 fiber-route.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778848/
+127.0.0.1 trunk-line.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778847/
+127.0.0.1 path-bridge.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778846/
+127.0.0.1 link-secure.linearbackbone.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778845/
+127.0.0.1 task-logic.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778844/
+127.0.0.1 switch-gear.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778843/
+127.0.0.1 system-core.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778842/
 127.0.0.1 remote-desk.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778841/
 127.0.0.1 unit-command.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778840/
 127.0.0.1 admin-panel.sectoralcontrol.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778839/
@@ -67802,4 +67810,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67803
+# Number of entries: 67811
