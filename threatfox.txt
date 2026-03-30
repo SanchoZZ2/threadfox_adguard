@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 traffic-api.urbanflowmetric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778810/
+127.0.0.1 urban-access.metropolitangrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778809/
+127.0.0.1 zone-portal.metropolitangrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778808/
+127.0.0.1 block-sensor.metropolitangrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778807/
+127.0.0.1 area-scanner.metropolitangrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778806/
+127.0.0.1 street-logic.metropolitangrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778805/
+127.0.0.1 city-monitor.metropolitangrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778803/
+127.0.0.1 instant-msg.velocityterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778802/
+127.0.0.1 quick-step.velocityterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778801/
+127.0.0.1 shift-ctrl.velocityterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778800/
+127.0.0.1 boost-engine.velocityterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778799/
+127.0.0.1 rapid-fire.velocityterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778798/
 127.0.0.1 fast-track.velocityterminal.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778797/
 127.0.0.1 raw-stream.compressionlayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778796/
 127.0.0.1 codec-proxy.compressionlayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1778795/
@@ -67975,4 +67987,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67976
+# Number of entries: 67988
