@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ping-gate.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779799/
+127.0.0.1 audipoint.cz #payload_delivery https://threatfox.abuse.ch/ioc/1779797/
+127.0.0.1 broad-cast.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779795/
+127.0.0.1 tower-sync.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779793/
+127.0.0.1 radio-freq.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779791/
+127.0.0.1 wave-crest.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779790/
+127.0.0.1 meta-stack.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779789/
+127.0.0.1 base-record.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779787/
+127.0.0.1 krylox.club #payload_delivery https://threatfox.abuse.ch/ioc/1779784/
+127.0.0.1 info-summit.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779783/
+127.0.0.1 iopajkflorta.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1779782/
+127.0.0.1 bulk-export.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779781/
+127.0.0.1 zarnoflidfgvv.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1779780/
 127.0.0.1 archive-top.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779779/
 127.0.0.1 high-ridge.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779778/
 127.0.0.1 asiaverses.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1779774/
@@ -68433,4 +68446,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68434
+# Number of entries: 68447
