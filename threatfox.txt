@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 day-light.helioshaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779337/
+127.0.0.1 solar-api.helioshaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779336/
+127.0.0.1 heat-shield.helioshaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779335/
+127.0.0.1 ice-vault.polarisbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779333/
+127.0.0.1 cold-store.polarisbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779332/
+127.0.0.1 peak-access.polarisbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779331/
+127.0.0.1 top-render.polarisbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779330/
+127.0.0.1 guide-path.polarisbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779328/
+127.0.0.1 north-star.polarisbloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779327/
+127.0.0.1 bus-bridge.circuitflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779326/
 127.0.0.1 amp-control.circuitflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779325/
 127.0.0.1 wire-sync.circuitflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779324/
 127.0.0.1 signal-box.circuitflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779323/
@@ -68131,4 +68141,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68132
+# Number of entries: 68142
