@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 archive-top.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779779/
+127.0.0.1 high-ridge.datacrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779778/
+127.0.0.1 asiaverses.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1779774/
+127.0.0.1 diddyparty.click #payload_delivery https://threatfox.abuse.ch/ioc/1779766/
+127.0.0.1 anon-relay.cyberhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779765/
+127.0.0.1 cgfuryclaud.shop #payload_delivery https://threatfox.abuse.ch/ioc/1779763/
+127.0.0.1 threat-log.cyberhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779759/
+127.0.0.1 ghost-shell.cyberhaven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779756/
+127.0.0.1 pulse-logic.neurobloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779754/
 127.0.0.1 thought-api.neurobloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779751/
 127.0.0.1 brain-scan.neurobloom.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779749/
 127.0.0.1 bit-stream.quantaflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779747/
@@ -68424,4 +68433,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68425
+# Number of entries: 68434
