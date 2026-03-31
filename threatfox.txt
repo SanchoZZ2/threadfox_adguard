@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 render-grid.pixelmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779814/
+127.0.0.1 color-bit.pixelmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779813/
+127.0.0.1 scan-core.nanovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779812/
+127.0.0.1 particle-api.nanovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779811/
+127.0.0.1 small-unit.nanovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779810/
+127.0.0.1 atom-trace.nanovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779808/
+127.0.0.1 voidbebr-48949.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1779807/
+127.0.0.1 oke.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1779806/
+127.0.0.1 blogs.mex.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1779805/
+127.0.0.1 micro-scale.nanovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779803/
 127.0.0.1 ping-gate.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779799/
 127.0.0.1 audipoint.cz #payload_delivery https://threatfox.abuse.ch/ioc/1779797/
 127.0.0.1 broad-cast.signalcrest.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779795/
@@ -68446,4 +68456,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68447
+# Number of entries: 68457
