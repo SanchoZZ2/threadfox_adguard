@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cage-match.fighttrapper.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779958/
+127.0.0.1 action-log.fighttrapper.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779956/
+127.0.0.1 video-drop.cameoinfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779954/
+127.0.0.1 blend-master.cameoinfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779952/
+127.0.0.1 color-mix.cameoinfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779951/
+127.0.0.1 style-sync.cameoinfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779950/
+127.0.0.1 art-portal.cameoinfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779949/
+127.0.0.1 small-frame.cameoinfusion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779948/
+127.0.0.1 silk-route.industtarant.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779947/
+127.0.0.1 venom-dev.industtarant.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779946/
 127.0.0.1 heavy-link.industtarant.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779945/
 127.0.0.1 web-crawl.industtarant.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779943/
 127.0.0.1 skin-proxy.dervishpeel.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779941/
@@ -67843,4 +67853,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67844
+# Number of entries: 67854
