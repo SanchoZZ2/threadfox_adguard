@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bulk-logic.datacascade.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780185/
+127.0.0.1 stream-view.datacascade.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780184/
+127.0.0.1 cdnst.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780183/
+127.0.0.1 flow-drop.datacascade.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780182/
+127.0.0.1 vector-node.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780181/
+127.0.0.1 trace-sync.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780180/
+127.0.0.1 route-api.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780178/
+127.0.0.1 route-api.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780179/
+127.0.0.1 merengagoi.bond #payload_delivery https://threatfox.abuse.ch/ioc/1780174/
+127.0.0.1 data-relay.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780173/
+127.0.0.1 path-finder.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780169/
+127.0.0.1 info-point.infovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780168/
+127.0.0.1 dlnhov4.granulatetouch.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780167/
+127.0.0.1 daem-gate.granulatetouch.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780158/
 127.0.0.1 wildcircuit.granulatetouch.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780157/
 127.0.0.1 rnonito-watch.granulatetouch.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780156/
 127.0.0.1 hyper-14b.granulatetouch.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780155/
@@ -67962,4 +67976,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67963
+# Number of entries: 67977
