@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 air-traffic.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779885/
+127.0.0.1 flight-path.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779884/
+127.0.0.1 point-edge.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779883/
+127.0.0.1 static-cdn.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779882/
+127.0.0.1 web-portal.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779881/
+127.0.0.1 info-orbit.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779880/
+127.0.0.1 cloud-ring.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779872/
+127.0.0.1 data-field.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779871/
+127.0.0.1 wwww.pqpicc.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1779869/
+127.0.0.1 qubit-sync.quantacircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779866/
 127.0.0.1 packet-flow.quantacircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779865/
 127.0.0.1 speed-test.quantacircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779864/
 127.0.0.1 bit-stream.quantacircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779863/
@@ -67773,4 +67783,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67774
+# Number of entries: 67784
