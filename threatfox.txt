@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 raster-api.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780216/
+127.0.0.1 draw-logic.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780215/
+127.0.0.1 frame-buffer.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780214/
+127.0.0.1 color-map.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780213/
+127.0.0.1 image-proc.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780212/
+127.0.0.1 render-job.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780211/
+127.0.0.1 drift-core.nanostream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780210/
+127.0.0.1 pulse-svc.nanostream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780208/
+127.0.0.1 fast-track.nanostream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780207/
+127.0.0.1 small-packet.nanostream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780206/
 127.0.0.1 rapid-io.nanostream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780205/
 127.0.0.1 micro-bit.nanostream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780204/
 127.0.0.1 link-vault.cyberlattice.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780202/
@@ -67988,4 +67998,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67989
+# Number of entries: 67999
