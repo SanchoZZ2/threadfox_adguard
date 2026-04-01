@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hash-store.cryptovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779840/
+127.0.0.1 anon-auth.cryptovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779839/
+127.0.0.1 lock-box.cryptovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779837/
+127.0.0.1 secure-key.cryptovault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779836/
+127.0.0.1 chip-set.infocircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779835/
+127.0.0.1 board-mgr.infocircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779834/
+127.0.0.1 bus-bridge.infocircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779832/
+127.0.0.1 wire-sync.infocircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779828/
 127.0.0.1 logic-gate.infocircuit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779827/
 127.0.0.1 broad-cast.signalforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779826/
 127.0.0.1 ping-gate.signalforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779825/
@@ -68467,4 +68475,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 68468
+# Number of entries: 68476
