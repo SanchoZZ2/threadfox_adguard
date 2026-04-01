@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 robot-api.mechaforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779895/
+127.0.0.1 steel-core.mechaforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779894/
+127.0.0.1 auto-build.mechaforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779893/
+127.0.0.1 power-plant.mechaforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779892/
+127.0.0.1 iron-works.mechaforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779891/
+127.0.0.1 heavy-duty.mechaforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779890/
+127.0.0.1 pilot-svc.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779889/
+127.0.0.1 alt-logic.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779888/
+127.0.0.1 sky-route.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779886/
 127.0.0.1 air-traffic.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779885/
 127.0.0.1 flight-path.aerovector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779884/
 127.0.0.1 point-edge.digisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1779883/
@@ -67783,4 +67792,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67784
+# Number of entries: 67793
