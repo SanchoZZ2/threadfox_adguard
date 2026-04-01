@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ui2rn7ei.apexharvestor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780225/
+127.0.0.1 lh6tecuu.apexharvestor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780224/
+127.0.0.1 force-field.infodynamics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780223/
+127.0.0.1 range-extend.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780222/
+127.0.0.1 wave-form.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780220/
+127.0.0.1 tower-sync.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780219/
+127.0.0.1 radio-freq.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780218/
+127.0.0.1 beam-target.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780217/
 127.0.0.1 raster-api.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780216/
 127.0.0.1 draw-logic.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780215/
 127.0.0.1 frame-buffer.pixelengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780214/
@@ -67998,4 +68006,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67999
+# Number of entries: 68007
