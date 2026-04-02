@@ -1,4 +1,41 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 stealer.to #payload_delivery https://threatfox.abuse.ch/ioc/1780362/
+127.0.0.1 pentagon.cy #payload_delivery https://threatfox.abuse.ch/ioc/1780359/
+127.0.0.1 newlumm.fun #payload_delivery https://threatfox.abuse.ch/ioc/1780357/
+127.0.0.1 sfrclak.com #payload_delivery, js.contagious_drop, ContagiousDrop https://threatfox.abuse.ch/ioc/1780229/
+127.0.0.1 ping-gate.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780221/
+127.0.0.1 zone-portal.cyberlattice.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780203/
+127.0.0.1 finger.teamss.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780201/
+127.0.0.1 level-check.datacascade.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780187/
+127.0.0.1 solstice-line-drift.pro #payload_delivery, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1780188/
+127.0.0.1 mode14-node.coddlcaught.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780151/
+127.0.0.1 floridacambolashop.com #payload_delivery, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1780170/
+127.0.0.1 dieserbenni.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780354/
+127.0.0.1 acabstealer.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780352/
+127.0.0.1 mineflayerapi.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780350/
+127.0.0.1 1312services.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780348/
+127.0.0.1 marsalek.cy #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780343/
+127.0.0.1 6999.fit #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1780339/
+127.0.0.1 malware.infoholicresearch.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780338/
+127.0.0.1 malware.scribblediffusion.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780337/
+127.0.0.1 malware.tarbagan.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780336/
+127.0.0.1 tarbagan.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780335/
+127.0.0.1 malware.xoilac365xb.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780334/
+127.0.0.1 malware.xoilac365xp.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780333/
+127.0.0.1 malware.xoilac86al.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780332/
+127.0.0.1 malware.xoilacz.vip #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780331/
+127.0.0.1 malware.xoilaczd.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780330/
+127.0.0.1 malware.xoilaczxj.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780329/
+127.0.0.1 malware.xoilaczzzu.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780328/
+127.0.0.1 8xbet.com.de #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780322/
+127.0.0.1 animirowanie-washih-photo.ru.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780323/
+127.0.0.1 distantdrummer.us.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780324/
+127.0.0.1 mufg.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780325/
+127.0.0.1 photography.za.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780326/
+127.0.0.1 u888mobi-vn4.site #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780327/
+127.0.0.1 malware.paradiselost.org #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780321/
+127.0.0.1 rainbowplacementservice.in.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780320/
+127.0.0.1 rzchi.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780319/
 127.0.0.1 kvhce4pcgf.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780285/
 127.0.0.1 cakhiazke.cc #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780283/
 127.0.0.1 malware.cakhiazke.cc #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780284/
@@ -65776,6 +65813,7 @@
 127.0.0.1 myhost.misecure.com #botnet_cc, win.revenge_rat, Revetrat, Revenge RAT https://threatfox.abuse.ch/ioc/1552978/
 127.0.0.1 user.thinkg.cc #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1552833/
 127.0.0.1 malahh.oixrv2gn.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1552140/
+127.0.0.1 00283643bbm.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1552125/
 127.0.0.1 www.autoauctionsdirect.net #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1552000/
 127.0.0.1 vip.jbvipnetwork.cc #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1551885/
 127.0.0.1 ns2.nmd5.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1551776/
@@ -65866,6 +65904,7 @@
 127.0.0.1 cdn.belladonnarestaurant.co.uk #botnet_cc, win.brute_ratel_c4, BOLDBADGER, BruteRatel https://threatfox.abuse.ch/ioc/1525662/
 127.0.0.1 td.ldxwpedf.cn #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1524816/
 127.0.0.1 productos.zongamervid.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1523851/
+127.0.0.1 stealer.cy #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1523370/
 127.0.0.1 fanclubsemantics.sbs #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1523338/
 127.0.0.1 16.16.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1523294/
 127.0.0.1 brandenfrancseet.sbs #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1522492/
@@ -67750,4 +67789,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67751
+# Number of entries: 67790
