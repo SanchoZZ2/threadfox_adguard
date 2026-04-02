@@ -1,7 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
-127.0.0.1 stealer.to #payload_delivery https://threatfox.abuse.ch/ioc/1780362/
-127.0.0.1 pentagon.cy #payload_delivery https://threatfox.abuse.ch/ioc/1780359/
-127.0.0.1 newlumm.fun #payload_delivery https://threatfox.abuse.ch/ioc/1780357/
+127.0.0.1 stealer.to #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780362/
+127.0.0.1 pentagon.cy #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780359/
+127.0.0.1 newlumm.fun #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780357/
 127.0.0.1 sfrclak.com #payload_delivery, js.contagious_drop, ContagiousDrop https://threatfox.abuse.ch/ioc/1780229/
 127.0.0.1 ping-gate.signalvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780221/
 127.0.0.1 zone-portal.cyberlattice.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780203/
