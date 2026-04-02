@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 us-west.israel-finance.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1780504/
+127.0.0.1 static.fierceatfifty.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1780517/
+127.0.0.1 gemwin.it.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780513/
+127.0.0.1 im24xy0.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780514/
+127.0.0.1 qcn.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780515/
+127.0.0.1 caribbeandelights.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780509/
+127.0.0.1 designerconsigner.de.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780510/
+127.0.0.1 ditamimaxixogi.za.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780511/
+127.0.0.1 egyptnow.us.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780512/
+127.0.0.1 neiwteamcdn.beer #payload_delivery https://threatfox.abuse.ch/ioc/1780506/
 127.0.0.1 rex.cargomanbd.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780499/
 127.0.0.1 rex.elythia.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780500/
 127.0.0.1 feeliq.lat #payload_delivery https://threatfox.abuse.ch/ioc/1780495/
@@ -66008,6 +66018,7 @@
 127.0.0.1 ledger-en.pro #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1521637/
 127.0.0.1 cornerdurv.top #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1521634/
 127.0.0.1 testcawepr.run #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1521635/
+127.0.0.1 massaprilbackup.duckdns.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1521300/
 127.0.0.1 asusupdateserver.asuscomm.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1520342/
 127.0.0.1 kabla.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1520221/
 127.0.0.1 coinomi.space #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1519923/
@@ -67860,4 +67871,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67861
+# Number of entries: 67872
