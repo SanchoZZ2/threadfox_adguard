@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kvhce4pcgf.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780285/
+127.0.0.1 cakhiazke.cc #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780283/
+127.0.0.1 malware.cakhiazke.cc #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780284/
+127.0.0.1 gitpitch.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780281/
+127.0.0.1 malware.gitpitch.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780282/
+127.0.0.1 cakhiaaq.cc #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780277/
+127.0.0.1 malware.cakhiaaq.cc #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780278/
+127.0.0.1 acemyonlineclasses.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780275/
+127.0.0.1 malware.acemyonlineclasses.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780276/
 127.0.0.1 t7bs6h40.apexharvestor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780254/
 127.0.0.1 q55at0cm.apexharvestor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780253/
 127.0.0.1 fr0ippml.covenantventure.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780252/
@@ -67741,4 +67750,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67742
+# Number of entries: 67751
