@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 limbo100x.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780579/
+127.0.0.1 ashpaltlonpro.com #payload_delivery https://threatfox.abuse.ch/ioc/1780567/
+127.0.0.1 dakatawebstick.com #payload_delivery https://threatfox.abuse.ch/ioc/1780556/
+127.0.0.1 hubabubanobot52.com #payload_delivery https://threatfox.abuse.ch/ioc/1780555/
+127.0.0.1 zhivachkapro.com #payload_delivery https://threatfox.abuse.ch/ioc/1780552/
 127.0.0.1 cxtsee09ky.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780543/
 127.0.0.1 content.mvpstrat.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1780519/
 127.0.0.1 shift-ctrl.infodynamics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780518/
@@ -67874,4 +67879,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67875
+# Number of entries: 67880
