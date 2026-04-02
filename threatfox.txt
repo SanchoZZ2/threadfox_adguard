@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 callnrwise.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1780468/
+127.0.0.1 hwsrv-1320779.hostwindsdns.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1780469/
+127.0.0.1 lwkafdjadfnjasdfnjasdfn.lmzvzxsdlkf.workers.dev #payload_delivery https://threatfox.abuse.ch/ioc/1780466/
+127.0.0.1 idespeh.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1780464/
+127.0.0.1 surprql.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1780465/
+127.0.0.1 mask3dup-57114.portmap.host #botnet_cc, win.xenorat, XenoRAT https://threatfox.abuse.ch/ioc/1780463/
+127.0.0.1 bsc-testnet-rpc.publicnode.com #cc_skimming, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1780373/
 127.0.0.1 goodgoodmoon.bond #payload_delivery https://threatfox.abuse.ch/ioc/1780455/
 127.0.0.1 names-again.at.playit.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780453/
 127.0.0.1 cckd6h3fsb6976au8o.jp.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780451/
@@ -67834,4 +67841,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67835
+# Number of entries: 67842
