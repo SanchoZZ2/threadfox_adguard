@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tdsio.shop #payload_delivery https://threatfox.abuse.ch/ioc/1780857/
+127.0.0.1 sdntds.shop #payload_delivery https://threatfox.abuse.ch/ioc/1780853/
+127.0.0.1 nttdss.shop #payload_delivery https://threatfox.abuse.ch/ioc/1780851/
+127.0.0.1 dntds.shop #payload_delivery https://threatfox.abuse.ch/ioc/1780849/
+127.0.0.1 dnsnewtds.shop #payload_delivery https://threatfox.abuse.ch/ioc/1780846/
+127.0.0.1 ntdnewtds.shop #payload_delivery https://threatfox.abuse.ch/ioc/1780844/
 127.0.0.1 xx.kak.is #payload_delivery https://threatfox.abuse.ch/ioc/1780797/
 127.0.0.1 smnsdns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1780789/
 127.0.0.1 sssndns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1780787/
@@ -67765,4 +67771,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67766
+# Number of entries: 67772
