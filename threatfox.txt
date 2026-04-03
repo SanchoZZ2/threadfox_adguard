@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 plh.japan365.co #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780614/
+127.0.0.1 plh.scarletmc.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780615/
+127.0.0.1 xar.japan365.co #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780616/
+127.0.0.1 xar.scarletmc.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780617/
+127.0.0.1 plh.bespokedigital.au #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780618/
+127.0.0.1 plh.kaitorinihon.jp #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780619/
+127.0.0.1 xar.bespokedigital.au #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780620/
+127.0.0.1 xar.kaitorinihon.jp #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780621/
+127.0.0.1 liveos.zapto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780596/
+127.0.0.1 limpios.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780594/
+127.0.0.1 shilajat.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780592/
+127.0.0.1 1.tcp.us-cal-1.ngrok.io #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780591/
 127.0.0.1 onetimeinvitation.com #payload_delivery https://threatfox.abuse.ch/ioc/1780586/
 127.0.0.1 she55.ddnsking.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780584/
 127.0.0.1 limbo100x.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780579/
@@ -66624,6 +66636,7 @@
 127.0.0.1 ec2-54-215-126-153.us-west-1.compute.amazonaws.com #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1335532/
 127.0.0.1 honeypotresearchteam.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335242/
 127.0.0.1 rcj.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335241/
+127.0.0.1 conected.gotdns.ch #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335233/
 127.0.0.1 ramcxx.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335229/
 127.0.0.1 highestlotto.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335228/
 127.0.0.1 privmerkt.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1335227/
@@ -66932,6 +66945,7 @@
 127.0.0.1 cwt1u0vv8ic357ov.info #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161267/
 127.0.0.1 toptoptop3.site #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161216/
 127.0.0.1 399i6fi7voahk2g.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161191/
+127.0.0.1 severm.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161196/
 127.0.0.1 xboxoner.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161189/
 127.0.0.1 myb50.myddns.me #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161178/
 127.0.0.1 callito2024.sytes.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1161172/
@@ -67679,4 +67693,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67680
+# Number of entries: 67694
