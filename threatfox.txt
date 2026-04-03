@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hor.japan365.co #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780718/
+127.0.0.1 hor.scarletmc.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780719/
+127.0.0.1 hor.kaitorinihon.jp #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780720/
+127.0.0.1 hor.bespokedigital.au #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780721/
 127.0.0.1 kristianbolanos.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1780698/
 127.0.0.1 febxworm39090.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780691/
 127.0.0.1 contatopacn-56157.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780690/
@@ -67747,4 +67751,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67748
+# Number of entries: 67752
