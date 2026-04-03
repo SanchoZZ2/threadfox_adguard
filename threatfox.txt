@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xx.kak.is #payload_delivery https://threatfox.abuse.ch/ioc/1780797/
+127.0.0.1 smnsdns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1780789/
+127.0.0.1 sssndns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1780787/
+127.0.0.1 vnmdnns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1780785/
+127.0.0.1 biggestchlen.lol #payload_delivery https://threatfox.abuse.ch/ioc/1780781/
 127.0.0.1 ali19951995.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1780770/
 127.0.0.1 burb-34671.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780767/
 127.0.0.1 dola789uaf.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780764/
@@ -67760,4 +67765,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67761
+# Number of entries: 67766
