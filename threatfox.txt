@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xar.skfilmsint.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780631/
+127.0.0.1 rex.codetohaven.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780632/
+127.0.0.1 mymicroblog.lat #payload_delivery https://threatfox.abuse.ch/ioc/1780624/
+127.0.0.1 kittyinaz.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1780623/
 127.0.0.1 plh.japan365.co #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780614/
 127.0.0.1 plh.scarletmc.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780615/
 127.0.0.1 xar.japan365.co #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1780616/
@@ -67693,4 +67697,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67694
+# Number of entries: 67698
