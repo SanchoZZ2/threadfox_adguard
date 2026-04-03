@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kristianbolanos.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1780698/
 127.0.0.1 febxworm39090.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780691/
 127.0.0.1 contatopacn-56157.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780690/
 127.0.0.1 open88.co.za #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780689/
@@ -66726,6 +66727,7 @@
 127.0.0.1 update.micro.gay #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297780/
 127.0.0.1 ns.supermirco.us #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297784/
 127.0.0.1 21.ip.gl.ply.gg #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1297163/
+127.0.0.1 api.yukklzwo.vip #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1294285/
 127.0.0.1 vegetachcnc.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1291769/
 127.0.0.1 londopas.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1291297/
 127.0.0.1 berjimek.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1291296/
@@ -67745,4 +67747,4 @@
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 cdn.microsoftdocs.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/119117/
 127.0.0.1 lopppooole.xyz #botnet_cc, win.isfb, Gozi ISFB, IAP https://threatfox.abuse.ch/ioc/1716/
-# Number of entries: 67746
+# Number of entries: 67748
