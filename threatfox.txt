@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 visitsight.info #payload_delivery https://threatfox.abuse.ch/ioc/1781314/
+127.0.0.1 pathaudit.info #payload_delivery https://threatfox.abuse.ch/ioc/1781312/
+127.0.0.1 trafficcore.info #payload_delivery https://threatfox.abuse.ch/ioc/1781310/
 127.0.0.1 lifecenterfisioterapia.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1781309/
 127.0.0.1 dough-svc.balkarbelyashi.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781308/
 127.0.0.1 metrictrace.info #payload_delivery https://threatfox.abuse.ch/ioc/1781303/
@@ -67584,4 +67587,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67585
+# Number of entries: 67588
