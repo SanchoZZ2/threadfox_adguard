@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 static-cdn.digiframe.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781146/
+127.0.0.1 pixel-view.digiframe.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781140/
+127.0.0.1 thought-hub.neurogrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781128/
+127.0.0.1 pulse-logic.neurogrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781126/
+127.0.0.1 mind-node.neurogrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781125/
+127.0.0.1 synapse-log.neurogrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781124/
+127.0.0.1 nerve-center.neurogrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781123/
+127.0.0.1 brain-scan.neurogrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781122/
+127.0.0.1 mesh-cloud.technofabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781109/
+127.0.0.1 fiber-route.technofabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781105/
+127.0.0.1 mirtona.com #payload_delivery https://threatfox.abuse.ch/ioc/1781104/
+127.0.0.1 weave-sync.technofabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781102/
+127.0.0.1 cloth-net.technofabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781101/
+127.0.0.1 freshhomrecipes.com #payload_delivery https://threatfox.abuse.ch/ioc/1781099/
 127.0.0.1 step-check.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781098/
 127.0.0.1 main-frame.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781097/
 127.0.0.1 rule-engine.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781096/
@@ -67479,4 +67493,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67480
+# Number of entries: 67494
