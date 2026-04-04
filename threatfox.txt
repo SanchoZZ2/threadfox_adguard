@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 step-check.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781098/
+127.0.0.1 main-frame.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781097/
+127.0.0.1 rule-engine.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781096/
+127.0.0.1 packet-flow.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781095/
+127.0.0.1 code-gate.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781094/
+127.0.0.1 bit-stream.logicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781093/
+127.0.0.1 anon-auth.cryptolayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781092/
+127.0.0.1 hash-store.cryptolayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781090/
+127.0.0.1 secure-key.cryptolayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781088/
 127.0.0.1 roaminginluxe.com #payload_delivery https://threatfox.abuse.ch/ioc/1781079/
 127.0.0.1 sisspas.com #payload_delivery https://threatfox.abuse.ch/ioc/1781077/
 127.0.0.1 legrugohungary.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1781060/
@@ -67470,4 +67479,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67471
+# Number of entries: 67480
