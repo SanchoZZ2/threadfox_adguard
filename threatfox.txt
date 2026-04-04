@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 legrugohungary.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1781060/
+127.0.0.1 frozen-nicotine.with.playit.plus #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1781059/
 127.0.0.1 bk7pwxz9yt.localto.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1781058/
 127.0.0.1 cnc.xenema.vip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1781050/
 127.0.0.1 casasdeicom.cc #botnet_cc https://threatfox.abuse.ch/ioc/1781053/
@@ -66416,6 +66418,7 @@
 127.0.0.1 22.ip.gl.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1319902/
 127.0.0.1 d.printerconsulting.ru #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1317222/
 127.0.0.1 c.foxnointel.ru #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1317212/
+127.0.0.1 abomenaa.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1314343/
 127.0.0.1 discoverymaidykew.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1313042/
 127.0.0.1 valuablestraigwhi.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1313002/
 127.0.0.1 sofahuntingslidedine.shop #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1312951/
@@ -66593,6 +66596,7 @@
 127.0.0.1 war.bumbleshrimp.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1196987/
 127.0.0.1 asegurar100.4cloud.click #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1196993/
 127.0.0.1 grantadistciaret.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1196994/
+127.0.0.1 jameshde18.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1196905/
 127.0.0.1 www.goocoinorg.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1191379/
 127.0.0.1 mambergame.fun #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1190752/
 127.0.0.1 wnimodmoiejn.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1190594/
@@ -66802,10 +66806,12 @@
 127.0.0.1 pradeepprabhu705.hopto.org #botnet_cc, win.bit_rat, BitRAT https://threatfox.abuse.ch/ioc/1156614/
 127.0.0.1 lapoire5.hopto.org #botnet_cc, win.bit_rat, BitRAT https://threatfox.abuse.ch/ioc/1156515/
 127.0.0.1 mingrelian.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156373/
+127.0.0.1 momentmoney79.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156352/
 127.0.0.1 ftap-29332.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156346/
 127.0.0.1 212.ip.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156296/
 127.0.0.1 richard-western.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156285/
 127.0.0.1 hurricane.ydns.eu #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156286/
+127.0.0.1 crax31.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156274/
 127.0.0.1 white-camcorders.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156276/
 127.0.0.1 name-shadows.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156269/
 127.0.0.1 line-ellis.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156263/
@@ -67462,4 +67468,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67463
+# Number of entries: 67469
