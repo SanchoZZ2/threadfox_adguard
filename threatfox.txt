@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 roaminginluxe.com #payload_delivery https://threatfox.abuse.ch/ioc/1781079/
+127.0.0.1 sisspas.com #payload_delivery https://threatfox.abuse.ch/ioc/1781077/
 127.0.0.1 legrugohungary.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1781060/
 127.0.0.1 frozen-nicotine.with.playit.plus #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1781059/
 127.0.0.1 bk7pwxz9yt.localto.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1781058/
@@ -67468,4 +67470,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67469
+# Number of entries: 67471
