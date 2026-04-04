@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 latidodeliveries.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1780934/
+127.0.0.1 xaszxa.myftp.biz #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1780926/
+127.0.0.1 jansuri.kozow.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780925/
+127.0.0.1 snickerbarwithhotsauceonit-51791.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780924/
+127.0.0.1 rcmpx.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1780923/
 127.0.0.1 notes-ease.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1780918/
 127.0.0.1 killerboymaxilo-59859.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780917/
 127.0.0.1 power-drive.infodynamics.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1780916/
@@ -66426,6 +66431,7 @@
 127.0.0.1 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1236455/
 127.0.0.1 panitor.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1236184/
 127.0.0.1 www.louangelwolf.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1235332/
+127.0.0.1 callii.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1235359/
 127.0.0.1 kkudndkwatnfevcaqeefytqnh.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1234854/
 127.0.0.1 whxzqkbbtzvdyxdeseoiyujzs.co #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1234859/
 127.0.0.1 uohhunkmnfhbimtagizqgwpmv.to #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1234860/
@@ -66556,6 +66562,7 @@
 127.0.0.1 faccbookcom.zapto.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1170560/
 127.0.0.1 netcatclink.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1169976/
 127.0.0.1 chefdnshost.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168521/
+127.0.0.1 efiigbo9.duckdns.org #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168414/
 127.0.0.1 wealth.warzonedns.com #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168295/
 127.0.0.1 newnex.3utilities.com #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168216/
 127.0.0.1 skyrocket.ooguy.com #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1168190/
@@ -67357,4 +67364,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67358
+# Number of entries: 67365
