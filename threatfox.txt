@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 surface-api.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781959/
+127.0.0.1 pin-storage.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781958/
+127.0.0.1 hard-point.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781956/
+127.0.0.1 jpbassin.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781954/
+127.0.0.1 project-stor129585.pages.dev #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781952/
+127.0.0.1 gloss-check.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781951/
+127.0.0.1 relay-svc.exhortshelk.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781950/
+127.0.0.1 sync-logic.exhortshelk.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781949/
+127.0.0.1 sfqwfq.com #payload_delivery https://threatfox.abuse.ch/ioc/1781947/
+127.0.0.1 alert-node.exhortshelk.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781946/
+127.0.0.1 gaowvdoxh.com #payload_delivery https://threatfox.abuse.ch/ioc/1781944/
+127.0.0.1 sfnfpopq.com #payload_delivery https://threatfox.abuse.ch/ioc/1781942/
+127.0.0.1 bnlfosf.com #payload_delivery https://threatfox.abuse.ch/ioc/1781940/
+127.0.0.1 qwlkfsfa.com #payload_delivery https://threatfox.abuse.ch/ioc/1781938/
+127.0.0.1 push-notify.exhortshelk.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781937/
+127.0.0.1 jskeowgo.com #payload_delivery https://threatfox.abuse.ch/ioc/1781935/
+127.0.0.1 exteroavx.com #payload_delivery https://threatfox.abuse.ch/ioc/1781933/
+127.0.0.1 voice-api.exhortshelk.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781932/
+127.0.0.1 adminreservation.com #payload_delivery https://threatfox.abuse.ch/ioc/1781931/
+127.0.0.1 call-center.exhortshelk.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781930/
 127.0.0.1 master-index.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781927/
 127.0.0.1 sketch-node.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781925/
 127.0.0.1 view-port.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781924/
@@ -46698,7 +46718,7 @@
 127.0.0.1 gog.nigeriaafricatime.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1647355/
 127.0.0.1 tgk.clashofmaps.vip #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1647359/
 127.0.0.1 api.cpibot.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1647470/
-127.0.0.1 portabalbufe.com #botnet_cc https://threatfox.abuse.ch/ioc/1647487/
+127.0.0.1 portabalbufe.com #botnet_cc, win.plugx, Destroy RAT, Kaba https://threatfox.abuse.ch/ioc/1647487/
 127.0.0.1 kamm.in-ha-4-it-mu-1-ti.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647647/
 127.0.0.1 fjord3.in-ha-4-it-mu-1-ti.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647646/
 127.0.0.1 wald.in-ha-4-it-mu-1-ti.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1647645/
@@ -67544,4 +67564,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67545
+# Number of entries: 67565
