@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 thread-svc.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781852/
+127.0.0.1 mesh-router.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781850/
+127.0.0.1 weissnat.org #payload_delivery https://threatfox.abuse.ch/ioc/1781849/
+127.0.0.1 gate-secure.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781846/
+127.0.0.1 mueleer.com #payload_delivery https://threatfox.abuse.ch/ioc/1781841/
+127.0.0.1 bit-weave.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781840/
+127.0.0.1 point-drift.inductiveflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781839/
+127.0.0.1 flux-scan.inductiveflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781838/
+127.0.0.1 likely-hood.inductiveflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781837/
+127.0.0.1 trend-sensor.inductiveflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781836/
+127.0.0.1 data-guess.inductiveflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781835/
+127.0.0.1 pattern-dev.inductiveflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781834/
+127.0.0.1 unit-logic.deductivegrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781832/
+127.0.0.1 tubestore.digital #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781831/
+127.0.0.1 kettlewhisper.icu #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781829/
 127.0.0.1 clevergeriatric.icu #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781827/
 127.0.0.1 biglights.net #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781825/
 127.0.0.1 base-extract.deductivegrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781824/
@@ -67483,4 +67498,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67484
+# Number of entries: 67499
