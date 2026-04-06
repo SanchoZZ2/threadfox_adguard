@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 real-time-io.ontologicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781620/
+127.0.0.1 being-node.ontologicstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781619/
+127.0.0.1 lightef.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1781613/
+127.0.0.1 pertur.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1781614/
+127.0.0.1 podiat.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1781615/
+127.0.0.1 theorylaugh.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1781612/
+127.0.0.1 project-ms0419431ks13.pages.dev #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781610/
+127.0.0.1 forkmice.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1781609/
+127.0.0.1 smokecar.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1781608/
+127.0.0.1 claude-code-main.pages.dev #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781606/
+127.0.0.1 remcos2025rem.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1781600/
 127.0.0.1 megansmousepops.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1781597/
 127.0.0.1 bossgsaghdh-62973.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1781592/
 127.0.0.1 remcosmonitor.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1781590/
@@ -66155,6 +66166,7 @@
 127.0.0.1 rigzuvzi3bnz3.top #botnet_cc, win.mintstealer, MintStealer https://threatfox.abuse.ch/ioc/1345777/
 127.0.0.1 pbizntettbvs.top #botnet_cc, win.mintstealer, MintStealer https://threatfox.abuse.ch/ioc/1345778/
 127.0.0.1 gidcldeaccadneh.top #botnet_cc, js.mints_loader, MintsLoader https://threatfox.abuse.ch/ioc/1344845/
+127.0.0.1 securefbi.ddns.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1344547/
 127.0.0.1 rottieud.sbs #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1343910/
 127.0.0.1 thinkyyokej.sbs #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1343911/
 127.0.0.1 ducksringjk.sbs #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1343913/
@@ -66539,6 +66551,7 @@
 127.0.0.1 PgqduOYXVZeNNam.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160451/
 127.0.0.1 swapo222.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160439/
 127.0.0.1 eaidali.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160410/
+127.0.0.1 hangulcoxpw.pw #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160376/
 127.0.0.1 vcv.mastercoa.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160367/
 127.0.0.1 zoonm.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160350/
 127.0.0.1 3xe94lqhph0janx.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1160341/
@@ -67269,4 +67282,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67270
+# Number of entries: 67283
