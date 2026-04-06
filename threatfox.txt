@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 master-index.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781927/
+127.0.0.1 sketch-node.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781925/
+127.0.0.1 view-port.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781924/
+127.0.0.1 cloud-draft.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781922/
+127.0.0.1 root-source.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781921/
+127.0.0.1 entity-hub.conceptmatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781920/
+127.0.0.1 ghost-api.abstractlogic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781919/
+127.0.0.1 theory-svc.abstractlogic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781918/
+127.0.0.1 pure-node.abstractlogic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781914/
+127.0.0.1 blank-space.abstractlogic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781909/
+127.0.0.1 denegnet.click #payload_delivery https://threatfox.abuse.ch/ioc/1781783/
+127.0.0.1 st-images.socalpocis.org #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1781866/
+127.0.0.1 model-check.abstractlogic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781906/
 127.0.0.1 idea-vault.abstractlogic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781905/
 127.0.0.1 load-api.structuralcore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781904/
 127.0.0.1 stress-node.structuralcore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781902/
@@ -67531,4 +67544,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67532
+# Number of entries: 67545
