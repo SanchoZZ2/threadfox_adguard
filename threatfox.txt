@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wood-trace.explosionjunip.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781973/
+127.0.0.1 fire-wall.explosionjunip.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781972/
+127.0.0.1 blast-zone.explosionjunip.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781971/
+127.0.0.1 data-form.howaskfor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781970/
+127.0.0.1 client-gate.howaskfor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781969/
+127.0.0.1 search-svc.howaskfor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781968/
+127.0.0.1 help-desk.howaskfor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781966/
+127.0.0.1 request-io.howaskfor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781965/
+127.0.0.1 query-hub.howaskfor.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781964/
+127.0.0.1 fix-node.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781963/
+127.0.0.1 coat-logic.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781962/
 127.0.0.1 surface-api.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781959/
 127.0.0.1 pin-storage.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781958/
 127.0.0.1 hard-point.enameledtack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781956/
@@ -20402,6 +20413,7 @@
 127.0.0.1 imacdrivedock.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1738964/
 127.0.0.1 new-endpoints.byteconnect.io #botnet_cc https://threatfox.abuse.ch/ioc/1738957/
 127.0.0.1 trabahando.theworkpc.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1738844/
+127.0.0.1 www.ski-snowboardvancouver.ca #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1738878/
 127.0.0.1 accounts.booking.ciberseguridad-eia.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1738908/
 127.0.0.1 vitoboy.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1738886/
 127.0.0.1 captolls.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1738884/
@@ -67564,4 +67576,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67565
+# Number of entries: 67577
