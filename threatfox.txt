@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rank-index.systematiclayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781699/
+127.0.0.1 step-monitor.systematiclayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781698/
+127.0.0.1 order-logic.systematiclayer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781697/
+127.0.0.1 frame-api.theoreticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781696/
+127.0.0.1 space-time.theoreticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781694/
+127.0.0.1 ideal-node.theoreticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781693/
+127.0.0.1 map-project.theoreticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781692/
 127.0.0.1 model-check.theoreticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781691/
 127.0.0.1 ntpfix.online #botnet_cc https://threatfox.abuse.ch/ioc/1781689/
 127.0.0.1 hvaaac.casacam.net #botnet_cc, win.pure_rat, PureHVNC, ResolverRAT https://threatfox.abuse.ch/ioc/1781688/
@@ -67407,4 +67414,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67408
+# Number of entries: 67415
