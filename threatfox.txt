@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 point-api.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782016/
+127.0.0.1 stop-logic.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782015/
+127.0.0.1 test-engine.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782014/
+127.0.0.1 hard-check.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782013/
+127.0.0.1 base-audit.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782012/
+127.0.0.1 rule-block.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782011/
+127.0.0.1 open-end.beckonuncert.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782010/
+127.0.0.1 guess-api.beckonuncert.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782009/
+127.0.0.1 hint-node.beckonuncert.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782008/
+127.0.0.1 call-sign.beckonuncert.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782007/
 127.0.0.1 risk-check.beckonuncert.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782006/
 127.0.0.1 wave-point.beckonuncert.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782005/
 127.0.0.1 user-pool.kokotkasquand.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782004/
@@ -67601,4 +67611,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67602
+# Number of entries: 67612
