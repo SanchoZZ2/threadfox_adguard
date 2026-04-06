@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 infer-unit.inferentialcore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781675/
+127.0.0.1 motion-svc.dialecticflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781666/
+127.0.0.1 receiver.cy #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781659/
+127.0.0.1 shift-point.dialecticflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781658/
+127.0.0.1 debate-log.dialecticflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781655/
+127.0.0.1 bifa668.com #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1781652/
+127.0.0.1 tabbysbakescodes.ws #botnet_cc https://threatfox.abuse.ch/ioc/1781651/
+127.0.0.1 synth-portal.dialecticflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781650/
+127.0.0.1 ai.latitudeprevalent.cfd #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1781649/
+127.0.0.1 tnt.unguidedfreewill.co #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1781647/
+127.0.0.1 anti-node.dialecticflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781644/
+127.0.0.1 thesis-sync.dialecticflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781643/
+127.0.0.1 law-check.axiomaticgrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781642/
 127.0.0.1 jftolsa.ws #botnet_cc, win.smokeloader, Dofoil, Sharik https://threatfox.abuse.ch/ioc/1781640/
 127.0.0.1 nicetolosv.xyz #botnet_cc, win.smokeloader, Dofoil, Sharik https://threatfox.abuse.ch/ioc/1781641/
 127.0.0.1 base-matrix.axiomaticgrid.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781638/
@@ -618,9 +631,6 @@
 127.0.0.1 marsalek.cy #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1780343/
 127.0.0.1 6999.fit #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1780339/
 127.0.0.1 malware.infoholicresearch.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780338/
-127.0.0.1 malware.scribblediffusion.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780337/
-127.0.0.1 malware.tarbagan.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780336/
-127.0.0.1 tarbagan.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780335/
 127.0.0.1 malware.xoilac365xb.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780334/
 127.0.0.1 malware.xoilac365xp.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780333/
 127.0.0.1 malware.xoilac86al.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1780332/
@@ -67385,4 +67395,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67386
+# Number of entries: 67396
