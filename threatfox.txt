@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 term-index.semanticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781873/
+127.0.0.1 word-map.semanticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781872/
+127.0.0.1 vision-node.cognitivematrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781870/
+127.0.0.1 brain-api.cognitivematrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781869/
+127.0.0.1 sense-gate.cognitivematrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781868/
+127.0.0.1 neural-io.cognitivematrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781867/
+127.0.0.1 thought-hub.cognitivematrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781865/
+127.0.0.1 mind-stack.cognitivematrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781863/
+127.0.0.1 core-net.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781862/
+127.0.0.1 stitch-api.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781861/
 127.0.0.1 thread-svc.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781852/
 127.0.0.1 mesh-router.logicalfabric.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1781850/
 127.0.0.1 weissnat.org #payload_delivery https://threatfox.abuse.ch/ioc/1781849/
@@ -67498,4 +67508,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67499
+# Number of entries: 67509
