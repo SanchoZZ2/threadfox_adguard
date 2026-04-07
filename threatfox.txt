@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 state-api.dialectrixengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782466/
+127.0.0.1 opp-check.dialectrixengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782465/
+127.0.0.1 logic-unit.dialectrixengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782464/
+127.0.0.1 synth-logic.dialectrixengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782463/
+127.0.0.1 norm-node.axiologyflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782462/
+127.0.0.1 flux-gate.axiologyflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782461/
+127.0.0.1 trend-svc.axiologyflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782460/
+127.0.0.1 drift-log.axiologyflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782459/
+127.0.0.1 shift-ctrl.axiologyflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782457/
+127.0.0.1 value-point.axiologyflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782456/
+127.0.0.1 bio-node.ontogenesiscore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782455/
 127.0.0.1 origin-svc.ontogenesiscore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782454/
 127.0.0.1 growth-hub.ontogenesiscore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782453/
 127.0.0.1 cell-logic.ontogenesiscore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782452/
@@ -67139,4 +67150,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67140
+# Number of entries: 67151
