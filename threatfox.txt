@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 top-team.saklatwenty.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782217/
+127.0.0.1 round-svc.saklatwenty.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782216/
+127.0.0.1 canvaspigeon.icu #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1782214/
+127.0.0.1 game-api.saklatwenty.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782213/
+127.0.0.1 vnmstokns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1782211/
+127.0.0.1 count-log.saklatwenty.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782210/
+127.0.0.1 score-board.saklatwenty.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782209/
+127.0.0.1 main-route.leavedistribut.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782208/
+127.0.0.1 branch-node.leavedistribut.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782206/
+127.0.0.1 send-relay.leavedistribut.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782205/
+127.0.0.1 pack-svc.leavedistribut.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782204/
+127.0.0.1 load-sync.leavedistribut.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782203/
 127.0.0.1 share-point.leavedistribut.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782202/
 127.0.0.1 broad-cast.exaltedinfinate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782201/
 127.0.0.1 alpha-hub.exaltedinfinate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782199/
@@ -66963,4 +66975,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66964
+# Number of entries: 66976
