@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 low-io.downpredict.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782035/
+127.0.0.1 floor-node.downpredict.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782027/
+127.0.0.1 stat-portal.downpredict.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782025/
+127.0.0.1 trend-api.downpredict.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782024/
+127.0.0.1 micro-svc.bactergreat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782022/
+127.0.0.1 lab-access.bactergreat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782021/
+127.0.0.1 pure-node.bactergreat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782020/
+127.0.0.1 growth-hub.bactergreat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782019/
+127.0.0.1 cell-logic.bactergreat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782018/
+127.0.0.1 bio-trace.bactergreat.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782017/
 127.0.0.1 point-api.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782016/
 127.0.0.1 stop-logic.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782015/
 127.0.0.1 test-engine.drillobjection.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782014/
@@ -67611,4 +67621,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67612
+# Number of entries: 67622
