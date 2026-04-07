@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 doc-portal.goingsick.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782255/
+127.0.0.1 care-api.goingsick.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782254/
+127.0.0.1 health-check.goingsick.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782253/
+127.0.0.1 meta-hub.ashstatistic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782252/
+127.0.0.1 sum-svc.ashstatistic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782251/
+127.0.0.1 plot-node.ashstatistic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782250/
+127.0.0.1 trend-log.ashstatistic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782249/
+127.0.0.1 data-view.ashstatistic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782248/
+127.0.0.1 chart-api.ashstatistic.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782247/
+127.0.0.1 dream-hub.blindersyawn.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782246/
+127.0.0.1 sleep-node.blindersyawn.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782245/
 127.0.0.1 silent-svc.blindersyawn.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782244/
 127.0.0.1 rest-api.blindersyawn.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782242/
 127.0.0.1 dark-mode.blindersyawn.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782241/
@@ -67001,4 +67012,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67002
+# Number of entries: 67013
