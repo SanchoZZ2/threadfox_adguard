@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 core-logic.axiomatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782062/
+127.0.0.1 rule-set.axiomatrix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782061/
+127.0.0.1 exist-api.ontologicalflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782060/
+127.0.0.1 source-data.ontologicalflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782059/
+127.0.0.1 real-time-io.ontologicalflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782058/
+127.0.0.1 being-node.ontologicalflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782057/
+127.0.0.1 flow-object.ontologicalflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782056/
+127.0.0.1 jce85opnb7.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1782055/
+127.0.0.1 1yyx5olkch.localto.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1782054/
+127.0.0.1 Stephn-49704.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782053/
+127.0.0.1 yrbbksfa78.localto.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782052/
+127.0.0.1 idk-terapevt.serveo.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782051/
+127.0.0.1 entity-map.ontologicalflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782050/
+127.0.0.1 study-sync.epistemologycore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782049/
+127.0.0.1 mind-vault.epistemologycore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782048/
 127.0.0.1 proof-engine.epistemologycore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782047/
 127.0.0.1 base-theory.epistemologycore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782046/
 127.0.0.1 logic-audit.epistemologycore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782045/
@@ -66672,6 +66687,7 @@
 127.0.0.1 nokevohoh.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/964545/
 127.0.0.1 rawocav.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/964546/
 127.0.0.1 deyikurihe.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/964548/
+127.0.0.1 bidjat.e-9.co #payload_delivery, win.qakbot, Oakboat, Pinkslipbot https://threatfox.abuse.ch/ioc/954390/
 127.0.0.1 freshuper.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/952862/
 127.0.0.1 reebons.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/952596/
 127.0.0.1 gaswert.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/952587/
@@ -66839,4 +66855,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66840
+# Number of entries: 66856
