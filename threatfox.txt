@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sense-data.cognisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782097/
+127.0.0.1 mind-web.cognisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782096/
+127.0.0.1 neural-link.cognisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782095/
+127.0.0.1 thought-api.cognisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782094/
+127.0.0.1 luckypig.ie #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1782093/
+127.0.0.1 brain-weave.cognisphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782092/
+127.0.0.1 line-secure.systemologyhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782091/
+127.0.0.1 archive-hub.systemologyhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782090/
+127.0.0.1 file-stack.systemologyhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782089/
+127.0.0.1 rank-index.systemologyhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782088/
+127.0.0.1 step-monitor.systemologyhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782087/
+127.0.0.1 order-logic.systemologyhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782086/
 127.0.0.1 frame-api.theoristack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782085/
 127.0.0.1 space-time.theoristack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782084/
 127.0.0.1 ideal-node.theoristack.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782083/
@@ -66877,4 +66889,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66878
+# Number of entries: 66890
