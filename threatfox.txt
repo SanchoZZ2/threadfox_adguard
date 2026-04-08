@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 core-secure.gnoseologiccore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782542/
+127.0.0.1 know-logic.gnoseologiccore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782541/
+127.0.0.1 base-audit.gnoseologiccore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782540/
+127.0.0.1 root-vault.gnoseologiccore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782539/
+127.0.0.1 stream-gate.noeticstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782538/
+127.0.0.1 logic-api.noeticstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782537/
+127.0.0.1 sense-node.noeticstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782536/
+127.0.0.1 pure-io.noeticstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782535/
+127.0.0.1 mind-data.noeticstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782534/
+127.0.0.1 flow-sync.noeticstream.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782533/
 127.0.0.1 map-node.theorematicsphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782532/
 127.0.0.1 view-gate.theorematicsphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782531/
 127.0.0.1 abstract-io.theorematicsphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782530/
@@ -67197,4 +67207,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67198
+# Number of entries: 67208
