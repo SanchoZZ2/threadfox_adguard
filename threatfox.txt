@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 iridia.me #payload_delivery https://threatfox.abuse.ch/ioc/1782848/
+127.0.0.1 iridiacheats.dev #payload_delivery https://threatfox.abuse.ch/ioc/1782850/
+127.0.0.1 kssaprraemdda.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1782851/
+127.0.0.1 style-log.selzovestments.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782873/
+127.0.0.1 item-svc.selzovestments.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782872/
+127.0.0.1 stock-node.selzovestments.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782871/
 127.0.0.1 shop-hub.selzovestments.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782868/
 127.0.0.1 wear-api.selzovestments.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782867/
 127.0.0.1 coat-check.selzovestments.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782866/
@@ -67227,4 +67233,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67228
+# Number of entries: 67234
