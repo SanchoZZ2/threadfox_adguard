@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 view-hub.iconoguroque.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782887/
+127.0.0.1 image-api.iconoguroque.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782886/
+127.0.0.1 pixel-trace.iconoguroque.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782885/
+127.0.0.1 prennixo.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1782877/
+127.0.0.1 link.mundonerdassistencia.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1782879/
 127.0.0.1 iridia.me #payload_delivery https://threatfox.abuse.ch/ioc/1782848/
 127.0.0.1 iridiacheats.dev #payload_delivery https://threatfox.abuse.ch/ioc/1782850/
 127.0.0.1 kssaprraemdda.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1782851/
@@ -67233,4 +67238,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67234
+# Number of entries: 67239
