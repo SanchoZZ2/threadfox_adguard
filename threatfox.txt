@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 trace-log.inferentialisflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783105/
+127.0.0.1 step-api.inferentialisflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783104/
+127.0.0.1 infer-unit.inferentialisflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783103/
+127.0.0.1 logic-gate.dialectosphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783102/
+127.0.0.1 debate-hub.dialectosphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783101/
+127.0.0.1 state-svc.dialectosphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783100/
+127.0.0.1 logicvault.icu #payload_delivery https://threatfox.abuse.ch/ioc/1783096/
+127.0.0.1 thesis-log.dialectosphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783094/
+127.0.0.1 deepsight.icu #payload_delivery https://threatfox.abuse.ch/ioc/1783090/
+127.0.0.1 mohmusremcos.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1783088/
+127.0.0.1 escoclar.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1783086/
+127.0.0.1 talk-node.dialectosphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783085/
+127.0.0.1 sphere-api.dialectosphere.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783084/
+127.0.0.1 matrix-hub.axiomorphengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783083/
+127.0.0.1 rule-svc.axiomorphengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783082/
 127.0.0.1 unit-vault.axiomorphengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783081/
 127.0.0.1 ameublement.bcd-adventures.com #payload_delivery https://threatfox.abuse.ch/ioc/1783079/
 127.0.0.1 conseilsst.com #payload_delivery https://threatfox.abuse.ch/ioc/1783077/
@@ -66432,6 +66447,7 @@
 127.0.0.1 ec2-52-3-173-99.compute-1.amazonaws.com #botnet_cc, win.serpent, Serpent Stealer https://threatfox.abuse.ch/ioc/1236469/
 127.0.0.1 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1236455/
 127.0.0.1 panitor.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1236184/
+127.0.0.1 allsmt.cam #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1235606/
 127.0.0.1 www.louangelwolf.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1235332/
 127.0.0.1 callii.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1235359/
 127.0.0.1 kkudndkwatnfevcaqeefytqnh.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1234854/
@@ -66464,6 +66480,7 @@
 127.0.0.1 bagir.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219321/
 127.0.0.1 rlndeep8.no-ip.biz #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1219289/
 127.0.0.1 retghrtgwtrgtg.bounceme.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217124/
+127.0.0.1 playman0101.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217123/
 127.0.0.1 gservicese.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217113/
 127.0.0.1 listpoints.click #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217115/
 127.0.0.1 listpoints.online #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1217116/
@@ -67381,4 +67398,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67382
+# Number of entries: 67399
