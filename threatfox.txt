@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 drift-gate.epistemiconflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783057/
+127.0.0.1 shift-svc.epistemiconflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783056/
+127.0.0.1 truth-node.epistemiconflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783055/
+127.0.0.1 jpetrade.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1783054/
+127.0.0.1 sync-vault.epistemiconflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783053/
+127.0.0.1 mesh-api.epistemiconflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783052/
+127.0.0.1 flow-data.epistemiconflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783051/
+127.0.0.1 base-gate.gnosticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783050/
+127.0.0.1 path-svc.gnosticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783049/
+127.0.0.1 know-node.gnosticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783043/
+127.0.0.1 vector-hub.gnosticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783042/
+127.0.0.1 smart-api.gnosticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783040/
 127.0.0.1 trace-point.gnosticvector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783038/
 127.0.0.1 download-version.1-5-8.com #payload_delivery https://threatfox.abuse.ch/ioc/1783036/
 127.0.0.1 project-ms50192kd15.pages.dev #payload_delivery https://threatfox.abuse.ch/ioc/1783034/
@@ -67355,4 +67367,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67356
+# Number of entries: 67368
