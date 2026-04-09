@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sand-logic.desertpract.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783265/
+127.0.0.1 grid-gate.friskynanos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783264/
+127.0.0.1 micro-svc.friskynanos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783263/
+127.0.0.1 cell-vault.friskynanos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783262/
+127.0.0.1 market.dianamercer.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1783217/
+127.0.0.1 unit-node.friskynanos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783261/
+127.0.0.1 small-api.friskynanos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783260/
+127.0.0.1 nano-tech.friskynanos.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783259/
+127.0.0.1 root-gate.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783258/
+127.0.0.1 trade-svc.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783256/
+127.0.0.1 store-vault.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783254/
+127.0.0.1 proj-hid513291kzg.pages.dev #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1783251/
+127.0.0.1 seed-node.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783250/
 127.0.0.1 farm-api.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783249/
 127.0.0.1 antongandon.club #payload_delivery https://threatfox.abuse.ch/ioc/1783245/
 127.0.0.1 grain-log.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783244/
@@ -67332,4 +67345,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67333
+# Number of entries: 67346
