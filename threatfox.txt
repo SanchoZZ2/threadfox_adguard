@@ -1,4 +1,34 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 data-vault.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783225/
+127.0.0.1 host-node.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783224/
+127.0.0.1 core-api.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783223/
+127.0.0.1 main-gate.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783222/
+127.0.0.1 vector-gate.cognifluxion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783219/
+127.0.0.1 think-hub.cognifluxion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783218/
+127.0.0.1 brain-svc.cognifluxion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783216/
+127.0.0.1 sense-vault.cognifluxion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783213/
+127.0.0.1 chat.ttseokitty.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1783212/
+127.0.0.1 sdsda.lat #botnet_cc, win.spark_rat, SparkRAT https://threatfox.abuse.ch/ioc/1783210/
+127.0.0.1 neural-node.cognifluxion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783208/
+127.0.0.1 flux-api.cognifluxion.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783207/
+127.0.0.1 main-gate.systemoraengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783205/
+127.0.0.1 zephyrhall.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1783204/
+127.0.0.1 core-hub.systemoraengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783203/
+127.0.0.1 order-svc.systemoraengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783202/
+127.0.0.1 matrix-vault.systemoraengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783201/
+127.0.0.1 rule-node.systemoraengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783200/
+127.0.0.1 horecabot-dev.horecabid.com #botnet_cc https://threatfox.abuse.ch/ioc/1783024/
+127.0.0.1 r6qckzh8lfkursk13x3g69wgv5vl7urrdn6vjd.com #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1783044/
+127.0.0.1 go6.my #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1783045/
+127.0.0.1 go5z.my #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1783046/
+127.0.0.1 fucismarjiaff.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1783061/
+127.0.0.1 engine-api.systemoraengine.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783199/
+127.0.0.1 space-gate.theorivector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783198/
+127.0.0.1 point-hub.theorivector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783197/
+127.0.0.1 theory-svc.theorivector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783196/
+127.0.0.1 view-vault.theorivector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783192/
+127.0.0.1 model-node.theorivector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783191/
+127.0.0.1 vector-api.theorivector.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783190/
 127.0.0.1 gate-secure.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783189/
 127.0.0.1 link-hub.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783188/
 127.0.0.1 rank-svc.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783187/
@@ -67288,4 +67318,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67289
+# Number of entries: 67319
