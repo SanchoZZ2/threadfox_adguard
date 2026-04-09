@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cell-vault.ontocorex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783154/
+127.0.0.1 entity-node.ontocorex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783153/
+127.0.0.1 core-api.ontocorex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783152/
+127.0.0.1 path-gate.epistemevault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783151/
+127.0.0.1 audit-hub.epistemevault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783150/
+127.0.0.1 root-svc.epistemevault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783148/
+127.0.0.1 secure-node.epistemevault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783147/
+127.0.0.1 Adamdasdadad-47266.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1783146/
+127.0.0.1 lxt.uk.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1783145/
+127.0.0.1 info-api.epistemevault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783144/
+127.0.0.1 alibabaforwader10.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1783143/
+127.0.0.1 base-vault.epistemevault.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783142/
+127.0.0.1 base-gate.gnoseonflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783141/
+127.0.0.1 flux-svc.gnoseonflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783140/
 127.0.0.1 drift-vault.gnoseonflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783139/
 127.0.0.1 shift-node.gnoseonflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783138/
 127.0.0.1 know-api.gnoseonflux.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783137/
@@ -67252,4 +67266,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67253
+# Number of entries: 67267
