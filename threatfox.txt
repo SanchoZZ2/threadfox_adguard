@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 farm-api.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783249/
+127.0.0.1 antongandon.club #payload_delivery https://threatfox.abuse.ch/ioc/1783245/
+127.0.0.1 grain-log.ryesears.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783244/
+127.0.0.1 soil-hub.bereathfertil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783243/
+127.0.0.1 base-svc.bereathfertil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783242/
+127.0.0.1 grow-vault.bereathfertil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783241/
+127.0.0.1 land-node.bereathfertil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783240/
+127.0.0.1 crop-api.bereathfertil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783239/
+127.0.0.1 hez.msalifenterprise.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1783234/
+127.0.0.1 hez.hbway.com.au #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1783235/
+127.0.0.1 tfe.msalifenterprise.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1783236/
+127.0.0.1 tfe.hbway.com.au #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1783237/
+127.0.0.1 field-sync.bereathfertil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783228/
+127.0.0.1 sync-hub.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783227/
+127.0.0.1 svc-relay.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783226/
 127.0.0.1 data-vault.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783225/
 127.0.0.1 host-node.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783224/
 127.0.0.1 core-api.importantserv.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783223/
@@ -240,7 +255,6 @@
 127.0.0.1 malware.xoilaczzzzc.tv #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782896/
 127.0.0.1 gegehhe-64692.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782895/
 127.0.0.1 cpiprinting.us.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782894/
-127.0.0.1 freserat.gb.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1782892/
 127.0.0.1 form-check.shapeprimrose.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782893/
 127.0.0.1 sign-gate.iconoguroque.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782891/
 127.0.0.1 art-svc.iconoguroque.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782889/
@@ -67318,4 +67332,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67319
+# Number of entries: 67333
