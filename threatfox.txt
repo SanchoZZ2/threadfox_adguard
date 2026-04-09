@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gate-secure.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783189/
+127.0.0.1 link-hub.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783188/
+127.0.0.1 rank-svc.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783187/
+127.0.0.1 hub-secure.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783186/
+127.0.0.1 trace-node.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783185/
+127.0.0.1 infer-api.inferentrixhub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783184/
+127.0.0.1 logic-gate.dialectraforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783183/
+127.0.0.1 debate-hub.dialectraforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783182/
+127.0.0.1 step-svc.dialectraforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783181/
+127.0.0.1 thesis-vault.dialectraforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783180/
 127.0.0.1 synth-node.dialectraforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783179/
 127.0.0.1 forge-api.dialectraforge.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1783178/
 127.0.0.1 kac.blastus.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1783177/
@@ -67278,4 +67288,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67279
+# Number of entries: 67289
