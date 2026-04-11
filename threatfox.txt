@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 job1-sync.office-task-sync.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784134/
+127.0.0.1 gate6-way.travel-point-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784133/
+127.0.0.1 svc5-relay.travel-point-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784132/
+127.0.0.1 vault4-sync.travel-point-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784131/
+127.0.0.1 api3-trace.travel-point-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784129/
+127.0.0.1 node2-map.travel-point-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784128/
+127.0.0.1 trip1-point.travel-point-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784127/
+127.0.0.1 hub6-gate.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784125/
+127.0.0.1 svc5-relay.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784124/
+127.0.0.1 vault4-root.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784123/
+127.0.0.1 api3-trade.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784122/
 127.0.0.1 node2-list.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784121/
 127.0.0.1 shop1-data.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784120/
 127.0.0.1 gate6-way.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784119/
@@ -66970,4 +66981,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66971
+# Number of entries: 66982
