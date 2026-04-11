@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 node2-list.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784121/
+127.0.0.1 shop1-data.local-market-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784120/
+127.0.0.1 gate6-way.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784119/
+127.0.0.1 svc5-relay.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784117/
+127.0.0.1 vault4-info.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784116/
+127.0.0.1 api3-safe.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784115/
+127.0.0.1 node2-check.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784114/
+127.0.0.1 home1-verify.smart-home-verify.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784113/
+127.0.0.1 hub6-relay.green-energy-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784111/
+127.0.0.1 svc5-solar.green-energy-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784110/
+127.0.0.1 vault4-data.green-energy-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784109/
 127.0.0.1 api3-grid.green-energy-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784108/
 127.0.0.1 node2-power.green-energy-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784107/
 127.0.0.1 eco1-trace.green-energy-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784106/
@@ -66959,4 +66970,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66960
+# Number of entries: 66971
