@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gate6-way.solid-build-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784190/
+127.0.0.1 svc5-relay.solid-build-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784189/
+127.0.0.1 vault4-root.solid-build-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784188/
+127.0.0.1 api3-arch.solid-build-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784187/
+127.0.0.1 node2-draw.solid-build-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784186/
+127.0.0.1 plan1-data.solid-build-trace.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784184/
+127.0.0.1 hub6-main.prime-media-gate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784183/
+127.0.0.1 svc5-relay.prime-media-gate.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784182/
 127.0.0.1 qqdsbnmkloi.cn #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1784180/
 127.0.0.1 xzcgtffdlmn.cc #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1784179/
 127.0.0.1 iopytbvgg.cn #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1784178/
@@ -67053,4 +67061,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67054
+# Number of entries: 67062
