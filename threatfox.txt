@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hub6-pipe.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784568/
+127.0.0.1 svc5-scan.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784567/
+127.0.0.1 poxzxin.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1784449/
+127.0.0.1 db4-cache.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784566/
+127.0.0.1 node3-link.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784565/
+127.0.0.1 api2-port.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784564/
+127.0.0.1 file1-swap.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784563/
+127.0.0.1 gate6-link.sox9liven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784562/
+127.0.0.1 ideavault.in.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1784559/
+127.0.0.1 svc5-edge.sox9liven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784556/
+127.0.0.1 deathtoall-43710.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1784555/
+127.0.0.1 deathtoall-38456.portmap.host #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1784554/
+127.0.0.1 kurkupa-robux.ru #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1784553/
+127.0.0.1 shee5kmm.3utilities.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1784552/
+127.0.0.1 ahaya.it.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1784551/
+127.0.0.1 blob4-data.sox9liven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784550/
+127.0.0.1 node3-pack.sox9liven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784549/
+127.0.0.1 api2-cert.sox9liven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784548/
 127.0.0.1 auth1-user.sox9liven.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784547/
 127.0.0.1 drmartensoutlet.us.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1784546/
 127.0.0.1 ama.jp.net #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1784545/
@@ -66966,4 +66984,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66967
+# Number of entries: 66985
