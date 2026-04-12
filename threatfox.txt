@@ -1,4 +1,25 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 enslaveculprit.digital #payload_delivery https://threatfox.abuse.ch/ioc/1784610/
+127.0.0.1 disallowreconfirm.digital #payload_delivery https://threatfox.abuse.ch/ioc/1784608/
+127.0.0.1 uniquelyblimp.icu #payload_delivery https://threatfox.abuse.ch/ioc/1784606/
+127.0.0.1 unlessdiscolor.icu #payload_delivery https://threatfox.abuse.ch/ioc/1784604/
+127.0.0.1 map4-base.norqelix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784603/
+127.0.0.1 scoldingspoiled.digital #payload_delivery https://threatfox.abuse.ch/ioc/1784601/
+127.0.0.1 mumbleplaything.digital #payload_delivery https://threatfox.abuse.ch/ioc/1784599/
+127.0.0.1 folkunwary.digital #payload_delivery https://threatfox.abuse.ch/ioc/1784597/
+127.0.0.1 ceramicskick.digital #payload_delivery https://threatfox.abuse.ch/ioc/1784595/
+127.0.0.1 node3-push.norqelix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784592/
+127.0.0.1 shadowlink.cyou #payload_delivery https://threatfox.abuse.ch/ioc/1784589/
+127.0.0.1 api2-jump.norqelix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784586/
+127.0.0.1 primetrace.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1784583/
+127.0.0.1 read1-data.norqelix.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784581/
+127.0.0.1 gate6-map.bri2xalon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784580/
+127.0.0.1 svc5-info.bri2xalon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784579/
+127.0.0.1 box4-file.bri2xalon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784577/
+127.0.0.1 node3-flag.bri2xalon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784573/
+127.0.0.1 newworld-helloworld.icu #botnet_cc, win.santa_stealer, SantaStealer https://threatfox.abuse.ch/ioc/1784572/
+127.0.0.1 app2-root.bri2xalon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784571/
+127.0.0.1 base1-site.bri2xalon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784569/
 127.0.0.1 hub6-pipe.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784568/
 127.0.0.1 svc5-scan.travemox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1784567/
 127.0.0.1 poxzxin.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1784449/
@@ -66984,4 +67005,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66985
+# Number of entries: 67006
