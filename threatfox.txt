@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 node3-join.krinaxon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785438/
+127.0.0.1 api2-test.krinaxon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785437/
+127.0.0.1 log1-audit.krinaxon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785433/
+127.0.0.1 gate6-way.vo2xeral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785432/
+127.0.0.1 svc5-info.vo2xeral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785431/
+127.0.0.1 git4-repo.vo2xeral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785430/
+127.0.0.1 node3-blob.vo2xeral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785429/
+127.0.0.1 api2-meta.vo2xeral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785428/
+127.0.0.1 set1-init.vo2xeral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785427/
+127.0.0.1 gate6-zone.drumavex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785426/
+127.0.0.1 svc5-ready.drumavex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785425/
 127.0.0.1 db4-store.drumavex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785424/
 127.0.0.1 node3-fast.drumavex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785423/
 127.0.0.1 api2-call.drumavex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785422/
@@ -67112,4 +67123,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67113
+# Number of entries: 67124
