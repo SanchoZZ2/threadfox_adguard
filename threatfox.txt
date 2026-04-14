@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bin4-data.qul9merox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785474/
+127.0.0.1 node3-read.qul9merox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785473/
+127.0.0.1 api2-stat.qul9merox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785472/
+127.0.0.1 cmd1-task.qul9merox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785471/
+127.0.0.1 gate6-area.norxavin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785469/
+127.0.0.1 svc5-edge.norxavin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785468/
+127.0.0.1 tmp4-root.norxavin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785467/
+127.0.0.1 node3-link.norxavin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785466/
+127.0.0.1 api2-info.norxavin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785465/
+127.0.0.1 web1-host.norxavin.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785464/
 127.0.0.1 gate6-post.bry3loxan.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785463/
 127.0.0.1 svc5-auth.bry3loxan.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785462/
 127.0.0.1 salt4-byte.bry3loxan.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785461/
@@ -66777,4 +66787,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66778
+# Number of entries: 66788
