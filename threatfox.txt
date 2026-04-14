@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xxx.supportify360.io #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1785605/
+127.0.0.1 cinem-graph.xelvorimax.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785604/
+127.0.0.1 itncq.xelvorimax.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785602/
+127.0.0.1 gate6-way.active-service-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785599/
+127.0.0.1 svc5-net.active-service-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785598/
+127.0.0.1 vault4-doc.active-service-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785597/
+127.0.0.1 api3-ready.active-service-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785596/
+127.0.0.1 node2-core.active-service-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785592/
+127.0.0.1 host1-base.active-service-hub.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785591/
+127.0.0.1 gate6-hub.secure-proxy-way.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785590/
+127.0.0.1 winup.su #botnet_cc https://threatfox.abuse.ch/ioc/1785589/
+127.0.0.1 relay.energysdomes.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1785587/
+127.0.0.1 svc5-link.secure-proxy-way.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785586/
 127.0.0.1 vault4-on.secure-proxy-way.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785584/
 127.0.0.1 api3-site.secure-proxy-way.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785583/
 127.0.0.1 node2-port.secure-proxy-way.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785582/
@@ -184,7 +197,6 @@
 127.0.0.1 mon1-check.xelvarinox.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785373/
 127.0.0.1 neo-c0upon.kazan-saddle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785369/
 127.0.0.1 zmxa.kazan-saddle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785368/
-127.0.0.1 SXrAqPXxbU8FX4rOG2rq7A== #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1785367/
 127.0.0.1 nvgsw.kazan-saddle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785366/
 127.0.0.1 stitch-spool.kazan-saddle.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785365/
 127.0.0.1 qhl.sequareeus.online #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1785361/
@@ -66889,4 +66901,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66890
+# Number of entries: 66902
