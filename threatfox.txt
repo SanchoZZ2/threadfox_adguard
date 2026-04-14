@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 node3-list.bri7tanon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790982/
+127.0.0.1 paymentsv2.mysynology.net #botnet_cc https://threatfox.abuse.ch/ioc/1790979/
+127.0.0.1 pay.hostingshared99.com #botnet_cc https://threatfox.abuse.ch/ioc/1790980/
+127.0.0.1 web1-host.bri7tanon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790978/
+127.0.0.1 gate6-zone.dru9laxen.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790946/
+127.0.0.1 download-version.1-8-3.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1790976/
+127.0.0.1 jpbassin.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1790977/
+127.0.0.1 mail-svr.co #botnet_cc, win.sidewinder, SideWinder https://threatfox.abuse.ch/ioc/1790974/
+127.0.0.1 www-unocha-org.mail-svr.co #botnet_cc, win.sidewinder, SideWinder https://threatfox.abuse.ch/ioc/1790975/
+127.0.0.1 gate6-area.nor4vexil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790973/
+127.0.0.1 uk176video.live #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1790971/
+127.0.0.1 svc5-edge.nor4vexil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790970/
+127.0.0.1 salt4-byte.nor4vexil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790966/
+127.0.0.1 node3-view.nor4vexil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790951/
+127.0.0.1 api2-test.nor4vexil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790950/
+127.0.0.1 auth1-user.nor4vexil.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790948/
+127.0.0.1 svc5-info.dru9laxen.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790943/
+127.0.0.1 palyholy.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1790942/
+127.0.0.1 quietjourney.today #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1790940/
 127.0.0.1 sakkoscarped.ru #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1790939/
 127.0.0.1 tmp4-root.dru9laxen.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1790938/
 127.0.0.1 yellowsp00n.digital #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1790937/
@@ -67126,4 +67145,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 67127
+# Number of entries: 67146
