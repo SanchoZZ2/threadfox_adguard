@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 work1-vpn.remote-access-node.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785499/
+127.0.0.1 gate6-box.cloud-storage-unit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785498/
+127.0.0.1 svc5-cdn.cloud-storage-unit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785497/
+127.0.0.1 vault4-io.cloud-storage-unit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785496/
+127.0.0.1 api3-dir.cloud-storage-unit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785495/
+127.0.0.1 node2-obj.cloud-storage-unit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785494/
+127.0.0.1 file1-raw.cloud-storage-unit.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785493/
+127.0.0.1 gate6-app.data-metric-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785492/
+127.0.0.1 svc5-row.data-metric-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785491/
+127.0.0.1 vault4-db.data-metric-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785490/
 127.0.0.1 api3-bit.data-metric-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785489/
 127.0.0.1 node2-tab.data-metric-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785488/
 127.0.0.1 stat1-set.data-metric-flow.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1785486/
@@ -66798,4 +66808,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 66799
+# Number of entries: 66809
