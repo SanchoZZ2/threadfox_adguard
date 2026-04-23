@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pds6zjwn.rentcad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796493/
+127.0.0.1 peak-lab.rentcad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796492/
+127.0.0.1 voicebund.rentcad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796490/
+127.0.0.1 hyp3-plate.rentcad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796489/
+127.0.0.1 cloudflareinsights.vercel.app #botnet_cc, js.otter_cookie, OtterCookie https://threatfox.abuse.ch/ioc/1796468/
+127.0.0.1 cloudflarefirewall.vercel.app #botnet_cc, js.otter_cookie, OtterCookie https://threatfox.abuse.ch/ioc/1796469/
+127.0.0.1 cloudflaresecurity.vercel.app #botnet_cc, js.otter_cookie, OtterCookie https://threatfox.abuse.ch/ioc/1796470/
+127.0.0.1 arkdraa6.rentcad.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796488/
+127.0.0.1 gran-sync.sadfont.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796487/
 127.0.0.1 gdvdjt.sadfont.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796486/
 127.0.0.1 varmil9.digital #payload_delivery https://threatfox.abuse.ch/ioc/1796485/
 127.0.0.1 consider-dorasti.digital #payload_delivery https://threatfox.abuse.ch/ioc/1796482/
@@ -62558,4 +62567,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62559
+# Number of entries: 62568
