@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 p4rt3-lab.arapnik-nosog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1799724/
+127.0.0.1 pine2-branch.arapnik-nosog.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1799720/
 127.0.0.1 51lent-route.pitifrube1la.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1799716/
 127.0.0.1 english-studies.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1799715/
 127.0.0.1 jzojka.pitifrube1la.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797302/
@@ -62821,4 +62823,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62822
+# Number of entries: 62824
