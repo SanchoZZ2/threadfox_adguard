@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.wildnor.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1797028/
+127.0.0.1 mymeetingtoday.com #payload_delivery https://threatfox.abuse.ch/ioc/1797026/
+127.0.0.1 mymeetinggoogle.com #payload_delivery https://threatfox.abuse.ch/ioc/1797023/
+127.0.0.1 balcg.1zoravel.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797022/
+127.0.0.1 livemeetgooogle.com #payload_delivery https://threatfox.abuse.ch/ioc/1797019/
+127.0.0.1 p1a5-watch.1zoravel.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797017/
+127.0.0.1 my-googlemeeting.com #payload_delivery https://threatfox.abuse.ch/ioc/1797015/
+127.0.0.1 sku4jn.1zoravel.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797012/
+127.0.0.1 document-share-id382929992933.sisregcel.com #payload_delivery https://threatfox.abuse.ch/ioc/1797008/
+127.0.0.1 fast-7k.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797007/
+127.0.0.1 noir-land-3.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797006/
+127.0.0.1 soft-1.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797005/
+127.0.0.1 clang-outrag.digital #payload_delivery https://threatfox.abuse.ch/ioc/1797002/
+127.0.0.1 wald-baum-6w.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796996/
+127.0.0.1 rouge-4.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796995/
 127.0.0.1 iron-zeit-8.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796994/
 127.0.0.1 berg-5x.dometo1ochy.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796986/
 127.0.0.1 petit-mond-1.dometo1ochy.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1796985/
@@ -62651,4 +62666,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62652
+# Number of entries: 62667
