@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sermarken.vex4moral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800473/
+127.0.0.1 geo-ca5t.vex4moral.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800472/
+127.0.0.1 norcorear3.pav7lorex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800469/
+127.0.0.1 ns-claude-js.beer #payload_delivery https://threatfox.abuse.ch/ioc/1800468/
+127.0.0.1 ntsnsdns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1800466/
+127.0.0.1 alt-rnetr.pav7lorex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800465/
+127.0.0.1 rklpwx.pav7lorex.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800463/
+127.0.0.1 janadiscovery.creativepreflight.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1800445/
+127.0.0.1 lightinn.to6varon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800441/
+127.0.0.1 3eums.to6varon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800439/
+127.0.0.1 uy2qx.to6varon.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800438/
+127.0.0.1 imgnyc.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1800436/
 127.0.0.1 iframeshop.fietsenco.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1800434/
 127.0.0.1 ridgegentle.sylo1mer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800432/
 127.0.0.1 qkkrhea.sylo1mer.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1800430/
@@ -61179,6 +61191,7 @@
 127.0.0.1 s3awscloud.com #botnet_cc, win.netwire, NetWeird, NetWire https://threatfox.abuse.ch/ioc/1452197/
 127.0.0.1 pinkpanther54.no-ip.org #botnet_cc, win.cybergate, Rebhip, CyberGate https://threatfox.abuse.ch/ioc/1451971/
 127.0.0.1 ec2-51-21-219-123.eu-north-1.compute.amazonaws.com #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1451609/
+127.0.0.1 umarmira055.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1451591/
 127.0.0.1 parosh.didns.ru #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1451370/
 127.0.0.1 delivery-waiver.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1451297/
 127.0.0.1 httpss.myvnc.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1451247/
@@ -62783,4 +62796,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62784
+# Number of entries: 62797
