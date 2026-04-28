@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 civi-opti.shadowpeak.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801526/
+127.0.0.1 broad7-grid.shadowpeak.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801525/
+127.0.0.1 pitchzoneyview.sonicwavehost.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801523/
+127.0.0.1 freq6taskunit.sonicwavehost.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801522/
 127.0.0.1 staticflowsys.quantumpathnet.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801517/
 127.0.0.1 matrix6pathway.vectorpointsite.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801500/
 127.0.0.1 scalezoneyview.vectorpointsite.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801504/
@@ -62952,4 +62956,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62953
+# Number of entries: 62957
