@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 5urv3-layer.stoneflare.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801568/
+127.0.0.1 pastureclien.stoneflare.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801567/
+127.0.0.1 dock-visu.stoneflare.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801563/
+127.0.0.1 f4ct0-span.lightforge.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801546/
+127.0.0.1 tpxovsr.lightforge.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801545/
+127.0.0.1 formpea.lightforge.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801544/
+127.0.0.1 filt3-scope.lightforge.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801533/
 127.0.0.1 civi-opti.shadowpeak.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801526/
 127.0.0.1 broad7-grid.shadowpeak.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801525/
 127.0.0.1 pitchzoneyview.sonicwavehost.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801523/
@@ -26030,6 +26037,7 @@
 127.0.0.1 d78e28f30f401bafb4df56ad39d90d12.226b22e7cfe7de9c61af9f86b5895e00.traefik.default #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1741359/
 127.0.0.1 whreceiver.ru #botnet_cc https://threatfox.abuse.ch/ioc/1741270/
 127.0.0.1 erberloose.club #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1741260/
+127.0.0.1 mezcalpro.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1741247/
 127.0.0.1 08f0.proxy-edge-c5f.workers.dev #botnet_cc, win.smokedham, SMOKEDHAM https://threatfox.abuse.ch/ioc/1741255/
 127.0.0.1 divine-glitter-cfb4.elena-morales.workers.dev #botnet_cc, win.smokedham, SMOKEDHAM https://threatfox.abuse.ch/ioc/1741256/
 127.0.0.1 little-frog-2e65.kaxij51156.workers.dev #botnet_cc, win.smokedham, SMOKEDHAM https://threatfox.abuse.ch/ioc/1741257/
@@ -62956,4 +62964,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62957
+# Number of entries: 62965
