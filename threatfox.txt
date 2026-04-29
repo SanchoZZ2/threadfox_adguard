@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tonelogicgate7.astrolinkview.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801979/
+127.0.0.1 claudesave.beer #payload_delivery https://threatfox.abuse.ch/ioc/1801970/
+127.0.0.1 nsbdnscloud.beer #payload_delivery https://threatfox.abuse.ch/ioc/1801968/
+127.0.0.1 nsserdns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1801965/
+127.0.0.1 sonic4wavehub.astrolinkview.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801962/
+127.0.0.1 pulse8sitebox.ferrumgateweb.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801953/
+127.0.0.1 myremnew.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1801951/
+127.0.0.1 newupdaterem.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1801952/
+127.0.0.1 atom2logicnet.ferrumgateweb.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801949/
+127.0.0.1 orbitmeshpath.ferrumgateweb.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801948/
 127.0.0.1 quant9wavegate.ferrumgateweb.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801947/
 127.0.0.1 planemeshlogic.cobaltpathsys.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801945/
 127.0.0.1 scalezoneyview.cobaltpathsys.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1801944/
@@ -62823,4 +62833,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62824
+# Number of entries: 62834
