@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 plotmeshsite.tavi8grid.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803344/
+127.0.0.1 grid8logicway.tavi8grid.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803342/
+127.0.0.1 null9siteview.sora5link.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803340/
+127.0.0.1 byte4pathgate.sora5link.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803339/
 127.0.0.1 beam8pathgate.mero2beam.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803328/
 127.0.0.1 lightmeshsite.mero2beam.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803322/
 127.0.0.1 ray2logicway.mero2beam.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803320/
@@ -62800,4 +62804,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 62801
+# Number of entries: 62805
