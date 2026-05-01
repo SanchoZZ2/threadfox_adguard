@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beam.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804007/
+127.0.0.1 view.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804002/
+127.0.0.1 sky.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804000/
+127.0.0.1 ray.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803998/
+127.0.0.1 sun.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803996/
+127.0.0.1 run.quickstepflow.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803994/
+127.0.0.1 dns.quickstepflow.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803992/
+127.0.0.1 rdp.quickstepflow.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803988/
 127.0.0.1 map.greenforestsky.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803980/
 127.0.0.1 site.greenforestsky.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803978/
 127.0.0.1 core.greenforestsky.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803976/
@@ -63244,4 +63252,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63245
+# Number of entries: 63253
