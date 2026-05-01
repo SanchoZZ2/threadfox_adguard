@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 user.smartlogicgate.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803969/
+127.0.0.1 sync.fastworknode.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803957/
+127.0.0.1 data.fastworknode.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803954/
+127.0.0.1 node.fastworknode.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803953/
+127.0.0.1 web.clearviewcloud.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803951/
 127.0.0.1 gate.clearviewcloud.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803949/
 127.0.0.1 db.clearviewcloud.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803945/
 127.0.0.1 srv.clearviewcloud.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803943/
@@ -63234,4 +63239,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63235
+# Number of entries: 63240
