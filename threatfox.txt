@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 full9siteview.sara5byte.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803558/
+127.0.0.1 save4pathgate.sara5byte.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803556/
+127.0.0.1 load1taskhub.sara5byte.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803553/
+127.0.0.1 site9siteview.deno2link.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803547/
+127.0.0.1 techhostunit.deno2link.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803542/
 127.0.0.1 joinmeshsite.deno2link.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803538/
 127.0.0.1 gate5pathgate.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803531/
 127.0.0.1 datahostunit.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803529/
@@ -63036,4 +63041,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63037
+# Number of entries: 63042
