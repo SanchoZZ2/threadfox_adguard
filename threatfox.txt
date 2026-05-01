@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 joinmeshsite.deno2link.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803538/
+127.0.0.1 gate5pathgate.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803531/
+127.0.0.1 datahostunit.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803529/
+127.0.0.1 open2taskhub.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803527/
+127.0.0.1 linkmeshnode.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803525/
+127.0.0.1 port9logicnet.mori9port.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803523/
+127.0.0.1 fast1siteview.vaxi4sync.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803519/
 127.0.0.1 next5pathgate.vaxi4sync.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803436/
 127.0.0.1 loadhostunit.vaxi4sync.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803431/
 127.0.0.1 tick8taskhub.vaxi4sync.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803430/
@@ -63029,4 +63036,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63030
+# Number of entries: 63037
