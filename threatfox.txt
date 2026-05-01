@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dim-proxy.crinkdimit.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803923/
+127.0.0.1 dns-naum.bnaumann87.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803921/
+127.0.0.1 remote-v1.bnaumann87.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803910/
+127.0.0.1 upd-naum.bnaumann87.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803908/
+127.0.0.1 map-entry.herbertrutt.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803903/
+127.0.0.1 r-relay.herbertrutt.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803837/
+127.0.0.1 temp-f8.herbertrutt.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803833/
+127.0.0.1 internal-r.sarahkapsreit.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803828/
+127.0.0.1 login-web.sarahkapsreit.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803826/
 127.0.0.1 user-portal.rolfgrassinger.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803817/
 127.0.0.1 m-cache90.rolfgrassinger.work #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803772/
 127.0.0.1 analytics-h15.icu #payload_delivery https://threatfox.abuse.ch/ioc/1803765/
@@ -63216,4 +63225,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63217
+# Number of entries: 63226
