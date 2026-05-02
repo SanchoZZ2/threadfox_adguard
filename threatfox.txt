@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 deep.darknightstar.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804028/
+127.0.0.1 void.darknightstar.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804026/
+127.0.0.1 dark.darknightstar.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804020/
+127.0.0.1 vpn.coldwindy.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804018/
+127.0.0.1 port.coldwindy.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804016/
+127.0.0.1 box.coldwindy.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804014/
+127.0.0.1 wind.coldwindy.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804010/
+127.0.0.1 cold.coldwindy.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804009/
 127.0.0.1 beam.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804007/
 127.0.0.1 view.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804002/
 127.0.0.1 sky.brightsunray.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804000/
@@ -63252,4 +63260,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63253
+# Number of entries: 63261
