@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zeno.mintur8ency.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804110/
+127.0.0.1 spark.mintur8ency.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804105/
+127.0.0.1 omni.mintur8ency.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804104/
+127.0.0.1 flux.mintur8ency.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804102/
+127.0.0.1 grid.archiv-checkered.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804097/
+127.0.0.1 byte.archiv-checkered.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804096/
+127.0.0.1 logic.archiv-checkered.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804093/
+127.0.0.1 vector.archiv-checkered.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804089/
 127.0.0.1 alpha.longwave5hot.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804087/
 127.0.0.1 prime.longwave5hot.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804085/
 127.0.0.1 sonic.longwave5hot.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1804083/
@@ -63012,4 +63020,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63013
+# Number of entries: 63021
