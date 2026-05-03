@@ -1,4 +1,34 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dash.brightskycore.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805180/
+127.0.0.1 host.darkstonebase.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805179/
+127.0.0.1 beta.cyberpulsehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805178/
+127.0.0.1 abramo8a.ru #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1804947/
+127.0.0.1 acint.net #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1804948/
+127.0.0.1 69sexy.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1804956/
+127.0.0.1 platform.isystemservices.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1804991/
+127.0.0.1 webmail.mentalpainandtrauma.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1805023/
+127.0.0.1 cpanel.ladytress.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1805082/
+127.0.0.1 default-configuration.vercel.app #botnet_cc https://threatfox.abuse.ch/ioc/1804813/
+127.0.0.1 260120.vercel.app #botnet_cc https://threatfox.abuse.ch/ioc/1804812/
+127.0.0.1 vscode-settings-bootstrap.vercel.app #botnet_cc https://threatfox.abuse.ch/ioc/1804814/
+127.0.0.1 vscode-settings-config.vercel.app #botnet_cc https://threatfox.abuse.ch/ioc/1804815/
+127.0.0.1 vscode-bootstrapper.vercel.app #botnet_cc https://threatfox.abuse.ch/ioc/1804816/
+127.0.0.1 vscode-load-config.vercel.app #botnet_cc https://threatfox.abuse.ch/ioc/1804817/
+127.0.0.1 sp1.gstats-api-coni.co #botnet_cc https://threatfox.abuse.ch/ioc/1805177/
+127.0.0.1 gstats-api-coni.co #botnet_cc https://threatfox.abuse.ch/ioc/1805176/
+127.0.0.1 link.darkstonebase.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805175/
+127.0.0.1 mobi.cyberpulsehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805174/
+127.0.0.1 core.darkstonebase.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805172/
+127.0.0.1 grid.cyberpulsehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805171/
+127.0.0.1 axis.darkstonebase.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805170/
+127.0.0.1 bolt.darkstonebase.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805169/
+127.0.0.1 nova.cyberpulsehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805168/
+127.0.0.1 proxy.darkstonebase.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805167/
+127.0.0.1 byte.cryptonodex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805166/
+127.0.0.1 zeno.goldenleafway.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805165/
+127.0.0.1 axis.cryptonodex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805164/
+127.0.0.1 wave.goldenleafway.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805163/
+127.0.0.1 flow.cryptonodex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805162/
 127.0.0.1 spark.goldenleafway.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805161/
 127.0.0.1 shift.goldenleafway.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805160/
 127.0.0.1 zeta.cryptonodex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805159/
@@ -63821,4 +63851,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63822
+# Number of entries: 63852
