@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beta.cyberdrift.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805485/
+127.0.0.1 beta.lena3qit.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805484/
+127.0.0.1 infra.lena3qit.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805483/
+127.0.0.1 mobi.cyberdrift.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805482/
+127.0.0.1 prime.lena3qit.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805481/
+127.0.0.1 grid.cyberdrift.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805480/
+127.0.0.1 flux.lena3qit.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805479/
+127.0.0.1 sync.cyberdrift.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805478/
+127.0.0.1 node.lena3qit.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805477/
+127.0.0.1 nova.cyberdrift.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805476/
+127.0.0.1 cyber.lena3qit.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805475/
+127.0.0.1 omni.quantumwave.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805474/
+127.0.0.1 omni.zori6mav.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805473/
+127.0.0.1 link.quantumwave.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805472/
+127.0.0.1 kilo.zori6mav.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805471/
 127.0.0.1 byte.quantumwave.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805470/
 127.0.0.1 vortex.zori6mav.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805469/
 127.0.0.1 flux.quantumwave.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805467/
@@ -64088,4 +64103,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64089
+# Number of entries: 64104
