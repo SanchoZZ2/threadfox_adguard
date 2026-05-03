@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 spark.ashjunit.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805409/
+127.0.0.1 skip.querytan.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805408/
+127.0.0.1 shift.ashjunit.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805407/
+127.0.0.1 echo.querytan.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805406/
+127.0.0.1 flux.vmesscab.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805405/
+127.0.0.1 wave.radiomop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805404/
+127.0.0.1 zeno.vmesscab.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805403/
+127.0.0.1 ultra.radiomop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805402/
+127.0.0.1 bolt.vmesscab.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805401/
+127.0.0.1 tetra.radiomop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805400/
+127.0.0.1 key.vmesscab.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805399/
+127.0.0.1 pulse.radiomop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805398/
+127.0.0.1 pure.vmesscab.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805397/
+127.0.0.1 neon.radiomop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805396/
+127.0.0.1 atom.vmesscab.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805393/
+127.0.0.1 mass.lapatom.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805392/
+127.0.0.1 site.agocert.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805391/
+127.0.0.1 host.agocert.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805390/
+127.0.0.1 hard.lapatom.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805389/
+127.0.0.1 core.agocert.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805388/
 127.0.0.1 gate.agocert.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805387/
 127.0.0.1 rock.lapatom.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805386/
 127.0.0.1 edge.agocert.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805385/
@@ -64027,4 +64047,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64028
+# Number of entries: 64048
