@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 snap.neonstream.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805521/
+127.0.0.1 alpha.taro5lin.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805520/
+127.0.0.1 dash.neonstream.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805518/
+127.0.0.1 nx88.novi7xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805517/
+127.0.0.1 mode.neonstream.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805516/
+127.0.0.1 neon.novi7xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805515/
+127.0.0.1 skip.neonstream.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805514/
+127.0.0.1 ultra.novi7xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805513/
+127.0.0.1 echo.neonstream.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805512/
+127.0.0.1 trace.novi7xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805511/
+127.0.0.1 flow.purelogic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805510/
+127.0.0.1 pulse.novi7xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805509/
+127.0.0.1 zeno.purelogic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805508/
+127.0.0.1 delta.novi7xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805507/
+127.0.0.1 bolt.purelogic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805506/
+127.0.0.1 logic.mira2tal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805505/
+127.0.0.1 key.purelogic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805504/
+127.0.0.1 point.mira2tal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805503/
 127.0.0.1 pure.purelogic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805502/
 127.0.0.1 mobi.mira2tal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805501/
 127.0.0.1 atom.purelogic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805500/
@@ -64120,4 +64138,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64121
+# Number of entries: 64139
