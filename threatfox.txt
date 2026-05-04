@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 blue.logicreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805655/
+127.0.0.1 run.darktrace.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805654/
+127.0.0.1 star.logicreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805653/
+127.0.0.1 fire.darktrace.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805652/
+127.0.0.1 sky.logicreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805650/
+127.0.0.1 high.rapidreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805649/
+127.0.0.1 airy.rapidreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805648/
+127.0.0.1 gear.pixelstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805647/
+127.0.0.1 snap.pixelstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805646/
+127.0.0.1 dash.pixelstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805645/
+127.0.0.1 blue.rapidreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805644/
+127.0.0.1 mode.pixelstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805643/
+127.0.0.1 star.rapidreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805642/
+127.0.0.1 skip.pixelstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805641/
+127.0.0.1 sky.rapidreef.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805640/
+127.0.0.1 gear.boldpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805639/
+127.0.0.1 echo.pixelstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805638/
+127.0.0.1 flow.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805636/
 127.0.0.1 zeno.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805635/
 127.0.0.1 dash.boldpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805634/
 127.0.0.1 newremupdate.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1805632/
@@ -63915,4 +63933,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63916
+# Number of entries: 63934
