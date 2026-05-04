@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zeno.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805635/
+127.0.0.1 dash.boldpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805634/
+127.0.0.1 newremupdate.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1805632/
+127.0.0.1 bolt.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805631/
+127.0.0.1 mode.boldpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805630/
+127.0.0.1 key.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805629/
+127.0.0.1 skip.boldpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805627/
+127.0.0.1 pure.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805626/
+127.0.0.1 atom.nanologic.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805625/
+127.0.0.1 flow.magicstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805624/
+127.0.0.1 site.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805622/
+127.0.0.1 zeno.magicstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805621/
+127.0.0.1 host.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805620/
+127.0.0.1 bolt.magicstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805619/
+127.0.0.1 core.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805618/
+127.0.0.1 gate.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805617/
+127.0.0.1 pure.magicstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805616/
+127.0.0.1 edge.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805615/
+127.0.0.1 atom.magicstep.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805614/
 127.0.0.1 apex.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805613/
 127.0.0.1 node.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805612/
 127.0.0.1 host.goldengate.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805611/
@@ -63896,4 +63915,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63897
+# Number of entries: 63916
