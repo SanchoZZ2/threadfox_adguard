@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 apex.metadrive.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805613/
+127.0.0.1 node.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805612/
+127.0.0.1 host.goldengate.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805611/
+127.0.0.1 beta.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805610/
+127.0.0.1 core.goldengate.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805609/
+127.0.0.1 mobi.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805608/
+127.0.0.1 gate.goldengate.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805607/
+127.0.0.1 grid.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805606/
+127.0.0.1 edge.goldengate.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805605/
+127.0.0.1 sync.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805604/
+127.0.0.1 apex.goldengate.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805603/
+127.0.0.1 nova.cyberlayer.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805602/
+127.0.0.1 node.urbanflux.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805601/
+127.0.0.1 omni.urbanpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805600/
+127.0.0.1 beta.urbanflux.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805599/
+127.0.0.1 link.urbanpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805598/
+127.0.0.1 mobi.urbanflux.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805597/
+127.0.0.1 byte.urbanpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805596/
+127.0.0.1 grid.urbanflux.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805595/
 127.0.0.1 flux.urbanpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805594/
 127.0.0.1 sync.urbanflux.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805593/
 127.0.0.1 zeta.urbanpulse.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1805592/
@@ -63877,4 +63896,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 63878
+# Number of entries: 63897
