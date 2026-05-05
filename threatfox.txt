@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ioflow.brix9mira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806532/
+127.0.0.1 usrgrp.flen3qor.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806531/
+127.0.0.1 taskid.brix9mira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806529/
+127.0.0.1 optweb.flen3qor.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806528/
+127.0.0.1 comweb.brix9mira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806525/
+127.0.0.1 proxys.grov6lira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806524/
+127.0.0.1 refid.brix9mira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806520/
+127.0.0.1 lanhop.grov6lira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806519/
+127.0.0.1 autbox.brix9mira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806518/
+127.0.0.1 subcli.grov6lira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806517/
+127.0.0.1 domreg.telo5reth.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806516/
+127.0.0.1 bitkit.grov6lira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806515/
+127.0.0.1 envset.grov6lira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806514/
+127.0.0.1 pwrlog.telo5reth.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806513/
+127.0.0.1 extnet.telo5reth.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806512/
 127.0.0.1 doclab.grov6lira.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806511/
 127.0.0.1 syncit.pavi1xen.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806510/
 127.0.0.1 pkgrun.telo5reth.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806509/
@@ -64201,4 +64216,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64202
+# Number of entries: 64217
