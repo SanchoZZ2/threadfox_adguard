@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sshbin.sora8lin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806456/
+127.0.0.1 zipark.thora5ven.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806455/
+127.0.0.1 gro.smtpdenz.my.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1806451/
+127.0.0.1 gro.sleepinggiantmedia.co.uk #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1806453/
+127.0.0.1 sslkey.sora8lin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806450/
+127.0.0.1 osbase.nelo2qir.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806449/
+127.0.0.1 metalt.nelo2qir.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806448/
+127.0.0.1 getcfg.sora8lin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806447/
+127.0.0.1 ipnode.sora8lin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806446/
+127.0.0.1 apidoc.nelo2qir.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806445/
+127.0.0.1 hotfix.sora8lin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806443/
+127.0.0.1 dbinst.nelo2qir.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806442/
+127.0.0.1 winupd.lumo3ren.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806441/
+127.0.0.1 skyvpn.nelo2qir.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806440/
+127.0.0.1 cmdset.nelo2qir.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806439/
+127.0.0.1 topsvc.lumo3ren.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806438/
+127.0.0.1 devbox.lumo3ren.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806437/
 127.0.0.1 tmpdir.zori9vax.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806436/
 127.0.0.1 vpsrun.lumo3ren.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806435/
 127.0.0.1 sshbin.zori9vax.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806434/
@@ -64425,4 +64442,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64426
+# Number of entries: 64443
