@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rawdat.tavro5xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807325/
+127.0.0.1 pwrlogs.xamir4on.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807324/
+127.0.0.1 zipark.tavro5xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807323/
+127.0.0.1 extnets.xamir4on.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807322/
+127.0.0.1 pkgruns.xamir4on.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807320/
+127.0.0.1 osbase.1zorelix.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807319/
+127.0.0.1 metalt.1zorelix.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807318/
+127.0.0.1 modbuss.xamir4on.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807317/
+127.0.0.1 apidoc.1zorelix.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807316/
+127.0.0.1 srcgets.xamir4on.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807315/
+127.0.0.1 dbinst.1zorelix.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807314/
+127.0.0.1 uidmaps.tavro8xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807313/
+127.0.0.1 skyvpn.1zorelix.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807312/
+127.0.0.1 ftpsrvs.tavro8xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807311/
+127.0.0.1 cmdset.1zorelix.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807310/
+127.0.0.1 libsyss.tavro8xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807309/
+127.0.0.1 jobadms.tavro8xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807307/
+127.0.0.1 tmpdir.qen2vrax.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807308/
 127.0.0.1 sshbin.qen2vrax.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807306/
 127.0.0.1 rawdats.tavro8xel.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807305/
 127.0.0.1 sslkey.qen2vrax.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807304/
@@ -64743,4 +64761,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64744
+# Number of entries: 64762
