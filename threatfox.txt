@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 logbin.sori7xen.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807260/
+127.0.0.1 dnswebs.mav3lirex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807259/
+127.0.0.1 appsrc.sori7xen.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807258/
+127.0.0.1 appboxs.9toravex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807257/
+127.0.0.1 webdoc.sori7xen.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807256/
+127.0.0.1 devbits.9toravex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807255/
+127.0.0.1 syskey.sori7xen.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807254/
+127.0.0.1 srvlogs.9toravex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807253/
+127.0.0.1 net-man.4dorexal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807251/
+127.0.0.1 netapis.9toravex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807249/
+127.0.0.1 tcp-con.4dorexal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807243/
+127.0.0.1 webcdnx.9toravex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807242/
+127.0.0.1 ssh-pro.4dorexal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807241/
+127.0.0.1 srvhubs.9toravex.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807240/
+127.0.0.1 mne.hidayahnetwork.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1807238/
+127.0.0.1 mne.smtpdenz.my.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1807236/
+127.0.0.1 vm-list.4dorexal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807233/
+127.0.0.1 vnchy.sorix7en.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807232/
+127.0.0.1 usr-grp.4dorexal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807231/
+127.0.0.1 dzst.sorix7en.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807230/
+127.0.0.1 opt-web.4dorexal.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807229/
+127.0.0.1 otntjfbp.sorix7en.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807228/
 127.0.0.1 proxys.vexo3nar.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807225/
 127.0.0.1 mer-nexa.sorix7en.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807224/
 127.0.0.1 lanhop.vexo3nar.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807223/
@@ -64682,4 +64704,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64683
+# Number of entries: 64705
