@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 refid.vertexshifthub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806945/
+127.0.0.1 bitkit.masterhypernodehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806944/
+127.0.0.1 autbox.vertexshifthub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806943/
+127.0.0.1 subcli.masterhypernodehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806942/
+127.0.0.1 domreg.quantumlinkpoint.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806941/
+127.0.0.1 lanhop.masterhypernodehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806940/
+127.0.0.1 njq.uk.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1806939/
+127.0.0.1 pwrlog.quantumlinkpoint.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806937/
+127.0.0.1 proxys.masterhypernodehub.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806936/
+127.0.0.1 extnet.quantumlinkpoint.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806933/
+127.0.0.1 optweb.ultratechstackweb.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806932/
+127.0.0.1 api-download.us #payload_delivery https://threatfox.abuse.ch/ioc/1806931/
+127.0.0.1 pkgrun.quantumlinkpoint.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806930/
+127.0.0.1 usrgrp.ultratechstackweb.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806929/
+127.0.0.1 modbus.quantumlinkpoint.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806928/
+127.0.0.1 vmlist.ultratechstackweb.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806927/
+127.0.0.1 srcget.quantumlinkpoint.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806925/
+127.0.0.1 sshpro.ultratechstackweb.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806924/
+127.0.0.1 uidmap.infinitydatagrid.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806923/
 127.0.0.1 tcpcon.ultratechstackweb.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806922/
 127.0.0.1 ftpsrv.infinitydatagrid.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806921/
 127.0.0.1 netman.ultratechstackweb.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1806920/
@@ -64480,4 +64499,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64481
+# Number of entries: 64500
