@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 getcfgs.qen9varol.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807873/
+127.0.0.1 bitkits.captive-portal.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807872/
+127.0.0.1 ipnodes.qen9varol.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807871/
+127.0.0.1 envsets.captive-portal.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807870/
+127.0.0.1 hotfixs.qen9varol.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807866/
+127.0.0.1 doclabs.captive-portal.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807865/
+127.0.0.1 bitfoxs.mav2lirex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807863/
+127.0.0.1 syncits.academicunmemo7.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807862/
+127.0.0.1 topsvcs.mav2lirex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807859/
+127.0.0.1 ioflows.academicunmemo7.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807858/
+127.0.0.1 opsmgrs.mav2lirex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807857/
+127.0.0.1 taskids.academicunmemo7.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807856/
+127.0.0.1 cpupros.mav2lirex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807855/
+127.0.0.1 comwebs.academicunmemo7.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807854/
+127.0.0.1 vpsruns.mav2lirex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807853/
+127.0.0.1 refid-xs.academicunmemo7.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807852/
+127.0.0.1 dnswebs.mav2lirex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807851/
+127.0.0.1 autboxs.academicunmemo7.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807850/
+127.0.0.1 appboxs.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807849/
+127.0.0.1 domregs.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807848/
 127.0.0.1 pwrlogs.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807840/
 127.0.0.1 devbits.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807839/
 127.0.0.1 extnets.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807838/
@@ -64846,4 +64866,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64847
+# Number of entries: 64867
