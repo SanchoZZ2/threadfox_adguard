@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pwrlogs.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807840/
+127.0.0.1 devbits.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807839/
+127.0.0.1 extnets.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807838/
+127.0.0.1 srvlogs.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807837/
+127.0.0.1 pkgruns.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807836/
+127.0.0.1 netapis.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807835/
+127.0.0.1 modbuss.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807834/
+127.0.0.1 webcdnx.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807833/
+127.0.0.1 srcgets.cobble-mortgag.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807832/
+127.0.0.1 srvhubs.7toralex.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807830/
+127.0.0.1 uidmaps.setting5hoo.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807829/
+127.0.0.1 ftpsrvs.setting5hoo.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807828/
+127.0.0.1 libsyss.setting5hoo.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807827/
+127.0.0.1 jobadms.setting5hoo.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807826/
+127.0.0.1 meta-narr0.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807825/
+127.0.0.1 rawdats.setting5hoo.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807821/
 127.0.0.1 itfr9qb.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807813/
 127.0.0.1 ziparks.setting5hoo.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807812/
 127.0.0.1 primeproxy.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807811/
@@ -64830,4 +64846,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64831
+# Number of entries: 64847
