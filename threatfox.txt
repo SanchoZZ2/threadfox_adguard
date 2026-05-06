@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hotfixs.globaldatastack.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807455/
+127.0.0.1 metalts.fewhtml.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807454/
+127.0.0.1 bitfoxs.securelinkpoint.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807453/
+127.0.0.1 apidocs.fewhtml.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807452/
+127.0.0.1 topsvcs.securelinkpoint.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807451/
+127.0.0.1 dbinsts.fewhtml.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807450/
+127.0.0.1 opsmgrs.securelinkpoint.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807449/
+127.0.0.1 skyvpns.fewhtml.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807448/
+127.0.0.1 cpupros.securelinkpoint.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807447/
+127.0.0.1 cmdsets.fewhtml.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807446/
+127.0.0.1 vpsruns.securelinkpoint.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807445/
+127.0.0.1 tmpdirs.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807444/
+127.0.0.1 dnswebs.securelinkpoint.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807443/
+127.0.0.1 sshbins.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807442/
+127.0.0.1 sslkeys.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807441/
+127.0.0.1 appboxs.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807440/
+127.0.0.1 getcfgs.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807439/
+127.0.0.1 devbits.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807438/
 127.0.0.1 ipnodes.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807437/
 127.0.0.1 srvlogs.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807436/
 127.0.0.1 hotfixs.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807435/
@@ -64562,4 +64580,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64563
+# Number of entries: 64581
