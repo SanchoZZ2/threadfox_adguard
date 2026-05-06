@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 srcgets.masterlogicgrid.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807493/
+127.0.0.1 doclabs.portcry.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807492/
+127.0.0.1 uidmaps.infinitynodesys.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807491/
+127.0.0.1 syncits.plsqlnew.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807490/
+127.0.0.1 ftpsrvs.infinitynodesys.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807489/
+127.0.0.1 ioflows.plsqlnew.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807488/
+127.0.0.1 libsyss.infinitynodesys.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807487/
+127.0.0.1 taskids.plsqlnew.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807486/
+127.0.0.1 jobadms.infinitynodesys.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807485/
+127.0.0.1 comwebs.plsqlnew.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807484/
+127.0.0.1 refid-xs.plsqlnew.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807483/
+127.0.0.1 rawdats.infinitynodesys.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807482/
+127.0.0.1 autboxs.plsqlnew.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807481/
+127.0.0.1 msnvm.us.com #payload_delivery https://threatfox.abuse.ch/ioc/1807177/
+127.0.0.1 dvxfigqyzgd.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1807227/
+127.0.0.1 domregs.noopcup.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807480/
+127.0.0.1 ziparks.infinitynodesys.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807479/
+127.0.0.1 pwrlogs.noopcup.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807478/
+127.0.0.1 osbases.technovortexhub.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807477/
+127.0.0.1 extnets.noopcup.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807476/
 127.0.0.1 metalts.technovortexhub.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807475/
 127.0.0.1 pkgruns.noopcup.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807474/
 127.0.0.1 apidocs.technovortexhub.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807473/
@@ -64600,4 +64620,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64601
+# Number of entries: 64621
