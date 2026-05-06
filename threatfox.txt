@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ipnodes.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807437/
+127.0.0.1 srvlogs.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807436/
+127.0.0.1 hotfixs.dbuswet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807435/
+127.0.0.1 netapis.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807430/
+127.0.0.1 bitfoxs.boxemoj.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807429/
+127.0.0.1 webcdnx.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807428/
+127.0.0.1 topsvcs.boxemoj.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807427/
+127.0.0.1 kjm.uk.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1807426/
+127.0.0.1 srvhubs.digitalcloudnet.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807425/
+127.0.0.1 opsmgrs.boxemoj.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807424/
+127.0.0.1 gitlab.sorix2el.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807423/
+127.0.0.1 cpupros.boxemoj.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807422/
+127.0.0.1 apiops.sorix2el.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807421/
+127.0.0.1 vpsruns.boxemoj.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807420/
+127.0.0.1 logbin.sorix2el.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807419/
+127.0.0.1 dnswebs.boxemoj.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807418/
+127.0.0.1 appsrc.sorix2el.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807417/
+127.0.0.1 appboxs.actsdks.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807416/
+127.0.0.1 webdoc.sorix2el.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807415/
+127.0.0.1 devbits.actsdks.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807414/
 127.0.0.1 syskey.sorix2el.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807413/
 127.0.0.1 srvlogs.actsdks.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807412/
 127.0.0.1 net-man.8dorexin.surf #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807399/
@@ -64542,4 +64562,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64543
+# Number of entries: 64563
