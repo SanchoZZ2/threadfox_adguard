@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 srvhubs.mowin8single.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807951/
+127.0.0.1 gitlabh.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807950/
+127.0.0.1 apiopss.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807949/
+127.0.0.1 logbins.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807948/
+127.0.0.1 appsrch.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807947/
+127.0.0.1 webdocs.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807946/
+127.0.0.1 syskeys.sorix7el.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807944/
+127.0.0.1 netmans.5dorexin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807943/
+127.0.0.1 tcpcons.5dorexin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807942/
 127.0.0.1 sshpros.5dorexin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807941/
 127.0.0.1 vmlists.5dorexin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807940/
 127.0.0.1 usrgrps.5dorexin.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807939/
@@ -64952,4 +64961,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64953
+# Number of entries: 64962
