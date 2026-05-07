@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sshbins.moto7transport.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807970/
+127.0.0.1 sslkeys.moto7transport.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807969/
+127.0.0.1 getcfgs.moto7transport.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807967/
+127.0.0.1 ipnodes.moto7transport.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807966/
+127.0.0.1 hotfixs.moto7transport.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807965/
+127.0.0.1 bitfoxs.breasted-skoda.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807964/
+127.0.0.1 ann.hidayahnetwork.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1807962/
+127.0.0.1 topsvcs.breasted-skoda.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807961/
+127.0.0.1 opsmgrs.breasted-skoda.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807960/
 127.0.0.1 cpupros.breasted-skoda.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807959/
 127.0.0.1 vpsruns.breasted-skoda.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807958/
 127.0.0.1 dnswebs.breasted-skoda.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807957/
@@ -64728,4 +64737,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64729
+# Number of entries: 64738
