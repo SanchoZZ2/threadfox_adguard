@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 extnets.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807993/
+127.0.0.1 devbits.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807992/
+127.0.0.1 pkgruns.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807991/
+127.0.0.1 srvlogs.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807990/
+127.0.0.1 modbuss.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807989/
+127.0.0.1 netapis.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807988/
+127.0.0.1 srcgets.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807987/
+127.0.0.1 webcdnx.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807986/
+127.0.0.1 uidmaps.poi5oneducation.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807985/
+127.0.0.1 srvhubs.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807984/
+127.0.0.1 ftpsrvs.poi5oneducation.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807983/
+127.0.0.1 libsyss.poi5oneducation.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807982/
+127.0.0.1 jobadms.poi5oneducation.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807981/
 127.0.0.1 rawdats.poi5oneducation.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807980/
 127.0.0.1 ziparks.poi5oneducation.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807979/
 127.0.0.1 osbases.puerto-ricans.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807977/
@@ -64746,4 +64759,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64747
+# Number of entries: 64760
