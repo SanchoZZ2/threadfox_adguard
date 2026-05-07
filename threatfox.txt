@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sun-006.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1808240/
+127.0.0.1 sun-006-bk.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1808241/
+127.0.0.1 planbay.represent-skittish.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808239/
 127.0.0.1 bik.hidayahnetwork.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1808228/
 127.0.0.1 onto.relativepulp.cfd #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1808226/
 127.0.0.1 ssntana.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1808217/
@@ -64943,4 +64946,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64944
+# Number of entries: 64947
