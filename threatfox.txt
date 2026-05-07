@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 syncits.inhum2ntendency.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808010/
+127.0.0.1 hotfixs.boxvpslog.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808009/
+127.0.0.1 ioflows.inhum2ntendency.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808008/
+127.0.0.1 bitfoxs.webbitsync.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808007/
+127.0.0.1 taskids.inhum2ntendency.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808006/
+127.0.0.1 topsvcs.webbitsync.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808005/
+127.0.0.1 comwebs.inhum2ntendency.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808004/
+127.0.0.1 opsmgrs.webbitsync.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808003/
+127.0.0.1 refid-xs.inhum2ntendency.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808002/
+127.0.0.1 cpupros.webbitsync.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808001/
+127.0.0.1 autboxs.inhum2ntendency.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807999/
+127.0.0.1 vpsruns.webbitsync.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807998/
+127.0.0.1 domregs.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807997/
+127.0.0.1 dnswebs.webbitsync.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807996/
+127.0.0.1 pwrlogs.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807995/
+127.0.0.1 appboxs.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807994/
 127.0.0.1 extnets.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807993/
 127.0.0.1 devbits.nethubtop.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807992/
 127.0.0.1 pkgruns.hatched-labile.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1807991/
@@ -64759,4 +64775,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64760
+# Number of entries: 64776
