@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cmdsetproc.1zarelin.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809215/
+127.0.0.1 topsvcutil.mav7voren.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809214/
+127.0.0.1 tmpdirsets.qen9vorel.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809213/
+127.0.0.1 opsmgrsvcs.mav7voren.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809212/
+127.0.0.1 sshbinpath.qen9vorel.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809210/
+127.0.0.1 cpuprosmgr.mav7voren.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809209/
+127.0.0.1 sslkeybase.qen9vorel.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809208/
+127.0.0.1 vpsrunproc.mav7voren.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809207/
+127.0.0.1 getcfghubs.qen9vorel.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809205/
+127.0.0.1 dnswebsrvs.mav7voren.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809203/
+127.0.0.1 ipnodeclis.qen9vorel.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809199/
+127.0.0.1 appboxdata.5toralix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809198/
+127.0.0.1 hotfixpack.qen9vorel.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809195/
+127.0.0.1 devbitscfg.5toralix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809194/
+127.0.0.1 bitfoxcore.mav2lorix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809193/
+127.0.0.1 srvlogview.5toralix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809192/
+127.0.0.1 topsvcutil.mav2lorix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809191/
+127.0.0.1 netapiprot.5toralix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809190/
+127.0.0.1 opsmgrsvcs.mav2lorix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809188/
+127.0.0.1 webcdnstat.5toralix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809185/
+127.0.0.1 cpuprosmgr.mav2lorix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809181/
+127.0.0.1 srvhubnode.5toralix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809179/
+127.0.0.1 logbinnode.surgeon-snoot.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809178/
+127.0.0.1 vpsrunproc.mav2lorix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809177/
+127.0.0.1 appsrchcli.surgeon-snoot.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809176/
 127.0.0.1 dnswebsrvs.mav2lorix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809175/
 127.0.0.1 webdocserv.surgeon-snoot.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809173/
 127.0.0.1 appboxdata.7toravex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809170/
@@ -64870,4 +64895,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64871
+# Number of entries: 64896
