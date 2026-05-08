@@ -1,4 +1,28 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 metaltscfg.antisep-unlimite.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808982/
+127.0.0.1 metalts.tribun-triptych.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808981/
+127.0.0.1 apidocserv.antisep-unlimite.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808980/
+127.0.0.1 apidocs.tribun-triptych.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808979/
+127.0.0.1 dbinstlist.antisep-unlimite.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808978/
+127.0.0.1 dbinsts.tribun-triptych.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808977/
+127.0.0.1 skyvpnnode.antisep-unlimite.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808976/
+127.0.0.1 skyvpns.tribun-triptych.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808975/
+127.0.0.1 cmdsetproc.antisep-unlimite.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808974/
+127.0.0.1 cmdsets.tribun-triptych.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808973/
+127.0.0.1 tmpdirsets.nomination5yak.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808972/
+127.0.0.1 tmpdirs.overdoitework.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808971/
+127.0.0.1 sshbinpath.nomination5yak.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808970/
+127.0.0.1 sshbins.overdoitework.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808969/
+127.0.0.1 sslkeybase.nomination5yak.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808968/
+127.0.0.1 sslkeys.overdoitework.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808967/
+127.0.0.1 getcfghubs.nomination5yak.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808966/
+127.0.0.1 getcfgs.overdoitework.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808965/
+127.0.0.1 ipnodeclis.nomination5yak.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808964/
+127.0.0.1 ipnodes.overdoitework.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808963/
+127.0.0.1 hotfixpack.nomination5yak.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808962/
+127.0.0.1 hotfixs.overdoitework.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808961/
+127.0.0.1 bitfoxcore.radio-technic.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808960/
+127.0.0.1 bitfoxs.comforter-panel.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808959/
 127.0.0.1 topsvcutil.radio-technic.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808958/
 127.0.0.1 topsvcs.comforter-panel.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808957/
 127.0.0.1 opsmgrsvcs.radio-technic.lat #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1808956/
@@ -64761,4 +64785,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64762
+# Number of entries: 64786
