@@ -1,4 +1,31 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 apiopsstat.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809336/
+127.0.0.1 vmlistview.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809335/
+127.0.0.1 logbinnode.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809334/
+127.0.0.1 usrgrpstat.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809333/
+127.0.0.1 appsrchcli.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809332/
+127.0.0.1 optwebnode.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809331/
+127.0.0.1 webdocserv.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809330/
+127.0.0.1 proxysserv.vexon4ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809329/
+127.0.0.1 syskeypath.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809328/
+127.0.0.1 lanhoppath.vexon4ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809327/
+127.0.0.1 netmanproc.6doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809326/
+127.0.0.1 subclidata.vexon4ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809325/
+127.0.0.1 tcpconpath.6doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809324/
+127.0.0.1 bitkitmaps.vexon4ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809323/
+127.0.0.1 sshproserv.6doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809322/
+127.0.0.1 envsetproc.vexon4ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809321/
+127.0.0.1 vmlistview.6doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809320/
+127.0.0.1 doclabutil.vexon4ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809319/
+127.0.0.1 usrgrpstat.6doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809318/
+127.0.0.1 syncitnode.pav6mirex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809317/
+127.0.0.1 optwebnode.6doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809316/
+127.0.0.1 ioflowpath.pav6mirex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809315/
+127.0.0.1 proxysserv.vexon3ix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809314/
+127.0.0.1 taskidview.pav6mirex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809313/
+127.0.0.1 lanhoppath.vexon3ix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809312/
+127.0.0.1 comwebstat.pav6mirex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809311/
+127.0.0.1 subclidata.vexon3ix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809310/
 127.0.0.1 refid-core.pav6mirex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809309/
 127.0.0.1 bitkitmaps.vexon3ix.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809308/
 127.0.0.1 autboxserv.pav6mirex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809307/
@@ -64168,4 +64195,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64169
+# Number of entries: 64196
