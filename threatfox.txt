@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 netman.skynodecfg.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809493/
+127.0.0.1 git.softwincli.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809492/
+127.0.0.1 sys.softnetlink.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809491/
+127.0.0.1 ops.softwincli.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809490/
+127.0.0.1 webdoc.softnetlink.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809489/
+127.0.0.1 bin.softwincli.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809488/
+127.0.0.1 app.softnetlink.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809487/
+127.0.0.1 cli.softwincli.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809486/
+127.0.0.1 logbin.softnetlink.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809485/
+127.0.0.1 win.softwincli.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809484/
+127.0.0.1 apiops.softnetlink.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809483/
+127.0.0.1 sys.softwincli.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809482/
+127.0.0.1 git.softnetlink.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809481/
+127.0.0.1 pro.skyprodoc.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809480/
+127.0.0.1 pro.skyprodoc.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809479/
+127.0.0.1 877zsa.earoauth.life #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809478/
 127.0.0.1 tcp.skyprodoc.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809477/
 127.0.0.1 ultra-sh4p3.earoauth.life #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809476/
 127.0.0.1 ssh.skyprodoc.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809475/
@@ -64343,4 +64359,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64344
+# Number of entries: 64360
