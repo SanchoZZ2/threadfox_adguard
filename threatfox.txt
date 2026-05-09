@@ -1,4 +1,27 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 io.clouditapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809449/
+127.0.0.1 opt.skynodecfg.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809448/
+127.0.0.1 app.clouditapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809447/
+127.0.0.1 proxy.vpsgateway.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809446/
+127.0.0.1 web.clouditapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809445/
+127.0.0.1 lan.vpsgateway.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809444/
+127.0.0.1 sub.vpsgateway.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809443/
+127.0.0.1 aut.clouditapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809442/
+127.0.0.1 bit.vpsgateway.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809441/
+127.0.0.1 open.openlogmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809439/
+127.0.0.1 envset.vpsgateway.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809438/
+127.0.0.1 logs.openlogmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809437/
+127.0.0.1 doc.vpsgateway.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809436/
+127.0.0.1 net.openlogmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809435/
+127.0.0.1 syncit.bitflowapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809434/
+127.0.0.1 mgr.openlogmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809433/
+127.0.0.1 io.bitflowapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809432/
+127.0.0.1 mod.openlogmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809431/
+127.0.0.1 taskid.bitflowapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809430/
+127.0.0.1 src.openlogmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809429/
+127.0.0.1 web.bitflowapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809428/
+127.0.0.1 bit.fastbitbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809427/
+127.0.0.1 refid.bitflowapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809426/
 127.0.0.1 ftp.fastbitbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809425/
 127.0.0.1 aut.bitflowapp.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809424/
 127.0.0.1 dom.openapiserv.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809423/
@@ -64272,4 +64295,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64273
+# Number of entries: 64296
