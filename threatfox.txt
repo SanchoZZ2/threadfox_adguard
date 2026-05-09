@@ -1,4 +1,30 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bitfox.websyncbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809362/
+127.0.0.1 logs.netnodeset.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809361/
+127.0.0.1 top.websyncbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809360/
+127.0.0.1 api.netnodeset.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809359/
+127.0.0.1 opsmgr.websyncbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809358/
+127.0.0.1 cdnx.netnodeset.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809357/
+127.0.0.1 cpu.websyncbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809356/
+127.0.0.1 srv.netnodeset.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809355/
+127.0.0.1 vpsrun.websyncbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809354/
+127.0.0.1 gitlabhubs.sorix2en.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809353/
+127.0.0.1 dns.websyncbox.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809352/
+127.0.0.1 apiopsstat.sorix2en.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809351/
+127.0.0.1 appbox.netloghubs.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809350/
+127.0.0.1 logbinnode.sorix2en.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809349/
+127.0.0.1 dbit.netloghubs.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809348/
+127.0.0.1 appsrchcli.sorix2en.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809347/
+127.0.0.1 logs.netloghubs.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809346/
+127.0.0.1 webdocserv.sorix2en.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809345/
+127.0.0.1 netapi.netloghubs.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809344/
+127.0.0.1 syskeypath.sorix2en.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809343/
+127.0.0.1 cdnx.netloghubs.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809342/
+127.0.0.1 netmanproc.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809341/
+127.0.0.1 srv.netloghubs.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809340/
+127.0.0.1 tcpconpath.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809339/
+127.0.0.1 gitlabhubs.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809338/
+127.0.0.1 sshproserv.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809337/
 127.0.0.1 apiopsstat.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809336/
 127.0.0.1 vmlistview.9doreval.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809335/
 127.0.0.1 logbinnode.sorix1ar.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809334/
@@ -64195,4 +64221,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64196
+# Number of entries: 64222
