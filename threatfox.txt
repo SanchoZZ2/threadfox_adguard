@@ -1,4 +1,31 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sys.docsbed.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809679/
+127.0.0.1 layer.networkstackmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809678/
+127.0.0.1 vps.docsbed.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809677/
+127.0.0.1 ipv.networkstackmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809676/
+127.0.0.1 base.docsbed.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809675/
+127.0.0.1 stack.networkstackmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809674/
+127.0.0.1 doc.docsbed.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809673/
+127.0.0.1 tcp.networkstackmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809672/
+127.0.0.1 data.textits.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809671/
+127.0.0.1 net.networkstackmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809670/
+127.0.0.1 hub.textits.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809669/
+127.0.0.1 git.serverdatahub.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809668/
+127.0.0.1 info.textits.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809667/
+127.0.0.1 dev.serverdatahub.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809666/
+127.0.0.1 cdn.textits.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809665/
+127.0.0.1 logs.serverdatahub.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809664/
+127.0.0.1 web.textits.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809663/
+127.0.0.1 api.serverdatahub.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809662/
+127.0.0.1 txt.textits.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809661/
+127.0.0.1 bin.serverdatahub.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809660/
+127.0.0.1 u88o.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1809659/
+127.0.0.1 git.coderlap.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809658/
+127.0.0.1 srv.serverdatahub.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809657/
+127.0.0.1 u888co.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1809656/
+127.0.0.1 dev.coderlap.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809654/
+127.0.0.1 pal3t0-gate.stormgrid-media.life #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809653/
+127.0.0.1 logs.coderlap.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809652/
 127.0.0.1 mtkhx.stormgrid-media.life #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809651/
 127.0.0.1 1u888com.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1809650/
 127.0.0.1 api.coderlap.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809649/
@@ -64497,4 +64524,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64498
+# Number of entries: 64525
