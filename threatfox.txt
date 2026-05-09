@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 url.fastlinkprovider.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809746/
+127.0.0.1 back.looprim.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809745/
+127.0.0.1 run.fastlinkprovider.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809744/
+127.0.0.1 cycle.looprim.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809743/
+127.0.0.1 base.fastlinkprovider.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809742/
+127.0.0.1 loop.looprim.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809741/
+127.0.0.1 link.fastlinkprovider.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809740/
+127.0.0.1 rim.looprim.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809739/
+127.0.0.1 tab.rowlocks.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809738/
+127.0.0.1 fast.fastlinkprovider.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809737/
+127.0.0.1 key.rowlocks.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809736/
+127.0.0.1 json.webdataprocess.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809735/
+127.0.0.1 idx.rowlocks.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809734/
+127.0.0.1 xml.webdataprocess.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809733/
+127.0.0.1 dbms.rowlocks.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809732/
+127.0.0.1 base.webdataprocess.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809731/
+127.0.0.1 lock.rowlocks.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809730/
+127.0.0.1 proc.webdataprocess.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809729/
+127.0.0.1 row.rowlocks.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809728/
+127.0.0.1 data.webdataprocess.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809727/
+127.0.0.1 val.argsleg.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809726/
+127.0.0.1 web.webdataprocess.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809725/
+127.0.0.1 test.argsleg.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809724/
+127.0.0.1 proc.systemlogicops.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809723/
+127.0.0.1 main.argsleg.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809722/
 127.0.0.1 main.systemlogicops.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809721/
 127.0.0.1 proc.argsleg.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809720/
 127.0.0.1 logic.systemlogicops.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809719/
@@ -64547,4 +64572,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64548
+# Number of entries: 64573
