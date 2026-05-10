@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 domregutil.systemcoreunit.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809971/
+127.0.0.1 uidmapbitsys.fastnetgateview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809970/
+127.0.0.1 pwrlogview.systemcoreunit.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809969/
+127.0.0.1 ftpsrv.fastnetgateview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809968/
+127.0.0.1 extnetprox.systemcoreunit.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809967/
+127.0.0.1 libsyspathview.fastnetgateview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809966/
+127.0.0.1 pkgrunstat.systemcoreunit.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809965/
+127.0.0.1 jobadm.fastnetgateview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809964/
+127.0.0.1 modbusdata.systemcoreunit.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809963/
+127.0.0.1 rawdatamapping.fastnetgateview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809962/
+127.0.0.1 srcgetproc.systemcoreunit.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809961/
+127.0.0.1 zipark.fastnetgateview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809960/
+127.0.0.1 uidmapbits.datalinkcenter.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809959/
+127.0.0.1 osbase.systemcorelinkx.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809958/
+127.0.0.1 ftpsrvnode.datalinkcenter.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809957/
+127.0.0.1 metaltscfgmgr.systemcorelinkx.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809956/
+127.0.0.1 libsyspath.datalinkcenter.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809955/
+127.0.0.1 apidocserv.systemcorelinkx.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809954/
+127.0.0.1 jobadmmgrs.datalinkcenter.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809953/
+127.0.0.1 dbinst.systemcorelinkx.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809952/
+127.0.0.1 isobougie.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1809951/
+127.0.0.1 rawdatamap.datalinkcenter.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809950/
 127.0.0.1 skyvpnnodehub.systemcorelinkx.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809863/
 127.0.0.1 ziparkview.datalinkcenter.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809862/
 127.0.0.1 cmdset.systemcorelinkx.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1809861/
@@ -64667,4 +64689,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64668
+# Number of entries: 64690
