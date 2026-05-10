@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cmdset.logicframe.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810342/
+127.0.0.1 metaltscfgmgr.systemforge.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810341/
+127.0.0.1 sshbin.cloudstack.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810339/
+127.0.0.1 apidocserv.systemforge.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810338/
+127.0.0.1 sslkeybasepoint.cloudstack.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810337/
+127.0.0.1 dbinst.systemforge.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810336/
+127.0.0.1 getcfghub.cloudstack.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810335/
+127.0.0.1 skyvpnnodehub.systemforge.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810334/
+127.0.0.1 ipnodeclisys.cloudstack.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810328/
+127.0.0.1 cmdset.systemforge.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810324/
+127.0.0.1 hotfix.cloudstack.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810319/
+127.0.0.1 sshbin.cryptowave.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810318/
+127.0.0.1 topsvc.bytevector.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810315/
+127.0.0.1 run.bytevector.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810310/
+127.0.0.1 fix.cryptowave.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810309/
+127.0.0.1 opsmgr.bytevector.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810308/
+127.0.0.1 sslkeybasepoint.cryptowave.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810307/
+127.0.0.1 cpuprocessormgr.bytevector.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810306/
+127.0.0.1 getcfghub.cryptowave.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810305/
 127.0.0.1 vpsrun.bytevector.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810304/
 127.0.0.1 ipnodeclisys.cryptowave.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810303/
 127.0.0.1 hotfix.cryptowave.ink #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810302/
@@ -64683,4 +64702,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64684
+# Number of entries: 64703
