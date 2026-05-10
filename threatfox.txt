@@ -1,4 +1,25 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hm888.online #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810059/
+127.0.0.1 vpsrun.cloudflowops.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810058/
+127.0.0.1 dnswebsrvs.coderworkflow.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810057/
+127.0.0.1 dnswebsrvs.cloudflowops.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810056/
+127.0.0.1 appboxdata.devlogicmaster.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810055/
+127.0.0.1 xmlbase.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810054/
+127.0.0.1 devbitscfg.devlogicmaster.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810053/
+127.0.0.1 git.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810052/
+127.0.0.1 logviewsys.devlogicmaster.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810051/
+127.0.0.1 proxyservmgr.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810050/
+127.0.0.1 netapiprot.devlogicmaster.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810049/
+127.0.0.1 net.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810044/
+127.0.0.1 webcdnstat.devlogicmaster.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810037/
+127.0.0.1 vpsentry.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810036/
+127.0.0.1 srvnodehub.devlogicmaster.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810035/
+127.0.0.1 corestack.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810034/
+127.0.0.1 gitlabhubs.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810033/
+127.0.0.1 appboxdatacent.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810032/
+127.0.0.1 apiopsstat.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810031/
+127.0.0.1 logbinnode.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810030/
+127.0.0.1 devbits.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810029/
 127.0.0.1 appsrchcli.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810028/
 127.0.0.1 logmanagementsys.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810027/
 127.0.0.1 webdocserv.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810026/
@@ -64451,4 +64472,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64452
+# Number of entries: 64473
