@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 robodomain.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1810458/
 127.0.0.1 ok99.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810424/
 127.0.0.1 1net.ro #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1809864/
 127.0.0.1 1sttxreversemtg.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1809865/
@@ -64842,4 +64843,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64843
+# Number of entries: 64844
