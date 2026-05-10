@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 refidcorex.cloudprocmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810106/
+127.0.0.1 autboxserv.cloudprocmgr.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810105/
+127.0.0.1 domregutil.datalinkservice.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810104/
+127.0.0.1 ׏} #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810103/
+127.0.0.1 pwrlogview.datalinkservice.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810102/
+127.0.0.1 extnetprox.datalinkservice.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810101/
+127.0.0.1 pkgrunstat.datalinkservice.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810100/
+127.0.0.1 modbusdata.datalinkservice.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810099/
+127.0.0.1 srcgetproc.datalinkservice.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810098/
+127.0.0.1 uidmapbits.webstackengine.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810097/
+127.0.0.1 ftpsrvnode.webstackengine.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810096/
 127.0.0.1 libsyspath.webstackengine.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810095/
 127.0.0.1 jobadmmgrs.webstackengine.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810094/
 127.0.0.1 rawdatamap.webstackengine.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810093/
@@ -64505,4 +64516,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64506
+# Number of entries: 64517
