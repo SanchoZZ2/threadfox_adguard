@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 appsrchcli.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810028/
+127.0.0.1 logmanagementsys.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810027/
+127.0.0.1 webdocserv.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810026/
+127.0.0.1 api.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810025/
+127.0.0.1 syskeypath.coderlogicbase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810024/
+127.0.0.1 webcdnstat.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810023/
+127.0.0.1 srvnode.netlogicstack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810022/
+127.0.0.1 netmanproc.infraworkspace.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810021/
+127.0.0.1 proxys.infrasettopview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810020/
+127.0.0.1 tcpconpath.infraworkspace.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810019/
+127.0.0.1 lanhoppathsys.infrasettopview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810018/
+127.0.0.1 sshproserv.infraworkspace.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810017/
+127.0.0.1 subcli.infrasettopview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810016/
+127.0.0.1 vmlistview.infraworkspace.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810015/
+127.0.0.1 bitkitmapsmgr.infrasettopview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810014/
+127.0.0.1 usrgrpstat.infraworkspace.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810012/
+127.0.0.1 envset.infrasettopview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810011/
+127.0.0.1 optwebnode.infraworkspace.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810010/
+127.0.0.1 doclabutil.infrasettopview.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810009/
+127.0.0.1 proxysserv.openapiservicex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810008/
+127.0.0.1 syncitnodesys.globtechnodebase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810007/
+127.0.0.1 lanhoppath.openapiservicex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810006/
 127.0.0.1 ioflow.globtechnodebase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810005/
 127.0.0.1 subclidata.openapiservicex.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810004/
 127.0.0.1 taskidviewhub.globtechnodebase.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810003/
@@ -64429,4 +64451,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64430
+# Number of entries: 64452
