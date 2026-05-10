@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 donutsmpcheat.com #payload_delivery https://threatfox.abuse.ch/ioc/1809696/
+127.0.0.1 helper.zulipchat.com #botnet_cc https://threatfox.abuse.ch/ioc/1809680/
+127.0.0.1 cruch.online #botnet_cc https://threatfox.abuse.ch/ioc/1809536/
+127.0.0.1 mestizo.co.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1810377/
+127.0.0.1 7mcn.cyou #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1810376/
+127.0.0.1 situsslotqris.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810375/
+127.0.0.1 qh88sun.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810374/
+127.0.0.1 123b-jp.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810373/
+127.0.0.1 opsmgr.data-core-logic.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810372/
+127.0.0.1 extnetprox.devharbor.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810371/
+127.0.0.1 cpuprocessormgr.data-core-logic.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810370/
 127.0.0.1 pkgrunstat.devharbor.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810369/
 127.0.0.1 vpsrun.data-core-logic.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810368/
 127.0.0.1 modbusdata.devharbor.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1810367/
@@ -64725,4 +64736,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64726
+# Number of entries: 64737
