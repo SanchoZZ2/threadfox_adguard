@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 system-core-set.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811184/
+127.0.0.1 global-cloud-infra-logic.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811183/
 127.0.0.1 data-stack-node.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811175/
 127.0.0.1 light-copying5ingle.digital #payload_delivery https://threatfox.abuse.ch/ioc/1811173/
 127.0.0.1 baroquecam-up.digital #payload_delivery https://threatfox.abuse.ch/ioc/1811171/
@@ -64462,4 +64464,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64463
+# Number of entries: 64465
