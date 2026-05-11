@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 viablestonewall.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811116/
+127.0.0.1 cmgr.web-stack-node.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811115/
+127.0.0.1 run.web-stack-node.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811114/
+127.0.0.1 web-stack-node.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811113/
+127.0.0.1 vbits.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811089/
+127.0.0.1 img.viet69.vg #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811088/
+127.0.0.1 cdn.viet69.vg #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811086/
+127.0.0.1 dev.sextop1.cafe #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811087/
+127.0.0.1 backend.sextop1.cafe #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811085/
+127.0.0.1 af88.life #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811084/
+127.0.0.1 admin.sextop1.cafe #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811083/
+127.0.0.1 3navorel.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811082/
+127.0.0.1 sys.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811081/
+127.0.0.1 pi.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811080/
 127.0.0.1 logmansys.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811079/
 127.0.0.1 taskidview.scriptnode.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811078/
 127.0.0.1 api.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811077/
@@ -64432,4 +64446,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64433
+# Number of entries: 64447
