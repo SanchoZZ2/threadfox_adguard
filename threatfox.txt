@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 testerlau.lat #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1810899/
 127.0.0.1 robodomain.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1810458/
 127.0.0.1 ok99.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810424/
 127.0.0.1 1net.ro #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1809864/
@@ -64636,6 +64637,7 @@
 127.0.0.1 cloudmane.online #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1050198/
 127.0.0.1 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1045764/
 127.0.0.1 multi-fonctions-immo.com #payload_delivery, win.qakbot, Oakboat, Pinkslipbot https://threatfox.abuse.ch/ioc/1039868/
+127.0.0.1 ladiesfashionworldbd.com #payload_delivery, win.qakbot, Oakboat, Pinkslipbot https://threatfox.abuse.ch/ioc/1039407/
 127.0.0.1 zx.conhoosst.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1036115/
 127.0.0.1 qw.conhoosst.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1036111/
 127.0.0.1 expoglobalservice.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1035723/
@@ -64843,4 +64845,4 @@
 127.0.0.1 morisc07.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192708/
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
-# Number of entries: 64844
+# Number of entries: 64846
