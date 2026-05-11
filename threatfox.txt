@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 logmansys.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811079/
+127.0.0.1 taskidview.scriptnode.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811078/
+127.0.0.1 api.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811077/
+127.0.0.1 comwebstat.scriptnode.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811076/
+127.0.0.1 webcdnstat.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811075/
+127.0.0.1 refidcorex.scriptnode.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811074/
+127.0.0.1 srvnode.open-system-infra-logic-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811073/
+127.0.0.1 autboxserv.scriptnode.pics #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811072/
+127.0.0.1 brc.loniluekegerman.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811070/
+127.0.0.1 vipbookssearch.radio.fm #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1811069/
 127.0.0.1 af88.run #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811064/
 127.0.0.1 777x.you #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811063/
 127.0.0.1 milksos.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1811048/
@@ -64422,4 +64432,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64423
+# Number of entries: 64433
