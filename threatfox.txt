@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ndg.loniluekegerman.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811417/
+127.0.0.1 ndg.chriskendall.media #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811415/
 127.0.0.1 netvector.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811409/
 127.0.0.1 datapulse.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811408/
 127.0.0.1 dashcorpcloud.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811407/
@@ -64329,4 +64331,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64330
+# Number of entries: 64332
