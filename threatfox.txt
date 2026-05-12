@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 web-logic-stack-dev-notebook.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811280/
+127.0.0.1 data-core-logic-resource-center.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811279/
+127.0.0.1 network-security-ops-flow-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811274/
 127.0.0.1 open-api-protocol-storage-guide.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811273/
 127.0.0.1 x88.run #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811272/
 127.0.0.1 sc88885.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1811271/
@@ -64240,4 +64243,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64241
+# Number of entries: 64244
