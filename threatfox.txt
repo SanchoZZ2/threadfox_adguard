@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 system-stack-node-data-reference.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811270/
+127.0.0.1 global-cloud-infra-logic-manual.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811269/
 127.0.0.1 sys-core-node-stack.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811268/
 127.0.0.1 dba.chriskendall.media #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811266/
 127.0.0.1 data-flow-ops-mgr.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811195/
@@ -64235,4 +64237,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64236
+# Number of entries: 64238
