@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ordersub-versive.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811629/
+127.0.0.1 bos.loniluekegerman.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811623/
+127.0.0.1 bos.chriskendall.media #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811621/
+127.0.0.1 passwordweb.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811620/
+127.0.0.1 laptoplink.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811613/
+127.0.0.1 1ss.giize.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1811595/
 127.0.0.1 unitmemory.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811594/
 127.0.0.1 softwarefile.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811588/
 127.0.0.1 supplyflash.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811587/
@@ -64818,4 +64824,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64819
+# Number of entries: 64825
