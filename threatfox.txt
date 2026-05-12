@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 unitmemory.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811594/
+127.0.0.1 softwarefile.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811588/
+127.0.0.1 supplyflash.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811587/
+127.0.0.1 screencard.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811583/
 127.0.0.1 devmatrix.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811551/
 127.0.0.1 qaff1aeg.chronicle5-diachiha.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811550/
 127.0.0.1 9nogvuq1.chronicle5-diachiha.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811549/
@@ -64814,4 +64818,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64815
+# Number of entries: 64819
