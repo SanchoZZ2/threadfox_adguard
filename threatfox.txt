@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dk5f63vl.carving-paral.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811938/
+127.0.0.1 microkernel-routing-engine.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811937/
+127.0.0.1 streamprocessingnode.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811936/
+127.0.0.1 sil.loniluekegerman.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811930/
+127.0.0.1 sil.chriskendall.media #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1811928/
+127.0.0.1 babybon.cfd #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1811926/
+127.0.0.1 virtual-session-broker.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811924/
+127.0.0.1 containerorchestrationhub.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811904/
 127.0.0.1 l7jn1e9j.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811898/
 127.0.0.1 ohqvz201.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811897/
 127.0.0.1 zghyyith.unp2idvalk.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811896/
@@ -64635,4 +64643,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64636
+# Number of entries: 64644
