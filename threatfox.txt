@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 asyncpipelinehub.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811803/
+127.0.0.1 virtual-packet-gateway.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811797/
 127.0.0.1 bula-silomercitationlaptop.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811785/
 127.0.0.1 utl1juep.estradaannivers.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811784/
 127.0.0.1 l6lv36qw.estradaannivers.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811783/
@@ -64604,4 +64606,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64605
+# Number of entries: 64607
