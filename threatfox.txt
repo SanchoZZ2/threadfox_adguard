@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 root-directory-repository-process-vault.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811696/
+127.0.0.1 cluster-module-deployment-standard-map.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811687/
 127.0.0.1 pro-architecture-engineering-vault-info.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811685/
 127.0.0.1 contactdisrupwhite.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811678/
 127.0.0.1 quart-rantman.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811668/
@@ -64574,4 +64576,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64575
+# Number of entries: 64577
