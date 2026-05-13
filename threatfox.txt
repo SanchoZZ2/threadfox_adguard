@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 containerfabric.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811732/
+127.0.0.1 gdedengikarlos.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1811723/
+127.0.0.1 screenshot.777x.you #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1811720/
+127.0.0.1 task.777x.you #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1811721/
 127.0.0.1 prime-object-container-task-archive.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811714/
 127.0.0.1 secure-remote-access-method-file.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811709/
 127.0.0.1 virtual-compute-engine-template-doc.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811708/
@@ -64583,4 +64587,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64584
+# Number of entries: 64588
