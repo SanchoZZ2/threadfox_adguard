@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 edge-processing-network.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812309/
+127.0.0.1 p4l3fctz.bitter-salty.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812303/
+127.0.0.1 1y9a9xkq.bitter-salty.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812302/
+127.0.0.1 serverless-mesh-core.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812301/
 127.0.0.1 microservicehub.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812300/
 127.0.0.1 sup.dusapp.com.br #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1812286/
 127.0.0.1 packet-routing-lab.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812285/
@@ -64645,4 +64649,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64646
+# Number of entries: 64650
