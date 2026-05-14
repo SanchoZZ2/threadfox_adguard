@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 25vrwhcd.estat-goldilock.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812116/
+127.0.0.1 e1zwzngt.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812115/
+127.0.0.1 bq99ksyi.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812114/
+127.0.0.1 distributed-cache-storage-layer.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812110/
+127.0.0.1 fke.dusapp.com.br #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1812108/
+127.0.0.1 fke.chriskendallvo.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1812106/
+127.0.0.1 virtual-routing-gateway.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812105/
+127.0.0.1 desk-sensor-tabel-tunnel-key.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812098/
 127.0.0.1 engine-block-tabel-stream-key.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812089/
 127.0.0.1 binary-block-tabel-expert-get.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812088/
 127.0.0.1 qe74wzzp.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812084/
@@ -64517,4 +64525,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64518
+# Number of entries: 64526
