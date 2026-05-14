@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 federated-storage-cluster-system.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812132/
+127.0.0.1 microservice-control-plane-node.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812130/
+127.0.0.1 cloud-infrastructure-management-platform.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812127/
 127.0.0.1 edge-processing-network.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812123/
 127.0.0.1 serverless-runtime-orchestration-engine.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812122/
 127.0.0.1 t7osftz9.estat-goldilock.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812117/
@@ -64528,4 +64531,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64529
+# Number of entries: 64532
