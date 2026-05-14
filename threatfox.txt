@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 byte-stream-encryption-standard-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812081/
+127.0.0.1 trace-route-diagnostic-signal-map.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812079/
+127.0.0.1 kernel-patch-update-release-history.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812075/
+127.0.0.1 meta-data-shredding-cleanup-utility.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812074/
+127.0.0.1 remote-sensor-proxy-tunnel-config.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812069/
+127.0.0.1 9xbc3jzp.disorientbreak.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812068/
+127.0.0.1 amo9xzld.disorientbreak.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812067/
 127.0.0.1 stat-collection-engine-performance-view.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812063/
 127.0.0.1 binary-buffer-overflow-protection-lab.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812054/
 127.0.0.1 analytical-traffic-audit-record-file.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812040/
@@ -64505,4 +64512,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64506
+# Number of entries: 64513
