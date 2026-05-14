@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 engine-block-tabel-stream-key.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812089/
+127.0.0.1 binary-block-tabel-expert-get.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812088/
+127.0.0.1 qe74wzzp.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812084/
+127.0.0.1 binary-block-state-collection.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812083/
+127.0.0.1 1jyk1gm9.unseen-zorenka.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812082/
 127.0.0.1 byte-stream-encryption-standard-base.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812081/
 127.0.0.1 trace-route-diagnostic-signal-map.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812079/
 127.0.0.1 kernel-patch-update-release-history.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812075/
@@ -64512,4 +64517,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64513
+# Number of entries: 64518
