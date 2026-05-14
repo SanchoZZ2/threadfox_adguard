@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 asynchronous-message-routing-framework.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812139/
+127.0.0.1 telemetry-stream-hub.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812135/
+127.0.0.1 x16zauz3.after-diacritic.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812134/
+127.0.0.1 8xorq0f0.after-diacritic.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812133/
 127.0.0.1 federated-storage-cluster-system.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812132/
 127.0.0.1 microservice-control-plane-node.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812130/
 127.0.0.1 cloud-infrastructure-management-platform.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812127/
@@ -64531,4 +64535,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64532
+# Number of entries: 64536
