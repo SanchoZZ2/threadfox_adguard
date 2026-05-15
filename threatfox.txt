@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 39tc4pze.stack-forge.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1814444/
+127.0.0.1 1ic2wmpo.stack-forge.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1814398/
+127.0.0.1 containerizedworkflowengine.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813703/
+127.0.0.1 serverlesscontrolplane.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813449/
 127.0.0.1 observability-hub-system.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813330/
 127.0.0.1 federated-node-system.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813085/
 127.0.0.1 meshcore.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813082/
@@ -63356,6 +63360,7 @@
 127.0.0.1 solve.jenj.org #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1386131/
 127.0.0.1 solve.gevaq.com #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1386132/
 127.0.0.1 solve.fizq.net #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1386133/
+127.0.0.1 ftp.horeca-bucuresti.ro #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1385416/
 127.0.0.1 mediaterki.com #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1385888/
 127.0.0.1 scotiation.pw #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1385890/
 127.0.0.1 cranetisti.com #botnet_cc, win.icedid, BokBot, IceID https://threatfox.abuse.ch/ioc/1385881/
@@ -64488,4 +64493,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64489
+# Number of entries: 64494
