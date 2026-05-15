@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 distributedcache.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812328/
+127.0.0.1 kadush-sideburnsushan.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812327/
+127.0.0.1 ct.feliz.icu #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1812320/
+127.0.0.1 krc5t7kn.ripples-shark.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812319/
+127.0.0.1 virtual-session-gateway.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812318/
+127.0.0.1 wsfzy3vb.ripples-shark.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812317/
 127.0.0.1 inherittruckdoge.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812316/
 127.0.0.1 telemetrycore.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812315/
 127.0.0.1 cartwell-pastphantom.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812310/
@@ -64652,4 +64658,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64653
+# Number of entries: 64659
