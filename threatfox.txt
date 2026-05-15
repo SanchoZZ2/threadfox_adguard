@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 observability-hub-system.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813330/
+127.0.0.1 federated-node-system.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813085/
+127.0.0.1 meshcore.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1813082/
+127.0.0.1 runtimefabric.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812998/
+127.0.0.1 11udvmp9.polestennisplayer.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812996/
+127.0.0.1 5ij6iw01.polestennisplayer.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812995/
+127.0.0.1 virtualized-control-plane-network.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812859/
+127.0.0.1 distributed-storage-layer.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812502/
 127.0.0.1 packetlattice.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812501/
 127.0.0.1 virtualgateway.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812500/
 127.0.0.1 distributed-event-processing-lab.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812495/
@@ -64480,4 +64488,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64481
+# Number of entries: 64489
