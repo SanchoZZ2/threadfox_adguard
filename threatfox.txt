@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 packetlattice.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812501/
+127.0.0.1 virtualgateway.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812500/
+127.0.0.1 distributed-event-processing-lab.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812495/
 127.0.0.1 telemetry-stream-core.courses #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812494/
 127.0.0.1 cggirdg7.neural-routing.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812493/
 127.0.0.1 m5x2us4u.neural-routing.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1812492/
@@ -64477,4 +64480,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64478
+# Number of entries: 64481
