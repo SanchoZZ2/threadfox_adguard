@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 runtime-core-fabric-get.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815275/
+127.0.0.1 mixed-on-storage-layer.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815271/
 127.0.0.1 m1ub6qaj.kabardinskymonasticismradicalism.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815270/
 127.0.0.1 wozk99ql.kabardinskymonasticismradicalism.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815269/
 127.0.0.1 kabardinskymonasticismradicalism.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815268/
@@ -64460,4 +64462,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64461
+# Number of entries: 64463
