@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 m1ub6qaj.kabardinskymonasticismradicalism.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815270/
+127.0.0.1 wozk99ql.kabardinskymonasticismradicalism.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815269/
+127.0.0.1 kabardinskymonasticismradicalism.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815268/
+127.0.0.1 virtual-gate-way.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815267/
+127.0.0.1 telemetry-folder-stream-core.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815266/
 127.0.0.1 edge-network-on-hub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815255/
 127.0.0.1 micro-service-cluster.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815254/
 127.0.0.1 packet-relay-engine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815249/
@@ -64455,4 +64460,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64456
+# Number of entries: 64461
