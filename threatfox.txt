@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 packet-relay-engine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815249/
+127.0.0.1 m8to2gkj.hundred-years-old.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815248/
+127.0.0.1 sg5n155s.hundred-years-old.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815247/
+127.0.0.1 cloud-infrastructure.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815241/
+127.0.0.1 get-on-processing-engine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815237/
 127.0.0.1 federated-grow-install-framework.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815236/
 127.0.0.1 folder-management-core.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815235/
 127.0.0.1 micro-fan-obs-plan.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815229/
@@ -64448,4 +64453,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64449
+# Number of entries: 64454
