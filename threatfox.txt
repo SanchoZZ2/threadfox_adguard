@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 edge-network-on-hub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815255/
+127.0.0.1 micro-service-cluster.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815254/
 127.0.0.1 packet-relay-engine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815249/
 127.0.0.1 m8to2gkj.hundred-years-old.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815248/
 127.0.0.1 sg5n155s.hundred-years-old.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815247/
@@ -64453,4 +64455,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64454
+# Number of entries: 64456
