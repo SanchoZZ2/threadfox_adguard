@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 2ol471ks.kernel-lattice.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815341/
+127.0.0.1 iqp9g9u7.kernel-lattice.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815340/
+127.0.0.1 kernel-lattice.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815339/
+127.0.0.1 botanicalprocessingengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815338/
+127.0.0.1 bloommonitoringengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815336/
+127.0.0.1 gardeninfrastructurelab.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815325/
 127.0.0.1 asynchronouswatering-system.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815320/
 127.0.0.1 ecosystemmanagementhub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815317/
 127.0.0.1 flora-observability-core.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815305/
@@ -64476,4 +64482,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64477
+# Number of entries: 64483
