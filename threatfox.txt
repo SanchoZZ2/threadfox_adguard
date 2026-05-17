@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 perfect-lasagna-layer.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815520/
+127.0.0.1 glacial-ice-core-sample.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815519/
+127.0.0.1 proxies.internetshadow.link #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1815318/
+127.0.0.1 proxies.internetshadow.org #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1815319/
+127.0.0.1 download.skibidibopbop.lol #payload_delivery, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1815321/
+127.0.0.1 download.stopbanningmydomains.ru #payload_delivery, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1815322/
+127.0.0.1 boutiquebristol.ba #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1815400/
+127.0.0.1 dudadelira.monster #payload_delivery, win.lumar, PovertyStealer, Lumar https://threatfox.abuse.ch/ioc/1815418/
+127.0.0.1 opaqueshellsoftsmoke.click #payload_delivery, win.lumar, PovertyStealer, Lumar https://threatfox.abuse.ch/ioc/1815419/
+127.0.0.1 kyjpwnw.monster #payload_delivery, win.lumar, PovertyStealer, Lumar https://threatfox.abuse.ch/ioc/1815420/
+127.0.0.1 quietbinglowdrift.monster #payload_delivery, win.lumar, PovertyStealer, Lumar https://threatfox.abuse.ch/ioc/1815421/
+127.0.0.1 livespacenext.monster #payload_delivery, win.lumar, PovertyStealer, Lumar https://threatfox.abuse.ch/ioc/1815422/
+127.0.0.1 educationcaster.monster #payload_delivery, win.lumar, PovertyStealer, Lumar https://threatfox.abuse.ch/ioc/1815423/
+127.0.0.1 steampunkaeronautics.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815502/
+127.0.0.1 finework.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1815168/
+127.0.0.1 nareshvastu.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1815117/
+127.0.0.1 bssap.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1815118/
+127.0.0.1 ggwpcheats.xyz #payload_delivery https://threatfox.abuse.ch/ioc/1815120/
+127.0.0.1 bbs.pinwheel-toys.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1815112/
+127.0.0.1 revveduponline.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1815111/
 127.0.0.1 alchemical-formula-scroll.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815498/
 127.0.0.1 cosmicmicrowavebackground.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815497/
 127.0.0.1 d1jtbg8r.node-matrix.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815492/
@@ -63927,4 +63947,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63928
+# Number of entries: 63948
