@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tophosts-todo-network-harbor.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815697/
+127.0.0.1 vaultask-micro-service-pulse.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815694/
+127.0.0.1 cleanlay-fet-telemetry-vault.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815692/
 127.0.0.1 clamprob-folder-runtime-forge.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815685/
 127.0.0.1 aimgrub2-cloud-sphere-get.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815678/
 127.0.0.1 jcdlhks8.node-pulse.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815676/
@@ -64027,4 +64030,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64028
+# Number of entries: 64031
