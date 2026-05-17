@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 irrigation-control-network.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815564/
+127.0.0.1 greenhouseworkflowhub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815562/
+127.0.0.1 distributed-garden-framework.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815556/
 127.0.0.1 botanicalresourceplatform.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815543/
 127.0.0.1 stayba.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1815532/
 127.0.0.1 trashmonkey.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1815378/
@@ -63960,4 +63963,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63961
+# Number of entries: 63964
