@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 serverless-mesh-core-yet-go.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815728/
+127.0.0.1 xyv1jupy.container-vector.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815724/
+127.0.0.1 hdba7cl2.container-vector.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815723/
+127.0.0.1 globalSstat.com #botnet_cc https://threatfox.abuse.ch/ioc/1815699/
+127.0.0.1 globalSstat.org #botnet_cc https://threatfox.abuse.ch/ioc/1815700/
+127.0.0.1 infoworkerOne.com #botnet_cc https://threatfox.abuse.ch/ioc/1815701/
+127.0.0.1 infoworkerOne.org #botnet_cc https://threatfox.abuse.ch/ioc/1815702/
+127.0.0.1 jobworkNY.com #botnet_cc https://threatfox.abuse.ch/ioc/1815703/
+127.0.0.1 mstopsai.com #botnet_cc https://threatfox.abuse.ch/ioc/1815704/
+127.0.0.1 monstersStat.com #botnet_cc https://threatfox.abuse.ch/ioc/1815705/
+127.0.0.1 merkureEnv.net #botnet_cc https://threatfox.abuse.ch/ioc/1815706/
+127.0.0.1 sorrystartstat1.net #botnet_cc https://threatfox.abuse.ch/ioc/1815707/
+127.0.0.1 maxStatesUS.ORG #botnet_cc https://threatfox.abuse.ch/ioc/1815708/
+127.0.0.1 ostekStatmen.net #botnet_cc https://threatfox.abuse.ch/ioc/1815709/
+127.0.0.1 masterklass.net #botnet_cc https://threatfox.abuse.ch/ioc/1815710/
+127.0.0.1 kitdocs-openlow-observe-matrix.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815698/
 127.0.0.1 tophosts-todo-network-harbor.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815697/
 127.0.0.1 vaultask-micro-service-pulse.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815694/
 127.0.0.1 cleanlay-fet-telemetry-vault.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815692/
@@ -64030,4 +64046,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 64031
+# Number of entries: 64047
