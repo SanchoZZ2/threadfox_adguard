@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 distributedgrowthnetwork.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815870/
+127.0.0.1 crimesupport.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1815867/
+127.0.0.1 wildfloracontrolsystem.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815865/
+127.0.0.1 mythicsu.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1815860/
+127.0.0.1 petalprocessingplatform.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815848/
 127.0.0.1 breathdoctor.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1815841/
 127.0.0.1 yellowtag.shop #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1815791/
 127.0.0.1 kopet.pics #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1815792/
@@ -63887,4 +63892,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63888
+# Number of entries: 63893
