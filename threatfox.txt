@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 radiopin-botn-monitor-in-gengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815981/
+127.0.0.1 activitymeal.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1815979/
+127.0.0.1 pcapshay-bute-gard-source.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815975/
+127.0.0.1 sinkwash.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1815973/
 127.0.0.1 wilder-flow-work-lmsystem.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1815969/
 127.0.0.1 kittenschalk.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1815967/
 127.0.0.1 governmentyard.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1815966/
@@ -63928,4 +63932,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63929
+# Number of entries: 63933
