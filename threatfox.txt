@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 meadowoperationshub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816326/
+127.0.0.1 federatedgrowthnetwork.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816320/
+127.0.0.1 smetana-js.beer #payload_delivery https://threatfox.abuse.ch/ioc/1816319/
 127.0.0.1 irrigationtelemetrysystem.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816318/
 127.0.0.1 api.operilezabre.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1816317/
 127.0.0.1 botanicalautomationframework.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816316/
@@ -63835,4 +63838,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63836
+# Number of entries: 63839
