@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 t8oasjc8.cyber-harbor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816444/
+127.0.0.1 meadowanalyticsengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816443/
+127.0.0.1 botanical-control-framework.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816435/
+127.0.0.1 distributedgardenmesh.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816421/
+127.0.0.1 petal-processing-platform.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816420/
+127.0.0.1 rpi.fazvende.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1816417/
+127.0.0.1 rpi.tristans-tea.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1816415/
+127.0.0.1 wildfloraworkflowhub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816414/
 127.0.0.1 zef6cv5o.byte-lattice.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816413/
 127.0.0.1 c533d8a0-2c69-47ed-b173-0234c17c3989.codepit-rized-denengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816406/
 127.0.0.1 greenhouse-resource-center.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816405/
@@ -63865,4 +63873,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63866
+# Number of entries: 63874
