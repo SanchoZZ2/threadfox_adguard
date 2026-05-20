@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vantarat.st #botnet_cc https://threatfox.abuse.ch/ioc/1816630/
+127.0.0.1 api-v4.printondemandmerchandise.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1816637/
+127.0.0.1 felnora.cc #botnet_cc, win.nova, Malicord, Nova Stealer https://threatfox.abuse.ch/ioc/1816646/
+127.0.0.1 qmzbbjle.microfloraresource.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816648/
+127.0.0.1 ornejeve.microfloraresource.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816647/
+127.0.0.1 bcypppaq.asynchronous-growth-platform.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816644/
+127.0.0.1 dfenkcqx.asynchronous-growth-platform.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816643/
+127.0.0.1 mysa.co.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1816642/
+127.0.0.1 kampoxks.bloommanagementengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816641/
+127.0.0.1 eqquhqif.bloommanagementengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816639/
+127.0.0.1 bloommanagementengine.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816638/
+127.0.0.1 zeiqv2hk.subfossiloakchronology.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816629/
+127.0.0.1 mkjoh3tl.subfossiloakchronology.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816628/
+127.0.0.1 containerized-plant-system.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816627/
 127.0.0.1 worksodsirius.ydns.eu #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1816626/
 127.0.0.1 floraecosystemhub.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816625/
 127.0.0.1 meadow-processing-core.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816623/
@@ -63733,4 +63747,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63734
+# Number of entries: 63748
