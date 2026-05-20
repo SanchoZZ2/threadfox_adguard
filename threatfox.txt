@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 containerized-growth-platform.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816579/
+127.0.0.1 sentro-bookings.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1816578/
+127.0.0.1 floraresourcecenter.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816572/
 127.0.0.1 lambdauyamna.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1816569/
 127.0.0.1 mokitomaccito.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1816570/
 127.0.0.1 djkmgndkjfgndfg.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1816568/
@@ -63709,4 +63712,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63710
+# Number of entries: 63713
