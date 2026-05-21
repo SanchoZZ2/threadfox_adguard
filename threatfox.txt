@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 biletors.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1816992/
+127.0.0.1 traffadmin.monster #payload_delivery https://threatfox.abuse.ch/ioc/1816991/
+127.0.0.1 salchipapas.monster #payload_delivery https://threatfox.abuse.ch/ioc/1816990/
+127.0.0.1 star-workshop.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816988/
+127.0.0.1 www.drechftankholding.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1816987/
+127.0.0.1 www.projectusf.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1816986/
+127.0.0.1 tee.fbvendas.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1816978/
+127.0.0.1 tee.adasm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1816976/
+127.0.0.1 frost-marketplace.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816975/
+127.0.0.1 lack.work.gd #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1816973/
 127.0.0.1 labshift-winmail-get.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816969/
 127.0.0.1 bjzrz6je.packet-cascade.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816967/
 127.0.0.1 w3ruma49.packet-cascade.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816966/
@@ -63630,4 +63640,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63631
+# Number of entries: 63641
