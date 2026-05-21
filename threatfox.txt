@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x3o11wkp.signal-bridge.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817028/
+127.0.0.1 khxta65a.signal-bridge.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817027/
+127.0.0.1 signal-bridge.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817026/
+127.0.0.1 thu.fbvendas.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817024/
+127.0.0.1 thu.adasm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817022/
+127.0.0.1 ice-evergreen.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817020/
+127.0.0.1 vn88.co.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1817019/
+127.0.0.1 u888np.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1817018/
+127.0.0.1 u88.vc #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1817016/
+127.0.0.1 u888.fishing #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1817017/
+127.0.0.1 j88jh.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1817015/
 127.0.0.1 tree-observatory.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817012/
 127.0.0.1 sns-clauder-cdn.beer #payload_delivery https://threatfox.abuse.ch/ioc/1817006/
 127.0.0.1 anlytic-js-cloud.beer #payload_delivery https://threatfox.abuse.ch/ioc/1817007/
@@ -63651,4 +63662,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63652
+# Number of entries: 63663
