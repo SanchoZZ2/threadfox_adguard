@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cloudruntime.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817125/
+127.0.0.1 packet-distribution-core.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817124/
+127.0.0.1 linuxkerneldbs.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1817113/
 127.0.0.1 container-mesh.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817112/
 127.0.0.1 telemetry-control-hub.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817111/
 127.0.0.1 stackbridge.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817067/
@@ -61818,6 +61821,7 @@
 127.0.0.1 sharjahaquarium.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1585158/
 127.0.0.1 saqir.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1585155/
 127.0.0.1 petro4prime.ydns.eu #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1582248/
+127.0.0.1 ablelifepurp.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1582190/
 127.0.0.1 electrico.co.zw #botnet_cc, win.lokipws, Burkina, Loki https://threatfox.abuse.ch/ioc/1581790/
 127.0.0.1 dwssa.top #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1581751/
 127.0.0.1 bpm.w0rkz.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1581674/
@@ -63679,4 +63683,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63680
+# Number of entries: 63684
