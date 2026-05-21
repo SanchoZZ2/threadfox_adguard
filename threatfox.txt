@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 byte-vault.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817061/
+127.0.0.1 contentprotectiongate.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1817060/
+127.0.0.1 signal-processing-core.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817059/
+127.0.0.1 proxy-hub.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817050/
+127.0.0.1 cloud-sync-engine.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817049/
+127.0.0.1 microservice-hub.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817042/
 127.0.0.1 telemetry-grid.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817040/
 127.0.0.1 0frduisp.cloud-meridian.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817039/
 127.0.0.1 r1iugua4.cloud-meridian.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817038/
@@ -63668,4 +63674,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63669
+# Number of entries: 63675
