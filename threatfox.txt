@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 estaliax.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1816912/
+127.0.0.1 coalwork.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1816911/
+127.0.0.1 6jcrkuht.container-beacon.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816908/
+127.0.0.1 qre50p47.container-beacon.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816907/
 127.0.0.1 ori.fazvende.com.br #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1816888/
 127.0.0.1 ori.tristans-tea.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1816886/
 127.0.0.1 fikvjna5.telemetry-orbit.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816885/
@@ -61771,6 +61775,7 @@
 127.0.0.1 dns.qqq911.dns-cloud.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1573469/
 127.0.0.1 cnc.504.su #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1573369/
 127.0.0.1 NoNameArtie-27276.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1573408/
+127.0.0.1 roofspade.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1572615/
 127.0.0.1 craiglist.ignorelist.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1572510/
 127.0.0.1 dakk5rnsax46s.cfc-execute.su.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1572312/
 127.0.0.1 microsoft-telemetry.cc #botnet_cc, win.amadey, Amadey https://threatfox.abuse.ch/ioc/1571262/
@@ -63597,4 +63602,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63598
+# Number of entries: 63603
