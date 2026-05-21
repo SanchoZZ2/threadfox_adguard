@@ -1,4 +1,27 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 labshift-winmail-get.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816969/
+127.0.0.1 bjzrz6je.packet-cascade.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816967/
+127.0.0.1 w3ruma49.packet-cascade.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816966/
+127.0.0.1 relays.idanburuku.sbs #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1816965/
+127.0.0.1 forcrash-classnet.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816964/
+127.0.0.1 duaeshen.org #botnet_cc, apk.antidot, Antidot https://threatfox.abuse.ch/ioc/1816962/
+127.0.0.1 apitelemetryinfrastructure.org #botnet_cc, apk.antidot, Antidot https://threatfox.abuse.ch/ioc/1816963/
+127.0.0.1 diospfj.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816955/
+127.0.0.1 maloneyr.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816956/
+127.0.0.1 balvlqts.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816957/
+127.0.0.1 milnleny.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816958/
+127.0.0.1 markzsa.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816951/
+127.0.0.1 brownhc.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816952/
+127.0.0.1 pantofr.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816953/
+127.0.0.1 shenyac.cyou #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1816954/
+127.0.0.1 pigtweet-kitdiff-it.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816950/
+127.0.0.1 gahtaro.com #botnet_cc https://threatfox.abuse.ch/ioc/1816857/
+127.0.0.1 jilibdt.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1816892/
+127.0.0.1 andyras.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1816894/
+127.0.0.1 kiss.a-dog.top #payload_delivery, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1816899/
+127.0.0.1 cloudpuput.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1816901/
+127.0.0.1 solidlattice65.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1816902/
+127.0.0.1 whatisbred.com #payload_delivery https://threatfox.abuse.ch/ioc/1816903/
 127.0.0.1 icevault-cutshift.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816927/
 127.0.0.1 22goulm8.runtime-nexus.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816924/
 127.0.0.1 lq5oouw7.runtime-nexus.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816923/
@@ -63607,4 +63630,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63608
+# Number of entries: 63631
