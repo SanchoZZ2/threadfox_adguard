@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tree-observatory.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817012/
+127.0.0.1 sns-clauder-cdn.beer #payload_delivery https://threatfox.abuse.ch/ioc/1817006/
+127.0.0.1 anlytic-js-cloud.beer #payload_delivery https://threatfox.abuse.ch/ioc/1817007/
+127.0.0.1 oshaduck123.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1817005/
+127.0.0.1 cuit.ydns.eu #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1817004/
+127.0.0.1 gift-harbor.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817002/
+127.0.0.1 magaji.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1816996/
+127.0.0.1 nhr83i9y.kernel-vertex.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816995/
+127.0.0.1 1k78h3dc.kernel-vertex.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816994/
 127.0.0.1 biletors.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1816992/
 127.0.0.1 traffadmin.monster #payload_delivery https://threatfox.abuse.ch/ioc/1816991/
 127.0.0.1 salchipapas.monster #payload_delivery https://threatfox.abuse.ch/ioc/1816990/
@@ -62662,8 +62671,10 @@
 127.0.0.1 sungito2.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312405/
 127.0.0.1 tochisglobal.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1312404/
 127.0.0.1 2015wuyun.cc #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1310529/
+127.0.0.1 eadzagba1.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1308604/
 127.0.0.1 muchodinerohoy.con-ip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1306191/
 127.0.0.1 elmauz.freemyip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1306190/
+127.0.0.1 officerem.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1304203/
 127.0.0.1 2024remcmon.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1304195/
 127.0.0.1 update.micro.gay #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297780/
 127.0.0.1 ns.supermirco.us #botnet_cc, win.shadowpad, POISONPLUG.SHADOW, XShellGhost https://threatfox.abuse.ch/ioc/1297784/
@@ -63640,4 +63651,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63641
+# Number of entries: 63652
