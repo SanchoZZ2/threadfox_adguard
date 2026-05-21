@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 icevault-cutshift.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816927/
+127.0.0.1 22goulm8.runtime-nexus.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816924/
+127.0.0.1 lq5oouw7.runtime-nexus.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816923/
+127.0.0.1 runtime-nexus.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816922/
+127.0.0.1 graphnewclass.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816919/
 127.0.0.1 estaliax.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1816912/
 127.0.0.1 coalwork.info #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1816911/
 127.0.0.1 6jcrkuht.container-beacon.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1816908/
@@ -63602,4 +63607,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63603
+# Number of entries: 63608
