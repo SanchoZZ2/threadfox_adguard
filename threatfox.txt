@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pfo.fbvendas.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817224/
+127.0.0.1 pfo.adasm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817222/
+127.0.0.1 pixelart-canvas.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817221/
+127.0.0.1 vintagevinylrestoration.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817218/
+127.0.0.1 xulnai.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1817212/
+127.0.0.1 fq3gm5xphax8c.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1817211/
+127.0.0.1 a3tf75e7k596x.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1817210/
 127.0.0.1 trading-academyexpert.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817195/
 127.0.0.1 live05ms.us #payload_delivery https://threatfox.abuse.ch/ioc/1817117/
 127.0.0.1 msonlive.us #payload_delivery https://threatfox.abuse.ch/ioc/1817118/
@@ -63528,4 +63535,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63529
+# Number of entries: 63536
