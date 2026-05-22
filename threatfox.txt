@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cache-orbit.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817357/
+127.0.0.1 dip.fbvendas.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817352/
+127.0.0.1 dip.adasm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817350/
+127.0.0.1 labdjang.asia #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817349/
+127.0.0.1 reposboy.asia #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817347/
+127.0.0.1 iotonton.io #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1817339/
 127.0.0.1 softandtec.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1817262/
 127.0.0.1 spamgym.asia #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817261/
 127.0.0.1 genuskox.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1817260/
@@ -63544,4 +63550,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63545
+# Number of entries: 63551
