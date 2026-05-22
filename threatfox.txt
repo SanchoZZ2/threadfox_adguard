@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 softandtec.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1817262/
+127.0.0.1 spamgym.asia #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817261/
+127.0.0.1 genuskox.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1817260/
 127.0.0.1 unicore.lol #payload_delivery https://threatfox.abuse.ch/ioc/1817256/
 127.0.0.1 joinunicore.top #payload_delivery https://threatfox.abuse.ch/ioc/1817257/
 127.0.0.1 formkey.asia #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817251/
@@ -63541,4 +63544,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63542
+# Number of entries: 63545
