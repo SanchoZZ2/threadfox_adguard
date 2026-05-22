@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 proxy-stream.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817129/
+127.0.0.1 kernel-control-engine.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817128/
 127.0.0.1 cloudruntime.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817125/
 127.0.0.1 packet-distribution-core.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817124/
 127.0.0.1 linuxkerneldbs.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1817113/
@@ -63683,4 +63685,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63684
+# Number of entries: 63686
