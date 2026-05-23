@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dzhjdyty.raw-cert-bigzlib.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817654/
+127.0.0.1 heap-lawcert.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817652/
+127.0.0.1 zhqqgpts.heap-lawcert.christmas #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1817653/
 127.0.0.1 malware.seegersbelettering.nl #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1817647/
 127.0.0.1 c2.slagerijbloem.nl #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1817646/
 127.0.0.1 cyy.fbvendas.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817644/
@@ -63093,4 +63096,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 63094
+# Number of entries: 63097
