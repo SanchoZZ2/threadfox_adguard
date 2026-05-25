@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sbnsdns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1818464/
+127.0.0.1 clainasns.beer #payload_delivery https://threatfox.abuse.ch/ioc/1818463/
+127.0.0.1 pjsxdd.nyitottkeramia.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818462/
+127.0.0.1 fmslna.nr1office.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818461/
+127.0.0.1 2hpvs1tu.microservice-compass.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818459/
+127.0.0.1 7louefau.microservice-compass.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818460/
+127.0.0.1 microservice-compass.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818458/
+127.0.0.1 legalreads.monster #payload_delivery https://threatfox.abuse.ch/ioc/1818457/
+127.0.0.1 equinixad.monster #payload_delivery https://threatfox.abuse.ch/ioc/1818456/
+127.0.0.1 wzkdxp.nr1office.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818454/
+127.0.0.1 cwlzmg.lillafunfit.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818449/
+127.0.0.1 iejzed.liltkereskedohaz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818443/
+127.0.0.1 zawifk.liltkereskedohaz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818442/
 127.0.0.1 wdplqn.liltkereskedohaz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818423/
 127.0.0.1 zjehuv.liltkereskedohaz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818413/
 127.0.0.1 nwefud.lillafunfit.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818403/
@@ -62874,4 +62887,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62875
+# Number of entries: 62888
