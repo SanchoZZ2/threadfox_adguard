@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bxjmrg.krisztinavarga.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818342/
+127.0.0.1 asbaph.krisztinavarga.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818341/
+127.0.0.1 fdgxxt.kpmarketing.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818339/
+127.0.0.1 ovoqxk.kpmarketing.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818338/
+127.0.0.1 ecjimr.kovacsago.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818336/
+127.0.0.1 gdqsdd.kovacsago.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818335/
+127.0.0.1 kovacsago.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818334/
 127.0.0.1 5ib6hoc4.stack-orbit.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818333/
 127.0.0.1 n8t62ep9.stack-orbit.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818332/
 127.0.0.1 cpanel.houston-familyoffice.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1818321/
@@ -62822,4 +62829,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62823
+# Number of entries: 62830
