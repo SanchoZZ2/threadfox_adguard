@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 list.chattgpt.cc #botnet_cc https://threatfox.abuse.ch/ioc/1818796/
+127.0.0.1 nveth.brandbuilder.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818791/
+127.0.0.1 nqwdb.brandbuilder.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818790/
+127.0.0.1 adxwe.boutiqbar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818783/
+127.0.0.1 ryrob.boutiqbar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818782/
 127.0.0.1 oa4njxsv.byte-frontier.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818781/
 127.0.0.1 drxorui4.byte-frontier.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818780/
 127.0.0.1 mlbmb.bonuszugynokseg.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818779/
@@ -62684,4 +62689,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62685
+# Number of entries: 62690
