@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 qgrqy.business360.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818828/
+127.0.0.1 qhagg.business360.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818827/
+127.0.0.1 business360.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818826/
+127.0.0.1 envinewrat1.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1818822/
+127.0.0.1 vhfla.budapesthandmade.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818821/
+127.0.0.1 budapesthandmade.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818820/
 127.0.0.1 a7px1y1v.container-pulse.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818815/
 127.0.0.1 e7ryllbp.container-pulse.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818814/
 127.0.0.1 jdpbg.buborekjatszohaz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818813/
@@ -62701,4 +62707,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62702
+# Number of entries: 62708
