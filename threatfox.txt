@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 neuralpulsecore4.sbs #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1818521/
+127.0.0.1 neuralpulsecore5.sbs #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1818522/
+127.0.0.1 flur.constzoo.surf #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1818520/
+127.0.0.1 ayrseu.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1818519/
+127.0.0.1 argonaddon.com #payload_delivery https://threatfox.abuse.ch/ioc/1818450/
+127.0.0.1 wizzyaddon.com #payload_delivery https://threatfox.abuse.ch/ioc/1818451/
+127.0.0.1 speddebug.com #payload_delivery https://threatfox.abuse.ch/ioc/1818452/
+127.0.0.1 xybtn.bartendersclub.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818518/
+127.0.0.1 rxsjd.bartendersclub.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818517/
+127.0.0.1 mrwqb.bartaenergetika.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818516/
+127.0.0.1 vvuto.bartaenergetika.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818515/
 127.0.0.1 mahcr.banhidileadershipacademy.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818514/
 127.0.0.1 ckszd.banhidileadershipacademy.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818513/
 127.0.0.1 dynhc.balintpiroska.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818511/
@@ -62574,4 +62585,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62575
+# Number of entries: 62586
