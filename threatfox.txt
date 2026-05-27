@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 itdrr.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819128/
+127.0.0.1 bffzq.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819127/
+127.0.0.1 feersona.net #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1819107/
+127.0.0.1 bryonsad.net #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1819108/
+127.0.0.1 kerluku.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1819117/
+127.0.0.1 rapidcanvas.top #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1819121/
+127.0.0.1 silverharvestnetwork.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1819126/
+127.0.0.1 cknkl.vilagom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819115/
+127.0.0.1 dmkli.vilagom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819113/
+127.0.0.1 ns1.deepsekapi.cn #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1819104/
 127.0.0.1 apinetsolworkspace.network #payload_delivery https://threatfox.abuse.ch/ioc/1819101/
 127.0.0.1 lnsertech.net #payload_delivery https://threatfox.abuse.ch/ioc/1819102/
 127.0.0.1 mmtfc.vizhoszivattyu.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819100/
@@ -62491,4 +62501,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62492
+# Number of entries: 62502
