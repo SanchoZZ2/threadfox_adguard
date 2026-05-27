@@ -1,4 +1,24 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 apinetsolworkspace.network #payload_delivery https://threatfox.abuse.ch/ioc/1819101/
+127.0.0.1 lnsertech.net #payload_delivery https://threatfox.abuse.ch/ioc/1819102/
+127.0.0.1 mmtfc.vizhoszivattyu.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819100/
+127.0.0.1 gulgosski.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1819096/
+127.0.0.1 qhnhv.vrtigo.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819099/
+127.0.0.1 avtgz.vrtigo.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819094/
+127.0.0.1 hiddenplanetlab.top #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1819073/
+127.0.0.1 kc7s4uri.padelconstruct.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819093/
+127.0.0.1 schoenberg-ensemble.nl #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819089/
+127.0.0.1 thiengiaviet.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819090/
+127.0.0.1 u888.limited #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819091/
+127.0.0.1 u8881.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819092/
+127.0.0.1 maurya.nl #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819086/
+127.0.0.1 mixkitchenamsterdam.nl #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819087/
+127.0.0.1 nok.com.mx #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819088/
+127.0.0.1 jvegter.nl #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819085/
+127.0.0.1 e2betz.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819082/
+127.0.0.1 gg88.yellowred.in #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819083/
+127.0.0.1 gwwsite.nl #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819084/
+127.0.0.1 0gw33xnl.padelconstruct.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819081/
 127.0.0.1 xdsop.v-vill.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819080/
 127.0.0.1 anjcp.v-vill.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819079/
 127.0.0.1 dwchg.webermann.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819078/
@@ -62471,4 +62491,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62472
+# Number of entries: 62492
