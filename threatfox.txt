@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pshcd.cannaturalgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819144/
+127.0.0.1 gdhex.cannaturalgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819143/
+127.0.0.1 listings.mildecommercialrealestate.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1819140/
+127.0.0.1 acmdo.ceremoniavezeto.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819142/
+127.0.0.1 vtqac.ceremoniavezeto.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819141/
+127.0.0.1 dutchgp2020.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1819139/
+127.0.0.1 pchfp.vigaf.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819138/
+127.0.0.1 hciru.vigaf.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819137/
+127.0.0.1 vhngezbf.pleasuredome.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819136/
+127.0.0.1 9qfwfuup.pleasuredome.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819135/
 127.0.0.1 itdrr.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819128/
 127.0.0.1 bffzq.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819127/
 127.0.0.1 feersona.net #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1819107/
@@ -62501,4 +62511,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62502
+# Number of entries: 62512
