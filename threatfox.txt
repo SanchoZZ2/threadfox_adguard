@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 h3mraocc.telemetry-harbor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818975/
+127.0.0.1 elvrh3ok.telemetry-harbor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818974/
+127.0.0.1 telemetry-harbor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818973/
+127.0.0.1 ywcga.yanisrea.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818972/
+127.0.0.1 brljc.yanisrea.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818971/
+127.0.0.1 yanisrea.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818970/
+127.0.0.1 wehmr.yanis.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818969/
+127.0.0.1 dombl.yanis.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818968/
 127.0.0.1 sapzq.keró.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818967/
 127.0.0.1 keró.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1818966/
 127.0.0.1 smartbase.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1818965/
@@ -62377,4 +62385,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62378
+# Number of entries: 62386
