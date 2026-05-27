@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 seeker.tec.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1819153/
+127.0.0.1 gbowm.cannatural.cz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819152/
+127.0.0.1 lhxly.cannatural.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819151/
 127.0.0.1 pshcd.cannaturalgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819144/
 127.0.0.1 gdhex.cannaturalgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819143/
 127.0.0.1 listings.mildecommercialrealestate.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1819140/
@@ -62511,4 +62514,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62512
+# Number of entries: 62515
