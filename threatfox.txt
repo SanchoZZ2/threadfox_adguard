@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tryjellie.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1819327/
+127.0.0.1 jirensolutions.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1819328/
+127.0.0.1 elsms.webgondozas.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819326/
+127.0.0.1 catfoodeuro.shop #botnet_cc, apk.antidot, Antidot https://threatfox.abuse.ch/ioc/1819324/
+127.0.0.1 gctlg.webgondozas.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819325/
+127.0.0.1 siase.webermann.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819323/
+127.0.0.1 vvvbk.webermann.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819322/
+127.0.0.1 2718gc20.seresniki.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819316/
+127.0.0.1 qfk3l7gj.seresniki.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819315/
+127.0.0.1 roesn.vrtigo.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819314/
+127.0.0.1 dqgrg.vrtigo.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819313/
+127.0.0.1 gbhij.vilagom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819312/
+127.0.0.1 bzqtp.vilagom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819311/
+127.0.0.1 ycnvr.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819310/
+127.0.0.1 fkfdb.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819309/
 127.0.0.1 vorro.vigaf.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819306/
 127.0.0.1 123bca.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1819305/
 127.0.0.1 pituf.vigaf.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819304/
@@ -62246,4 +62261,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62247
+# Number of entries: 62262
