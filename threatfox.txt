@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dl.overscaleconsulting.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1819504/
+127.0.0.1 swiftverify.me #payload_delivery https://threatfox.abuse.ch/ioc/1819509/
+127.0.0.1 verify-auth-cloud.com #payload_delivery https://threatfox.abuse.ch/ioc/1819511/
+127.0.0.1 amici.addmagad.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819507/
+127.0.0.1 rkfrs.addmagad.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819506/
+127.0.0.1 jiesaida.cn #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1819503/
+127.0.0.1 jovoi.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819502/
+127.0.0.1 tpgpd.vikstore.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819501/
+127.0.0.1 gggggoilidjils.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1819500/
+127.0.0.1 freecoffee.monster #payload_delivery https://threatfox.abuse.ch/ioc/1819499/
 127.0.0.1 kb2lqx8d.schleer.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819498/
 127.0.0.1 ekzhvqgg.schleer.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819497/
 127.0.0.1 xvfxe.technologiaiviz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819496/
@@ -62377,4 +62387,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62378
+# Number of entries: 62388
