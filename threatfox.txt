@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bla.matriculadores.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1819342/
+127.0.0.1 bla.bolaturbo88.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1819340/
+127.0.0.1 hpscdn.beer #payload_delivery https://threatfox.abuse.ch/ioc/1819339/
+127.0.0.1 pusanik.shop #payload_delivery https://threatfox.abuse.ch/ioc/1819337/
+127.0.0.1 lunareclipse.monster #payload_delivery https://threatfox.abuse.ch/ioc/1819338/
+127.0.0.1 oraxdata.monster #payload_delivery https://threatfox.abuse.ch/ioc/1819336/
+127.0.0.1 yjkjr.westinvesteuropa.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819335/
+127.0.0.1 skhoh.westinvesteuropa.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819334/
+127.0.0.1 hwujn.welovevent.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819332/
+127.0.0.1 mdbia.welovevent.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819331/
+127.0.0.1 youngel.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1819329/
 127.0.0.1 tryjellie.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1819327/
 127.0.0.1 jirensolutions.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1819328/
 127.0.0.1 elsms.webgondozas.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819326/
@@ -62261,4 +62272,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62262
+# Number of entries: 62273
