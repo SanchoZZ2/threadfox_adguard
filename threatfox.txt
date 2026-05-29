@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 f8bet.now #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819810/
+127.0.0.1 foodathome.ch #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819811/
+127.0.0.1 tiemj.technologiaiviz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819809/
+127.0.0.1 pebtc.technologiaiviz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819808/
+127.0.0.1 doxbin.cy #botnet_cc https://threatfox.abuse.ch/ioc/1819771/
+127.0.0.1 servus.doxbin.cy #botnet_cc https://threatfox.abuse.ch/ioc/1819772/
+127.0.0.1 interium.lol #botnet_cc https://threatfox.abuse.ch/ioc/1819791/
+127.0.0.1 recaptcha.supp.ir #payload_delivery https://threatfox.abuse.ch/ioc/1819792/
+127.0.0.1 jnyut.zsatom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819801/
+127.0.0.1 hvpho.visszateritok.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819799/
+127.0.0.1 cfeji.visszateritok.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819798/
+127.0.0.1 securevaultholding.co.za #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1819797/
 127.0.0.1 dcgbh.zsatom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819796/
 127.0.0.1 tehpm.zsatom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819795/
 127.0.0.1 dsc8ybog.schleer.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819790/
@@ -62013,4 +62025,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62014
+# Number of entries: 62026
