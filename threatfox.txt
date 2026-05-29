@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pixey.lampaoszlopbolt.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819743/
+127.0.0.1 ftmcr.lampaoszlopbolt.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819742/
+127.0.0.1 gkdtl.lampaoszlopbolt.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819741/
+127.0.0.1 grok.seescanf.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1819740/
+127.0.0.1 ani.hitnoop.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1819739/
+127.0.0.1 bigblower.click #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1819732/
+127.0.0.1 winsm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1819733/
+127.0.0.1 bhknh.laborfotostudio.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819734/
 127.0.0.1 syoqp.ksfogszabalyozas.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819731/
 127.0.0.1 alklh.popi999.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819730/
 127.0.0.1 dvzzer4n.parossag.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819725/
@@ -61988,4 +61996,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 61989
+# Number of entries: 61997
