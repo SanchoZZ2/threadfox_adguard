@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rzbve.sm188login.sbs #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819871/
+127.0.0.1 www.f168.today #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1819870/
+127.0.0.1 s61j30vp.snugglebloom.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819869/
+127.0.0.1 snugglebloom.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819868/
+127.0.0.1 advbc.sm188dvlv.hair #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819867/
 127.0.0.1 mub.depansm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1819842/
 127.0.0.1 zzksh.sm188dvlv.rest #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819841/
 127.0.0.1 mub.matriculaflix.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1819839/
@@ -62040,4 +62045,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62041
+# Number of entries: 62046
