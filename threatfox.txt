@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 oob.moika.tech #payload_delivery https://threatfox.abuse.ch/ioc/1819825/
+127.0.0.1 femilessn.top #botnet_cc https://threatfox.abuse.ch/ioc/1819827/
+127.0.0.1 wzpmw.webrevelem.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819823/
+127.0.0.1 fxllt.webrevelem.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819822/
+127.0.0.1 avjquzsd.seresniki.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819817/
+127.0.0.1 kzpom6lk.seresniki.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819816/
+127.0.0.1 trudyhelder.nl #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819814/
+127.0.0.1 u88.poker #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819815/
+127.0.0.1 bhulekh.co.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1819812/
+127.0.0.1 j88vip.host #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819813/
 127.0.0.1 f8bet.now #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819810/
 127.0.0.1 foodathome.ch #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1819811/
 127.0.0.1 tiemj.technologiaiviz.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1819809/
@@ -62025,4 +62035,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 62026
+# Number of entries: 62036
