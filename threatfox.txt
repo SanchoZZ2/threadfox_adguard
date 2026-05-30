@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 en.iranphotonics.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1820023/
+127.0.0.1 tvrtwkf.ricebowl.io #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820022/
+127.0.0.1 ricebowl.io #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820021/
 127.0.0.1 pymyajs.pegaadvance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820018/
 127.0.0.1 horflpk.pegaadvance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820017/
 127.0.0.1 gzxrgq4a.saostar.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820016/
@@ -52005,4 +52008,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 52006
+# Number of entries: 52009
