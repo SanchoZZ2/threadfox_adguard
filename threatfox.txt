@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 q24e0.lusy.ink.orgid.com #payload_delivery https://threatfox.abuse.ch/ioc/1820102/
+127.0.0.1 yp7s.lusy.ink #payload_delivery https://threatfox.abuse.ch/ioc/1820103/
+127.0.0.1 yxc1.lusy.ink #payload_delivery https://threatfox.abuse.ch/ioc/1820104/
+127.0.0.1 secure-web.cisco.com.whm.linkedin.com.agriturismoaipiacentini.site #payload_delivery https://threatfox.abuse.ch/ioc/1820105/
+127.0.0.1 kpckilf.visszateritok.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820101/
+127.0.0.1 fheliak.visszateritok.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820100/
+127.0.0.1 bearman.bond #payload_delivery https://threatfox.abuse.ch/ioc/1820097/
 127.0.0.1 gfdoxjo.zsatom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820098/
 127.0.0.1 zhhfjwq.zsatom.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820096/
 127.0.0.1 roblox-execu.com #payload_delivery https://threatfox.abuse.ch/ioc/1820064/
@@ -52048,4 +52055,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 52049
+# Number of entries: 52056
