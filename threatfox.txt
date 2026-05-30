@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 baovietnam.me #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820190/
+127.0.0.1 psiwhza.baocongnghe.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820189/
+127.0.0.1 kjiwmjp.baocongnghe.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820188/
 127.0.0.1 raerscd.autotuongtac.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820186/
 127.0.0.1 autotuongtac.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820185/
 127.0.0.1 45cbh9h6.liketudong.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820167/
@@ -52079,4 +52082,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 52080
+# Number of entries: 52083
