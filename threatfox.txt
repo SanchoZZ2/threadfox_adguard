@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 seattlesubzerorepair.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1820276/
+127.0.0.1 batmemo.kreativkiteljesedes.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820275/
+127.0.0.1 krnflmz.kreativkiteljesedes.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820274/
 127.0.0.1 mbhofdf.kortalanmuveszet.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820269/
 127.0.0.1 frngvyb.kortalanmuveszet.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820268/
 127.0.0.1 weekfoc.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1820267/
@@ -52132,4 +52135,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 52133
+# Number of entries: 52136
