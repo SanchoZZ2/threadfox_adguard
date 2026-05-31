@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 qsnovga.intelect.gr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820227/
+127.0.0.1 intelect.gr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820226/
+127.0.0.1 mexyzfs0.aktinovolia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820225/
+127.0.0.1 aktinovolia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820224/
 127.0.0.1 kccqafs.enviroment.gr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820223/
 127.0.0.1 enviroment.gr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820222/
 127.0.0.1 sqcbwqj.popi999.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1820217/
@@ -52099,4 +52103,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 52100
+# Number of entries: 52104
