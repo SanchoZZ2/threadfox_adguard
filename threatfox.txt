@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 my-electrum.at #payload_delivery https://threatfox.abuse.ch/ioc/1821473/
+127.0.0.1 electrumn.gr.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821474/
+127.0.0.1 safepalwallet.co.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821475/
+127.0.0.1 safepals.gr.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821476/
+127.0.0.1 safe-pal.gr.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821477/
+127.0.0.1 new-rabby.at #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821478/
+127.0.0.1 rabby.com.mx #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821479/
+127.0.0.1 ldgr.co.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821480/
+127.0.0.1 ledgerlive.ldgr.co.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821481/
+127.0.0.1 trust-wallet.gr.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821482/
+127.0.0.1 new-rabby.gr.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821483/
+127.0.0.1 safepal-app.co.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1821484/
+127.0.0.1 txtsm188.top #botnet_cc https://threatfox.abuse.ch/ioc/1821494/
+127.0.0.1 juk.canamrental.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1821512/
+127.0.0.1 juk.duitsm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1821510/
 127.0.0.1 caym.africa #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1821505/
 127.0.0.1 comfortconcept.com.co #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1821506/
 127.0.0.1 cspzm3hg.luxerabet1068.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1821499/
@@ -51980,4 +51995,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 51981
+# Number of entries: 51996
