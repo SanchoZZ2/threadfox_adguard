@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 laohe4.myvnc.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1821681/
+127.0.0.1 filezilla.cc #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1821679/
+127.0.0.1 dust.packetflow.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1821677/
+127.0.0.1 vdsina.vg #botnet_cc, win.count_loader, CountLoader https://threatfox.abuse.ch/ioc/1821676/
+127.0.0.1 yzqawgz5.7lf.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1821661/
+127.0.0.1 rp05pfgt.7lf.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1821660/
+127.0.0.1 feiyuwei.com #payload_delivery, win.latrodectus, BLACKWIDOW, IceNova https://threatfox.abuse.ch/ioc/1821605/
 127.0.0.1 vrlh0wdy.eutoor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1821651/
 127.0.0.1 ymihaw7a.eutoor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1821650/
 127.0.0.1 b7tibc5u.luxerabet1000.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1821632/
@@ -51610,4 +51617,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 51611
+# Number of entries: 51618
