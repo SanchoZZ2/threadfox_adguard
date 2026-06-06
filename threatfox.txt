@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 health.hazelkit.one #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1824015/
+127.0.0.1 proxy.willowfleet.click #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1824016/
+127.0.0.1 voltrix.tv #payload_delivery https://threatfox.abuse.ch/ioc/1824000/
+127.0.0.1 jjotnoj.jojobetuyelik.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1824007/
+127.0.0.1 !k!.jojobetuyelik.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1824006/
+127.0.0.1 jojobetuyelik.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1824005/
+127.0.0.1 zvxeaqm.jogodobicho.games #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823999/
+127.0.0.1 6ju7fjjz.bordoo.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823998/
+127.0.0.1 jdjgvaia.bordoo.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823997/
+127.0.0.1 i8lvkq19.bordino.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823996/
+127.0.0.1 4lm4v3bu.bet404.games #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823979/
+127.0.0.1 jrpzgr.jamejahani.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823973/
+127.0.0.1 vvxcqgv.jamjahani.world #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823972/
 127.0.0.1 xzz.proxygrid.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1823970/
 127.0.0.1 ubzfosw.jamjahani.win #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823968/
 127.0.0.1 jamjahani.win #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1823967/
@@ -51643,4 +51656,4 @@
 127.0.0.1 lysuht78.top #botnet_cc, win.cryptbot, CryptBot https://threatfox.abuse.ch/ioc/192710/
 127.0.0.1 mgc0147.hopto.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/161214/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
-# Number of entries: 51644
+# Number of entries: 51657
