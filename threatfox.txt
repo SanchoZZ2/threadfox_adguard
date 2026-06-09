@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 update-svc-4853.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/1825589/
+127.0.0.1 spasopro.at #botnet_cc, win.amadey, Amadey https://threatfox.abuse.ch/ioc/1825585/
+127.0.0.1 mirroflobsny.sytes.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1825583/
+127.0.0.1 wirroflobsny.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1825584/
+127.0.0.1 stringcard.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1825582/
+127.0.0.1 xepjlus.riverpoker1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825581/
+127.0.0.1 1tzunno5.onexboro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825580/
+127.0.0.1 pssoduvnzud.xyz #botnet_cc, win.servhelper, ServHelper https://threatfox.abuse.ch/ioc/1825574/
+127.0.0.1 dsfamsi4b.cn #botnet_cc, win.servhelper, ServHelper https://threatfox.abuse.ch/ioc/1825572/
+127.0.0.1 asfjjasguasus.xyz #botnet_cc, win.servhelper, ServHelper https://threatfox.abuse.ch/ioc/1825573/
 127.0.0.1 lrucuzu.rika90.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825566/
 127.0.0.1 six.lxb.monster #botnet_cc https://threatfox.abuse.ch/ioc/1825561/
 127.0.0.1 six.xiaoshabi.cc #botnet_cc https://threatfox.abuse.ch/ioc/1825562/
@@ -51511,4 +51521,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51512
+# Number of entries: 51522
