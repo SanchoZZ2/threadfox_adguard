@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lab99.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1825525/
+127.0.0.1 brezo.live #botnet_cc https://threatfox.abuse.ch/ioc/1825528/
+127.0.0.1 admin.brezo.live #botnet_cc https://threatfox.abuse.ch/ioc/1825529/
+127.0.0.1 hahaios.com #botnet_cc https://threatfox.abuse.ch/ioc/1825530/
+127.0.0.1 prmozcj.persian.sex #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825546/
+127.0.0.1 ckejpbj.one1xbet.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825543/
+127.0.0.1 ysqxkgi.mangobetfarsi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825540/
+127.0.0.1 updatemsnow.com #payload_delivery https://threatfox.abuse.ch/ioc/1825539/
+127.0.0.1 jegtdzjo.parsbet90.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825538/
+127.0.0.1 npbb3ds2.parsbet90.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825537/
+127.0.0.1 disxya.jamjahani.football #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825519/
+127.0.0.1 izmxgmj.pasoor11.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825518/
+127.0.0.1 oxtumf.jamjahani.football #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825512/
+127.0.0.1 uktbpnp.sabaad724.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825511/
+127.0.0.1 sabaad724.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825510/
+127.0.0.1 uckrcup.romabet90.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825509/
+127.0.0.1 romabet90.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825508/
 127.0.0.1 brbyxsj.riverpoker1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825507/
 127.0.0.1 riverpoker1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825506/
 127.0.0.1 qenkzpp.rika90.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1825505/
@@ -51476,4 +51493,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51477
+# Number of entries: 51494
