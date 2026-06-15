@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 moonzonet.com #botnet_cc https://threatfox.abuse.ch/ioc/1832450/
+127.0.0.1 metsfgsd.duckdns.org #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1832456/
+127.0.0.1 landgforce.duckdns.org #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1832457/
+127.0.0.1 two-verif.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1832460/
+127.0.0.1 mdf.co.za #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1832468/
+127.0.0.1 smenapodik.bond #payload_delivery https://threatfox.abuse.ch/ioc/1832467/
+127.0.0.1 ljhxazhv.mechanickhodakarami.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1832466/
+127.0.0.1 x8268vj9.hugugmadanikatouzian.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1832465/
+127.0.0.1 ckdydch.shansbartar.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1832464/
 127.0.0.1 aiaufdwh.masirpayambari.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1832463/
 127.0.0.1 rgojzoub.masaelmohandesi.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1832461/
 127.0.0.1 bodvlnfv.masaelmohandesi.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1832458/
@@ -48403,4 +48412,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48404
+# Number of entries: 48413
