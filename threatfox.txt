@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zaminshenasi.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833492/
+127.0.0.1 laculex.net #botnet_cc https://threatfox.abuse.ch/ioc/1833489/
+127.0.0.1 kuilfgfd.cc #botnet_cc https://threatfox.abuse.ch/ioc/1833488/
+127.0.0.1 code-verification-js.beer #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1833420/
+127.0.0.1 verification-code-js.beer #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1833421/
+127.0.0.1 chinarice.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1833422/
+127.0.0.1 corraia.icu #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1833446/
+127.0.0.1 one-confirm.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1833459/
 127.0.0.1 chinarice.asia #payload_delivery https://threatfox.abuse.ch/ioc/1833478/
 127.0.0.1 code-verification-js.beer #payload_delivery https://threatfox.abuse.ch/ioc/1833477/
 127.0.0.1 429jq7cf.ravanshenasi.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833472/
@@ -48308,4 +48316,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48309
+# Number of entries: 48317
