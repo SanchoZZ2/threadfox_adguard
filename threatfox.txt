@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 chinarice.asia #payload_delivery https://threatfox.abuse.ch/ioc/1833478/
+127.0.0.1 code-verification-js.beer #payload_delivery https://threatfox.abuse.ch/ioc/1833477/
+127.0.0.1 429jq7cf.ravanshenasi.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833472/
 127.0.0.1 c.360ctct.com #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1833468/
 127.0.0.1 bvsfuyvu.leaguejazire.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833466/
 127.0.0.1 ugygn.shartmag.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833465/
@@ -48305,4 +48308,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48306
+# Number of entries: 48309
