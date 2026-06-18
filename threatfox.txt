@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 iridla.space #payload_delivery https://threatfox.abuse.ch/ioc/1833780/
+127.0.0.1 cedarlanternhub.top #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1833776/
+127.0.0.1 8u88xbeq.pinbahiskade.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833782/
+127.0.0.1 pinbahiskade.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833781/
+127.0.0.1 titlereason.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1833779/
+127.0.0.1 wasthereasolutiin.airdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1833774/
 127.0.0.1 5zn1z0hp.dancebetyek.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833773/
 127.0.0.1 oxidbetkade.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833768/
 127.0.0.1 lnc1c2cf.anodaz.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833766/
@@ -48150,4 +48156,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48151
+# Number of entries: 48157
