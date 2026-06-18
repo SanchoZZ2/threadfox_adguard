@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 birdybird.rest #payload_delivery https://threatfox.abuse.ch/ioc/1833759/
+127.0.0.1 codecerification.beer #payload_delivery https://threatfox.abuse.ch/ioc/1833758/
+127.0.0.1 hostphpwindowsappsconecting.ydns.eu #payload_delivery, win.vjw0rm, Vjw0rm https://threatfox.abuse.ch/ioc/1833730/
+127.0.0.1 notificacionesfiscalescol.github.io #payload_delivery, win.vjw0rm, Vjw0rm https://threatfox.abuse.ch/ioc/1833736/
+127.0.0.1 9jdr35y2.kir.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833737/
+127.0.0.1 office-rechnung.top #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833734/
+127.0.0.1 small-morning-8be0.fsocietyandtools.workers.dev #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833735/
+127.0.0.1 office-rechnung.life #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833731/
+127.0.0.1 rechnung-lexware.top #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833732/
+127.0.0.1 office-rechnung.icu #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833733/
 127.0.0.1 assiamakki.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833644/
 127.0.0.1 divastreet.online #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833646/
 127.0.0.1 bit-line.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833645/
@@ -19204,25 +19214,25 @@
 127.0.0.1 eepaulz.ansmtpariba.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1782685/
 127.0.0.1 run-log.naminkaprocess.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782684/
 127.0.0.1 peakship.exceptionpong.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782349/
-127.0.0.1 microscall.com #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782387/
+127.0.0.1 microscall.com #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782387/
 127.0.0.1 play67.cc #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1782384/
-127.0.0.1 microscell.com #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782388/
-127.0.0.1 microsmeet.xyz #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782389/
+127.0.0.1 microscell.com #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782388/
+127.0.0.1 microsmeet.xyz #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782389/
 127.0.0.1 openclaw-cli.gr.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1782390/
 127.0.0.1 getmonero.gr.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1782391/
 127.0.0.1 electrum-wallet.gr.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1782392/
 127.0.0.1 electrum.us.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1782393/
 127.0.0.1 featherwallet.us.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1782394/
 127.0.0.1 mymonero.us.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1782395/
-127.0.0.1 microsmeet.com #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782398/
+127.0.0.1 microsmeet.com #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782398/
 127.0.0.1 certif.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1782444/
 127.0.0.1 root-source.ontogenesiscore.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782450/
-127.0.0.1 eu03live.us #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782472/
-127.0.0.1 msmeet.us #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782473/
-127.0.0.1 inteams.us #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782474/
-127.0.0.1 dencall.xyz #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782475/
-127.0.0.1 dentmt.us #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782476/
-127.0.0.1 coinlistnetwork.com #payload_delivery, osx.waveshaper, WAVESHAPER https://threatfox.abuse.ch/ioc/1782477/
+127.0.0.1 eu03live.us #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782472/
+127.0.0.1 msmeet.us #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782473/
+127.0.0.1 inteams.us #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782474/
+127.0.0.1 dencall.xyz #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782475/
+127.0.0.1 dentmt.us #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782476/
+127.0.0.1 coinlistnetwork.com #payload_delivery, osx.waveshaper, osx.curlyveiltea, WAVESHAPER https://threatfox.abuse.ch/ioc/1782477/
 127.0.0.1 work-flow.naminkaprocess.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1782681/
 127.0.0.1 wtp.msalifenterprise.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1782679/
 127.0.0.1 wtp.expertcs.au #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1782680/
@@ -48134,4 +48144,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48135
+# Number of entries: 48145
