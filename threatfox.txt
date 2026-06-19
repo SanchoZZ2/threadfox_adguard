@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xeno.getslax.com #payload_delivery https://threatfox.abuse.ch/ioc/1834047/
+127.0.0.1 khabarraja.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1834067/
+127.0.0.1 flowmasterservices.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1834074/
+127.0.0.1 golviewcheckus.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1834082/
+127.0.0.1 tiqwtkmma.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1834083/
+127.0.0.1 zbxcgtqt.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1834084/
+127.0.0.1 coraline.buzz #payload_delivery https://threatfox.abuse.ch/ioc/1834085/
+127.0.0.1 ivorycourtyard.top #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1834088/
+127.0.0.1 beroniw.com #payload_delivery, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1834090/
+127.0.0.1 prd.rzrrent.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1834095/
+127.0.0.1 prd.harussm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1834093/
+127.0.0.1 eub0atxx.tafsirnasiri.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1834086/
 127.0.0.1 borb5c9q.megaparikade.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1834078/
 127.0.0.1 updateyoursoft.com #payload_delivery https://threatfox.abuse.ch/ioc/1834073/
 127.0.0.1 freesoftupdater.com #payload_delivery https://threatfox.abuse.ch/ioc/1834072/
@@ -47944,4 +47956,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47945
+# Number of entries: 47957
