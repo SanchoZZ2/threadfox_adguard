@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 api-ext.bixbitemarketing.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1834037/
+127.0.0.1 porkitao08.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1834038/
+127.0.0.1 dy6t49rl.akhlagvaahkam.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1834028/
+127.0.0.1 lh7umyc5.riyazishahkilid.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1834027/
+127.0.0.1 riyazishahkilid.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1834026/
+127.0.0.1 l6tafmqurswrpajwgnvpnpnpd77xavfm4n52xqfsjfltnersjv2fxoqd.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834012/
+127.0.0.1 kff3b66znolwznie6cinz2pecxrrxpeptwuzeudaed63viv4fbnketyd.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834013/
+127.0.0.1 7egbakn4anfwdtase7fnkgsdpywl4mtsxwpud4ou5lxjjhy4qthv4vid.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834014/
+127.0.0.1 5vmjqdfmmtkvk74uj2khkndrxjmgzbspzugk5a5rzd3upntc7wi5reyd.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834015/
+127.0.0.1 lntvtlvl6gn35aa4coklqubskx5r3d6j42onywz7llzf3anetqtoepyd.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834016/
+127.0.0.1 a2ahyvmwbfcw7vvdnaddwbvezlpcjvfszdnuer3l6aqnwdzermm7csyd.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834017/
+127.0.0.1 xxs3dmkoflcfrkon7a2guje2ojsyv63z7eyxpctjota7xil646v4byyd.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834018/
+127.0.0.1 smqqrbvjf7kfcikigbq5hxzq5y6n2as7oy4bmb6dsrb4keyn3korxcid.onion #botnet_cc, win.lockbit, ABCD Ransomware, LockBit https://threatfox.abuse.ch/ioc/1834019/
 127.0.0.1 imodobeness.at #botnet_cc, elf.ngioweb, Ngioweb https://threatfox.abuse.ch/ioc/1833833/
 127.0.0.1 iruledolical.org #botnet_cc, elf.ngioweb, Ngioweb https://threatfox.abuse.ch/ioc/1833834/
 127.0.0.1 unibokosion.cc #botnet_cc, elf.ngioweb, Ngioweb https://threatfox.abuse.ch/ioc/1833835/
@@ -47919,4 +47932,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47920
+# Number of entries: 47933
