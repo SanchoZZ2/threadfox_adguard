@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 megapariwin.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835515/
+127.0.0.1 fjaoi5is.megaparibet.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835514/
+127.0.0.1 megaparibet.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835513/
+127.0.0.1 idverification-code.beer #payload_delivery https://threatfox.abuse.ch/ioc/1835471/
+127.0.0.1 copysofort.org #botnet_cc https://threatfox.abuse.ch/ioc/1835427/
+127.0.0.1 thisisafalsepositive.st #botnet_cc https://threatfox.abuse.ch/ioc/1835399/
+127.0.0.1 api.r0csgo.com #botnet_cc, win.4h_rat, 4h_rat https://threatfox.abuse.ch/ioc/1835423/
+127.0.0.1 ac-api-v3.r0csgo.com #botnet_cc, win.4h_rat, 4h_rat https://threatfox.abuse.ch/ioc/1835424/
+127.0.0.1 ac-socket.r0csgo.com #botnet_cc, win.4h_rat, 4h_rat https://threatfox.abuse.ch/ioc/1835425/
+127.0.0.1 local-api-direct.r0csgo.com #botnet_cc, win.4h_rat, 4h_rat https://threatfox.abuse.ch/ioc/1835426/
+127.0.0.1 cht.hitamsm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1835413/
+127.0.0.1 cht.utvrent.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1835414/
 127.0.0.1 megaparibet.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835377/
 127.0.0.1 ranoz.gg #payload_delivery, win.5t_downloader, 5.t Downloader https://threatfox.abuse.ch/ioc/1835352/
 127.0.0.1 lockr.so #payload_delivery, win.5t_downloader, 5.t Downloader https://threatfox.abuse.ch/ioc/1835353/
@@ -47584,4 +47596,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47585
+# Number of entries: 47597
