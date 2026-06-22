@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ruffyayeaye.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835539/
+127.0.0.1 bonavol.com #payload_delivery https://threatfox.abuse.ch/ioc/1835438/
+127.0.0.1 leakads.com #payload_delivery https://threatfox.abuse.ch/ioc/1835439/
+127.0.0.1 animal342.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835516/
+127.0.0.1 animal342bk.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835517/
 127.0.0.1 megapariwin.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835515/
 127.0.0.1 fjaoi5is.megaparibet.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835514/
 127.0.0.1 megaparibet.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835513/
@@ -47596,4 +47601,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47597
+# Number of entries: 47602
