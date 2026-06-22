@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 c4cxraym.megaparicom.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835930/
+127.0.0.1 megaparicom.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835929/
+127.0.0.1 www.iltat.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835910/
+127.0.0.1 www.iltatbackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835911/
+127.0.0.1 www.iltatbackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835912/
+127.0.0.1 www.cbcleib.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835909/
 127.0.0.1 www.webdevarrayremcobackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835899/
 127.0.0.1 www.webdevarrayremcobackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835900/
 127.0.0.1 www.webdevarrayremcobackup3.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1835901/
@@ -47662,4 +47668,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47663
+# Number of entries: 47669
