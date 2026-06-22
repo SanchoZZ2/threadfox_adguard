@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 megaparivip.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836180/
+127.0.0.1 megaparivip.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836179/
 127.0.0.1 xbf6th7x.megaparicom.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836154/
 127.0.0.1 findyoursoftupdate.com #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1836147/
 127.0.0.1 one1xbetfa.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836135/
@@ -47675,4 +47677,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47676
+# Number of entries: 47678
