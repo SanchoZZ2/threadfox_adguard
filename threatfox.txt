@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jetbt7.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836727/
+127.0.0.1 m2p5bg3q.ahkam.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836724/
+127.0.0.1 annexs.xyz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1836723/
 127.0.0.1 genddos.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1836367/
 127.0.0.1 three.followfromapps.icu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836369/
 127.0.0.1 reef-swan-lagoon.pages.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836370/
@@ -47210,4 +47213,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47211
+# Number of entries: 47214
