@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 genddos.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1836367/
+127.0.0.1 three.followfromapps.icu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836369/
+127.0.0.1 reef-swan-lagoon.pages.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836370/
+127.0.0.1 barmaleieba.lol #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836681/
+127.0.0.1 cdn-speed.beer #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836682/
+127.0.0.1 merkantalolol.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836684/
+127.0.0.1 code.verification-claude-cdn.beer #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836683/
+127.0.0.1 superboomer.world #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836685/
+127.0.0.1 globalchrome.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836689/
+127.0.0.1 kyard07v.vip1xbet.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836710/
 127.0.0.1 arop4gtf.jetbt6.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836709/
 127.0.0.1 jetbt6.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836708/
 127.0.0.1 www.rmsmarineservice.com.qwqqwq.ggff.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1836703/
@@ -47200,4 +47210,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47201
+# Number of entries: 47211
