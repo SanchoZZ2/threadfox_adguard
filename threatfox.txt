@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 icro-soft.com #botnet_cc, win.overlord, Overlord RAT https://threatfox.abuse.ch/ioc/1838528/
+127.0.0.1 hoteljune2026.blogspot.com #payload_delivery, win.overlord, Overlord RAT https://threatfox.abuse.ch/ioc/1838527/
+127.0.0.1 bukuru.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1838525/
+127.0.0.1 skillboxultra.live #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1838461/
+127.0.0.1 sailboaterists.net #botnet_cc https://threatfox.abuse.ch/ioc/1838469/
+127.0.0.1 bins.oceanic-node.su #payload_delivery, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1838471/
+127.0.0.1 mdsearch.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1838516/
+127.0.0.1 madproxys.top #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1838518/
+127.0.0.1 olddenver.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1838166/
+127.0.0.1 sdnstatistic.com #botnet_cc https://threatfox.abuse.ch/ioc/1838163/
+127.0.0.1 africadasi.org #payload_delivery https://threatfox.abuse.ch/ioc/1838191/
+127.0.0.1 closegate21.xyz #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1838521/
+127.0.0.1 85xhbv2q.shartcart.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1838515/
 127.0.0.1 samplerace.info #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1838495/
 127.0.0.1 7pkztjkc.1xbetpartnersiran.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1838494/
 127.0.0.1 tszebpwz.1xprobet.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1838488/
@@ -47082,4 +47095,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47083
+# Number of entries: 47096
