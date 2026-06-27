@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bcb7ukdo.tinyshart.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1838597/
 127.0.0.1 icro-soft.com #botnet_cc, win.overlord, Overlord RAT https://threatfox.abuse.ch/ioc/1838528/
 127.0.0.1 hoteljune2026.blogspot.com #payload_delivery, win.overlord, Overlord RAT https://threatfox.abuse.ch/ioc/1838527/
 127.0.0.1 bukuru.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1838525/
@@ -42966,6 +42967,7 @@
 127.0.0.1 cathost.io #botnet_cc, win.havoc, Havokiz, Havoc https://threatfox.abuse.ch/ioc/1690695/
 127.0.0.1 ispolic.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1690694/
 127.0.0.1 dj6q.ignorelist.com #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1690692/
+127.0.0.1 smartlivingstyle.cat #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690537/
 127.0.0.1 chinollek-51048.portmap.host #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1689868/
 127.0.0.1 1911.oss #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1689849/
 127.0.0.1 relaynet.parody #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1689850/
@@ -47095,4 +47097,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47096
+# Number of entries: 47098
