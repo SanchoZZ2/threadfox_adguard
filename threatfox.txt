@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 751.lol #botnet_cc https://threatfox.abuse.ch/ioc/1839237/
+127.0.0.1 plaguec2.cc #botnet_cc https://threatfox.abuse.ch/ioc/1839243/
+127.0.0.1 updatesrv.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1839238/
+127.0.0.1 web-analyzer-serv32.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1839239/
 127.0.0.1 jiy.psgiran.news #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1839233/
 127.0.0.1 jiy.jangkarsm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1839231/
 127.0.0.1 39p49guo.mokatebatedari.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839230/
@@ -3450,14 +3454,14 @@
 127.0.0.1 qll4p9fw.one1xiran.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1824621/
 127.0.0.1 jfdewff.link #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/1824570/
 127.0.0.1 musonare.top #botnet_cc, win.metastealer, MetaStealer https://threatfox.abuse.ch/ioc/1824571/
-127.0.0.1 proxybox.io #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824586/
-127.0.0.1 vsttorentz.net #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824587/
-127.0.0.1 proxy.am #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824588/
-127.0.0.1 ejvphud.ua #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824589/
-127.0.0.1 gdpkvkr.com #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824590/
-127.0.0.1 bwiesit.com #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824591/
-127.0.0.1 goeiwef.com #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824592/
-127.0.0.1 kruxjou.ua #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1824593/
+127.0.0.1 proxybox.io #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824586/
+127.0.0.1 vsttorentz.net #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824587/
+127.0.0.1 proxy.am #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824588/
+127.0.0.1 ejvphud.ua #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824589/
+127.0.0.1 gdpkvkr.com #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824590/
+127.0.0.1 bwiesit.com #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824591/
+127.0.0.1 goeiwef.com #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824592/
+127.0.0.1 kruxjou.ua #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1824593/
 127.0.0.1 shadownbr.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1824594/
 127.0.0.1 ricardotro.duckdns.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1824595/
 127.0.0.1 rjnfjrtc.pwrp.cc #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1824596/
@@ -35683,7 +35687,7 @@
 127.0.0.1 liveroad.urbanpulse.coupons #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1750324/
 127.0.0.1 tue.gadgetwalabd.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1750307/
 127.0.0.1 tue.alpinematters.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1750308/
-127.0.0.1 kitsoinsbebeclique.shop #botnet_cc, win.socks5_systemz, ProxyBox, Socks5 Systemz https://threatfox.abuse.ch/ioc/1750283/
+127.0.0.1 kitsoinsbebeclique.shop #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1750283/
 127.0.0.1 truckpig.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1750275/
 127.0.0.1 healthiron.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1750276/
 127.0.0.1 controlprice.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1750277/
@@ -46891,4 +46895,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 46892
+# Number of entries: 46896
