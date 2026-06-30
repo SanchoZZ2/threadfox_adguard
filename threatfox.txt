@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 superwebprotection.com #payload_delivery https://threatfox.abuse.ch/ioc/1840399/
+127.0.0.1 exclusivecloudprotection.com #payload_delivery https://threatfox.abuse.ch/ioc/1840398/
+127.0.0.1 extrafireprotection.com #payload_delivery https://threatfox.abuse.ch/ioc/1840397/
+127.0.0.1 zaserz.com #payload_delivery https://threatfox.abuse.ch/ioc/1840395/
+127.0.0.1 cess.digishart.news #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840394/
+127.0.0.1 digishart.news #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840393/
+127.0.0.1 vxg18bmc.btyek.baby #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840392/
+127.0.0.1 btyek.baby #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840391/
 127.0.0.1 nettask6209.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1840331/
 127.0.0.1 abernaahy.sbs #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1840361/
 127.0.0.1 chatgpt-backup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840366/
@@ -47142,4 +47150,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47143
+# Number of entries: 47151
