@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 php-panel.letsgoautomotive.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1839848/
+127.0.0.1 code-beautify.com #payload_delivery, js.beavertail, BeaverTail https://threatfox.abuse.ch/ioc/1839896/
+127.0.0.1 ipregionchecker.org #payload_delivery, js.beavertail, BeaverTail https://threatfox.abuse.ch/ioc/1839897/
+127.0.0.1 ackeamann.xyz #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1840073/
+127.0.0.1 cleardig477.icu #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1840077/
+127.0.0.1 superfirewallprotection.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1840079/
+127.0.0.1 moderncloudprotection.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1840080/
+127.0.0.1 publicwebprotection.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1840081/
+127.0.0.1 api-v2.golfsignpro.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1840158/
+127.0.0.1 cloud.api-middle-connect.com #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1840180/
 127.0.0.1 46imdg6k.blackjackonlineplay83.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840197/
 127.0.0.1 328bpzpg.313betapk.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840192/
 127.0.0.1 uhv95fx8.betbuf.live #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840187/
@@ -47070,4 +47080,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47071
+# Number of entries: 47081
