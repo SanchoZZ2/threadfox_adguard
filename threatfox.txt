@@ -1,4 +1,28 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x4ii4c50.btyek.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840701/
+127.0.0.1 btyek.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840698/
+127.0.0.1 zaserz.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840401/
+127.0.0.1 exclusivecloudprotection.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840408/
+127.0.0.1 superwebprotection.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840407/
+127.0.0.1 extrafireprotection.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840409/
+127.0.0.1 photo-download-drive.info #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1840410/
+127.0.0.1 arigatodomen.sbs #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840411/
+127.0.0.1 barmaleieba.lol #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840412/
+127.0.0.1 bibliorock.lol #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840413/
+127.0.0.1 gasshopper.sale #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840414/
+127.0.0.1 mebanebols.trade #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840415/
+127.0.0.1 memshowblob.forum #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840416/
+127.0.0.1 merkantalolol.asia #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840417/
+127.0.0.1 mexicodreams.bond #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840418/
+127.0.0.1 mob.lanjut.in #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840419/
+127.0.0.1 peachbro.bond #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840420/
+127.0.0.1 pilotkadomen.club #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840421/
+127.0.0.1 pinokros.xyz #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840422/
+127.0.0.1 pringlesbob.cfd #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840423/
+127.0.0.1 superboomer.world #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840424/
+127.0.0.1 unlimitsquid.info #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1840427/
+127.0.0.1 cloudsflere.agency #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1840428/
+127.0.0.1 schuttc.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1840693/
 127.0.0.1 njb2hl8n.betobord.live #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840686/
 127.0.0.1 betobord.live #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840685/
 127.0.0.1 cxsbf6om.betmajickade.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840684/
@@ -1033,7 +1057,6 @@
 127.0.0.1 bksnb.com #botnet_cc, win.netsupportmanager_rat, NetSupport, NetSupportManager RAT https://threatfox.abuse.ch/ioc/1837183/
 127.0.0.1 unsinkable.boats #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1837159/
 127.0.0.1 ledesla.cfd #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1837058/
-127.0.0.1 packsmc.com #payload_delivery, win.5t_downloader, 5.t Downloader https://threatfox.abuse.ch/ioc/1837041/
 127.0.0.1 yellowrace.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1837042/
 127.0.0.1 impresa.pub #payload_delivery, elf.backdoorit, backd00rit, Backdoorit https://threatfox.abuse.ch/ioc/1837044/
 127.0.0.1 ext4-v.top #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1837063/
@@ -47003,4 +47026,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47004
+# Number of entries: 47027
