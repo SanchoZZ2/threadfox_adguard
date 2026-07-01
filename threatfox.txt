@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 admiration-noble.sbs #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1840753/
+127.0.0.1 jrfrggyb.crash.promo #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840752/
+127.0.0.1 crash.promo #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840751/
 127.0.0.1 jjl.psgiran.news #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840733/
 127.0.0.1 jjl.jangkarsm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1840731/
 127.0.0.1 mdftw8lo.btyek.website #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1840729/
@@ -47036,4 +47039,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 47037
+# Number of entries: 47040
