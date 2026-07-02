@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dynabot.monster #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1843407/
+127.0.0.1 headlock.ru #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1843408/
+127.0.0.1 rfdatuh.yek.boats #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1843410/
+127.0.0.1 yek.boats #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1843409/
+127.0.0.1 zeero.skin #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1843403/
+127.0.0.1 simultaneouslypower.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1843284/
+127.0.0.1 wiselystarting.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1843285/
+127.0.0.1 itemrange.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1843286/
+127.0.0.1 sap.dev.rw.digital #payload_delivery https://threatfox.abuse.ch/ioc/1843301/
+127.0.0.1 essentialnestshop.com #payload_delivery https://threatfox.abuse.ch/ioc/1843314/
+127.0.0.1 ope.jokimecat88.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1843389/
+127.0.0.1 mail.catsec.ink #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1843384/
+127.0.0.1 smtp.catsec.ink #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1843385/
+127.0.0.1 p5tnetyi.footb.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1843388/
 127.0.0.1 rf9s1gc5.footb.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1843387/
 127.0.0.1 mrjeehw.yek.beauty #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1843382/
 127.0.0.1 eayuhgu.xbetone.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1843375/
@@ -46803,4 +46817,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 46804
+# Number of entries: 46818
