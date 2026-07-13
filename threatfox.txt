@@ -1,4 +1,60 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 telemetry.incidentcenter.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1850031/
+127.0.0.1 cloudgateway.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1850029/
+127.0.0.1 releases.cloudgateway.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1850030/
+127.0.0.1 sermver.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1850028/
+127.0.0.1 godpleaseblessmyworkiwanttogive.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1850027/
+127.0.0.1 odoba.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1850026/
+127.0.0.1 ftp.maytestlasb.com #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1850025/
+127.0.0.1 lgmkszyl.site-shartbandi-farsi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850018/
+127.0.0.1 ljlmzirx.site-shartbandi-farsi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850017/
+127.0.0.1 qnu58lbv.varzeshlife.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850016/
+127.0.0.1 ryodr8kw.varzeshlife.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850015/
+127.0.0.1 cacophonydiaphanous-acquiesce.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1849916/
+127.0.0.1 digitalenterprise2026.com #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1849918/
+127.0.0.1 iwannagetmoremoney.beer #payload_delivery, win.hijackloader, DOILoader, GHOSTPULSE https://threatfox.abuse.ch/ioc/1849922/
+127.0.0.1 slippingpit61353.icu #payload_delivery, win.hijackloader, DOILoader, GHOSTPULSE https://threatfox.abuse.ch/ioc/1849923/
+127.0.0.1 0id1.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849934/
+127.0.0.1 0id2.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849935/
+127.0.0.1 0id3.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849936/
+127.0.0.1 0id5.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849938/
+127.0.0.1 0id4.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849937/
+127.0.0.1 0id6.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849939/
+127.0.0.1 0id7.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849940/
+127.0.0.1 0id8.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849941/
+127.0.0.1 0id9.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849942/
+127.0.0.1 authid1.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849943/
+127.0.0.1 authid2.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849944/
+127.0.0.1 authid3.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849945/
+127.0.0.1 authid4.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849946/
+127.0.0.1 authid5.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849947/
+127.0.0.1 authid6.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849948/
+127.0.0.1 authid7.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1849949/
+127.0.0.1 lb-rnypyjwi-rzm2gb9ys7wtc4u0.clb.sg-tencentclb.net #botnet_cc https://threatfox.abuse.ch/ioc/1849980/
+127.0.0.1 lb-ndrq4ayq-1h7mf9psqdkb65lv.clb.sg-tencentclb.net #botnet_cc https://threatfox.abuse.ch/ioc/1849981/
+127.0.0.1 c.gbwhat.pro #botnet_cc https://threatfox.abuse.ch/ioc/1849982/
+127.0.0.1 h5.gbwhatsapp.download #botnet_cc https://threatfox.abuse.ch/ioc/1849983/
+127.0.0.1 gbwaapps.org #payload_delivery https://threatfox.abuse.ch/ioc/1849984/
+127.0.0.1 gb-dwnplus.org #payload_delivery https://threatfox.abuse.ch/ioc/1849985/
+127.0.0.1 gbw.cmpc.fun #payload_delivery https://threatfox.abuse.ch/ioc/1849986/
+127.0.0.1 ug.gbwhat.pro #payload_delivery https://threatfox.abuse.ch/ioc/1849987/
+127.0.0.1 ug.whatsplus.online #payload_delivery https://threatfox.abuse.ch/ioc/1849988/
+127.0.0.1 ug.obwhatsappdownload.com #payload_delivery https://threatfox.abuse.ch/ioc/1849989/
+127.0.0.1 gbappze.com #payload_delivery https://threatfox.abuse.ch/ioc/1849990/
+127.0.0.1 app.gbwhat.pro #payload_delivery https://threatfox.abuse.ch/ioc/1849991/
+127.0.0.1 app.whatsplus.online #payload_delivery https://threatfox.abuse.ch/ioc/1849992/
+127.0.0.1 static.cdns.space #botnet_cc https://threatfox.abuse.ch/ioc/1849993/
+127.0.0.1 origin-apk.gbwhat.pro #botnet_cc https://threatfox.abuse.ch/ioc/1849996/
+127.0.0.1 apk.obwhatsappdownload.com #botnet_cc https://threatfox.abuse.ch/ioc/1849994/
+127.0.0.1 apk.whatsplusdownload.com #botnet_cc https://threatfox.abuse.ch/ioc/1849995/
+127.0.0.1 origin-apk.obwhatsappdownload.com #botnet_cc https://threatfox.abuse.ch/ioc/1849997/
+127.0.0.1 origin-ug.whatsplus.online #botnet_cc https://threatfox.abuse.ch/ioc/1849998/
+127.0.0.1 origin-www.whatsplus.online #botnet_cc https://threatfox.abuse.ch/ioc/1849999/
+127.0.0.1 moonlitprovince.top #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1850009/
+127.0.0.1 twimg.media #payload_delivery https://threatfox.abuse.ch/ioc/1850011/
+127.0.0.1 hxea.psikologer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850014/
+127.0.0.1 xhqt.psikologer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850013/
+127.0.0.1 psikologer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850012/
 127.0.0.1 obsudfch.site-shartbandi-enfejar.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850002/
 127.0.0.1 wbffakmr.site-shartbandi-enfejar.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850001/
 127.0.0.1 site-shartbandi-enfejar.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850000/
@@ -48134,4 +48190,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48135
+# Number of entries: 48191
