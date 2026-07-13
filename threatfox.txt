@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bapp.netlink-connect.com #botnet_cc https://threatfox.abuse.ch/ioc/1849784/
+127.0.0.1 schuctz.click #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1849794/
+127.0.0.1 rrbc.betpublic.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849800/
+127.0.0.1 stvdwyqw.site-asli-bedon-filter-1xbet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849799/
+127.0.0.1 grajnalm.site-asli-bedon-filter-1xbet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849798/
+127.0.0.1 rqsjaodh.site-asli-bedon-filter-1xbet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849797/
+127.0.0.1 gate-dock.deryuga-sablist.garden #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849792/
+127.0.0.1 zzcg.bet90forward.win #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849787/
+127.0.0.1 zucx.bet90forward.win #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849786/
+127.0.0.1 kaumdowe.jadoou.sbs #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849785/
+127.0.0.1 2cca57zt.onjabet1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849768/
+127.0.0.1 tzcy9ec8.onjabet1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849767/
+127.0.0.1 ulgqmzld.jadoou.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849765/
 127.0.0.1 dzjr.bekabet.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849764/
 127.0.0.1 rjhrnhqj.jadoou.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849763/
 127.0.0.1 qwfh.bekabet.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1849762/
@@ -48090,4 +48103,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48091
+# Number of entries: 48104
