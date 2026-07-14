@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 marjdl.pro #payload_delivery https://threatfox.abuse.ch/ioc/1850169/
+127.0.0.1 gksn.bahigo90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850162/
+127.0.0.1 feulntzw.site-shartbandi-farsi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850157/
+127.0.0.1 woolstem.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1850156/
+127.0.0.1 moonshadowforge.top #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1850155/
+127.0.0.1 endpoint.project0.cc #botnet_cc, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1850151/
+127.0.0.1 ftp.fibrasanchez.com #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1850154/
 127.0.0.1 zrul.bahigo90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850150/
 127.0.0.1 ydfa.bahigo90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850149/
 127.0.0.1 zwtocirl.site-shartbandi-farsi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1850148/
@@ -48058,4 +48065,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48059
+# Number of entries: 48066
