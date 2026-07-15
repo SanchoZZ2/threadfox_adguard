@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 teamslinkintegrate.com #payload_delivery https://threatfox.abuse.ch/ioc/1851224/
+127.0.0.1 tlinkintegrations.eu #payload_delivery https://threatfox.abuse.ch/ioc/1851225/
+127.0.0.1 ua-chrome.net #payload_delivery https://threatfox.abuse.ch/ioc/1851226/
+127.0.0.1 f-codebase.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1851182/
+127.0.0.1 free-api.travelaccex.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1851200/
 127.0.0.1 tssjiwjfx.hazzarat.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1851213/
 127.0.0.1 opeendacc.efcasino.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1851212/
 127.0.0.1 dohnx2bh.hazaratbet.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1851211/
@@ -48377,4 +48382,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48378
+# Number of entries: 48383
