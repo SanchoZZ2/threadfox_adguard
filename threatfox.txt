@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 auth-id-browser.info #payload_delivery https://threatfox.abuse.ch/ioc/1853327/
+127.0.0.1 babelo.pro #payload_delivery https://threatfox.abuse.ch/ioc/1853326/
+127.0.0.1 baboke.pro #payload_delivery https://threatfox.abuse.ch/ioc/1853325/
+127.0.0.1 lbtzq.funxbet.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853319/
+127.0.0.1 kgptwmgqf.taktikkbet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853318/
+127.0.0.1 voidravenstorm.top #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1853317/
+127.0.0.1 yblfhadfu.mango90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853316/
+127.0.0.1 mango90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853315/
 127.0.0.1 rmxohycah.sky7bet.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853308/
 127.0.0.1 heork.derbi.promo #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853306/
 127.0.0.1 8862moud.mikespizzafairfield.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853305/
@@ -49183,4 +49191,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49184
+# Number of entries: 49192
