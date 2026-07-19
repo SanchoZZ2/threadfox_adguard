@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 web-captcha.co #payload_delivery https://threatfox.abuse.ch/ioc/1853825/
+127.0.0.1 stqdx.gominhabjj.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853822/
+127.0.0.1 gominhabjj.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853821/
+127.0.0.1 wlgv.famscargo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853817/
+127.0.0.1 famscargo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853811/
+127.0.0.1 z15e6bey.nextbahis.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853810/
 127.0.0.1 traile4-branch.immer-weeping.garden #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853807/
 127.0.0.1 qrt.arizonafamilylawfirm.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853806/
 127.0.0.1 imccj.gobgem.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1853804/
@@ -49131,4 +49137,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49132
+# Number of entries: 49138
