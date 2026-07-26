@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 persistfromchicago.com #botnet_cc https://threatfox.abuse.ch/ioc/1858538/
+127.0.0.1 n1.persistfromchicago.com #botnet_cc https://threatfox.abuse.ch/ioc/1858539/
+127.0.0.1 tractor.persistfromchicago.com #botnet_cc https://threatfox.abuse.ch/ioc/1858540/
+127.0.0.1 boblazar.inhumanencounters.org #botnet_cc https://threatfox.abuse.ch/ioc/1858535/
+127.0.0.1 roswell.inhumanencounters.org #botnet_cc https://threatfox.abuse.ch/ioc/1858536/
+127.0.0.1 cocoa.inhumanencounters.org #botnet_cc https://threatfox.abuse.ch/ioc/1858537/
+127.0.0.1 o.peer4you.net #botnet_cc https://threatfox.abuse.ch/ioc/1858534/
+127.0.0.1 i.peer4you.net #botnet_cc https://threatfox.abuse.ch/ioc/1858533/
+127.0.0.1 uioczl.lipoviveofficials.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858530/
+127.0.0.1 lipoviveofficials.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858529/
+127.0.0.1 femboys.chloebulldog.online #botnet_cc https://threatfox.abuse.ch/ioc/1858522/
+127.0.0.1 mythickass.onthewifi.com #botnet_cc https://threatfox.abuse.ch/ioc/1858523/
+127.0.0.1 pay.datasurge.vip #botnet_cc https://threatfox.abuse.ch/ioc/1858521/
+127.0.0.1 eport.datasurge.vip #botnet_cc https://threatfox.abuse.ch/ioc/1858520/
+127.0.0.1 datasurge-bot.store #botnet_cc https://threatfox.abuse.ch/ioc/1858517/
+127.0.0.1 datasurge-bot.online #botnet_cc https://threatfox.abuse.ch/ioc/1858518/
+127.0.0.1 datasurge-bot.info #botnet_cc https://threatfox.abuse.ch/ioc/1858519/
+127.0.0.1 datasurge-bot.com #botnet_cc https://threatfox.abuse.ch/ioc/1858515/
 127.0.0.1 hdpwuj.lipogumme.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858514/
 127.0.0.1 lipogumme.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858513/
 127.0.0.1 lhowdz.lockedinwestmont.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858501/
@@ -48031,6 +48049,7 @@
 127.0.0.1 shee.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1592226/
 127.0.0.1 cnn9001.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1589926/
 127.0.0.1 nzekanze2013.hopto.org #botnet_cc, win.netwire, NetWeird, NetWire https://threatfox.abuse.ch/ioc/1589334/
+127.0.0.1 report.datasurge.vip #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1589336/
 127.0.0.1 asesorarcolom.crabdance.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1587255/
 127.0.0.1 onanothertry.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1587254/
 127.0.0.1 dvrxpert.tiananmensquare1989.su #botnet_cc, elf.aisuru, Aisuru https://threatfox.abuse.ch/ioc/1585670/
@@ -49335,4 +49354,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49336
+# Number of entries: 49355
