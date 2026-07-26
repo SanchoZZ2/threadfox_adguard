@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 extranet-helpdesk15.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1858113/
+127.0.0.1 ealzou.ushealthlaboratories.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858112/
+127.0.0.1 zzjrse.usen-pegasus.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858104/
+127.0.0.1 usen-pegasus.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858103/
 127.0.0.1 fjedaz.us-en-pegasus.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858025/
 127.0.0.1 us-en-pegasus.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858024/
 127.0.0.1 qttqcz.lexsecurityco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1858018/
@@ -49222,4 +49226,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49223
+# Number of entries: 49227
