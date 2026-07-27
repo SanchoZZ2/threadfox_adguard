@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 us-en-us-spartamax.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1860027/
+127.0.0.1 cepliss.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1860026/
+127.0.0.1 us-en-us-pegasus.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1860025/
+127.0.0.1 pmmcin.thelibertytoken.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1860000/
+127.0.0.1 thelibertytoken.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859999/
+127.0.0.1 imsbap.thelibertytoken.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859998/
 127.0.0.1 vmjkew.thelibertytoken.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859995/
 127.0.0.1 thelibertytoken.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859994/
 127.0.0.1 v0hkpadr04mbz5lkearqa.com #botnet_cc, win.pure_rat, PureHVNC, ResolverRAT https://threatfox.abuse.ch/ioc/1859993/
@@ -49736,4 +49742,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49737
+# Number of entries: 49743
