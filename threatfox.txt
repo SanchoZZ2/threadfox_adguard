@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 queensparkhotel.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863455/
+127.0.0.1 aaaa1.guiowow.com #botnet_cc https://threatfox.abuse.ch/ioc/1863453/
+127.0.0.1 aa.sxghzj.cn #botnet_cc https://threatfox.abuse.ch/ioc/1863454/
+127.0.0.1 caymansixsenses.com #payload_delivery https://threatfox.abuse.ch/ioc/1863452/
+127.0.0.1 tom-yy.top #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1863449/
+127.0.0.1 vqjlbv.pizzadays.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863443/
+127.0.0.1 pizzadays.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863442/
+127.0.0.1 nlbuiak.ptologisticsandfreight.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863441/
+127.0.0.1 ptologisticsandfreight.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863438/
+127.0.0.1 evyahvhbwbsxufviky.energyrefundhelpline.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863437/
 127.0.0.1 energyrefundhelpline.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863436/
 127.0.0.1 zapas-xoga-cig.cc #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863435/
 127.0.0.1 npoxns.pinellascountyroofers.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863434/
@@ -10231,6 +10241,7 @@
 127.0.0.1 hubscore.io #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1836365/
 127.0.0.1 newpopularimages.com #botnet_cc https://threatfox.abuse.ch/ioc/1836352/
 127.0.0.1 editdocumentfree.com #botnet_cc https://threatfox.abuse.ch/ioc/1836353/
+127.0.0.1 ibharcan.com #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1836331/
 127.0.0.1 b.360ctct.com #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1836343/
 127.0.0.1 huu.holidaysm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836337/
 127.0.0.1 bestcheats.space #payload_delivery https://threatfox.abuse.ch/ioc/1836324/
@@ -50895,6 +50906,7 @@
 127.0.0.1 salwanazeeze.ddns.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1137272/
 127.0.0.1 salwanazeeze.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1137273/
 127.0.0.1 c_2_s.flash-cn.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1136930/
+127.0.0.1 aaa.ad4min.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1136627/
 127.0.0.1 pedagogists.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1135804/
 127.0.0.1 cdnsupply.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1135803/
 127.0.0.1 localhost.exchange #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1135028/
@@ -51485,4 +51497,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51486
+# Number of entries: 51498
