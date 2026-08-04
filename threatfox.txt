@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 general-sample.space #payload_delivery https://threatfox.abuse.ch/ioc/1868266/
+127.0.0.1 nxvuavg.now-we-wait.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868265/
+127.0.0.1 gzdlal.naldoricketts.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868264/
+127.0.0.1 now-we-wait.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868263/
+127.0.0.1 naldoricketts.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868262/
+127.0.0.1 khtlqekj.lamournails.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868261/
+127.0.0.1 iewtfyd.novemberstar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868249/
+127.0.0.1 novemberstar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868243/
+127.0.0.1 belzvc.nakliyemistanbul.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868242/
+127.0.0.1 nakliyemistanbul.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868234/
 127.0.0.1 catground1957.casacam.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1868233/
 127.0.0.1 netframework.top #botnet_cc https://threatfox.abuse.ch/ioc/1868228/
 127.0.0.1 ftp.darlenemarino.cyou #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1868225/
@@ -53269,4 +53279,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 53270
+# Number of entries: 53280
