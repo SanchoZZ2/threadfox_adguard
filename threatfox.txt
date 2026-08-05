@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bleakhaven.com #payload_delivery https://threatfox.abuse.ch/ioc/1868822/
+127.0.0.1 wglfvcf.ryanposocco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868816/
+127.0.0.1 ryanposocco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868815/
+127.0.0.1 mol.mesoptik.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1868810/
+127.0.0.1 smc.tb88cuka.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1868811/
+127.0.0.1 ctlc.tb88cuka.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1868812/
+127.0.0.1 tyjwtd.remenacevintage.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868807/
+127.0.0.1 remenacevintage.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868806/
+127.0.0.1 yayana.myftp.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1868800/
+127.0.0.1 yykopfc.rumanishoes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868788/
+127.0.0.1 rumanishoes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868785/
 127.0.0.1 nb8myksg.sandblastingaustin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868783/
 127.0.0.1 sandblastingaustin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868782/
 127.0.0.1 ciborin.shop #botnet_cc, win.phantom_stealer, Phantom Stealer https://threatfox.abuse.ch/ioc/1868781/
@@ -53326,4 +53337,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 53327
+# Number of entries: 53338
