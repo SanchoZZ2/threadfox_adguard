@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 solrig.turbo-course.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869563/
+127.0.0.1 turbo-course.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869562/
+127.0.0.1 efcudif.vitalmarkings.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869561/
+127.0.0.1 vitalmarkings.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869560/
 127.0.0.1 fpmzry.tsfrecords.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869548/
 127.0.0.1 tsfrecords.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869546/
 127.0.0.1 bsonzsk.vistapropertyllc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869545/
@@ -53416,4 +53420,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 53417
+# Number of entries: 53421
