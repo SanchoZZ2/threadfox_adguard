@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vcxddac.eng--digestistart.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870475/
+127.0.0.1 eng--digestistart.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870343/
+127.0.0.1 engdigestistart.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870323/
+127.0.0.1 4szrc49l.hallmarkcarpets.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870259/
+127.0.0.1 escalatefud.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1870258/
+127.0.0.1 oynxhn.eng-bpzone.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870257/
+127.0.0.1 4uc7neco.abcdbro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870255/
 127.0.0.1 hnbowps.eng--cognisurge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870238/
 127.0.0.1 engcognisurge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870237/
 127.0.0.1 clxurg.eng--bpzone.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870236/
@@ -53832,4 +53839,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 53833
+# Number of entries: 53840
