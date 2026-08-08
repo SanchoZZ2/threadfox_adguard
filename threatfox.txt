@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dallas.baltos.online #botnet_cc, win.overlord, Overlord RAT https://threatfox.abuse.ch/ioc/1870830/
+127.0.0.1 yxmyci.eng-usa-sugarmute.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870827/
+127.0.0.1 son2.1368.lol #botnet_cc, win.pure_rat, PureHVNC, ResolverRAT https://threatfox.abuse.ch/ioc/1870826/
+127.0.0.1 eng-usa-sugarmute.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870822/
+127.0.0.1 porteralarm.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1870815/
+127.0.0.1 ops4.coralpark.xyz #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1870814/
+127.0.0.1 pinchildren.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1870813/
+127.0.0.1 35x7940o.thelovebugsband.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870809/
+127.0.0.1 ecofetes.com #payload_delivery https://threatfox.abuse.ch/ioc/1870796/
+127.0.0.1 bpiaasi.en-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870807/
+127.0.0.1 bitsjq.eng--usa-sugarmute.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870806/
+127.0.0.1 eng--usa-sugarmute.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870805/
+127.0.0.1 engusa-sugarmute.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870804/
+127.0.0.1 coaa0h4a.graphicstabletreviews.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870799/
+127.0.0.1 wwdvqwb.en-sightfresh-us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870798/
 127.0.0.1 oczdcn.eng-usa-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870795/
 127.0.0.1 eng-usa-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870794/
 127.0.0.1 18inchgermanylovercapybara.space #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1870788/
@@ -53334,4 +53349,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 53335
+# Number of entries: 53350
