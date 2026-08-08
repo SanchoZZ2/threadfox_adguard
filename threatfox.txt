@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 eng-usa--goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870750/
+127.0.0.1 eng-usagoldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870749/
+127.0.0.1 wscrwm.eng-sighttfresh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870748/
+127.0.0.1 eng-sighttfresh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870747/
+127.0.0.1 fix.unknower.win #botnet_cc, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1870727/
+127.0.0.1 www.verint.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1870723/
+127.0.0.1 www.zellis.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1870726/
+127.0.0.1 kworker.eth.limo #payload_delivery, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1870733/
+127.0.0.1 kworker.eth.link #payload_delivery, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1870734/
 127.0.0.1 edkrtky.eng-usa-echoxen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870725/
 127.0.0.1 eng-usa-echoxen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1870724/
 127.0.0.1 a1-analytics.sbs #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1870676/
@@ -53301,4 +53310,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 53302
+# Number of entries: 53311
