@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 goldalaign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871859/
+127.0.0.1 belorks.xyz #payload_delivery https://threatfox.abuse.ch/ioc/1871799/
+127.0.0.1 seversin.lol #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1871840/
+127.0.0.1 59qxatd0.gtacauto.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871855/
+127.0.0.1 fgauki.en-us-thyrafemme-balance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871854/
+127.0.0.1 en-us-thyrafemme-balance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871853/
+127.0.0.1 hmskuzk.get-thyrafemmebalance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871847/
+127.0.0.1 get-thyrafemmebalance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871846/
 127.0.0.1 vrswff.en-us-theslimsplitsmethod.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871845/
 127.0.0.1 en-us-theslimsplitsmethod.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871844/
 127.0.0.1 28jk0aeb.eng-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871841/
@@ -52907,4 +52915,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52908
+# Number of entries: 52916
