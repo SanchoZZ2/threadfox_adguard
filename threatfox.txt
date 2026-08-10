@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 files.orchestratorlabs.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1871474/
+127.0.0.1 veralok.click #payload_delivery https://threatfox.abuse.ch/ioc/1871331/
+127.0.0.1 mail.cope.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1871351/
+127.0.0.1 smtp.cope.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1871352/
+127.0.0.1 testmyopinion.live #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1871376/
+127.0.0.1 ownnewstoday.live #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1871377/
+127.0.0.1 riderls32.life #payload_delivery https://threatfox.abuse.ch/ioc/1871423/
+127.0.0.1 dolpi812.life #payload_delivery https://threatfox.abuse.ch/ioc/1871424/
+127.0.0.1 japansnowaccommodation.com #payload_delivery https://threatfox.abuse.ch/ioc/1871425/
+127.0.0.1 mzpdgxi.graphicstabletreviews.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871470/
+127.0.0.1 blackjacktrailerjacks.com.au #payload_delivery https://threatfox.abuse.ch/ioc/1871446/
+127.0.0.1 expressbatteryreplacement.com #payload_delivery https://threatfox.abuse.ch/ioc/1871468/
+127.0.0.1 pdlgsg.shop-cognisurge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871469/
 127.0.0.1 kfbhnux.grannygshemporium.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871467/
 127.0.0.1 ehhzba.rsfoodproducts.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871466/
 127.0.0.1 lh3i8c4x.en-energyrevolution.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871465/
@@ -52752,4 +52765,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52753
+# Number of entries: 52766
