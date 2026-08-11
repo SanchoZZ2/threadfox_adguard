@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 8k2uejd4.buzz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872182/
+127.0.0.1 5tjej8k8yd.buzz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872181/
+127.0.0.1 1rtwg8k8ud.buzz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872180/
+127.0.0.1 ppcnewsfeed.com #payload_delivery https://threatfox.abuse.ch/ioc/1872177/
+127.0.0.1 windowsupdate.webhop.me #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1872179/
+127.0.0.1 newpapidnsorg.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1872178/
+127.0.0.1 ovgkkdx.ignaitra.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872176/
+127.0.0.1 wazrhp.web-neuroxen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872175/
+127.0.0.1 ignaitra.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872174/
+127.0.0.1 privatehos.casacam.net #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1872172/
+127.0.0.1 web-neuroxen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872171/
+127.0.0.1 updatewindows.gotdns.ch #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1872165/
+127.0.0.1 ma8or18p.en-us-ignitraa.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872164/
+127.0.0.1 coachingsystem.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872160/
+127.0.0.1 barikadeuku.freedev.app #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1872149/
 127.0.0.1 without.kesug.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1872143/
 127.0.0.1 energyrevolutionsystem.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1872140/
 127.0.0.1 nickilorr421.icu #payload_delivery https://threatfox.abuse.ch/ioc/1872113/
@@ -52947,4 +52962,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52948
+# Number of entries: 52963
