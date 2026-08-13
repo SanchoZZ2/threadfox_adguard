@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 q383qak6.en-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1873862/
+127.0.0.1 edge.amberreport.one #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1873861/
 127.0.0.1 hxouo2wg.snaptigen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1873822/
 127.0.0.1 metric3.viberun.lol #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1873821/
 127.0.0.1 servochem.co.za #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1873816/
@@ -52583,4 +52585,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52584
+# Number of entries: 52586
