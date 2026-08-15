@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 k7o1ql3j.eng-us--goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876550/
+127.0.0.1 lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1875098/
+127.0.0.1 cc666mzpsjhn3yi6t7hqkwi5thjeh7prxg3mndpceb7xtchsbsmct3ad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1875099/
+127.0.0.1 rz45lyi2ehl2e2xs3ivwbah65tumebztmypmtqpc6cigc3wadwjicgad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1875100/
+127.0.0.1 edgetoken2186.net #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1876054/
+127.0.0.1 datapass2578.com #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1876091/
 127.0.0.1 uiccvbk.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1876277/
 127.0.0.1 glaciermods.cc #payload_delivery https://threatfox.abuse.ch/ioc/1876274/
 127.0.0.1 mrlketo.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1876278/
@@ -34,6 +40,38 @@
 127.0.0.1 gmdexai.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876518/
 127.0.0.1 bezelek.shop #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876516/
 127.0.0.1 ajnfqs.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876513/
+127.0.0.1 webenysy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876508/
+127.0.0.1 wehisibo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876509/
+127.0.0.1 yzlik3jn4g.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876510/
+127.0.0.1 zrkpd48812.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876511/
+127.0.0.1 zuhase.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876512/
+127.0.0.1 rm4404x6us.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876503/
+127.0.0.1 tajajado.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876504/
+127.0.0.1 tun9dcocc3.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876505/
+127.0.0.1 umtck81817.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876506/
+127.0.0.1 vyjafi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876507/
+127.0.0.1 nkzfe53284.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876497/
+127.0.0.1 nuqica.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876498/
+127.0.0.1 nywge73755.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876499/
+127.0.0.1 obpcb01908.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876500/
+127.0.0.1 orofg28425.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876501/
+127.0.0.1 pugyqi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876502/
+127.0.0.1 fyumg68489.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876492/
+127.0.0.1 gludi69399.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876493/
+127.0.0.1 ixsnn39525.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876494/
+127.0.0.1 lemohuko.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876495/
+127.0.0.1 mosoxary.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876496/
+127.0.0.1 bluetybie.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876487/
+127.0.0.1 cdsaoufwvo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876488/
+127.0.0.1 cibiku.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876489/
+127.0.0.1 crimson4544.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876490/
+127.0.0.1 fudud35949.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876491/
+127.0.0.1 4rb0f78fcs.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876482/
+127.0.0.1 5wccis5lmb.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876483/
+127.0.0.1 69allied.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876484/
+127.0.0.1 adakg39920.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876485/
+127.0.0.1 aquamarineleila.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876486/
+127.0.0.1 3cqku5jtal.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876481/
 127.0.0.1 ogtqavytw.usa--us-audizen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876480/
 127.0.0.1 usa--us-audizen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876479/
 127.0.0.1 fortuneskyline.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876478/
@@ -191,6 +229,17 @@
 127.0.0.1 wc2z5pjy.digeststart.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876212/
 127.0.0.1 4fg0jkkv.greaternewzionbc.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876211/
 127.0.0.1 desarrollosoftware.top #payload_delivery https://threatfox.abuse.ch/ioc/1876210/
+127.0.0.1 zeohztla01.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876204/
+127.0.0.1 kuhola.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876199/
+127.0.0.1 lbdtd11760.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876200/
+127.0.0.1 lykezijo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876201/
+127.0.0.1 mauritachronic.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876202/
+127.0.0.1 tomecalu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876203/
+127.0.0.1 alliedjeralee.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876194/
+127.0.0.1 daxokoso.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876195/
+127.0.0.1 fb749p38a6.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876196/
+127.0.0.1 flat8435.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876197/
+127.0.0.1 fulakera.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876198/
 127.0.0.1 dc6z7ywb.en-us-energyrevolution.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876193/
 127.0.0.1 gate.runmanor.click #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1876181/
 127.0.0.1 unfourtel.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876175/
@@ -203,6 +252,27 @@
 127.0.0.1 hub4.cdndock.click #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1876165/
 127.0.0.1 bittemachdas.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876162/
 127.0.0.1 cb2kljpv.eng--slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876161/
+127.0.0.1 y6w0rd50fe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876157/
+127.0.0.1 zasanumy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876158/
+127.0.0.1 ralezilo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876153/
+127.0.0.1 tujage.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876154/
+127.0.0.1 venusyjy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876155/
+127.0.0.1 xjixl13205.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876156/
+127.0.0.1 hvdkt93305.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876146/
+127.0.0.1 jonellhomely.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876147/
+127.0.0.1 karosivi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876148/
+127.0.0.1 mspo7btd5u.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876149/
+127.0.0.1 nikawusi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876150/
+127.0.0.1 npwfa66768.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876151/
+127.0.0.1 o2012pz1vs.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876152/
+127.0.0.1 clinical96.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876143/
+127.0.0.1 fbytz48156.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876144/
+127.0.0.1 fibydi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876145/
+127.0.0.1 9474amethyst.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876138/
+127.0.0.1 9biu5cm2ug.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876139/
+127.0.0.1 bagydoge.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876140/
+127.0.0.1 banerobi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876141/
+127.0.0.1 biguwiqa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1876142/
 127.0.0.1 gru.sm188dadu.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1876136/
 127.0.0.1 gru.10001slot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1876135/
 127.0.0.1 seedworks.com.ng #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1876128/
@@ -1175,6 +1245,53 @@
 127.0.0.1 7xonfe62.en-usa-sugarmute.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1875094/
 127.0.0.1 sys32.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1875092/
 127.0.0.1 qeecqeu6.go-neuroxen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1875091/
+127.0.0.1 xoxuzepe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875081/
+127.0.0.1 xuvfb6h7be.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875082/
+127.0.0.1 xuvonywa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875083/
+127.0.0.1 zacotile.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875084/
+127.0.0.1 zodysyhe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875085/
+127.0.0.1 rebugere.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875072/
+127.0.0.1 rebylape.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875073/
+127.0.0.1 sajkx59243.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875074/
+127.0.0.1 smart985.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875075/
+127.0.0.1 sticky74.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875076/
+127.0.0.1 sudiha.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875077/
+127.0.0.1 taziho.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875078/
+127.0.0.1 tuxebe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875079/
+127.0.0.1 xizidimi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875080/
+127.0.0.1 lyhyvaki.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875063/
+127.0.0.1 lyxoqo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875064/
+127.0.0.1 maroonermentrude.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875065/
+127.0.0.1 mukyzyxi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875066/
+127.0.0.1 nphpf05505.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875067/
+127.0.0.1 odi8527yw0.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875068/
+127.0.0.1 pezalafe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875069/
+127.0.0.1 qatevuxa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875070/
+127.0.0.1 qatumo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875071/
+127.0.0.1 hugub60174.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875055/
+127.0.0.1 jilasu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875056/
+127.0.0.1 k6sgeuumoz.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875057/
+127.0.0.1 kegikica.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875058/
+127.0.0.1 kytuty.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875059/
+127.0.0.1 loranolo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875060/
+127.0.0.1 lotojalu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875061/
+127.0.0.1 lujeviki.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875062/
+127.0.0.1 avyzs94897.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875045/
+127.0.0.1 confusedulla.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875046/
+127.0.0.1 cyzely.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875047/
+127.0.0.1 dykoqoli.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875048/
+127.0.0.1 fiqate.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875049/
+127.0.0.1 fu55xztbq0.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875050/
+127.0.0.1 gefyloje.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875051/
+127.0.0.1 gesysuky.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875052/
+127.0.0.1 goldlucienne.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875053/
+127.0.0.1 gusfytgoqu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875054/
+127.0.0.1 2e52uth2ly.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875039/
+127.0.0.1 526vx22m7w.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875040/
+127.0.0.1 52ricky.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875041/
+127.0.0.1 96qj5j9yr8.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875042/
+127.0.0.1 ardagood.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875043/
+127.0.0.1 avtuz17932.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1875044/
 127.0.0.1 poh.sm188dadu.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1875033/
 127.0.0.1 poh.10001slot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1875032/
 127.0.0.1 svqta9j3.usa-us-goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1875030/
@@ -52508,4 +52625,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52509
+# Number of entries: 52626
