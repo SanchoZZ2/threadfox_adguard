@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bxb41a9q.federationofpbos.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876787/
+127.0.0.1 rublje.ba #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876784/
+127.0.0.1 rskok.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876785/
+127.0.0.1 salis-metaforiki.gr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876783/
+127.0.0.1 quadra.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876773/
+127.0.0.1 lpsbdveg.eng-usa--goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876770/
+127.0.0.1 quantix-finance.pro #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876769/
 127.0.0.1 k7o1ql3j.eng-us--goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876550/
 127.0.0.1 lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1875098/
 127.0.0.1 cc666mzpsjhn3yi6t7hqkwi5thjeh7prxg3mndpceb7xtchsbsmct3ad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1875099/
@@ -50734,6 +50741,7 @@
 127.0.0.1 colorfulglowllc.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1700362/
 127.0.0.1 proud-dawn-88929.pktriot.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1700167/
 127.0.0.1 www.quick-shares.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1693476/
+127.0.0.1 goalblistr.ydns.eu #botnet_cc, win.ave_maria, AVE_MARIA, AveMariaRAT https://threatfox.abuse.ch/ioc/1693275/
 127.0.0.1 2.tcp.cpolar.cn #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1693256/
 127.0.0.1 buradabmwking.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1692754/
 127.0.0.1 n.gochatx.mov #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1693020/
@@ -51031,6 +51039,7 @@
 127.0.0.1 birdrankinc.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1670467/
 127.0.0.1 birdranktip.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1670468/
 127.0.0.1 datacold.ccdatos.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1670476/
+127.0.0.1 mainmenuflo.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1670300/
 127.0.0.1 www.yoshinari-raita.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1669966/
 127.0.0.1 xs785590.xsrv.jp #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1669968/
 127.0.0.1 yoshiro11.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1669970/
@@ -51228,6 +51237,7 @@
 127.0.0.1 vuloinsioscollid.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1666930/
 127.0.0.1 tallymostfavor.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1666931/
 127.0.0.1 manymandyills.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1666929/
+127.0.0.1 flowbilding.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1666860/
 127.0.0.1 xword1.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1666795/
 127.0.0.1 91p.livecdnem.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1666746/
 127.0.0.1 smayham.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1666722/
@@ -52625,4 +52635,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52626
+# Number of entries: 52636
