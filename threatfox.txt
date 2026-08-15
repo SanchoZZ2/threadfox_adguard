@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 alpentransitboerse.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876214/
+127.0.0.1 deryabakbak.com.tr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876213/
 127.0.0.1 wc2z5pjy.digeststart.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876212/
 127.0.0.1 4fg0jkkv.greaternewzionbc.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876211/
 127.0.0.1 desarrollosoftware.top #payload_delivery https://threatfox.abuse.ch/ioc/1876210/
@@ -49474,6 +49476,7 @@
 127.0.0.1 hov.multiatend.com.br #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1691533/
 127.0.0.1 kys.cx #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1691031/
 127.0.0.1 c1.msft-config-service.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1690797/
+127.0.0.1 ezfadvance.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690097/
 127.0.0.1 dabotixyanlife.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690085/
 127.0.0.1 cpcalendars.centrocirugiaplastica.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690023/
 127.0.0.1 afforableappliancerepair.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1689897/
@@ -51338,4 +51341,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51339
+# Number of entries: 51342
