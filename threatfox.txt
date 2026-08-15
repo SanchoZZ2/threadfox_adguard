@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gate.runmanor.click #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1876181/
+127.0.0.1 unfourtel.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876175/
+127.0.0.1 myintranet.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876176/
+127.0.0.1 blaze-x.com #payload_delivery https://threatfox.abuse.ch/ioc/1876173/
+127.0.0.1 cantieregroup.rs #payload_delivery https://threatfox.abuse.ch/ioc/1876174/
 127.0.0.1 kxkdfydq.crownconnectpk.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876168/
 127.0.0.1 jastapway.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876167/
 127.0.0.1 arezzofrigo.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876166/
@@ -51117,6 +51122,7 @@
 127.0.0.1 hov.multiatend.com.br #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1691533/
 127.0.0.1 kys.cx #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1691031/
 127.0.0.1 c1.msft-config-service.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1690797/
+127.0.0.1 cpcalendars.centrocirugiaplastica.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1690023/
 127.0.0.1 afforableappliancerepair.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1689897/
 127.0.0.1 superyf.click #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1689794/
 127.0.0.1 laboratery.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1689523/
@@ -52992,4 +52998,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52993
+# Number of entries: 52999
