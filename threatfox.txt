@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lustrous-strategy.icu #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877284/
+127.0.0.1 weekly-evocation.icu #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877285/
+127.0.0.1 fdsjhvcxmasd.sbs #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877282/
+127.0.0.1 el-4dfmiwuflwf.digital #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877283/
+127.0.0.1 console.plan-stack2.click #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1877281/
 127.0.0.1 deben.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877276/
 127.0.0.1 9ujl0507.shop-goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877274/
 127.0.0.1 g5rdt6c1.aquaburnweb.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877273/
@@ -52605,4 +52610,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52606
+# Number of entries: 52611
