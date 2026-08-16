@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mawaridegroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877428/
+127.0.0.1 giftum.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877426/
+127.0.0.1 educationfinance.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877427/
+127.0.0.1 ping.south-loop.click #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1877425/
+127.0.0.1 tsadd1wd.beast--force.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877423/
+127.0.0.1 beast--force.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877421/
 127.0.0.1 moleroos.pro #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877418/
 127.0.0.1 n8e.us.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1877337/
 127.0.0.1 cbjahpiu.us-theslimsplitsmethod.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1877318/
@@ -52625,4 +52631,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52626
+# Number of entries: 52632
