@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wsp.1234e.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1885935/
+127.0.0.1 qs4vqdby.en-en-en-theeloncode.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885931/
+127.0.0.1 extranethelp-desk26.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1885928/
+127.0.0.1 load-file003.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1885929/
+127.0.0.1 theflowgarden.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885920/
+127.0.0.1 eagleagents.ai #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885919/
+127.0.0.1 bafybeihryapqa7lq7w3bc7cyqiipfyh7psq7qttgzp5euijblhohcmwweq.ipfs.w3s.link #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885916/
+127.0.0.1 fingerprint-verification.info #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885906/
+127.0.0.1 nx7k0dvp.eng--memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885905/
+127.0.0.1 7wagrm1i.mulip.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885904/
+127.0.0.1 eng-eng-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885902/
+127.0.0.1 ndg2zyyn.ejash.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885901/
 127.0.0.1 app.dinkfoundry.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885894/
 127.0.0.1 counselor.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885892/
 127.0.0.1 blanautch.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885891/
@@ -51946,4 +51958,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51947
+# Number of entries: 51959
