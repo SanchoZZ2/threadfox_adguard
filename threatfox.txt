@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cf-api.indianadforum.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1886305/
+127.0.0.1 suvymuto.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886306/
+127.0.0.1 ggk.123ful.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1886303/
+127.0.0.1 y07kwey1.eng-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886302/
+127.0.0.1 hvocz79405.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886293/
+127.0.0.1 fomezy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886296/
+127.0.0.1 eng-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886298/
+127.0.0.1 group.galore.live #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886292/
+127.0.0.1 gc0jxdg1.eng--neurowave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886290/
 127.0.0.1 ringsum.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886289/
 127.0.0.1 4oeeg3rf.en-us-en-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886137/
 127.0.0.1 en-us-en-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886136/
@@ -52260,4 +52269,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52261
+# Number of entries: 52270
