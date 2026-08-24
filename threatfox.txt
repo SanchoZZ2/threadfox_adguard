@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 valtrevia.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886469/
+127.0.0.1 drlash.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886465/
+127.0.0.1 en-heroup.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886462/
+127.0.0.1 0wfvp89r.en-morningfatmelter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886456/
+127.0.0.1 en-morningfatmelter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886451/
+127.0.0.1 vault.rungarden.one #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1886449/
+127.0.0.1 app.sphere.finance #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886445/
 127.0.0.1 demo.trycommonwealth.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886440/
 127.0.0.1 27e13kk2.enus-enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886431/
 127.0.0.1 vfjaj21y.en-us-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886430/
@@ -52310,4 +52317,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52311
+# Number of entries: 52318
