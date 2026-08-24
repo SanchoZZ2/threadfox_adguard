@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 corref.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886328/
+127.0.0.1 peanutlodge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886327/
+127.0.0.1 aqua9959.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886311/
+127.0.0.1 z3u99l6p.en-us-en-nervealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886324/
+127.0.0.1 ciliwaja.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886307/
+127.0.0.1 zavyvolu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886308/
+127.0.0.1 pygufi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886309/
+127.0.0.1 eqbfv50999.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886310/
+127.0.0.1 palm.yourbodybydesign.me #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886314/
+127.0.0.1 bechteltr.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1886317/
+127.0.0.1 j8ot89nw.wrda.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886323/
+127.0.0.1 en-us-en-nervealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886322/
+127.0.0.1 palm.yourbodybydesign.me #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1886321/
+127.0.0.1 catfee.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886313/
 127.0.0.1 cf-api.indianadforum.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1886305/
 127.0.0.1 suvymuto.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1886306/
 127.0.0.1 ggk.123ful.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1886303/
@@ -52269,4 +52283,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52270
+# Number of entries: 52284
