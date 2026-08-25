@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 5xr9f8xc.en-us-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887870/
+127.0.0.1 cloudynetwork.online #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887866/
+127.0.0.1 nextcheck.online #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887867/
+127.0.0.1 dancewithus.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887853/
+127.0.0.1 the-quest.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887851/
+127.0.0.1 ck.erloro.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1887849/
 127.0.0.1 9w36ncqf.en-leptozan-us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887845/
 127.0.0.1 www.bordeaux-aquitaine-boissons.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887843/
 127.0.0.1 digitalisierungscheck.mit-aufwind.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887842/
@@ -50861,4 +50867,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50862
+# Number of entries: 50868
