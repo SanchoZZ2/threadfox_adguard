@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 toad.ampwin123.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886710/
+127.0.0.1 theatre-du-chateau.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886705/
 127.0.0.1 lausannoir.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886701/
 127.0.0.1 mariage-adeline-loris.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886699/
 127.0.0.1 macaronvanille.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886700/
@@ -50484,4 +50486,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50485
+# Number of entries: 50487
