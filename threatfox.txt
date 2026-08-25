@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 w0a86nbg.eng--neurowave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887242/
+127.0.0.1 fz9hhl90.eng-us-neurowave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887232/
+127.0.0.1 marcoguazzini.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887228/
+127.0.0.1 en-us-en-heroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887224/
+127.0.0.1 cylixuta.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1887191/
+127.0.0.1 kefebule.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1887195/
+127.0.0.1 7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1887204/
+127.0.0.1 eazk7las3xsvsyxgww3jgzammqjevso2ydnmlopdhl3u2muyrmmilrqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1887205/
+127.0.0.1 d77tnb4bkmj3e366msrzllnwsi2t5e54e4yqh7zm7y5hlfwugnwzswad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1887206/
+127.0.0.1 q7ufuwnu.en-trump-token.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887202/
 127.0.0.1 dome.369bbqsifangonline.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1887199/
 127.0.0.1 bikeboard.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887197/
 127.0.0.1 bubblepull.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887196/
@@ -16755,6 +16765,7 @@
 127.0.0.1 k1h.fileboro.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1838126/
 127.0.0.1 k1h.hopesm188.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1838124/
 127.0.0.1 abt90kade.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1838115/
+127.0.0.1 environmentaldaily.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1838019/
 127.0.0.1 electriq.se #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1838009/
 127.0.0.1 perfectcloudgate.com #payload_delivery https://threatfox.abuse.ch/ioc/1837943/
 127.0.0.1 powerfullcloudflare.com #payload_delivery https://threatfox.abuse.ch/ioc/1837942/
@@ -50555,4 +50566,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50556
+# Number of entries: 50567
