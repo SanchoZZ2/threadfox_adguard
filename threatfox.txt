@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 2rw7p1f0.en-us-en-bloodarmor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886530/
+127.0.0.1 en-us-en-bloodarmor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886528/
+127.0.0.1 ibi.123ful.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1886524/
 127.0.0.1 p49oexcb.eng--geniusbrainsignal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886518/
 127.0.0.1 dastroesch.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886516/
 127.0.0.1 renuvia-care.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1886472/
@@ -52320,4 +52323,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 52321
+# Number of entries: 52324
