@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cdken.com #payload_delivery https://threatfox.abuse.ch/ioc/1887604/
+127.0.0.1 su15xgsq.en-en-usa-memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887603/
+127.0.0.1 k6h4y9sw.en-us-americaneaglependant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887587/
+127.0.0.1 en-us-americaneaglependant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887586/
 127.0.0.1 gerenagosto.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1887584/
 127.0.0.1 utanigeria.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887582/
 127.0.0.1 ravenenvoy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887566/
@@ -50852,4 +50856,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50853
+# Number of entries: 50857
