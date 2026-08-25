@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gerenagosto.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1887584/
+127.0.0.1 utanigeria.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887582/
+127.0.0.1 ravenenvoy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887566/
+127.0.0.1 tehnohome-ks.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887564/
+127.0.0.1 primalaser-eg.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887563/
 127.0.0.1 www.reha.org.af #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887562/
 127.0.0.1 f1git16x.eng--neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887539/
 127.0.0.1 m9zxgtiz.eng-usa-neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887537/
@@ -5032,6 +5037,7 @@
 127.0.0.1 smartbusiness.com.ec #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878000/
 127.0.0.1 smildner.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878001/
 127.0.0.1 statusplan.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878002/
+127.0.0.1 tcsaasa.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878003/
 127.0.0.1 theatrecharbon.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878004/
 127.0.0.1 ticketloves.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878005/
 127.0.0.1 timtrammell.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878006/
@@ -50846,4 +50852,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50847
+# Number of entries: 50853
