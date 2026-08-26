@@ -1,23 +1,57 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bebelonserver.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1888245/
+127.0.0.1 saymto9213.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888244/
+127.0.0.1 beautiful213.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888242/
+127.0.0.1 svcnode.net #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888237/
+127.0.0.1 telemgate.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888238/
+127.0.0.1 metricgw.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888239/
+127.0.0.1 ayoub.yahiaoui.mbway-nantes.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888229/
+127.0.0.1 nano-hightech.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888230/
+127.0.0.1 cyberknull.com #botnet_cc, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1888214/
+127.0.0.1 www.ordinex.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888222/
+127.0.0.1 www.osmilano.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888223/
+127.0.0.1 mastercommunicationnumerique.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888221/
+127.0.0.1 pancar.lol #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1888140/
+127.0.0.1 v-lan.su #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1888157/
+127.0.0.1 reg.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1888207/
+127.0.0.1 remus.su #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1888212/
+127.0.0.1 sasyfedo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888213/
 127.0.0.1 5hzfou29.en-us-us-neurovera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888211/
+127.0.0.1 230shaky.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888209/
 127.0.0.1 en-us-us-neurovera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888208/
+127.0.0.1 posupugy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888206/
 127.0.0.1 alexandre-rocha.ch #payload_delivery https://threatfox.abuse.ch/ioc/1888156/
 127.0.0.1 cloudsenterprise2026.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888155/
 127.0.0.1 online-r.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1888153/
+127.0.0.1 sekixy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888152/
+127.0.0.1 hezucyxe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888151/
+127.0.0.1 stzbe69562.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888150/
+127.0.0.1 neryvywy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888149/
 127.0.0.1 p25so1h6.enus--lipovive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888145/
 127.0.0.1 hldju4og.enus-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888144/
 127.0.0.1 enus-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888143/
 127.0.0.1 enus--lipovive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888142/
+127.0.0.1 tmvjkor3ck.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888141/
 127.0.0.1 tecnogermana.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888129/
 127.0.0.1 bswskvvht.en-us-morningfatmelter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888128/
 127.0.0.1 en-us-morningfatmelter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888127/
+127.0.0.1 qaqedy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888126/
 127.0.0.1 eos.123ful.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1888124/
 127.0.0.1 4lu4vaih.en-us--menbalancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888123/
+127.0.0.1 efuvwqjgzc.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888122/
 127.0.0.1 k45ks1jv.enus-mindvault.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888121/
 127.0.0.1 enus-mindvault.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888120/
+127.0.0.1 gjgzu75352.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888119/
+127.0.0.1 jogoxu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888112/
+127.0.0.1 jycakezi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888111/
+127.0.0.1 81pjgbc00b.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888088/
+127.0.0.1 qlooc27699.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888087/
+127.0.0.1 nuviduma.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888076/
 127.0.0.1 backendkitchen.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1888075/
 127.0.0.1 enus-neurovera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888074/
+127.0.0.1 hestermaroon.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888070/
 127.0.0.1 compraventa.ebainet.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888069/
+127.0.0.1 bjanb99983.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888068/
 127.0.0.1 pumula.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888063/
 127.0.0.1 tj2ay0gm.en-us--mindvault.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888065/
 127.0.0.1 en-us--mindvault.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888064/
@@ -49277,4 +49311,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49278
+# Number of entries: 49312
