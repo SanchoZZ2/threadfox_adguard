@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ecoget.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888312/
+127.0.0.1 drivesmartpeterborough.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888310/
+127.0.0.1 www.centrostudimusicali.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888311/
+127.0.0.1 kyb5zwcp.en-us--xenburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888308/
+127.0.0.1 www.dr-elist-reviews.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888307/
+127.0.0.1 w9so9yni.enus-lipovive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888306/
+127.0.0.1 l8dxnew1.en-us-glycomut.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888305/
+127.0.0.1 en-us--xenburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888302/
+127.0.0.1 en-us-glycomut.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888295/
+127.0.0.1 escaperoom-empresas.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888284/
+127.0.0.1 eric-palmer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888283/
+127.0.0.1 tamarisknave.co #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1888281/
 127.0.0.1 lyncdiscover.freebirds.com #payload_delivery https://threatfox.abuse.ch/ioc/1888265/
 127.0.0.1 r6ou4gea2y.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888253/
 127.0.0.1 client.assuredpestcontrolutah.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1888258/
@@ -49325,4 +49337,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49326
+# Number of entries: 49338
