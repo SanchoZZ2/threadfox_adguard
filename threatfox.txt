@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 e5xwaq5b.en-us-men-balancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888264/
+127.0.0.1 en-us-men-balancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888263/
+127.0.0.1 nv1ay8ls.en-us-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888260/
+127.0.0.1 en-us-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888259/
+127.0.0.1 zidyju.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888240/
+127.0.0.1 wasivoma.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888243/
+127.0.0.1 fxjvv75426.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888248/
+127.0.0.1 hynicafy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888249/
+127.0.0.1 nrzwc93422.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888250/
+127.0.0.1 janytu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888252/
 127.0.0.1 bebelonserver.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1888245/
 127.0.0.1 saymto9213.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888244/
 127.0.0.1 beautiful213.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888242/
@@ -20,7 +30,6 @@
 127.0.0.1 230shaky.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888209/
 127.0.0.1 en-us-us-neurovera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888208/
 127.0.0.1 posupugy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888206/
-127.0.0.1 alexandre-rocha.ch #payload_delivery https://threatfox.abuse.ch/ioc/1888156/
 127.0.0.1 cloudsenterprise2026.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888155/
 127.0.0.1 online-r.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1888153/
 127.0.0.1 sekixy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888152/
@@ -49311,4 +49320,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49312
+# Number of entries: 49321
