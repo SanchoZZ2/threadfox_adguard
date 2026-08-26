@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 backendkitchen.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1888075/
+127.0.0.1 enus-neurovera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888074/
+127.0.0.1 compraventa.ebainet.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888069/
 127.0.0.1 pumula.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1888063/
 127.0.0.1 tj2ay0gm.en-us--mindvault.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888065/
 127.0.0.1 en-us--mindvault.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888064/
@@ -4847,6 +4850,7 @@
 127.0.0.1 marjanalkhair.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877982/
 127.0.0.1 modernfuji-ksa.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877983/
 127.0.0.1 mpdumont.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877984/
+127.0.0.1 natuurlijkheidi.nl #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877985/
 127.0.0.1 oraville.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877987/
 127.0.0.1 pacesetterschurch.co.za #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877988/
 127.0.0.1 pptrans.sk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1877989/
@@ -49257,4 +49261,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49258
+# Number of entries: 49262
