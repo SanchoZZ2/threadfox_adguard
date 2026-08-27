@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 b7zhnw8a.enus-prostafense.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888937/
+127.0.0.1 enus-prostafense.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888936/
+127.0.0.1 hms-tools.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888932/
 127.0.0.1 1a81inkd.genesis-revival.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888924/
 127.0.0.1 genesis-revival.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888923/
 127.0.0.1 dz0rfvcc.enus-memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888922/
@@ -49173,4 +49176,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49174
+# Number of entries: 49177
