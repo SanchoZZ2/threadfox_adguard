@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hgvxmlmj.go-synadentix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889304/
+127.0.0.1 go-synadentix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889301/
+127.0.0.1 expce.directoryindustry.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1889299/
+127.0.0.1 www.intesacanarias.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889297/
+127.0.0.1 elderberryloft.net #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1889296/
+127.0.0.1 rezeh33407.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889293/
+127.0.0.1 golcj79667.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889294/
+127.0.0.1 9251traditional.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889288/
+127.0.0.1 v754fc7onp.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889290/
+127.0.0.1 brtad84102.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889291/
 127.0.0.1 howikuci.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889265/
 127.0.0.1 selfupdate.net #payload_delivery, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1889266/
 127.0.0.1 mine.cdnsrv.in #botnet_cc, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1889267/
@@ -49587,4 +49597,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49588
+# Number of entries: 49598
