@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cdn14.quran.edu.eu.org #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1889525/
+127.0.0.1 1wmite8r.lipo--vive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889521/
+127.0.0.1 lipo--vive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889520/
+127.0.0.1 ix8fhxrx.flasburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889515/
+127.0.0.1 flasburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889514/
+127.0.0.1 evergrowdigitalsolutions.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889513/
 127.0.0.1 umami.audergon.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889478/
 127.0.0.1 futurephotography.yourdemo.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889477/
 127.0.0.1 id.mapletile.click #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1889476/
@@ -49825,4 +49831,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49826
+# Number of entries: 49832
