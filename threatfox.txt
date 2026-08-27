@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 relaisduvin-pro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888998/
+127.0.0.1 www.cen-taux-change.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888999/
+127.0.0.1 bn6xg7zi.geniusbrainsignal.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888994/
+127.0.0.1 geniusbrainsignal.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888992/
+127.0.0.1 nma-advocates.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888986/
+127.0.0.1 mascontenidos.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888979/
+127.0.0.1 spsolutions.ca #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1888977/
+127.0.0.1 petsdelivery.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888962/
+127.0.0.1 timomidia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888961/
+127.0.0.1 powerflash64bk.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1888960/
 127.0.0.1 p2oje4xr.genesisrevivl.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888952/
 127.0.0.1 genesisrevivl.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888951/
 127.0.0.1 relicariovirtual.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888943/
@@ -8018,6 +8028,7 @@
 127.0.0.1 indiancreektreefarmpa.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1867006/
 127.0.0.1 awzhaf.hypnosisinstitute.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1867005/
 127.0.0.1 hypnosisinstitute.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1867004/
+127.0.0.1 webrick.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1867001/
 127.0.0.1 rnlpkfl.idyllicbeachhouse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1866999/
 127.0.0.1 fpuuve.howtomovies.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1866998/
 127.0.0.1 idyllicbeachhouse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1866997/
@@ -49179,4 +49190,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49180
+# Number of entries: 49191
