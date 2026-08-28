@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nyqixu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889818/
+127.0.0.1 remudago.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889819/
+127.0.0.1 backupnow.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889816/
+127.0.0.1 vjcas97553.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889808/
+127.0.0.1 qfscjr8lwm.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889815/
+127.0.0.1 www.mortsdelarue.brussels #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889811/
+127.0.0.1 test.pinnacletreuhand.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889812/
+127.0.0.1 www.blupay.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889810/
+127.0.0.1 buildingpi81.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1889809/
 127.0.0.1 6odtgo56.en-trump-token.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889807/
 127.0.0.1 cloudsnewenterprise.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1889806/
 127.0.0.1 2555ebba.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889795/
@@ -49644,4 +49653,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49645
+# Number of entries: 49654
