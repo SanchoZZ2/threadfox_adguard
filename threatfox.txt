@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 8fnn9rmz.gtsdirect.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890749/
+127.0.0.1 gtsdirect.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890746/
+127.0.0.1 rd41sui1.protectconn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890743/
+127.0.0.1 protectconn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890742/
+127.0.0.1 randevau.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890741/
 127.0.0.1 440c.en-us-theeloncod.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1890739/
 127.0.0.1 eyfykhxq7s.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890646/
 127.0.0.1 hwoxu80469.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890648/
@@ -51108,4 +51113,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51109
+# Number of entries: 51114
