@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sycamoreitinerary.co #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1889846/
+127.0.0.1 it6grdv9.eng-en-us-synadentix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889844/
+127.0.0.1 qi20j1a8.leptozanstore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889842/
+127.0.0.1 9moh1wwq.homepowershield.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889840/
+127.0.0.1 leptozanstore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889838/
+127.0.0.1 homepowershield.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889836/
+127.0.0.1 ticketreceipt.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1889834/
+127.0.0.1 odumisol.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889828/
+127.0.0.1 agrologsa.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889829/
+127.0.0.1 resolvend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889825/
 127.0.0.1 nyqixu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889818/
 127.0.0.1 remudago.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889819/
 127.0.0.1 backupnow.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889816/
@@ -49653,4 +49663,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49654
+# Number of entries: 49664
