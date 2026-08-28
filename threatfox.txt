@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pocket.sourcegenesis.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890769/
+127.0.0.1 getdsmtechboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890768/
+127.0.0.1 getdsmpros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890766/
+127.0.0.1 c2qzm47m.dsm.li #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890759/
+127.0.0.1 dsm.li #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890758/
+127.0.0.1 www.lankatraveltrails.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890756/
 127.0.0.1 8fnn9rmz.gtsdirect.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890749/
 127.0.0.1 gtsdirect.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890746/
 127.0.0.1 rd41sui1.protectconn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890743/
@@ -11557,6 +11563,7 @@
 127.0.0.1 babydiapersinturkey.com #payload_delivery https://threatfox.abuse.ch/ioc/1859650/
 127.0.0.1 tue-partner-03.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1859649/
 127.0.0.1 freefitdiet.com.atsrenovations.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859605/
+127.0.0.1 veteranwalls.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859562/
 127.0.0.1 srebrnac.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859480/
 127.0.0.1 stilpokrivi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859487/
 127.0.0.1 sansburylaw.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859438/
@@ -51113,4 +51120,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51114
+# Number of entries: 51121
