@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 440c.en-us-theeloncod.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1890739/
+127.0.0.1 eyfykhxq7s.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890646/
+127.0.0.1 hwoxu80469.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890648/
+127.0.0.1 xumujepu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890649/
 127.0.0.1 gluccotrust--bites.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890645/
 127.0.0.1 xigetybu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890630/
 127.0.0.1 vilefinu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890637/
@@ -3460,7 +3464,7 @@
 127.0.0.1 gelamehmobl.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884073/
 127.0.0.1 philippemaeder.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884072/
 127.0.0.1 vfr0i0sw.eng-eng-menbalancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884071/
-127.0.0.1 verico-de-id.beer #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884070/
+127.0.0.1 verico-de-id.beer #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884070/
 127.0.0.1 u0naz53l.eng-en--glucore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884069/
 127.0.0.1 eng-eng-menbalancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884068/
 127.0.0.1 eng-en--glucore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884067/
@@ -3660,8 +3664,8 @@
 127.0.0.1 vrivcuff.en-americaneaglependant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883551/
 127.0.0.1 en-americaneaglependant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883550/
 127.0.0.1 rblxgivex.com #payload_delivery https://threatfox.abuse.ch/ioc/1883544/
-127.0.0.1 forecast-chaos.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883542/
-127.0.0.1 sound-obstacle.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883543/
+127.0.0.1 forecast-chaos.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883542/
+127.0.0.1 sound-obstacle.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883543/
 127.0.0.1 root-cherry.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883541/
 127.0.0.1 chefvoyage.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883533/
 127.0.0.1 4vhdn6ve.cognigenpluss.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883532/
@@ -9169,7 +9173,6 @@
 127.0.0.1 cobbandcocourt.com.au #payload_delivery https://threatfox.abuse.ch/ioc/1869483/
 127.0.0.1 ftp.4bagh.net #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1869478/
 127.0.0.1 frontalback91.icu #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1869450/
-127.0.0.1 siege-close.com #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1869455/
 127.0.0.1 systemformating.rest #botnet_cc https://threatfox.abuse.ch/ioc/1869457/
 127.0.0.1 brokenheart.club #botnet_cc https://threatfox.abuse.ch/ioc/1869458/
 127.0.0.1 zolotoy.club #botnet_cc https://threatfox.abuse.ch/ioc/1869459/
@@ -17184,7 +17187,7 @@
 127.0.0.1 ns-cyber-server.sbs #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839467/
 127.0.0.1 lcates-vs.beer #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839466/
 127.0.0.1 cloud-save-image.sbs #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839465/
-127.0.0.1 verification-cdn-cloud.beer #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839464/
+127.0.0.1 verification-cdn-cloud.beer #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839464/
 127.0.0.1 ssg-cdn.beer #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839463/
 127.0.0.1 stabcdnvlc.beer #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839462/
 127.0.0.1 lckcdnjs.beer #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839461/
@@ -17217,7 +17220,7 @@
 127.0.0.1 www.hotelmontenegro.cz #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839426/
 127.0.0.1 insta360.co.id #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839425/
 127.0.0.1 bca.edu.pk #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839424/
-127.0.0.1 opportunitiesforeveryone.net #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839423/
+127.0.0.1 opportunitiesforeveryone.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839423/
 127.0.0.1 gustoantico.ch #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839421/
 127.0.0.1 lastoriadelcaffe.ch #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839420/
 127.0.0.1 meierhealthcare.ch #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1839419/
@@ -51105,4 +51108,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51106
+# Number of entries: 51109
