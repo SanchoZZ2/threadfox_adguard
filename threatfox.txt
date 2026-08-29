@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 getdsmwebdevpros.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890927/
+127.0.0.1 bq69vfja.31hat.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890922/
+127.0.0.1 31hat.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890921/
+127.0.0.1 getdsmdigital.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890920/
+127.0.0.1 workwithgetdsm.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890919/
 127.0.0.1 www.zmenadodavatela.sk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890906/
 127.0.0.1 lvvseg9o.velocitymindset.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890899/
 127.0.0.1 velocitymindset.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890898/
@@ -4086,6 +4091,7 @@
 127.0.0.1 lueurbygreg.ch #payload_delivery https://threatfox.abuse.ch/ioc/1881605/
 127.0.0.1 p9bh7aaa.usa-us--goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1881601/
 127.0.0.1 zemgeneve.ch #payload_delivery https://threatfox.abuse.ch/ioc/1881594/
+127.0.0.1 ilgiardinodeibambini.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1881593/
 127.0.0.1 tridegar.es #payload_delivery https://threatfox.abuse.ch/ioc/1881591/
 127.0.0.1 nadiatanner.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1881590/
 127.0.0.1 thetinytravelerblog.com #payload_delivery https://threatfox.abuse.ch/ioc/1881589/
@@ -51065,4 +51071,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51066
+# Number of entries: 51072
