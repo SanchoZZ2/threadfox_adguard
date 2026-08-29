@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 7ti.li #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891062/
+127.0.0.1 www.hobbyegge.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891061/
+127.0.0.1 dewocyki.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891057/
+127.0.0.1 caroleparodi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891056/
+127.0.0.1 linywahe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891055/
+127.0.0.1 luckywheels.world #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891054/
+127.0.0.1 lulugyqi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891053/
+127.0.0.1 bbxi4lykw4.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891052/
 127.0.0.1 c75aknnyxf.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891051/
 127.0.0.1 fish-planet.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891047/
 127.0.0.1 online-park.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891048/
@@ -51181,4 +51189,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51182
+# Number of entries: 51190
