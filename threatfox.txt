@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 forecast-chaos.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1891103/
+127.0.0.1 lesemi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891102/
+127.0.0.1 ambitious56.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891101/
+127.0.0.1 wlwdk84865.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891098/
+127.0.0.1 kdjik001.neuro-wave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891097/
+127.0.0.1 neuro-wave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891096/
+127.0.0.1 qefepaky.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891095/
+127.0.0.1 invisibleharrie.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891094/
+127.0.0.1 sound-obstacle.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1891093/
+127.0.0.1 meta.study-run.xyz #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1891092/
 127.0.0.1 kylatyni.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891090/
 127.0.0.1 maritsaaqua.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891089/
 127.0.0.1 0p1a6v5vih.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891084/
@@ -51208,4 +51218,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51209
+# Number of entries: 51219
