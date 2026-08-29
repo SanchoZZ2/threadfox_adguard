@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bestcloudservicesupport.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891116/
+127.0.0.1 bestguardservicesupport.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891117/
+127.0.0.1 bigdealjournal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891118/
+127.0.0.1 qs0sd7xjfm.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891115/
+127.0.0.1 nomalipo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891114/
+127.0.0.1 zfpij29832.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891113/
+127.0.0.1 osd9uavwa9.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891112/
+127.0.0.1 bmrpo37305.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891105/
+127.0.0.1 puemr96226.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891104/
 127.0.0.1 forecast-chaos.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1891103/
 127.0.0.1 lesemi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891102/
 127.0.0.1 ambitious56.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891101/
@@ -51218,4 +51227,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51219
+# Number of entries: 51228
