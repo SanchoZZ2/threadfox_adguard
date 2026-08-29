@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 c75aknnyxf.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891051/
+127.0.0.1 fish-planet.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891047/
+127.0.0.1 online-park.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891048/
+127.0.0.1 legexuca.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891046/
+127.0.0.1 4151amalia.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891042/
+127.0.0.1 tin.tokyo77hit.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1891041/
+127.0.0.1 fmui74n9.bottegadesiresstore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891040/
+127.0.0.1 grace352.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891036/
+127.0.0.1 bottegadesiresstore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891035/
 127.0.0.1 calmriverflowing.top #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1891032/
 127.0.0.1 uylwd48175.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891031/
 127.0.0.1 pfaz89ummq.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891030/
@@ -6369,6 +6378,7 @@
 127.0.0.1 poplarmemoir.top #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1878064/
 127.0.0.1 myhandyplus.ch #payload_delivery https://threatfox.abuse.ch/ioc/1878061/
 127.0.0.1 8cos2bio.en-us-superbrain.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1878058/
+127.0.0.1 huber-holzbau.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1878057/
 127.0.0.1 hsxhsodcx.eng-eng-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1878052/
 127.0.0.1 niaoend.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1878051/
 127.0.0.1 eelorme.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1878031/
@@ -51171,4 +51181,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51172
+# Number of entries: 51182
