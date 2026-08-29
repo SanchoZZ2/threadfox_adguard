@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fvqyq70147.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890965/
+127.0.0.1 ekvm8w7naz.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890964/
+127.0.0.1 bosa.skillsbeam.io #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890961/
+127.0.0.1 brd55i3s5p.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890956/
+127.0.0.1 mtg.nicocasa.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890954/
+127.0.0.1 www.aloop.be #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890955/
+127.0.0.1 ferrazzini.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890953/
+127.0.0.1 guzory.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890952/
 127.0.0.1 nmnwn42925.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890951/
 127.0.0.1 embersummit.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1890950/
 127.0.0.1 buwegy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1890949/
@@ -51125,4 +51133,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51126
+# Number of entries: 51134
