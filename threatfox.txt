@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 seo.mogacode.ma #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891134/
+127.0.0.1 vaxabaja.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891133/
+127.0.0.1 7q9i0yalnt.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891130/
+127.0.0.1 jjqnwf6c.mertraa.org.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891129/
+127.0.0.1 mertraa.org.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891128/
+127.0.0.1 flhq6iyb.neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891126/
+127.0.0.1 holuri.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891125/
+127.0.0.1 sdxzz21626.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891123/
+127.0.0.1 c82yhw7bs7.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891122/
 127.0.0.1 bestcloudservicesupport.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891116/
 127.0.0.1 bestguardservicesupport.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891117/
 127.0.0.1 bigdealjournal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891118/
@@ -51227,4 +51236,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51228
+# Number of entries: 51237
