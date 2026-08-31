@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jobebosy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891905/
+127.0.0.1 ninjabattlearena.cfd #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1891896/
+127.0.0.1 pa-upd.mariomilan.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1891891/
+127.0.0.1 softcrate.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1891886/
+127.0.0.1 bbtidwyn.shop-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891885/
+127.0.0.1 shop-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891884/
+127.0.0.1 supexire.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891883/
+127.0.0.1 pilakama.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891881/
 127.0.0.1 sakurinos.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1891873/
 127.0.0.1 rkhud95517.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891872/
 127.0.0.1 noxumo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891871/
@@ -51193,4 +51201,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51194
+# Number of entries: 51202
