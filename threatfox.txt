@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 krbst56779.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891817/
+127.0.0.1 secure-loadfile28.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891815/
+127.0.0.1 vault-image.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891816/
+127.0.0.1 docstore-s6.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891809/
+127.0.0.1 exp-partner-statement.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891810/
+127.0.0.1 photo-hub.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891811/
+127.0.0.1 photonet-drive.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891812/
+127.0.0.1 pic-vault.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891813/
+127.0.0.1 secur3vault.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891814/
+127.0.0.1 hrrrison.sbs #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1891806/
+127.0.0.1 vyw0demm.gluccotrust--bites.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891804/
+127.0.0.1 4402inherent.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891803/
+127.0.0.1 ftp.ckzafetyztres.com #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1891797/
+127.0.0.1 leriqilu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891796/
+127.0.0.1 ycphj84084.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891793/
 127.0.0.1 rmv.sm188dvlv.icu #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1891743/
 127.0.0.1 vcd.sm188dvlv.icu #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1891744/
 127.0.0.1 tak.sm188dvlv.icu #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1891745/
@@ -51150,4 +51165,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51151
+# Number of entries: 51166
