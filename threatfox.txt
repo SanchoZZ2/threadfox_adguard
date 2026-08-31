@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xuliluma.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891834/
+127.0.0.1 kap-engineering.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891831/
+127.0.0.1 hbupgtkx49.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891830/
+127.0.0.1 cw91bzc2fb.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891826/
+127.0.0.1 dvtwn44396.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891824/
+127.0.0.1 r339jk17.mertre.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891823/
+127.0.0.1 es0jh7f31p.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891822/
 127.0.0.1 krbst56779.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891817/
 127.0.0.1 secure-loadfile28.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891815/
 127.0.0.1 vault-image.info #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1891816/
@@ -51165,4 +51172,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51166
+# Number of entries: 51173
