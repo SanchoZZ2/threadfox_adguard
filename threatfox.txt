@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sakurinos.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1891873/
+127.0.0.1 rkhud95517.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891872/
+127.0.0.1 noxumo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891871/
+127.0.0.1 9mrz5b66.shop-dentalprime.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891869/
+127.0.0.1 shop-dentalprime.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891864/
+127.0.0.1 pihiqoku.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891863/
+127.0.0.1 earl.afghankabobgrill.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891857/
+127.0.0.1 nylefe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891862/
+127.0.0.1 www.groupe-elemen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891861/
+127.0.0.1 earl.afghankabobgrill.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891860/
 127.0.0.1 qylofihi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891858/
 127.0.0.1 o5kevt4l0w.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891854/
 127.0.0.1 hitdw76155.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891848/
@@ -51183,4 +51193,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51184
+# Number of entries: 51194
