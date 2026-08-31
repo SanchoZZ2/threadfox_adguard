@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 quvehuzo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891913/
+127.0.0.1 y1w1e9yu.shop-dentavive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891911/
+127.0.0.1 shop-dentavive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1891910/
+127.0.0.1 hyhibe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891909/
+127.0.0.1 7444aquamarine.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891907/
+127.0.0.1 cyrilipu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891906/
 127.0.0.1 jobebosy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1891905/
 127.0.0.1 ninjabattlearena.cfd #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1891896/
 127.0.0.1 pa-upd.mariomilan.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1891891/
@@ -51201,4 +51207,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51202
+# Number of entries: 51208
