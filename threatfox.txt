@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 0qepx6f4.cdn-jbgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892255/
+127.0.0.1 exjui68915.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892254/
+127.0.0.1 cdn-jbgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892253/
+127.0.0.1 63ksxix5.shop-prostafense.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892252/
+127.0.0.1 shop-prostafense.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892251/
+127.0.0.1 bumilago.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892248/
+127.0.0.1 nivovubo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892247/
+127.0.0.1 8skntjcxvt.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892246/
 127.0.0.1 rkny771c.shop-memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892245/
 127.0.0.1 shop-memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892244/
 127.0.0.1 pdejstkd.shop-neuro-sharp.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892243/
@@ -50694,4 +50702,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50695
+# Number of entries: 50703
