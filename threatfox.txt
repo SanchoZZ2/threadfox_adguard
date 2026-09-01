@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 guravoxy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892574/
+127.0.0.1 healthchatboard.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892572/
+127.0.0.1 eebc669y.eng-us-puraboost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892571/
+127.0.0.1 sonywyho.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892570/
+127.0.0.1 zg25d3bt.shop-alphaboostpro.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892569/
+127.0.0.1 rain.afghankabobgrill.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1892566/
+127.0.0.1 rycawixo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892565/
+127.0.0.1 profile.cobaltwayfinder.org #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1892564/
 127.0.0.1 dc.lesaray.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1892553/
 127.0.0.1 rhuv97eek7.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892562/
 127.0.0.1 swisshousebuilder.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892560/
@@ -3255,6 +3263,7 @@
 127.0.0.1 vlfkf12817.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1885673/
 127.0.0.1 jylebori.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1885672/
 127.0.0.1 pdbxq1z3.eng-us-puraboost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885671/
+127.0.0.1 eng-us-puraboost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885670/
 127.0.0.1 zgqkz11565.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1885669/
 127.0.0.1 65rmmx1u.eng-usa-menbalancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885668/
 127.0.0.1 eynskhbmwd.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1885667/
@@ -50788,4 +50797,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50789
+# Number of entries: 50798
