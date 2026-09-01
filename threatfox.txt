@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 m5ve0nrzqn.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892672/
+127.0.0.1 mole.albaikmenuonline.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1892671/
+127.0.0.1 2kelly.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892662/
 127.0.0.1 mewewy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892634/
 127.0.0.1 7n4zamvr.shop-alphasurge.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892632/
 127.0.0.1 www.tuttoxpizza.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892631/
@@ -50824,4 +50827,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50825
+# Number of entries: 50828
