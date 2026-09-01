@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pofoga.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892398/
+127.0.0.1 uwkac56907.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892394/
+127.0.0.1 hojaheno.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892393/
+127.0.0.1 cbuod47726.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892392/
+127.0.0.1 szlqgs89.shop-nervealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892391/
 127.0.0.1 shop-nervealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892390/
 127.0.0.1 hkd.sm188dvlv.lol #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1892385/
 127.0.0.1 gaz.sm188dvlv.lol #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1892386/
@@ -50731,4 +50736,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50732
+# Number of entries: 50737
