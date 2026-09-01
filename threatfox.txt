@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dc.lesaray.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1892553/
+127.0.0.1 rhuv97eek7.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892562/
+127.0.0.1 swisshousebuilder.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892560/
+127.0.0.1 fiwarice.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892559/
+127.0.0.1 countrybase.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1892558/
+127.0.0.1 pibirexi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892557/
+127.0.0.1 rain.afghankabobgrill.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892541/
+127.0.0.1 rug.albaikmenuonline.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892542/
+127.0.0.1 slotbet200.xyz #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1892545/
+127.0.0.1 larisype.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892551/
+127.0.0.1 rug.albaikmenuonline.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892544/
+127.0.0.1 cupefo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892543/
 127.0.0.1 haileeteal.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892540/
 127.0.0.1 marhhetti.sbs #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1892531/
 127.0.0.1 www.damatostudiolegale.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892536/
@@ -22110,6 +22122,7 @@
 127.0.0.1 zythdolm.cn #botnet_cc, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1817665/
 127.0.0.1 namathejaljawdah.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817400/
 127.0.0.1 rodrigooliveiracontabil.com.br #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817404/
+127.0.0.1 technocraft.fr #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817410/
 127.0.0.1 etokrol.lol #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817444/
 127.0.0.1 govnol.lat #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817445/
 127.0.0.1 myblobtop.site #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1817446/
@@ -50775,4 +50788,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50776
+# Number of entries: 50789
