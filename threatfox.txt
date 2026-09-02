@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 6x2x5hvx.syndentix.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893622/
+127.0.0.1 au6zb9l1.usa-dentalprime.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893621/
+127.0.0.1 syndentix.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893620/
+127.0.0.1 usa-dentalprime.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893619/
+127.0.0.1 hot.13balien.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1893617/
 127.0.0.1 registeredagentsingeorgia.com #botnet_cc, win.latrodectus, BLACKWIDOW, IceNova https://threatfox.abuse.ch/ioc/1893608/
 127.0.0.1 zinury.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893607/
 127.0.0.1 2343medieval.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893606/
@@ -13176,6 +13181,7 @@
 127.0.0.1 frolen.life #payload_delivery https://threatfox.abuse.ch/ioc/1853734/
 127.0.0.1 rgb.arizonafamilylawfirm.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853736/
 127.0.0.1 babydiapersinturkey.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853858/
+127.0.0.1 corambiente.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853863/
 127.0.0.1 daoyiyuan.cn #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853865/
 127.0.0.1 euregio-camper.de #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853867/
 127.0.0.1 instantfixservices.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1853869/
@@ -19281,6 +19287,7 @@
 127.0.0.1 associationaudrey.fr #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825246/
 127.0.0.1 attyx.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825247/
 127.0.0.1 noscalpelvasectomy.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825258/
+127.0.0.1 santacruzwebdesign.co #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825262/
 127.0.0.1 sharonneedles.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825263/
 127.0.0.1 swojem.pl #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825265/
 127.0.0.1 thellio.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1825266/
@@ -28020,6 +28027,7 @@
 127.0.0.1 councilapprovaldesign.com.au #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804250/
 127.0.0.1 clarksoutpost.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804233/
 127.0.0.1 c-s-p.info #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804213/
+127.0.0.1 cannabis-dna.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804215/
 127.0.0.1 castit.live #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804219/
 127.0.0.1 cdumpo.ru #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804221/
 127.0.0.1 blago-qr.ru #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804203/
@@ -50747,4 +50755,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50748
+# Number of entries: 50756
