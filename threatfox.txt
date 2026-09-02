@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 b3mmtzy5.syndantix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893477/
+127.0.0.1 syndantix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893476/
+127.0.0.1 x2hreeo4.usa-bloodarmor.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893470/
+127.0.0.1 usa-bloodarmor.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893468/
+127.0.0.1 9ue80i63mp.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893466/
+127.0.0.1 cuqatida.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893464/
+127.0.0.1 io.honeysucklefolio.co #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1893462/
+127.0.0.1 buysypi831.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893460/
+127.0.0.1 compresspi9123.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893461/
 127.0.0.1 brnug49883.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893235/
 127.0.0.1 tbjutiwjzc.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893234/
 127.0.0.1 1cecube.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893233/
@@ -50615,4 +50624,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50616
+# Number of entries: 50625
