@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 brnug49883.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893235/
+127.0.0.1 tbjutiwjzc.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1893234/
+127.0.0.1 1cecube.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893233/
+127.0.0.1 ndjin7pw.cdn-jbgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893228/
+127.0.0.1 club-72.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893225/
 127.0.0.1 wicug18w.usa-blinzador.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893222/
 127.0.0.1 usa-blinzador.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893220/
 127.0.0.1 k-2ventures.com #payload_delivery https://threatfox.abuse.ch/ioc/1893207/
@@ -29110,6 +29115,7 @@
 127.0.0.1 vel-valeis.mist3briar.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1802186/
 127.0.0.1 banner-stack.so6lavern.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1802189/
 127.0.0.1 nor-tideum.ve7loria.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1802156/
+127.0.0.1 glowmedaesthetics.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1802162/
 127.0.0.1 0njmhe52.mist3briar.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1802188/
 127.0.0.1 lwmbun.mist3briar.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1802187/
 127.0.0.1 velcrest2en.mist3briar.garden #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1802184/
@@ -50609,4 +50615,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50610
+# Number of entries: 50616
