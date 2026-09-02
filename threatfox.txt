@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 palamy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892873/
+127.0.0.1 old.travelbizmonitor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892872/
+127.0.0.1 0xpbs8gsma.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892869/
+127.0.0.1 fyj081hy8u.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892868/
+127.0.0.1 mulylele.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892867/
+127.0.0.1 voxygoxe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892866/
 127.0.0.1 lunuzo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1892858/
 127.0.0.1 dl7iun9z.marathonmktggroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1892855/
 127.0.0.1 qaz0.com #payload_delivery https://threatfox.abuse.ch/ioc/1892741/
@@ -50494,4 +50500,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50495
+# Number of entries: 50501
