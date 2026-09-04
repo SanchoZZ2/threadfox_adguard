@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x9dxutuk07.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894368/
+127.0.0.1 basic-junior.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894362/
+127.0.0.1 railroad-boot.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894363/
+127.0.0.1 great-basic.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894364/
+127.0.0.1 st-dl.documentsupportservices.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1894334/
+127.0.0.1 ny4tkjgp.us-en-morningcoffeeritual.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894356/
+127.0.0.1 www.qkshhdjrbd.work #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1894351/
+127.0.0.1 dns.n1u89dhs.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1894350/
+127.0.0.1 sla.sm188dvlv.mom #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1894348/
+127.0.0.1 sla.13balien.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1894346/
+127.0.0.1 us-en-us-bloodarmor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894345/
+127.0.0.1 fwb9239vrh.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894338/
+127.0.0.1 johavipy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894337/
+127.0.0.1 r9chaxy2.pura--boost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894336/
 127.0.0.1 wolf.albaikmenuonline.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894326/
 127.0.0.1 wolf.albaikmenuonline.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1894327/
 127.0.0.1 yeeln73321.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894325/
@@ -49829,4 +49843,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49830
+# Number of entries: 49844
