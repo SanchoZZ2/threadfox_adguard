@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 canyonmere.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1894306/
+127.0.0.1 sync.canyonmere.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1894307/
+127.0.0.1 us-en-us-geniusbrainsignal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894304/
+127.0.0.1 techycarterpiller.kozow.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1894303/
+127.0.0.1 n5def881.us-en-us--puraboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894299/
+127.0.0.1 us-en-us--puraboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894298/
+127.0.0.1 k8xn2yer.go-flashburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894291/
+127.0.0.1 5n1qve2o.us-en-nervesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894290/
 127.0.0.1 recexudi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894288/
 127.0.0.1 zel5cv5nse.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894285/
 127.0.0.1 fipromwie.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1894279/
@@ -49810,4 +49818,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49811
+# Number of entries: 49819
