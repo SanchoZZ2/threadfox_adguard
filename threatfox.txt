@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 almanimo.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894399/
+127.0.0.1 cuop9xy2zp.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894398/
+127.0.0.1 jagyny.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894396/
 127.0.0.1 q56x2p00.us-en-us-synaboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894382/
 127.0.0.1 us-en-us-synaboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894381/
 127.0.0.1 us-en-us-retinaclear.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894380/
@@ -4259,6 +4262,7 @@
 127.0.0.1 7vet1020426xxc.cfd #payload_delivery, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1884233/
 127.0.0.1 svhost-update-service.casa #botnet_cc, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1884220/
 127.0.0.1 mypamella.xyz #botnet_cc, win.overlay_rat, Overlay RAT https://threatfox.abuse.ch/ioc/1884218/
+127.0.0.1 aadsp-danse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884215/
 127.0.0.1 blueberryflowes.com #payload_delivery https://threatfox.abuse.ch/ioc/1884089/
 127.0.0.1 orangexhello.com #payload_delivery https://threatfox.abuse.ch/ioc/1884091/
 127.0.0.1 blueberryxcloud.com #payload_delivery https://threatfox.abuse.ch/ioc/1884090/
@@ -49850,4 +49854,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49851
+# Number of entries: 49855
