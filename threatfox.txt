@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 benotrobot.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894260/
+127.0.0.1 g9564ynbca.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894259/
+127.0.0.1 distrolink.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1894251/
 127.0.0.1 angkasa138gas.space #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894244/
 127.0.0.1 day.sm188dvlv.mom #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1894237/
 127.0.0.1 day.13balien.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1894235/
@@ -48763,6 +48766,7 @@
 127.0.0.1 00283643bbm.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1552125/
 127.0.0.1 ns2.nmd5.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1551776/
 127.0.0.1 ns1.nmd5.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1551775/
+127.0.0.1 17.aa.4t.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1551535/
 127.0.0.1 producesound.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1550798/
 127.0.0.1 dns1.globalcdn.autos #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1550783/
 127.0.0.1 ms-pupils.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1548368/
@@ -49795,4 +49799,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49796
+# Number of entries: 49800
