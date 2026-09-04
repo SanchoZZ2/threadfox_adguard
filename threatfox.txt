@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 recexudi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894288/
+127.0.0.1 zel5cv5nse.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894285/
+127.0.0.1 fipromwie.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1894279/
+127.0.0.1 tootiswe.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1894280/
+127.0.0.1 zecoorigelabs.shop #botnet_cc https://threatfox.abuse.ch/ioc/1894281/
+127.0.0.1 twigoamwu.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1894282/
+127.0.0.1 quantum-flex.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1894283/
+127.0.0.1 prism-tech.cfd #botnet_cc https://threatfox.abuse.ch/ioc/1894284/
+127.0.0.1 rochardson.me #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1894267/
+127.0.0.1 3xoi10iy.usen-glucotrust-bites.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894273/
 127.0.0.1 benotrobot.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894260/
 127.0.0.1 g9564ynbca.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894259/
 127.0.0.1 distrolink.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1894251/
@@ -48204,6 +48214,7 @@
 127.0.0.1 darkbq.club #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1754281/
 127.0.0.1 honerable-bk.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1754260/
 127.0.0.1 honerable.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1754259/
+127.0.0.1 googlanalitlcs.icu #payload_delivery https://threatfox.abuse.ch/ioc/1754150/
 127.0.0.1 glo.gadgetwalabd.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1753479/
 127.0.0.1 jamesmullertech.live #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1753364/
 127.0.0.1 partyfriends.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1753344/
@@ -49799,4 +49810,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49800
+# Number of entries: 49811
