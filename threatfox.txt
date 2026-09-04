@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 q56x2p00.us-en-us-synaboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894382/
+127.0.0.1 us-en-us-synaboost.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894381/
+127.0.0.1 us-en-us-retinaclear.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894380/
+127.0.0.1 16mp59qr.usen-neurovera.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894371/
+127.0.0.1 k35xtdfx.us-en-us-heroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894370/
+127.0.0.1 tirokyke.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894369/
 127.0.0.1 x9dxutuk07.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1894368/
 127.0.0.1 basic-junior.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894362/
 127.0.0.1 railroad-boot.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1894363/
@@ -10617,6 +10623,7 @@
 127.0.0.1 samaritainfrance.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865602/
 127.0.0.1 www.cam81.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865544/
 127.0.0.1 vongarden.id #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865454/
+127.0.0.1 www.jaegerbud.pl #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865361/
 127.0.0.1 www.embajadalatinacorp.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865308/
 127.0.0.1 sepolia.gateway.tenderly.co #botnet_cc https://threatfox.abuse.ch/ioc/1865131/
 127.0.0.1 donovanna.com #payload_delivery https://threatfox.abuse.ch/ioc/1865132/
@@ -49843,4 +49850,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49844
+# Number of entries: 49851
