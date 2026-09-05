@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 1hji53mps8.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1901182/
+127.0.0.1 tijide.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1901181/
 127.0.0.1 whitedierdre.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1901170/
 127.0.0.1 agrou68423.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1901169/
 127.0.0.1 e2u8o9ap.us-en-us-levium.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1901032/
@@ -9608,6 +9610,7 @@
 127.0.0.1 luciebalit.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865957/
 127.0.0.1 oeko.com.au #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865843/
 127.0.0.1 samaritainfrance.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865602/
+127.0.0.1 regen-acres.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865567/
 127.0.0.1 www.cam81.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865544/
 127.0.0.1 vongarden.id #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865454/
 127.0.0.1 www.jaegerbud.pl #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865361/
@@ -48548,4 +48551,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48549
+# Number of entries: 48552
