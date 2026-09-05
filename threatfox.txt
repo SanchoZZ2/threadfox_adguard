@@ -9788,6 +9788,7 @@
 127.0.0.1 soulgenai.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1864464/
 127.0.0.1 surestayplussanantoniotx.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1864463/
 127.0.0.1 lauraparraga.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864440/
+127.0.0.1 extincteur-pro.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864242/
 127.0.0.1 yeja56.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1863911/
 127.0.0.1 hsab20.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1863910/
 127.0.0.1 rpm.sm188xxzx.top #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1863909/
@@ -48559,4 +48560,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48560
+# Number of entries: 48561
