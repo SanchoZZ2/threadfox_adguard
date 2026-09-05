@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ryrl24n6sx.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1901352/
+127.0.0.1 agenticera.club #botnet_cc, apk.axbanker, AxBanker https://threatfox.abuse.ch/ioc/1901335/
+127.0.0.1 435ggtrgberwtw.duckdns.org #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1901349/
+127.0.0.1 k4cbbl9nzn.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1901351/
+127.0.0.1 r2ahpyt9.us-en-us-heroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1901341/
+127.0.0.1 e0lg2w5e.us-en-us-nervesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1901340/
+127.0.0.1 us-en-us-nervesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1901339/
 127.0.0.1 infodatalis.com #payload_delivery https://threatfox.abuse.ch/ioc/1901233/
 127.0.0.1 ukwearstore.org #payload_delivery https://threatfox.abuse.ch/ioc/1901236/
 127.0.0.1 telemetryloop.net #payload_delivery https://threatfox.abuse.ch/ioc/1901238/
@@ -48603,4 +48610,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 48604
+# Number of entries: 48611
