@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 i7un01w0.xnburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903943/
+127.0.0.1 xnburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903942/
+127.0.0.1 totemcom.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903936/
+127.0.0.1 topdutos.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903937/
+127.0.0.1 www.true-beboerforening.dk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903938/
+127.0.0.1 tomandlin.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903934/
+127.0.0.1 tongheshop.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903935/
+127.0.0.1 tsgconstructionco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903933/
+127.0.0.1 kotufase.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903931/
+127.0.0.1 morning-field-67c9.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903930/
+127.0.0.1 xpyhq83327.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903929/
 127.0.0.1 0hb2vcul.xen-burn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903928/
 127.0.0.1 9nhat9gp.xenburn.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903927/
 127.0.0.1 xenburn.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903926/
@@ -5252,6 +5263,7 @@
 127.0.0.1 gotiri.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1885585/
 127.0.0.1 bohapu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1885582/
 127.0.0.1 visionplanet.com.ar #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885575/
+127.0.0.1 tristarcasino.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885568/
 127.0.0.1 trigenio.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885567/
 127.0.0.1 serenadalessandro.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885561/
 127.0.0.1 rassegnabattiti.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885556/
@@ -49915,4 +49927,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49916
+# Number of entries: 49928
