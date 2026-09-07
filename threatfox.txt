@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 6963coffee.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903198/
+127.0.0.1 www.bierebel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903195/
+127.0.0.1 lucasfrancaadvogados.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903196/
+127.0.0.1 qiriqesy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903194/
+127.0.0.1 lunallenatravel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903192/
+127.0.0.1 maitrikala.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903193/
+127.0.0.1 www.maison-durable.pro #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903188/
+127.0.0.1 mail.blueprintexecutives.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903189/
+127.0.0.1 www.maison-bulle-minzier.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903190/
+127.0.0.1 makkahtimezone.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903191/
+127.0.0.1 lotania.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903187/
+127.0.0.1 nfu.jnk.mybluehost.me #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903180/
+127.0.0.1 lumeabedding.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903181/
+127.0.0.1 malviyacraft.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903182/
+127.0.0.1 luxedesignsmn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903179/
 127.0.0.1 libertywritersnews.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903178/
 127.0.0.1 lenot.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903177/
 127.0.0.1 logcargo.com.ar #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903174/
@@ -8437,6 +8452,7 @@
 127.0.0.1 rabvsryhs.phim18k.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1874680/
 127.0.0.1 qdfck9el.crownconnectpk.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1874674/
 127.0.0.1 wsjmpkkq.usa--sightfresh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1874662/
+127.0.0.1 magazine.tacoshop.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874473/
 127.0.0.1 28r8x9d2.get-goldalign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1874380/
 127.0.0.1 chelseamobiletyrefitting.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874317/
 127.0.0.1 befaes.mom #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874289/
@@ -49419,4 +49435,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49420
+# Number of entries: 49436
