@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.sobrasadamallorca.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903791/
+127.0.0.1 sirwish.ae #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903786/
+127.0.0.1 skakalki-club.kiev.ua #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903787/
+127.0.0.1 sidlinjen.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903788/
+127.0.0.1 www.sibat-ci.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903785/
+127.0.0.1 ship-js.veecargoexpresscouriers.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1903745/
+127.0.0.1 schamserger.top #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1903752/
+127.0.0.1 mesh.officialx-token.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1903755/
+127.0.0.1 nyxis.lol #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1903779/
+127.0.0.1 backdoor.kolaybet.club #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903776/
+127.0.0.1 malware.kolaybet.club #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903777/
+127.0.0.1 api.kolaybet.club #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903778/
+127.0.0.1 backdoor.688vbet.pro #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903773/
+127.0.0.1 malware.688vbet.pro #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903774/
+127.0.0.1 api.688vbet.pro #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903775/
+127.0.0.1 malware.clipmagic.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903770/
+127.0.0.1 api.clipmagic.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903771/
+127.0.0.1 c2.clipmagic.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903772/
+127.0.0.1 backdoor.clipmagic.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1903769/
+127.0.0.1 c2.kolaybet.club #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1903768/
+127.0.0.1 gamezklop.cc #payload_delivery https://threatfox.abuse.ch/ioc/1903767/
+127.0.0.1 lawyhula.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903766/
 127.0.0.1 xatufy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903765/
 127.0.0.1 f4nvsexe.xen--burn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903764/
 127.0.0.1 xen--burn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903763/
@@ -49825,4 +49847,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49826
+# Number of entries: 49848
