@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 commercialevelina.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903159/
+127.0.0.1 valpa.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903158/
+127.0.0.1 xb7tz2o2.web-levium.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903157/
+127.0.0.1 web-levium.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903156/
+127.0.0.1 e8gr1jq7.pura--boost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903155/
+127.0.0.1 koria-sv.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903150/
+127.0.0.1 layana.cl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903151/
 127.0.0.1 kmtconcept.com.ng #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903140/
 127.0.0.1 kanaloario.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903141/
 127.0.0.1 kktctemizlikhizmetleri.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903137/
@@ -10893,6 +10900,7 @@
 127.0.0.1 vongarden.id #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865454/
 127.0.0.1 www.motorway.nl #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865412/
 127.0.0.1 www.neskapaillettes.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865416/
+127.0.0.1 www.lacittavirtuale.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865379/
 127.0.0.1 www.jaegerbud.pl #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865361/
 127.0.0.1 www.embajadalatinacorp.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865308/
 127.0.0.1 sepolia.gateway.tenderly.co #botnet_cc https://threatfox.abuse.ch/ioc/1865131/
@@ -49635,4 +49643,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49636
+# Number of entries: 49644
