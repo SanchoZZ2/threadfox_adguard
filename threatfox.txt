@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 onlyinark.fewclient.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903223/
+127.0.0.1 mantodeenjaeger.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903220/
+127.0.0.1 mcs.co.mz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903221/
+127.0.0.1 mariachiselitebogota.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903222/
+127.0.0.1 matzoball.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903215/
+127.0.0.1 martistery.pk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903216/
+127.0.0.1 www.marsana.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903217/
+127.0.0.1 www.mariebeltrami.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903218/
+127.0.0.1 maryolanieto.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903214/
+127.0.0.1 maryberryfiberart.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903213/
+127.0.0.1 www.marcusolausson.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903212/
+127.0.0.1 4zf0849k.www-genesisrevival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903206/
+127.0.0.1 karmatechnical.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903205/
 127.0.0.1 6963coffee.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1903198/
 127.0.0.1 www.bierebel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903195/
 127.0.0.1 lucasfrancaadvogados.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903196/
@@ -5223,6 +5236,7 @@
 127.0.0.1 110tonn.ru #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884839/
 127.0.0.1 archaicpixels.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884840/
 127.0.0.1 8jwsinz7.eng-usa-genesisrevival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884833/
+127.0.0.1 eng-usa-genesisrevival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884832/
 127.0.0.1 regakero.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1884831/
 127.0.0.1 zizynyny.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1884817/
 127.0.0.1 vasino921.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884815/
@@ -49435,4 +49449,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49436
+# Number of entries: 49450
