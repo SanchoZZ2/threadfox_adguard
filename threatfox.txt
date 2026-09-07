@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.virag-auto.hu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904025/
+127.0.0.1 votebacasantacruz.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904026/
+127.0.0.1 vlbook.tech #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904022/
+127.0.0.1 vcsacademy.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904023/
+127.0.0.1 velti-digital.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904024/
+127.0.0.1 lvsn8zv8.zen--sulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904021/
+127.0.0.1 veranaflooring.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904016/
 127.0.0.1 winterberrycanto.co #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1904012/
 127.0.0.1 nqh2cxeijk.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1904005/
 127.0.0.1 rhzml61n2m.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1904000/
@@ -4262,6 +4269,7 @@
 127.0.0.1 i0xh1sjp.en-us-zen-sulin.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889023/
 127.0.0.1 af55l61r.en-us-zen-sulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889022/
 127.0.0.1 en-us-zen-sulin.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889020/
+127.0.0.1 en-us-zen-sulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889019/
 127.0.0.1 veleqevy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889018/
 127.0.0.1 xozokana.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889017/
 127.0.0.1 fodydyhy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1889016/
@@ -49939,4 +49947,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49940
+# Number of entries: 49948
