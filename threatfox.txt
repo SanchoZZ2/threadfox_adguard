@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 onric.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903519/
+127.0.0.1 onclickcart.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903520/
 127.0.0.1 nisw.co.za #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903509/
 127.0.0.1 nimzara.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903445/
 127.0.0.1 nissan.operations-rousseau-automobile.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1903442/
@@ -49710,4 +49712,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49711
+# Number of entries: 49713
