@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 2tkoflhf.berlin-knights.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905449/
+127.0.0.1 berlin-knights.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905448/
+127.0.0.1 welypubo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1905447/
+127.0.0.1 capsurlavenir.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905446/
 127.0.0.1 rug.betweenthebunz.co #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1905420/
 127.0.0.1 dwzc4sh2.comsift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905419/
 127.0.0.1 comsift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905418/
@@ -51281,4 +51285,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51282
+# Number of entries: 51286
