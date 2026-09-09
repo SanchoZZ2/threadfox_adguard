@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hrlink.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906125/
+127.0.0.1 notion-brown.com #payload_delivery https://threatfox.abuse.ch/ioc/1906115/
+127.0.0.1 gear-carriage.com #payload_delivery https://threatfox.abuse.ch/ioc/1906116/
+127.0.0.1 tape-exposure.com #payload_delivery https://threatfox.abuse.ch/ioc/1906117/
+127.0.0.1 zh87ptod.venoplus.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906113/
+127.0.0.1 drbaney.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906106/
+127.0.0.1 kwldbne6aq.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906104/
+127.0.0.1 dekozuva.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906100/
 127.0.0.1 www.sahak.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906099/
 127.0.0.1 a5lab.co #payload_delivery, js.beavertail, BeaverTail https://threatfox.abuse.ch/ioc/1906041/
 127.0.0.1 greenlandperu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906093/
@@ -49845,4 +49853,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49846
+# Number of entries: 49854
