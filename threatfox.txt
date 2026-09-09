@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pykoza.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1905819/
+127.0.0.1 neroji.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1905818/
+127.0.0.1 elitedevelopmentllc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905817/
+127.0.0.1 elevatets.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905790/
 127.0.0.1 ebcmedia.vn #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905787/
 127.0.0.1 ecceambalaj.com.tr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905786/
 127.0.0.1 ecostar.mu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905784/
@@ -24771,6 +24775,7 @@
 127.0.0.1 cooltool.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1810919/
 127.0.0.1 testerlau.lat #payload_delivery, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1810899/
 127.0.0.1 gvf-togo.org #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810627/
+127.0.0.1 engetrina.com.br #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810593/
 127.0.0.1 ciemaster.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810550/
 127.0.0.1 bhayatravels.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810515/
 127.0.0.1 robodomain.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1810458/
@@ -49604,4 +49609,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49605
+# Number of entries: 49610
