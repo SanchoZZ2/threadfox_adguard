@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 flexumshop.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906346/
+127.0.0.1 son2v1ep.kyotocamaro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906343/
+127.0.0.1 kyotocamaro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906342/
+127.0.0.1 juarezyasociados.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906340/
+127.0.0.1 ps-c.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906341/
+127.0.0.1 judo-heidenau.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906335/
+127.0.0.1 juicylucysteakhouse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906334/
+127.0.0.1 schulist.sbs #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1906313/
 127.0.0.1 cybywo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906318/
 127.0.0.1 jblfestival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906317/
 127.0.0.1 www.akari-audio.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906316/
@@ -8905,6 +8913,7 @@
 127.0.0.1 bezelek.shop #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876516/
 127.0.0.1 ajnfqs.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876513/
 127.0.0.1 ogtqavytw.usa--us-audizen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876480/
+127.0.0.1 johnsonsglassandupholstery.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1876423/
 127.0.0.1 eng-stakecasino.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876390/
 127.0.0.1 4fm984rh.eng-en-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876387/
 127.0.0.1 bpxotsbx.eng-usa-slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1876384/
@@ -29281,6 +29290,7 @@
 127.0.0.1 kairoschristianresourcecenter.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804371/
 127.0.0.1 kudeta.fm #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804379/
 127.0.0.1 jcadventures.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804360/
+127.0.0.1 jjhomeimprovements.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804364/
 127.0.0.1 johncohencoaching.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804365/
 127.0.0.1 inovnis.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804351/
 127.0.0.1 jamhurikenyaleadershipawards.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804357/
@@ -49941,4 +49951,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49942
+# Number of entries: 49952
