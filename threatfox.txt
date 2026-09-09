@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fourstarcampground.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906710/
+127.0.0.1 www.kolhofgut.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906709/
+127.0.0.1 felice979.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906708/
+127.0.0.1 gyvola.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906704/
 127.0.0.1 vysyze.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906701/
 127.0.0.1 89ulhsid.nycsocialsportsclub.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906700/
 127.0.0.1 nycsocialsportsclub.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906699/
@@ -50222,4 +50226,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50223
+# Number of entries: 50227
