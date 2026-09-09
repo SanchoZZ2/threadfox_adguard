@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kdesignindonesia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906360/
+127.0.0.1 khidmahnaturalcare.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906356/
+127.0.0.1 katorbeta.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906357/
+127.0.0.1 kebefama.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906355/
+127.0.0.1 karek.tn #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906352/
+127.0.0.1 d9aip4sfay.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906350/
+127.0.0.1 skinny8860.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906349/
+127.0.0.1 eyemove.space #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1906348/
+127.0.0.1 ypu2r2nu.flexumshop.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906347/
 127.0.0.1 flexumshop.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906346/
 127.0.0.1 son2v1ep.kyotocamaro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906343/
 127.0.0.1 kyotocamaro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906342/
@@ -19577,6 +19586,7 @@
 127.0.0.1 xcioxhpp.masirpayambari.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833357/
 127.0.0.1 pirroflobsny.ydns.eu #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1833356/
 127.0.0.1 demagic009.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1833355/
+127.0.0.1 abelmomaroc.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1832958/
 127.0.0.1 ac4hosting.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1832960/
 127.0.0.1 wrlunpmj.masaelmohandesi.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833352/
 127.0.0.1 ab950zja.testpaye.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833351/
@@ -49951,4 +49961,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49952
+# Number of entries: 49962
