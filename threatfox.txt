@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cybywo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906318/
+127.0.0.1 jblfestival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906317/
+127.0.0.1 www.akari-audio.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906316/
+127.0.0.1 cze8lawl4a.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906312/
+127.0.0.1 niol201d.comoycuandopodar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906308/
+127.0.0.1 comoycuandopodar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906307/
+127.0.0.1 jakeys.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906306/
+127.0.0.1 hollowsentinel.com #payload_delivery https://threatfox.abuse.ch/ioc/1906305/
+127.0.0.1 shelternode18.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1906296/
+127.0.0.1 jadeleap15.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1906297/
+127.0.0.1 loop-lumen.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1906298/
+127.0.0.1 flint-32.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1906299/
+127.0.0.1 buathaisushi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906304/
 127.0.0.1 abode-veify20auth.es #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1906292/
 127.0.0.1 innovac.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906275/
 127.0.0.1 www.industrialengines.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906276/
@@ -10987,6 +11000,7 @@
 127.0.0.1 soba-udon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868999/
 127.0.0.1 shopmakeit.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868998/
 127.0.0.1 noticias29.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868969/
+127.0.0.1 jennamarsh.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868958/
 127.0.0.1 fsrzcnc.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868948/
 127.0.0.1 civicrm.dmsolutions-testcenter.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868941/
 127.0.0.1 x0ih2pfd.scottpwilliamslaw.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868936/
@@ -29266,6 +29280,7 @@
 127.0.0.1 livecup.se #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804388/
 127.0.0.1 kairoschristianresourcecenter.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804371/
 127.0.0.1 kudeta.fm #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804379/
+127.0.0.1 jcadventures.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804360/
 127.0.0.1 johncohencoaching.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804365/
 127.0.0.1 inovnis.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804351/
 127.0.0.1 jamhurikenyaleadershipawards.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804357/
@@ -49926,4 +49941,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49927
+# Number of entries: 49942
