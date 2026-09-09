@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.sahak.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906099/
+127.0.0.1 a5lab.co #payload_delivery, js.beavertail, BeaverTail https://threatfox.abuse.ch/ioc/1906041/
+127.0.0.1 greenlandperu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906093/
+127.0.0.1 globalprivateequitypartners.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906094/
+127.0.0.1 goldbaecker.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906095/
+127.0.0.1 goodnewsnepalministry.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906087/
+127.0.0.1 www.goldcoastdisabilityservices.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906084/
+127.0.0.1 glowbeautybd.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906085/
+127.0.0.1 www.graduatemonkey.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906086/
+127.0.0.1 gloryspinning.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906081/
+127.0.0.1 goeppinger-city.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906082/
+127.0.0.1 www.gonextgroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906083/
+127.0.0.1 gmattos.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906078/
+127.0.0.1 gpicoop.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906079/
+127.0.0.1 greenmoringathermal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906080/
 127.0.0.1 embarrassedyoshiko.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906061/
 127.0.0.1 e99is6wd.www-bellyflush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906060/
 127.0.0.1 acrjb033vq.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906059/
@@ -29174,6 +29189,7 @@
 127.0.0.1 inovnis.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804351/
 127.0.0.1 jamhurikenyaleadershipawards.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804357/
 127.0.0.1 gkb-transit.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804317/
+127.0.0.1 go.for-it.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804318/
 127.0.0.1 growinghandshaircare.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804321/
 127.0.0.1 fourpoint.hu #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804307/
 127.0.0.1 francotaboada.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804308/
@@ -49829,4 +49845,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49830
+# Number of entries: 49846
