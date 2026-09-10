@@ -1,4 +1,25 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 8otqtzmy.ydns.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906926/
+127.0.0.1 ydns.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906925/
+127.0.0.1 api.vexxuhq.site #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1906386/
+127.0.0.1 logm-justia.com #payload_delivery https://threatfox.abuse.ch/ioc/1906440/
+127.0.0.1 ssospace.net #payload_delivery https://threatfox.abuse.ch/ioc/1906442/
+127.0.0.1 netstreamplus.com #payload_delivery https://threatfox.abuse.ch/ioc/1906448/
+127.0.0.1 csswaytech.net #payload_delivery https://threatfox.abuse.ch/ioc/1906451/
+127.0.0.1 okuneva.sbs #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1906718/
+127.0.0.1 regions.globalcargonetwork.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1906721/
+127.0.0.1 mi6.operationanonrecoil.ru #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1906821/
+127.0.0.1 www.mysteriesmusical.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906923/
+127.0.0.1 dreamsstoriesbd.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906924/
+127.0.0.1 multilocktiles.co.za #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906922/
+127.0.0.1 ojyh0s8b.brycecanyonlogcabins.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906916/
+127.0.0.1 deltacolo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906915/
+127.0.0.1 iocdesignconsulting.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906912/
+127.0.0.1 multiespacio.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906913/
+127.0.0.1 myfacts.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906914/
+127.0.0.1 brycecanyonlogcabins.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906911/
+127.0.0.1 xer0a002po.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906910/
+127.0.0.1 5nrkm0ei2e.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906909/
 127.0.0.1 dorfpraxis-rueschlikon.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906908/
 127.0.0.1 warenwerk.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906907/
 127.0.0.1 74br4nt0.e-rse.fit #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906906/
@@ -4126,6 +4147,7 @@
 127.0.0.1 athlometrics.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893544/
 127.0.0.1 bestybookkeepers.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893546/
 127.0.0.1 academiacalasanscamargo.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893548/
+127.0.0.1 nutricaocomjo.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893528/
 127.0.0.1 loginkerala.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893531/
 127.0.0.1 strandraeuber-ditzum.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893532/
 127.0.0.1 st-fjfi.cz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893533/
@@ -49909,4 +49931,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49910
+# Number of entries: 49932
