@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jl4wdm8i.bobatouch.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907011/
+127.0.0.1 nhakhoatandinh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907010/
+127.0.0.1 goodlong.life #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907009/
+127.0.0.1 newpurpose.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907004/
 127.0.0.1 blwcg81617.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907003/
 127.0.0.1 dinaly.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906950/
 127.0.0.1 www.navarriniarchitetti.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906940/
@@ -11250,6 +11254,7 @@
 127.0.0.1 mbgoqhu.soba-udon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1869006/
 127.0.0.1 soba-udon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868999/
 127.0.0.1 shopmakeit.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1868998/
+127.0.0.1 noelwellness.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868968/
 127.0.0.1 noticias29.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868969/
 127.0.0.1 jennamarsh.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868958/
 127.0.0.1 fsrzcnc.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1868948/
@@ -29500,6 +29505,7 @@
 127.0.0.1 pothain-moulages.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804478/
 127.0.0.1 prcfencing.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804479/
 127.0.0.1 onlydiscovery.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804455/
+127.0.0.1 nickvanhoegen.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804443/
 127.0.0.1 nycefmonline.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804447/
 127.0.0.1 ocmh.health #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804448/
 127.0.0.1 myperformance.agency #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804428/
@@ -49941,4 +49947,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49942
+# Number of entries: 49948
