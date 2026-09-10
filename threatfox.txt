@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 blwcg81617.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907003/
+127.0.0.1 dinaly.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1906950/
+127.0.0.1 www.navarriniarchitetti.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906940/
+127.0.0.1 elimargomes.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906937/
+127.0.0.1 equiscoperes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906938/
+127.0.0.1 enlineard.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906939/
+127.0.0.1 escoladeemagrecimento.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906935/
+127.0.0.1 natureelitehealth.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906936/
+127.0.0.1 friendsstack.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1906934/
+127.0.0.1 truspanel.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1906933/
 127.0.0.1 8otqtzmy.ydns.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906926/
 127.0.0.1 ydns.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1906925/
 127.0.0.1 api.vexxuhq.site #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1906386/
@@ -49931,4 +49941,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49932
+# Number of entries: 49942
