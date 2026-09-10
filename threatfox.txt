@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 demnocusurpapanottodelivermebetterlogs.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1907177/
+127.0.0.1 sd62uazg.en-en-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907162/
+127.0.0.1 hx4ha4w0p9.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907155/
+127.0.0.1 fymamalo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907154/
+127.0.0.1 drift-phantom.cc #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1907141/
+127.0.0.1 z9yxj5lc.us-morningfatmelter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907148/
 127.0.0.1 ponpesinayatullah.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907139/
 127.0.0.1 quicksilvercleaning.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907137/
 127.0.0.1 pilotmonkeys.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907138/
@@ -7759,6 +7765,7 @@
 127.0.0.1 eng-homepowershield.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884677/
 127.0.0.1 c5xxg0v3.eng-flashburnn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884676/
 127.0.0.1 vva5dqlz.en-en-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884672/
+127.0.0.1 en-en-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884671/
 127.0.0.1 kjgbq41860.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1884670/
 127.0.0.1 9r28j8f6.lckd.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884664/
 127.0.0.1 lckd.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884662/
@@ -50001,4 +50008,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50002
+# Number of entries: 50009
