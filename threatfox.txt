@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bapele.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907123/
+127.0.0.1 crimsonroundel.info #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1907122/
+127.0.0.1 tifomoqa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907121/
+127.0.0.1 llny16fk.btobglobal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907116/
+127.0.0.1 btobglobal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907115/
+127.0.0.1 phanxwodm.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1907113/
+127.0.0.1 sns.grotominpgroup.pl #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1907103/
+127.0.0.1 mihajskam.serveminecraft.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1907101/
+127.0.0.1 cns.grotominpgroup.pl #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1907102/
+127.0.0.1 peluqueriainesgarcia.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907099/
+127.0.0.1 nakhlatee.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907100/
+127.0.0.1 nanohaarpigmentierung.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907097/
+127.0.0.1 pascalcossu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907098/
+127.0.0.1 u6ytrewqgrfewdmmmjhfjpooiuyhgghfdsaokjbn.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1907091/
 127.0.0.1 windowsupgrade.3utilities.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1907087/
 127.0.0.1 s0ls07nv.www-genesisrevival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907079/
 127.0.0.1 paintmyparkinglot.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907076/
@@ -49042,6 +49056,7 @@
 127.0.0.1 brain4zoadgr6clxecixffvxjsw43cflyprnpfeak72nfh664kqqriyd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1509089/
 127.0.0.1 p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1509088/
 127.0.0.1 sptx.supportrmx.xyz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1491378/
+127.0.0.1 nomass2024.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1491355/
 127.0.0.1 oss-aws.1nb.xyz #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1486845/
 127.0.0.1 gecsge4e1e5427f8.com #botnet_cc, apk.vo1d, vo1d https://threatfox.abuse.ch/ioc/1485408/
 127.0.0.1 vtrow.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1463087/
@@ -49973,4 +49988,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49974
+# Number of entries: 49989
