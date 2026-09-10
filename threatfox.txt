@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 windowsupgrade.3utilities.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1907087/
+127.0.0.1 s0ls07nv.www-genesisrevival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907079/
+127.0.0.1 paintmyparkinglot.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907076/
+127.0.0.1 looseningcaptivesblog.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907077/
+127.0.0.1 linuxbazar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907078/
+127.0.0.1 lazycatagency.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907073/
+127.0.0.1 mariafinch.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907074/
+127.0.0.1 ortodoncia-invisible-valencia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907075/
+127.0.0.1 jolymeza.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907072/
+127.0.0.1 poxizu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1907071/
 127.0.0.1 login.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1907031/
 127.0.0.1 bdidap9p.borderlinelakewood.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907040/
 127.0.0.1 kidderporecollege.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1907034/
@@ -49963,4 +49973,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 49964
+# Number of entries: 49974
