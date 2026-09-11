@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jolocule.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1912247/
+127.0.0.1 escapeai.live #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1912246/
+127.0.0.1 unavailablerobot.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1912242/
+127.0.0.1 redirectwebpage.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1912243/
+127.0.0.1 harborlinecdn.com #botnet_cc https://threatfox.abuse.ch/ioc/1912197/
+127.0.0.1 log.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1912206/
+127.0.0.1 bayberrygalleon.cc #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1912239/
+127.0.0.1 bayberrygalleon.cc #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1912233/
 127.0.0.1 wa83neqa.creditrepairhacking.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1912232/
 127.0.0.1 7fs8pudv.zen-sulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1912231/
 127.0.0.1 boqecexa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1912226/
@@ -50688,4 +50696,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50689
+# Number of entries: 50697
