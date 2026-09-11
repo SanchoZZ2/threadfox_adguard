@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hidesign.com.vn #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1911873/
+127.0.0.1 orbittrack.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1911872/
+127.0.0.1 mafihaba.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1911871/
+127.0.0.1 8r0ghiko.us-us-theeloncode.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1911870/
+127.0.0.1 instrideedition.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1911869/
+127.0.0.1 egyoast.cloud #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1911868/
+127.0.0.1 4378u3hz.melemoeuhane.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1911867/
+127.0.0.1 ax8ayl1guumv.hellodcuser.com #botnet_cc, win.hades, Hades https://threatfox.abuse.ch/ioc/1910819/
+127.0.0.1 45vpt6bf8rlh.hellodcuser.com #botnet_cc, win.hades, Hades https://threatfox.abuse.ch/ioc/1910820/
+127.0.0.1 kw0lwdvgqq1e.hellodcuser.com #botnet_cc, win.hades, Hades https://threatfox.abuse.ch/ioc/1910821/
+127.0.0.1 amigo.mexicocentral.cloudapp.azure.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1911077/
+127.0.0.1 bool.eastasia.cloudapp.azure.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1911078/
+127.0.0.1 4p7109sg.www-bellyflush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1911861/
 127.0.0.1 php8lr0j2y.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1911855/
 127.0.0.1 cfasa61441.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1911854/
 127.0.0.1 fvo5vl1w.everythingisephemere.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1911835/
@@ -13312,6 +13325,7 @@
 127.0.0.1 txlouno.surestayplussanantoniotx.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1864465/
 127.0.0.1 soulgenai.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1864464/
 127.0.0.1 surestayplussanantoniotx.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1864463/
+127.0.0.1 joffrey-briaud-photography.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864384/
 127.0.0.1 jonizatsea.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864386/
 127.0.0.1 iofinance.co.il #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864367/
 127.0.0.1 guilfordcountytopladies.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864307/
@@ -50638,4 +50652,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50639
+# Number of entries: 50653
