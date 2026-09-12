@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 feedspanone.net #payload_delivery https://threatfox.abuse.ch/ioc/1915922/
+127.0.0.1 logbasesky.com #payload_delivery https://threatfox.abuse.ch/ioc/1915924/
+127.0.0.1 collectortimetech.com #payload_delivery https://threatfox.abuse.ch/ioc/1915926/
+127.0.0.1 vw7sqxax.niaa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915994/
+127.0.0.1 niaa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915993/
 127.0.0.1 wbqmiqiofh.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915984/
 127.0.0.1 awqe9upy69.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915983/
 127.0.0.1 0hd4saaw.bossizmit.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915975/
@@ -51554,4 +51559,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51555
+# Number of entries: 51560
