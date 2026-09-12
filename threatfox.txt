@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 deltawood.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1915690/
+127.0.0.1 login.nimbusforge.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1915689/
+127.0.0.1 fugozafu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915688/
+127.0.0.1 creativex5.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1915686/
+127.0.0.1 boss1huesos.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1915687/
+127.0.0.1 fjsy2up0gt.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915681/
+127.0.0.1 revolutionautodetailing.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915674/
+127.0.0.1 us-en-us-cognigenplus.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915673/
+127.0.0.1 cf-check.site #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1915672/
 127.0.0.1 arrowwoodmemoir.org #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1915668/
 127.0.0.1 172u1sfd.diero.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915653/
 127.0.0.1 diero.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915652/
@@ -51514,4 +51523,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51515
+# Number of entries: 51524
