@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 br7p47p1.morgz.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915907/
+127.0.0.1 morgz.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915906/
+127.0.0.1 gh77c2ooci.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915905/
+127.0.0.1 nupogily.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915904/
 127.0.0.1 captcha-fortnite-cashback.info #payload_delivery https://threatfox.abuse.ch/ioc/1915893/
 127.0.0.1 f8kw4v0c.bosseskisehir.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915890/
 127.0.0.1 bosseskisehir.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915889/
@@ -51537,4 +51541,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51538
+# Number of entries: 51542
