@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 8ihu7corut.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915644/
+127.0.0.1 flexpaydev2.wpengine.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915636/
 127.0.0.1 6e023wyi.bossbey.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915635/
 127.0.0.1 bossbey.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1915634/
 127.0.0.1 dorezuvu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1915627/
@@ -51505,4 +51507,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51506
+# Number of entries: 51508
