@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bumoxa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916125/
+127.0.0.1 zcrq6pvf.pesas.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916122/
+127.0.0.1 syycs77596.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916121/
 127.0.0.1 jtd3m9p0.jurni.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916118/
 127.0.0.1 jurni.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916117/
 127.0.0.1 cohibipy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916097/
@@ -50124,6 +50127,7 @@
 127.0.0.1 myrepis.gd #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1678597/
 127.0.0.1 tvlounge.aw #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1678535/
 127.0.0.1 effinghampodiatriclore.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1677537/
+127.0.0.1 whm.tamiltotamil.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1676077/
 127.0.0.1 psicogenealogia.com.br #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1676031/
 127.0.0.1 happydeliveryllc.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1675960/
 127.0.0.1 soloecommerce.it #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1674569/
@@ -51370,4 +51374,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51371
+# Number of entries: 51375
