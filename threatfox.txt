@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 api.riklicidufiorai.com #payload_delivery https://threatfox.abuse.ch/ioc/1916666/
+127.0.0.1 api.ketoriloxisd.com #payload_delivery https://threatfox.abuse.ch/ioc/1916665/
+127.0.0.1 k94qbs8lmd.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916664/
+127.0.0.1 bro.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1916651/
+127.0.0.1 vyvexusu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916663/
 127.0.0.1 puvepa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916629/
 127.0.0.1 hebequwe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916624/
 127.0.0.1 athenarose.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916622/
@@ -51693,4 +51698,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51694
+# Number of entries: 51699
