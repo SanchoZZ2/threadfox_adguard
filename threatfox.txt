@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wivahu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916691/
+127.0.0.1 grata83.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916690/
+127.0.0.1 rzmi7dyf.khive.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916680/
+127.0.0.1 khive.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916679/
 127.0.0.1 karakocsystem.xyz #payload_delivery, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1916670/
 127.0.0.1 api.riklicidufiorai.com #payload_delivery https://threatfox.abuse.ch/ioc/1916666/
 127.0.0.1 api.ketoriloxisd.com #payload_delivery https://threatfox.abuse.ch/ioc/1916665/
@@ -11871,6 +11875,7 @@
 127.0.0.1 contractmanufacturers.in #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874004/
 127.0.0.1 corrieredellaverita.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874005/
 127.0.0.1 dchme.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874006/
+127.0.0.1 digisakshi.shop #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874007/
 127.0.0.1 doljanka.ba #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874009/
 127.0.0.1 duldulsports.com.pk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874010/
 127.0.0.1 ecoprobuilders.in #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874011/
@@ -51699,4 +51704,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51700
+# Number of entries: 51705
