@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 miqmh80v.bosskayseri.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916028/
+127.0.0.1 bosskayseri.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916027/
+127.0.0.1 tibexoda.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916022/
+127.0.0.1 kududuzy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916020/
 127.0.0.1 4rqjjify.omars.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916015/
 127.0.0.1 omars.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916014/
 127.0.0.1 noug.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916013/
@@ -51565,4 +51569,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51566
+# Number of entries: 51570
