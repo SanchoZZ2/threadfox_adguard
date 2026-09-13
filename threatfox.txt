@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 athenarose.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916622/
+127.0.0.1 campingcavresc.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916623/
+127.0.0.1 dnsrecordsarepowerful.com #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1916618/
+127.0.0.1 dontworry.su #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1916619/
+127.0.0.1 spamhaushackers.at #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1916620/
+127.0.0.1 youareafagifyoufoundthis.com #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1916621/
+127.0.0.1 tulipstone.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1916611/
+127.0.0.1 cdn.tulipstone.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1916612/
 127.0.0.1 bvr3nwx8.kapkan.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916610/
 127.0.0.1 kapkan.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916609/
 127.0.0.1 kamaks.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916608/
@@ -51683,4 +51691,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51684
+# Number of entries: 51692
