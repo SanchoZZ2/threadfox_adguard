@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 prairielink.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1916927/
+127.0.0.1 zouwemmig.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1916925/
+127.0.0.1 ftp.sequences.digital #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1916923/
+127.0.0.1 owwyt4xqrs.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916922/
+127.0.0.1 tyxti71182.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916918/
+127.0.0.1 wrdn.lol #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1916703/
+127.0.0.1 www.digitalisierung-schule.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1916705/
 127.0.0.1 kaliop-weda.club #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1916704/
 127.0.0.1 wivahu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916691/
 127.0.0.1 grata83.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1916690/
@@ -51705,4 +51712,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 51706
+# Number of entries: 51713
