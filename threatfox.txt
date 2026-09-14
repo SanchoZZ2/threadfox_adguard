@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beit-shoresh.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917125/
+127.0.0.1 logs.primebyte.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1917123/
+127.0.0.1 mail.novaform.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1917122/
+127.0.0.1 mesa-seen-dcjcj.live #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1916978/
+127.0.0.1 hashedsolver.icu #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916979/
+127.0.0.1 trekworkshop3.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917095/
 127.0.0.1 4x97yrwu5j.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917112/
 127.0.0.1 qyzonygu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917111/
 127.0.0.1 9pnwme94.lador.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917109/
@@ -9553,6 +9559,7 @@
 127.0.0.1 eng-usa-glycomute.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885118/
 127.0.0.1 8gmcvfr9.eng-neuro-wave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885109/
 127.0.0.1 mississippicannabisschool.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885087/
+127.0.0.1 agenciadetraduccion.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885078/
 127.0.0.1 5g6unmz0.eng-usa-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885072/
 127.0.0.1 rs53tvhu.eng--memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885070/
 127.0.0.1 jd4zow6i.eng--geniusbrainsignal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885069/
@@ -50465,4 +50472,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50466
+# Number of entries: 50473
