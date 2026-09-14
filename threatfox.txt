@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 player.gamesstatusfun.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1917609/
+127.0.0.1 fv3y26cp.bfun.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917606/
+127.0.0.1 aleverifocation.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1917323/
 127.0.0.1 www.restaurant-leuehof.ch #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1917317/
 127.0.0.1 peralaca.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917318/
 127.0.0.1 522warm.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917314/
@@ -50547,4 +50550,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50548
+# Number of entries: 50551
