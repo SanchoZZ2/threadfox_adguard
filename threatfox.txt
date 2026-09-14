@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.restaurant-leuehof.ch #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1917317/
+127.0.0.1 peralaca.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917318/
+127.0.0.1 522warm.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917314/
 127.0.0.1 r6qobdol.laken.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917295/
 127.0.0.1 laken.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917291/
 127.0.0.1 cu8d1374.us-eng-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917289/
@@ -50544,4 +50547,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50545
+# Number of entries: 50548
