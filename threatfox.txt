@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xbktm00536.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917133/
+127.0.0.1 52uj2wm2.7flex.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917132/
+127.0.0.1 eoqsp45536.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917131/
+127.0.0.1 bkbmall.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917127/
+127.0.0.1 www.werde-medium.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917126/
 127.0.0.1 beit-shoresh.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917125/
 127.0.0.1 logs.primebyte.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1917123/
 127.0.0.1 mail.novaform.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1917122/
@@ -22096,6 +22101,7 @@
 127.0.0.1 xlyvz7lr.motuntakhasosi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833349/
 127.0.0.1 m7nohnc7.modiriyatnikbakht.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833348/
 127.0.0.1 jfxdrqqn.maharatmodiran.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833347/
+127.0.0.1 www.citymoversmagazine.com.ng #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833322/
 127.0.0.1 www.lc3.com.br #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833330/
 127.0.0.1 tecnolozzi.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833288/
 127.0.0.1 royalvet.es #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833265/
@@ -50472,4 +50478,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50473
+# Number of entries: 50479
