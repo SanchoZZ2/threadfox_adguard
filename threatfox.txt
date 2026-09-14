@@ -1,4 +1,25 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ridge-ciosktai.site #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1917184/
+127.0.0.1 www.viralabperu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917177/
+127.0.0.1 edilbertocosta.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917178/
+127.0.0.1 chantfern11.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917139/
+127.0.0.1 raster-80.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917140/
+127.0.0.1 tide-maple.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917141/
+127.0.0.1 leaflyric4.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917142/
+127.0.0.1 harvest-53.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917143/
+127.0.0.1 scope-quest.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917144/
+127.0.0.1 kitefeather5.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917145/
+127.0.0.1 ballad82.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917146/
+127.0.0.1 quest-38.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917147/
+127.0.0.1 verse-57.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917148/
+127.0.0.1 pine-weave.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917149/
+127.0.0.1 slate16.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917150/
+127.0.0.1 flint-jade.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917151/
+127.0.0.1 nimbus-pearl.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917152/
+127.0.0.1 coral21.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917153/
+127.0.0.1 ridge-globe.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917154/
+127.0.0.1 globecirrus.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917155/
+127.0.0.1 shelter19.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1917156/
 127.0.0.1 xbktm00536.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917133/
 127.0.0.1 52uj2wm2.7flex.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1917132/
 127.0.0.1 eoqsp45536.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1917131/
@@ -50478,4 +50499,4 @@
 127.0.0.1 sweyblidian.com #botnet_cc, win.hancitor, Chanitor, Hancitor https://threatfox.abuse.ch/ioc/6441/
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
-# Number of entries: 50479
+# Number of entries: 50500
