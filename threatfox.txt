@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rehearsal-b.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920384/
+127.0.0.1 uh.qq1x.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1920382/
+127.0.0.1 uh.177betwin.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1920380/
 127.0.0.1 taraba123.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1920377/
 127.0.0.1 correspondabb.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920375/
 127.0.0.1 k0pr01pw.diero.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920374/
@@ -6145,7 +6148,6 @@
 127.0.0.1 troysolution.com.tr #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1903144/
 127.0.0.1 lunar-quill-fluscriois.live #payload_delivery https://threatfox.abuse.ch/ioc/1903104/
 127.0.0.1 medmark.sa #payload_delivery https://threatfox.abuse.ch/ioc/1903082/
-127.0.0.1 satinmaple4 #payload_delivery https://threatfox.abuse.ch/ioc/1903078/
 127.0.0.1 anchorcoral10.com #payload_delivery https://threatfox.abuse.ch/ioc/1903079/
 127.0.0.1 bridge-schema.com #botnet_cc https://threatfox.abuse.ch/ioc/1903080/
 127.0.0.1 brewmacosterm.com #payload_delivery https://threatfox.abuse.ch/ioc/1903077/
@@ -49013,4 +49015,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49014
+# Number of entries: 49016
