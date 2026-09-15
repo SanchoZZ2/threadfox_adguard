@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lcs5a3iy.devtec.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920331/
+127.0.0.1 zuqucygy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920329/
+127.0.0.1 67tamar.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920328/
 127.0.0.1 gsawilc2.morgz.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920325/
 127.0.0.1 jpfl8cwa.kapkan.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920324/
 127.0.0.1 5jtpv8ur.planus.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920323/
@@ -49003,4 +49006,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49004
+# Number of entries: 49007
