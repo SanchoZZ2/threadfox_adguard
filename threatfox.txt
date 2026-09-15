@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sse0tbwo.niaa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920414/
+127.0.0.1 f3grdcpf.dyar.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920412/
+127.0.0.1 ayfwnugk.pura--boost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920410/
+127.0.0.1 front-api.ecodevelopmentltd.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1920403/
+127.0.0.1 chordapple.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920397/
+127.0.0.1 wallie91.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920395/
+127.0.0.1 b3ioot10.khive.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920393/
+127.0.0.1 ixx0976dnh.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920392/
 127.0.0.1 rehearsal-b.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920384/
 127.0.0.1 uh.qq1x.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1920382/
 127.0.0.1 uh.177betwin.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1920380/
@@ -49015,4 +49023,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49016
+# Number of entries: 49024
