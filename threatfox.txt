@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 taraba123.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1920377/
+127.0.0.1 correspondabb.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920375/
+127.0.0.1 k0pr01pw.diero.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920374/
+127.0.0.1 board.go-frame89.one #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1920367/
+127.0.0.1 ucojz29483.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920356/
+127.0.0.1 botcheck-cf.top #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920351/
+127.0.0.1 86roaaiuf2.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920350/
 127.0.0.1 lcs5a3iy.devtec.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920331/
 127.0.0.1 zuqucygy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920329/
 127.0.0.1 67tamar.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920328/
@@ -49006,4 +49013,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49007
+# Number of entries: 49014
