@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 z0mvmrtr.eng-us-puraboost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920668/
+127.0.0.1 scandia-express.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920667/
+127.0.0.1 www.dualmont.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920666/
+127.0.0.1 1yyhju9i.noug.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920656/
 127.0.0.1 www.briannacrawford.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920646/
 127.0.0.1 www.debrancheexpert.tv #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920647/
 127.0.0.1 www.duegolficharter.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920648/
@@ -49185,4 +49189,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49186
+# Number of entries: 49190
