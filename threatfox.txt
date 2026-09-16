@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 6al7ob99.xcat.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921120/
+127.0.0.1 xcat.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921119/
+127.0.0.1 gagymo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921108/
+127.0.0.1 ybkjz19142.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921105/
+127.0.0.1 somageneva.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921104/
+127.0.0.1 docucentercentral.live #botnet_cc https://threatfox.abuse.ch/ioc/1921096/
+127.0.0.1 248labs.ch #payload_delivery https://threatfox.abuse.ch/ioc/1921095/
+127.0.0.1 r9zhnj8a.palso.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921094/
+127.0.0.1 windowsdiagnostics.st #botnet_cc https://threatfox.abuse.ch/ioc/1921056/
+127.0.0.1 debug.windowsdiagnostics.st #botnet_cc https://threatfox.abuse.ch/ioc/1921057/
+127.0.0.1 48ex7rbv.moren.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921093/
 127.0.0.1 mcreu5e7.heroe.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921092/
 127.0.0.1 uo2vv3xp.segaup.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921090/
 127.0.0.1 segaup.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921089/
@@ -49067,4 +49078,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49068
+# Number of entries: 49079
