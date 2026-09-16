@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ladifo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921329/
+127.0.0.1 ryjywa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921325/
+127.0.0.1 iaap.iscte-iul.pt #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921321/
+127.0.0.1 563f1gxt.spom.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921320/
+127.0.0.1 spom.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921319/
+127.0.0.1 benaditahd.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1921306/
+127.0.0.1 9arwza9k.zenfa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921285/
+127.0.0.1 zenfa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921284/
+127.0.0.1 derpetuals.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921275/
 127.0.0.1 ganyangwisma.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921271/
 127.0.0.1 grand-atlas.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921269/
 127.0.0.1 zqvoz45553.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921268/
@@ -49158,4 +49167,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49159
+# Number of entries: 49168
