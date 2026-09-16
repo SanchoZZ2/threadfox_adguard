@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mcreu5e7.heroe.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921092/
+127.0.0.1 uo2vv3xp.segaup.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921090/
+127.0.0.1 segaup.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921089/
+127.0.0.1 updates.rootwave.cc #botnet_cc, win.animate_clipper, AnimateClipper https://threatfox.abuse.ch/ioc/1921088/
+127.0.0.1 stream.echovale.cc #botnet_cc, win.animate_clipper, AnimateClipper https://threatfox.abuse.ch/ioc/1921087/
+127.0.0.1 fajujyli.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921077/
 127.0.0.1 xyhysa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921076/
 127.0.0.1 www.snmechanicalhvac.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1921044/
 127.0.0.1 www.teczkibezkwasowe.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1921045/
@@ -49061,4 +49067,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49062
+# Number of entries: 49068
