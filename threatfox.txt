@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 02eiya9o.xn--ndux-kza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921165/
+127.0.0.1 xn--ndux-kza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921164/
 127.0.0.1 anarchy10.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1921156/
 127.0.0.1 faleja.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921155/
 127.0.0.1 9032terrible.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921154/
@@ -14548,6 +14550,7 @@
 127.0.0.1 bluesdrummer.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862725/
 127.0.0.1 bnbgest.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862726/
 127.0.0.1 brentesoncompanies.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862731/
+127.0.0.1 armeh.com.tr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862698/
 127.0.0.1 atakumpsikoteknik.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862706/
 127.0.0.1 atelieveartes.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862707/
 127.0.0.1 atemarabuluculuk.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862708/
@@ -49081,4 +49084,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 49082
+# Number of entries: 49085
