@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rerrioara.live #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920946/
+127.0.0.1 gesundheitsnachweis24.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920928/
 127.0.0.1 s6qvly4b.fews.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920927/
 127.0.0.1 eqngjv6s.moltem.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920926/
 127.0.0.1 occidentalconstruction.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920924/
@@ -9540,11 +9542,13 @@
 127.0.0.1 wellspringworshipministries.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885799/
 127.0.0.1 usaccidentclaim.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885778/
 127.0.0.1 pbgphilanthropy.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885785/
+127.0.0.1 roesforum.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885787/
 127.0.0.1 africa4tourism.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885770/
 127.0.0.1 cookie-clicker2.co #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885748/
 127.0.0.1 groupe-urologie.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885750/
 127.0.0.1 posttelevision.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885757/
 127.0.0.1 krishnamyfriend.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885759/
+127.0.0.1 fedda.org.do #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885734/
 127.0.0.1 visitkacanik.info #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885737/
 127.0.0.1 sheikhorgfood.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885719/
 127.0.0.1 noticiashuesca.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885721/
@@ -48985,4 +48989,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48986
+# Number of entries: 48990
