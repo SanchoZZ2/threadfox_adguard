@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 s6qvly4b.fews.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920927/
+127.0.0.1 eqngjv6s.moltem.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920926/
+127.0.0.1 occidentalconstruction.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920924/
+127.0.0.1 labioforneria.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920925/
+127.0.0.1 lefahe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920920/
+127.0.0.1 65ey0xwrct.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920916/
+127.0.0.1 v6sjo9pv.omec.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920911/
 127.0.0.1 yewanthology.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1920910/
 127.0.0.1 time.austriaeast.cloudapp.azure.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1920507/
 127.0.0.1 timesync.westus2.cloudapp.azure.com #botnet_cc, js.ether_rat, EtherRAT https://threatfox.abuse.ch/ioc/1920508/
@@ -8074,6 +8081,7 @@
 127.0.0.1 velocitymindset.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890898/
 127.0.0.1 thegetdsm.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890895/
 127.0.0.1 f7ut9c0h.localcannabiscompany.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890892/
+127.0.0.1 timetrackereasy3.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890881/
 127.0.0.1 skzz37qv.teamgetdsm.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890862/
 127.0.0.1 teamgetdsm.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890860/
 127.0.0.1 getdsmwebagency.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890859/
@@ -48977,4 +48985,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48978
+# Number of entries: 48986
