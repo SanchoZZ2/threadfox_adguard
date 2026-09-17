@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lilowysu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1922429/
+127.0.0.1 portojavspirit.net #botnet_cc https://threatfox.abuse.ch/ioc/1921188/
+127.0.0.1 ssoinfolink.com #payload_delivery https://threatfox.abuse.ch/ioc/1921364/
+127.0.0.1 log-pacer.com #payload_delivery https://threatfox.abuse.ch/ioc/1921373/
+127.0.0.1 accountvaulthub.com #payload_delivery https://threatfox.abuse.ch/ioc/1921369/
+127.0.0.1 traceropszone.net #payload_delivery https://threatfox.abuse.ch/ioc/1921367/
+127.0.0.1 appsyspro.net #botnet_cc https://threatfox.abuse.ch/ioc/1921186/
+127.0.0.1 herobustore.net #botnet_cc https://threatfox.abuse.ch/ioc/1921187/
+127.0.0.1 fileupdates.blob.core.windows.net #payload_delivery https://threatfox.abuse.ch/ioc/1921193/
+127.0.0.1 push-api.daibeltrading.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1921261/
+127.0.0.1 wlcm.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1921281/
 127.0.0.1 avenix.lol #payload_delivery, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1921330/
 127.0.0.1 adenpanel.xyz #payload_delivery, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1921332/
 127.0.0.1 booohop.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1921345/
@@ -559,7 +570,6 @@
 127.0.0.1 amaliafair.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920290/
 127.0.0.1 kttjcvdz.ddkg.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920289/
 127.0.0.1 kfypz34545.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920288/
-127.0.0.1 i0.hdslb.com #payload_delivery https://threatfox.abuse.ch/ioc/1920280/
 127.0.0.1 oknpx15638.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920273/
 127.0.0.1 ttbit94071.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1920272/
 127.0.0.1 h8rpbqpa.damza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920271/
@@ -48011,4 +48021,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48012
+# Number of entries: 48022
