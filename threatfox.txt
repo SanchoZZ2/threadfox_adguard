@@ -1,4 +1,22 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 avenix.lol #payload_delivery, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1921330/
+127.0.0.1 adenpanel.xyz #payload_delivery, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1921332/
+127.0.0.1 booohop.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1921345/
+127.0.0.1 trwehop.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1921346/
+127.0.0.1 gyadazs.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1921347/
+127.0.0.1 cruahop.shop #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1921349/
+127.0.0.1 staxta.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1921348/
+127.0.0.1 justlia-en.com #payload_delivery https://threatfox.abuse.ch/ioc/1921380/
+127.0.0.1 auth-thomsonreuters.com #payload_delivery https://threatfox.abuse.ch/ioc/1921382/
+127.0.0.1 fog.beatdropkec.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921464/
+127.0.0.1 09xadksl.wismajoko.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1922414/
+127.0.0.1 wismajoko.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1922413/
+127.0.0.1 wisma138albedo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1922412/
+127.0.0.1 learningworld.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1922408/
+127.0.0.1 www.boutiques-decoration.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1922407/
+127.0.0.1 witudeju.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1922404/
+127.0.0.1 o7z81ibgm2.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1921468/
+127.0.0.1 fog.beatdropkec.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921467/
 127.0.0.1 5o1lb12w.toxyk.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921466/
 127.0.0.1 toxyk.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921465/
 127.0.0.1 candxai.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1921455/
@@ -47993,4 +48011,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47994
+# Number of entries: 48012
