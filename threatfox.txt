@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.neelgirlchemicals.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923307/
+127.0.0.1 www.neelgirlchemicalsbackup.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923308/
+127.0.0.1 www.allltrucks.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923309/
+127.0.0.1 pv8jpfri.alldayslimtea.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923305/
+127.0.0.1 wisma138ayaka.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923304/
+127.0.0.1 rental-lodge.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923303/
+127.0.0.1 elitetourist.vn #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923302/
+127.0.0.1 queue.fastclimate.click #botnet_cc https://threatfox.abuse.ch/ioc/1923297/
+127.0.0.1 xisefopa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923227/
 127.0.0.1 bytetixa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923226/
 127.0.0.1 tndr-panel.online #botnet_cc https://threatfox.abuse.ch/ioc/1923224/
 127.0.0.1 ovusb96472.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923193/
@@ -48427,4 +48436,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48428
+# Number of entries: 48437
