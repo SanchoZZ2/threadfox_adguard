@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 5o1lb12w.toxyk.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921466/
+127.0.0.1 toxyk.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921465/
+127.0.0.1 candxai.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1921455/
+127.0.0.1 1328750890-eja72jp2s9.ap-guangzhou.tencentscf.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1921454/
 127.0.0.1 k5iyfsce.wisma138paimon.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921453/
 127.0.0.1 wisma138paimon.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921452/
 127.0.0.1 wisma138keqing.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1921451/
@@ -47989,4 +47993,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47990
+# Number of entries: 47994
