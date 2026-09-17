@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hwxcm702c8.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923492/
+127.0.0.1 suxedure.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923491/
+127.0.0.1 3jrj8nat.americaeaglependant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923490/
+127.0.0.1 se.zk89.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923484/
+127.0.0.1 se.199cuan.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923481/
+127.0.0.1 up3c3qqw.shop-zensulin.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923448/
+127.0.0.1 shop-zensulin.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923440/
+127.0.0.1 kaiangelsystems.rest #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1923432/
+127.0.0.1 agostinobruno.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923431/
+127.0.0.1 ymemes.noip.at #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923422/
 127.0.0.1 engine.commdistinc.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1923383/
 127.0.0.1 pylabe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923421/
 127.0.0.1 tunewuso.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923420/
@@ -18934,7 +18944,6 @@
 127.0.0.1 bonavol.info #payload_delivery https://threatfox.abuse.ch/ioc/1848576/
 127.0.0.1 genesis-softs.com #payload_delivery https://threatfox.abuse.ch/ioc/1848572/
 127.0.0.1 nightmare-download.pw #payload_delivery https://threatfox.abuse.ch/ioc/1848577/
-127.0.0.1 data.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848593/
 127.0.0.1 r1.kill-bot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848594/
 127.0.0.1 r3.nl.kill-bot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848595/
 127.0.0.1 r4.us.kill-bot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848596/
@@ -48455,4 +48464,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48456
+# Number of entries: 48465
