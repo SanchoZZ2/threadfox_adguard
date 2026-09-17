@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kq36oivv.eng-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923384/
+127.0.0.1 h3tnyjph.vuhw.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923381/
+127.0.0.1 vuhw.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923380/
+127.0.0.1 fincoadvance.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1923332/
 127.0.0.1 wlc.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923371/
 127.0.0.1 ty.zk89.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923377/
 127.0.0.1 ty.199cuan.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923375/
@@ -48446,4 +48450,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48447
+# Number of entries: 48451
