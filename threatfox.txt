@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bytetixa.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923226/
+127.0.0.1 tndr-panel.online #botnet_cc https://threatfox.abuse.ch/ioc/1923224/
+127.0.0.1 ovusb96472.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923193/
+127.0.0.1 gowiteji.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923187/
+127.0.0.1 4i1yrtc2.shop-genesis-revival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923183/
 127.0.0.1 shop-genesis-revival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923182/
 127.0.0.1 foldlodge.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1923179/
 127.0.0.1 rmm.smartscreen.lifestyle #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1923178/
@@ -48422,4 +48427,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48423
+# Number of entries: 48428
