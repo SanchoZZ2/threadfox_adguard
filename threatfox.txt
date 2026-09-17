@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 aspentraverse.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1923607/
 127.0.0.1 aah3bpf6.eng-eng-glucore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923603/
 127.0.0.1 zhwwd37940.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923602/
 127.0.0.1 puwqx93041.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923597/
@@ -19037,28 +19038,6 @@
 127.0.0.1 bonavol.info #payload_delivery https://threatfox.abuse.ch/ioc/1848576/
 127.0.0.1 genesis-softs.com #payload_delivery https://threatfox.abuse.ch/ioc/1848572/
 127.0.0.1 nightmare-download.pw #payload_delivery https://threatfox.abuse.ch/ioc/1848577/
-127.0.0.1 r1.kill-bot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848594/
-127.0.0.1 r3.nl.kill-bot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848595/
-127.0.0.1 r4.us.kill-bot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848596/
-127.0.0.1 connect.xlauncher.org #botnet_cc https://threatfox.abuse.ch/ioc/1848597/
-127.0.0.1 r5.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848625/
-127.0.0.1 sql.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848626/
-127.0.0.1 mail.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848627/
-127.0.0.1 redirect.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848628/
-127.0.0.1 new.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848629/
-127.0.0.1 data.kill-bot.net #botnet_cc https://threatfox.abuse.ch/ioc/1848623/
-127.0.0.1 msk.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848624/
-127.0.0.1 b.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848630/
-127.0.0.1 mc.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848631/
-127.0.0.1 tt.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848632/
-127.0.0.1 18452654.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848633/
-127.0.0.1 41637610.killbot.ru #botnet_cc https://threatfox.abuse.ch/ioc/1848634/
-127.0.0.1 tds.xlauncher.org #botnet_cc https://threatfox.abuse.ch/ioc/1848635/
-127.0.0.1 ansamble.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/1848638/
-127.0.0.1 download.xlauncher.org #botnet_cc https://threatfox.abuse.ch/ioc/1848636/
-127.0.0.1 content.xlauncher.org #botnet_cc https://threatfox.abuse.ch/ioc/1848637/
-127.0.0.1 ansamble-auth.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/1848639/
-127.0.0.1 minetoday.info #payload_delivery https://threatfox.abuse.ch/ioc/1848667/
 127.0.0.1 xbvj.bahigo90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1848666/
 127.0.0.1 gqtw.bahigo90bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1848665/
 127.0.0.1 ocglemkm.betraca.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1848663/
@@ -48557,4 +48536,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48558
+# Number of entries: 48537
