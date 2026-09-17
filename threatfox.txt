@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wlc.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923371/
+127.0.0.1 ty.zk89.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923377/
+127.0.0.1 ty.199cuan.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923375/
+127.0.0.1 rasimy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923373/
+127.0.0.1 evwb5jgip6.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923331/
+127.0.0.1 roptik.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1923325/
+127.0.0.1 wagners123.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923323/
+127.0.0.1 5x6qtzvz.shop-geniusbrainsignal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923318/
+127.0.0.1 wrdn.rest #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1923311/
+127.0.0.1 shop-geniusbrainsignal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923317/
 127.0.0.1 www.neelgirlchemicals.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923307/
 127.0.0.1 www.neelgirlchemicalsbackup.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923308/
 127.0.0.1 www.allltrucks.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1923309/
@@ -48436,4 +48446,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48437
+# Number of entries: 48447
