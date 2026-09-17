@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 engine.commdistinc.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1923383/
+127.0.0.1 pylabe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923421/
+127.0.0.1 tunewuso.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923420/
+127.0.0.1 tudfpifq.shop-glpro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923389/
+127.0.0.1 shop-glpro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923388/
 127.0.0.1 kq36oivv.eng-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923384/
 127.0.0.1 h3tnyjph.vuhw.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923381/
 127.0.0.1 vuhw.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923380/
@@ -48450,4 +48455,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48451
+# Number of entries: 48456
