@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 60aahn1v.nurvealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923860/
+127.0.0.1 lyph0k3g.enus-beastforce.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923848/
+127.0.0.1 enus-beastforce.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923847/
 127.0.0.1 spiritofswitzerland.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923844/
 127.0.0.1 ltcor72282.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923838/
 127.0.0.1 wavedato.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923837/
@@ -9403,6 +9406,7 @@
 127.0.0.1 get-aquaburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889214/
 127.0.0.1 rmv.123ful.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1889212/
 127.0.0.1 manikandan83.mysynology.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1889189/
+127.0.0.1 en-us-nurvealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889154/
 127.0.0.1 sel.cantdown.su #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1889114/
 127.0.0.1 sos.cantdown.su #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1889115/
 127.0.0.1 swi.cantdown.su #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1889116/
@@ -48010,4 +48014,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48011
+# Number of entries: 48015
