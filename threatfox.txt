@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rsmze54782.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923974/
+127.0.0.1 rarufusi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923973/
+127.0.0.1 majithiamasala.co.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923971/
+127.0.0.1 www.shanefoods.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923965/
+127.0.0.1 ciu2swv9.alibabasport.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923964/
+127.0.0.1 alibabasport.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923961/
+127.0.0.1 csjr0p6y.www-bellyflush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923960/
 127.0.0.1 synton.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923958/
 127.0.0.1 f3e33vzn.nurvesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923957/
 127.0.0.1 nurvesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923955/
@@ -48041,4 +48048,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48042
+# Number of entries: 48049
