@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sh.zk89.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923747/
+127.0.0.1 sh.199cuan.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923745/
+127.0.0.1 xidaluze.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923616/
+127.0.0.1 e9po0d3brl.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923615/
+127.0.0.1 pjw2jloy.synadentics.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923614/
+127.0.0.1 synadentics.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923613/
 127.0.0.1 aspentraverse.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1923607/
 127.0.0.1 aah3bpf6.eng-eng-glucore.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923603/
 127.0.0.1 zhwwd37940.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923602/
@@ -48536,4 +48542,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48537
+# Number of entries: 48543
