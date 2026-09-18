@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bgh7fgpgvk.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923862/
+127.0.0.1 kikk69fvi2.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923861/
 127.0.0.1 60aahn1v.nurvealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923860/
 127.0.0.1 lyph0k3g.enus-beastforce.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923848/
 127.0.0.1 enus-beastforce.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923847/
@@ -10281,6 +10283,7 @@
 127.0.0.1 bib.1001gacor.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1883819/
 127.0.0.1 5zh0a5l5.en-flashburnn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883798/
 127.0.0.1 checkout.lat #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883783/
+127.0.0.1 eng--enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883782/
 127.0.0.1 ymrtzuano.bio-dantix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883764/
 127.0.0.1 6fkzrm3o.en-en-en-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883763/
 127.0.0.1 en-en-en-cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883745/
@@ -48014,4 +48017,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48015
+# Number of entries: 48018
