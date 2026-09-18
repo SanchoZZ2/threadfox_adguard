@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 spiritofswitzerland.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923844/
+127.0.0.1 ltcor72282.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923838/
+127.0.0.1 wavedato.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923837/
 127.0.0.1 scientologyschweiz.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923836/
 127.0.0.1 j2zz03ut.belly-flush.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923832/
 127.0.0.1 friendsanchor.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1923825/
@@ -48007,4 +48010,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48008
+# Number of entries: 48011
