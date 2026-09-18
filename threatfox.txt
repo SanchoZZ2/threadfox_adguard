@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 synton.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923958/
+127.0.0.1 f3e33vzn.nurvesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923957/
+127.0.0.1 nurvesoothe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923955/
+127.0.0.1 mauritaalright.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923945/
+127.0.0.1 mimhq25218.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923943/
+127.0.0.1 yw8bvcf7.betandyou90.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923935/
+127.0.0.1 betandyou90.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923934/
+127.0.0.1 www.ecorgysolutions.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923931/
+127.0.0.1 churchoflife.io #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1923932/
+127.0.0.1 diabetir.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923927/
+127.0.0.1 1xbitios.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923926/
 127.0.0.1 usa-gutlite.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923925/
 127.0.0.1 kiln-skioi-c29ap.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1923922/
 127.0.0.1 9li95l5d.en-us-cardioslimtea.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923921/
@@ -48030,4 +48041,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48031
+# Number of entries: 48042
