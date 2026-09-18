@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 usa-gutlite.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923925/
+127.0.0.1 kiln-skioi-c29ap.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1923922/
+127.0.0.1 9li95l5d.en-us-cardioslimtea.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923921/
+127.0.0.1 en-us-cardioslimtea.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923920/
+127.0.0.1 sallowcloister.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1923919/
+127.0.0.1 gaezskoynbrisk.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1923913/
+127.0.0.1 kz.zk89.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923902/
+127.0.0.1 kz.199cuan.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1923900/
 127.0.0.1 xalexo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923898/
 127.0.0.1 d83fvnq4f0.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923897/
 127.0.0.1 fvrfq4s8.us-slimsplitsmethod.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923877/
@@ -10588,6 +10596,7 @@
 127.0.0.1 triapfog.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1881787/
 127.0.0.1 mioiooo.icu #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1881786/
 127.0.0.1 j7sd6wjs.en-theslimsplitsmethod.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1881776/
+127.0.0.1 biodentix.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1881773/
 127.0.0.1 valeroks.click #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1881750/
 127.0.0.1 kalekos.world #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1881749/
 127.0.0.1 app-api.embervault.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1881697/
@@ -48021,4 +48030,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48022
+# Number of entries: 48031
