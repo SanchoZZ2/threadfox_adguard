@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 chic-toys.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923786/
+127.0.0.1 4f77ejby0y.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923785/
+127.0.0.1 liannequintessential.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923784/
+127.0.0.1 yoj8sdzn.neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923783/
 127.0.0.1 ew779n8ja1.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1923763/
 127.0.0.1 f2z84wi9.usa-enerflow.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923762/
 127.0.0.1 usa-enerflow.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1923761/
@@ -9884,6 +9888,7 @@
 127.0.0.1 wj2vge4z.eng-usa-neurowave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885182/
 127.0.0.1 eng-usa-neurowave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885181/
 127.0.0.1 p4m4q08g.eng--neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885177/
+127.0.0.1 eng--neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885175/
 127.0.0.1 ch79s29o.eng--nervealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885170/
 127.0.0.1 8m7qs0tb.eng--glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885169/
 127.0.0.1 eng--nervealive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885167/
@@ -15078,6 +15083,7 @@
 127.0.0.1 bluechipconsultinggroup.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859069/
 127.0.0.1 arasesores.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859038/
 127.0.0.1 azconstructionanddesign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859045/
+127.0.0.1 amplifyafricatours.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859026/
 127.0.0.1 adaptx.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859001/
 127.0.0.1 advluence.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859006/
 127.0.0.1 agroflow.co.za #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859008/
@@ -47864,4 +47870,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47865
+# Number of entries: 47871
