@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dc48r0dup9.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924375/
+127.0.0.1 8p11s24hza.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924374/
+127.0.0.1 awilli.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924364/
+127.0.0.1 3nblpdw2.enus-flashburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924363/
+127.0.0.1 enus-flashburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924362/
+127.0.0.1 lobby09.co.il #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924353/
+127.0.0.1 mgbkbp4b.enus-tupitea.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924352/
+127.0.0.1 lyric-8.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1924236/
+127.0.0.1 blueprint-71.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1924241/
+127.0.0.1 img2.aixpirts.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1924302/
+127.0.0.1 zunynoco.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924350/
+127.0.0.1 kanokyhy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924349/
 127.0.0.1 iwonderifulovemeaswell.vg #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1924346/
 127.0.0.1 lovefromallareas.at #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1924347/
 127.0.0.1 iloveuevenifudontlovemeback.is #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1924348/
@@ -8516,6 +8528,7 @@
 127.0.0.1 gerenagosto.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1887584/
 127.0.0.1 f1git16x.eng--neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887539/
 127.0.0.1 m9zxgtiz.eng-usa-neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887537/
+127.0.0.1 tvdeschefs.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887501/
 127.0.0.1 medecin-esthetique-visage.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887443/
 127.0.0.1 designercabinetslex.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887380/
 127.0.0.1 x0x.123ful.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1887245/
@@ -45672,4 +45685,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45673
+# Number of entries: 45686
