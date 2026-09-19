@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gyeew46396.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924444/
+127.0.0.1 tvpmutf0em.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924443/
+127.0.0.1 prguru.pk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924436/
+127.0.0.1 podywan.pl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924437/
+127.0.0.1 nld9qz8u.en-us-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924435/
 127.0.0.1 rd6k97w3.shop-burnflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924433/
 127.0.0.1 tumyveqy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924403/
 127.0.0.1 hqqpi58b.en-xenburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924402/
@@ -13395,6 +13400,7 @@
 127.0.0.1 babydiapersinturkey.com #payload_delivery https://threatfox.abuse.ch/ioc/1859650/
 127.0.0.1 tue-partner-03.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1859649/
 127.0.0.1 virginiebb.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859567/
+127.0.0.1 service-iphone.com.ua #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859453/
 127.0.0.1 royalfluffyfrenchies.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859427/
 127.0.0.1 pmmoldpro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859387/
 127.0.0.1 proaslegal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1859399/
@@ -45696,4 +45702,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45697
+# Number of entries: 45703
