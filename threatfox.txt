@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 iwonderifulovemeaswell.vg #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1924346/
+127.0.0.1 lovefromallareas.at #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1924347/
+127.0.0.1 iloveuevenifudontlovemeback.is #botnet_cc, apk.cecbot, CECbot https://threatfox.abuse.ch/ioc/1924348/
+127.0.0.1 www.sestitoedilservice.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924340/
+127.0.0.1 farmtasticdoggy.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924341/
 127.0.0.1 kodg0fih.palmdriverv.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924339/
 127.0.0.1 wmicconfidance.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924338/
 127.0.0.1 x1m07e7w.enus-metabodrops.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924331/
@@ -9436,6 +9441,7 @@
 127.0.0.1 global-sports.fr #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879114/
 127.0.0.1 gameslut.net #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879080/
 127.0.0.1 gardencentreeguide.co.uk #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879082/
+127.0.0.1 farmanywhere.ag #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879021/
 127.0.0.1 eurekaproductions.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879002/
 127.0.0.1 everydayissaturday.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879007/
 127.0.0.1 ewfilms.it #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1879008/
@@ -45666,4 +45672,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45667
+# Number of entries: 45673
