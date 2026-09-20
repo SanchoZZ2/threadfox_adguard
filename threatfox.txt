@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rzhxtlcd.globepool.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1925860/
+127.0.0.1 globepool.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1925859/
+127.0.0.1 ginnygram.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924915/
+127.0.0.1 hypoxari.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924914/
+127.0.0.1 cubyjare.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924913/
+127.0.0.1 cabskaiyn-crane.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1924912/
+127.0.0.1 voipone.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924905/
+127.0.0.1 complianceportals.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1924902/
 127.0.0.1 go.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1924885/
 127.0.0.1 virtuarch.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924882/
 127.0.0.1 check-mdfcf.pw #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1924881/
@@ -45319,4 +45327,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45320
+# Number of entries: 45328
