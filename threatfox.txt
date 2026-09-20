@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nobuje.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924786/
+127.0.0.1 fallport.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1924785/
+127.0.0.1 oeypy5hw.en-en--cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924784/
+127.0.0.1 pdksm65t.paripalse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924780/
+127.0.0.1 avsn5e1u.cia-churchinaction.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924779/
+127.0.0.1 cia-churchinaction.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924778/
+127.0.0.1 paripalse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924777/
 127.0.0.1 digital.digitaldatainsights.org #payload_delivery https://threatfox.abuse.ch/ioc/1924637/
 127.0.0.1 signin.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1924688/
 127.0.0.1 erdogan.lol #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1924689/
@@ -45284,4 +45291,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45285
+# Number of entries: 45292
