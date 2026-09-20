@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 res.cloudleb.cc #botnet_cc, win.animate_clipper, AnimateClipper https://threatfox.abuse.ch/ioc/1924866/
+127.0.0.1 qllgozh7.cjsbilliardandsportbar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924856/
+127.0.0.1 dy5q6qvp.zcode--system.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924855/
+127.0.0.1 cjsbilliardandsportbar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924854/
 127.0.0.1 6p3ramracc.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924851/
 127.0.0.1 lyhawu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924850/
 127.0.0.1 e555kh1c.belly--flush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924849/
@@ -45305,4 +45309,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45306
+# Number of entries: 45310
