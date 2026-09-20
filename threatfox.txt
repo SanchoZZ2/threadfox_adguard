@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 go.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1924885/
+127.0.0.1 virtuarch.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924882/
+127.0.0.1 check-mdfcf.pw #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1924881/
+127.0.0.1 rafytylu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924877/
+127.0.0.1 sddiadtu.gideonconstructioninc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924876/
+127.0.0.1 8cm45ib0.us-slimsplitsmethod.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924875/
+127.0.0.1 gideonconstructioninc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924873/
+127.0.0.1 cosygazo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1924870/
+127.0.0.1 fun-family-adventures-from-buffalo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924869/
+127.0.0.1 websitesuccessguy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924867/
 127.0.0.1 res.cloudleb.cc #botnet_cc, win.animate_clipper, AnimateClipper https://threatfox.abuse.ch/ioc/1924866/
 127.0.0.1 qllgozh7.cjsbilliardandsportbar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924856/
 127.0.0.1 dy5q6qvp.zcode--system.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1924855/
@@ -45309,4 +45319,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45310
+# Number of entries: 45320
