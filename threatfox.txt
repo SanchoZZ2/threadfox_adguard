@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ge.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926315/
+127.0.0.1 xd.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926316/
+127.0.0.1 fr.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926317/
+127.0.0.1 oi.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926318/
+127.0.0.1 ge.hg77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926319/
+127.0.0.1 xd.hg77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926320/
+127.0.0.1 go.hg77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926321/
+127.0.0.1 fr.hg77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926322/
+127.0.0.1 oi.hg77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926323/
+127.0.0.1 87x94lk6.en-en--enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926302/
 127.0.0.1 y7muyebir6.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926295/
 127.0.0.1 yp1f3wpv.kickoffkingdom.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926294/
 127.0.0.1 kickoffkingdom.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926293/
@@ -44637,4 +44647,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44638
+# Number of entries: 44648
