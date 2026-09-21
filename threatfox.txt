@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ivory951.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926488/
+127.0.0.1 nw.hg77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926485/
+127.0.0.1 nw.1betasia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926483/
+127.0.0.1 0ooc3n3eid.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926482/
+127.0.0.1 76ocm7az.en-us-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926471/
+127.0.0.1 z514sw28.paripalse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926470/
+127.0.0.1 transterminal.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926465/
+127.0.0.1 850cm.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926464/
+127.0.0.1 rq5ic3bf.usa-lipogummy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926463/
 127.0.0.1 wgiqn27255.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926462/
 127.0.0.1 542b1els96.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926436/
 127.0.0.1 praxis-harmonie.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926432/
@@ -8570,6 +8579,7 @@
 127.0.0.1 tamarisknave.co #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1888281/
 127.0.0.1 lyncdiscover.freebirds.com #payload_delivery https://threatfox.abuse.ch/ioc/1888265/
 127.0.0.1 e5xwaq5b.en-us-men-balancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888264/
+127.0.0.1 en-us-men-balancepro.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888263/
 127.0.0.1 nv1ay8ls.en-us-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888260/
 127.0.0.1 en-us-us-zensulin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888259/
 127.0.0.1 bebelonserver.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1888245/
@@ -44695,4 +44705,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44696
+# Number of entries: 44706
