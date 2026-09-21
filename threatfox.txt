@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 y7muyebir6.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926295/
+127.0.0.1 yp1f3wpv.kickoffkingdom.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926294/
+127.0.0.1 kickoffkingdom.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926293/
+127.0.0.1 yfpdz41265.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926292/
 127.0.0.1 entry-code-cdn.codes #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926271/
 127.0.0.1 6x45taub7u.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926258/
 127.0.0.1 wimanamo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926248/
@@ -44633,4 +44637,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44634
+# Number of entries: 44638
