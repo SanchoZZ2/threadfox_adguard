@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wimanamo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926248/
+127.0.0.1 953k25jr.kcmotorsllc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926247/
+127.0.0.1 kcmotorsllc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926246/
+127.0.0.1 j5hbvp9a.gideonconstructioninc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926245/
+127.0.0.1 x4227u7g.ewagajewskamd.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926240/
 127.0.0.1 ulgdmdtp.en-en--cardioslim.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926212/
 127.0.0.1 ogins74273.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926207/
 127.0.0.1 zuffereypartner.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926200/
@@ -7192,6 +7197,7 @@
 127.0.0.1 hot.sm188dvlv.mom #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1893748/
 127.0.0.1 gen.sm188dvlv.lat #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1893749/
 127.0.0.1 m5p.sm188dvlv.lol #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1893750/
+127.0.0.1 renovedesign.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893733/
 127.0.0.1 slyv87qw.try-burnblend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893732/
 127.0.0.1 pacharagems.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893722/
 127.0.0.1 rolandsjoinery.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893719/
@@ -44625,4 +44631,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44626
+# Number of entries: 44632
