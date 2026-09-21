@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fsqay0dqeh.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926858/
+127.0.0.1 sycutugy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926855/
+127.0.0.1 y6q8ve44.protransportationservice.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926845/
+127.0.0.1 protransportationservice.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926844/
+127.0.0.1 update.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1926833/
 127.0.0.1 delavana.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926802/
 127.0.0.1 tgikd90705.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926786/
 127.0.0.1 17pqcbl3.mychartradyschildrens.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926785/
@@ -44811,4 +44816,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44812
+# Number of entries: 44817
