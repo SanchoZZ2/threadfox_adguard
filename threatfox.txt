@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lagigiri.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926357/
+127.0.0.1 syrawilu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926356/
+127.0.0.1 71t3btzj.zcode--system.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926354/
+127.0.0.1 skaedbraearaquiet.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926234/
+127.0.0.1 cabskaiyn-crane.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926237/
+127.0.0.1 zigelpi12.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926238/
+127.0.0.1 i.131422.com #payload_delivery https://threatfox.abuse.ch/ioc/1926243/
+127.0.0.1 data-recovery-melbourne.com.au #payload_delivery https://threatfox.abuse.ch/ioc/1926244/
+127.0.0.1 cloudflare.bot #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926270/
+127.0.0.1 laroverestore.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926343/
+127.0.0.1 colombiacocajo.cc #payload_delivery https://threatfox.abuse.ch/ioc/1926352/
+127.0.0.1 2n37l2e6.us-tupitea.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926346/
 127.0.0.1 yjkm9tsv.libertytokan.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926345/
 127.0.0.1 fekydi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926344/
 127.0.0.1 jycolano.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926342/
@@ -44650,4 +44662,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44651
+# Number of entries: 44663
