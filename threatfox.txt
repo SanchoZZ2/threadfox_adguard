@@ -1,27 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 as.tiqn.top #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1926673/
+127.0.0.1 as.newk.top #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1926674/
+127.0.0.1 as.elsq.top #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1926671/
+127.0.0.1 as.havz.top #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1926672/
+127.0.0.1 hnmsy28331.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926670/
+127.0.0.1 bafilufe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1926669/
+127.0.0.1 dome.beatdropkec.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926668/
+127.0.0.1 zcnp7odb.belly--flush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926667/
+127.0.0.1 5qflb4vy.usa--lipogummy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926660/
 127.0.0.1 luxurybagsbd.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926627/
 127.0.0.1 www.stemadakopbouw.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926626/
 127.0.0.1 sgn.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926515/
-127.0.0.1 moneyhub-avogotasoqi.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926517/
-127.0.0.1 moneyhub-billloom.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926518/
 127.0.0.1 moneyhub-budgetmatrix.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926519/
-127.0.0.1 moneyhub-cashbase.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926520/
-127.0.0.1 moneyhub-cashbloom.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926521/
-127.0.0.1 moneyhub-cashchart.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926523/
-127.0.0.1 moneyhub-cashburst.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926522/
 127.0.0.1 moneyhub-cashportal.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926525/
-127.0.0.1 moneyhub-cashmatrix.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926524/
-127.0.0.1 moneyhub-clearpartner.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926526/
-127.0.0.1 moneyhub-economyflow.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926529/
-127.0.0.1 moneyhub-jifejaguwuy.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926533/
-127.0.0.1 moneyhub-ledgerplanner.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926535/
-127.0.0.1 moneyhub-nestcrew.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926538/
-127.0.0.1 moneyhub-pennycraft.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926543/
-127.0.0.1 moneyhub-primeworks.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926545/
-127.0.0.1 moneyhub-smartfactory.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926547/
-127.0.0.1 moneyhub-smarttracker.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926548/
-127.0.0.1 moneyhub-vaultpoint.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926552/
-127.0.0.1 moneyhub-taweduvuray.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926549/
 127.0.0.1 moneyhub-walletdrive.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926553/
 127.0.0.1 www.laboratorioborzi.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926614/
 127.0.0.1 www.marblearchschool.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926615/
@@ -44804,4 +44795,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44805
+# Number of entries: 44796
