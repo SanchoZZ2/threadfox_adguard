@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 javmedhealthcare.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927480/
+127.0.0.1 kns.grotominpgroup.pl #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1927469/
+127.0.0.1 bns.grotominpgroup.pl #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1927470/
+127.0.0.1 aitech.press #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927468/
+127.0.0.1 qeahh23149.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927467/
+127.0.0.1 cratebase.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1927466/
 127.0.0.1 ggjzbor7.en-belly--flush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927390/
 127.0.0.1 8hup650w.hiwino.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927381/
 127.0.0.1 xsa9t3ir.enus-tupitea.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927380/
@@ -43484,4 +43490,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 43485
+# Number of entries: 43491
