@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gewebstudio.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927234/
+127.0.0.1 nuypoiaklber.lol #botnet_cc https://threatfox.abuse.ch/ioc/1927233/
+127.0.0.1 5w84syyg.en-bizopp.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927232/
+127.0.0.1 thumbinfo.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927224/
+127.0.0.1 pluginyardware.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927225/
+127.0.0.1 netweblabs.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927226/
+127.0.0.1 bannerware.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927219/
+127.0.0.1 assetwaveapp.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927220/
+127.0.0.1 trackbaseneo.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927218/
+127.0.0.1 tawoauth.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927214/
 127.0.0.1 82uowq3m.infinityjoespizzaclearwater.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927207/
 127.0.0.1 kkrot49695.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927135/
 127.0.0.1 mspur68524.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927134/
@@ -43431,4 +43441,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 43432
+# Number of entries: 43442
