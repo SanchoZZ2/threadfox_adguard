@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dhdhro456.gleeze.com #botnet_cc, win.lxbaserat, LxBase RAT https://threatfox.abuse.ch/ioc/1927652/
+127.0.0.1 lb.packetshift.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1927651/
+127.0.0.1 photolivebook.pro #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1927650/
+127.0.0.1 metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion #botnet_cc, win.metaencryptor, Metaencryptor https://threatfox.abuse.ch/ioc/1927495/
+127.0.0.1 metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion #botnet_cc, win.metaencryptor, Metaencryptor https://threatfox.abuse.ch/ioc/1927496/
+127.0.0.1 rs-api.50adayplan.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1927507/
+127.0.0.1 reservation.araisnedesjeux.fr #payload_delivery https://threatfox.abuse.ch/ioc/1927634/
+127.0.0.1 sportsministry.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927635/
+127.0.0.1 jetos.2waky.com #botnet_cc, jar.strrat, STRRAT https://threatfox.abuse.ch/ioc/1927633/
+127.0.0.1 wrof8cdp1e.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927630/
 127.0.0.1 mudegena.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927629/
 127.0.0.1 richard.physio #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1927617/
 127.0.0.1 rivachocolate.ca #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1927618/
@@ -43601,4 +43611,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 43602
+# Number of entries: 43612
