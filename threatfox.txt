@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 82uowq3m.infinityjoespizzaclearwater.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927207/
+127.0.0.1 kkrot49695.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927135/
+127.0.0.1 mspur68524.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927134/
+127.0.0.1 dome.beatdropkec.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926659/
+127.0.0.1 impact.hjdeboer.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1926666/
+127.0.0.1 danhbalbaluatsu.net #cc_skimming, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926774/
+127.0.0.1 basequill9.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1926846/
+127.0.0.1 questlyric8.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1926849/
+127.0.0.1 yoauction.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1926918/
+127.0.0.1 zanderrealestate.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1926919/
+127.0.0.1 pixelsoftzone.net #payload_delivery https://threatfox.abuse.ch/ioc/1926942/
+127.0.0.1 linkedlin-us.com #payload_delivery https://threatfox.abuse.ch/ioc/1926943/
+127.0.0.1 heartbeatpipe.net #payload_delivery https://threatfox.abuse.ch/ioc/1926945/
+127.0.0.1 metricsfeedware.com #payload_delivery https://threatfox.abuse.ch/ioc/1926951/
+127.0.0.1 trainli.com #cc_skimming, win.vskimmer, vSkimmer https://threatfox.abuse.ch/ioc/1926980/
+127.0.0.1 mbs-standoffs.com #cc_skimming, win.vskimmer, vSkimmer https://threatfox.abuse.ch/ioc/1926979/
+127.0.0.1 09090clami09090930032.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1927127/
 127.0.0.1 kx430z0d.lisapierce-mft.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927100/
 127.0.0.1 j8y10lg7.oralsurgeontintonfalls.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927099/
 127.0.0.1 oralsurgeontintonfalls.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927098/
@@ -43414,4 +43431,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 43415
+# Number of entries: 43432
