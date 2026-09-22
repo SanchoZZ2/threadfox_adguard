@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pasoor.casino #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927282/
+127.0.0.1 njeydk6j.kaarenorge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927279/
+127.0.0.1 cameji.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927274/
+127.0.0.1 nvywb8od.en-en--enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927273/
+127.0.0.1 xju2vcrh.www-tupitea.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927272/
+127.0.0.1 pdagr01372.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1927271/
+127.0.0.1 n4co3g3a.en-us-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927270/
 127.0.0.1 spongebob.dynuddns.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1927268/
 127.0.0.1 allsouthfencing.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927266/
 127.0.0.1 alliancecarerx.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1927261/
@@ -8123,6 +8130,7 @@
 127.0.0.1 f1git16x.eng--neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887539/
 127.0.0.1 m9zxgtiz.eng-usa-neurowave.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1887537/
 127.0.0.1 tvdeschefs.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887501/
+127.0.0.1 themoorhenhorning.co.uk #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887496/
 127.0.0.1 sevincprefabrik.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887483/
 127.0.0.1 mytcs.net #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887450/
 127.0.0.1 drsodhi.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1887389/
@@ -43453,4 +43461,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 43454
+# Number of entries: 43462
