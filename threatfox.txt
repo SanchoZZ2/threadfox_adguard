@@ -99,8 +99,6 @@
 127.0.0.1 luxurybagsbd.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926627/
 127.0.0.1 www.stemadakopbouw.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1926626/
 127.0.0.1 sgn.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1926515/
-127.0.0.1 moneyhub-budgetmatrix.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926519/
-127.0.0.1 moneyhub-cashportal.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926525/
 127.0.0.1 moneyhub-walletdrive.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926553/
 127.0.0.1 www.laboratorioborzi.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926614/
 127.0.0.1 www.marblearchschool.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926615/
@@ -7891,6 +7889,7 @@
 127.0.0.1 go-synadentix.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889301/
 127.0.0.1 elderberryloft.net #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1889296/
 127.0.0.1 vgvtnvdti.en-us-morningfatmelter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889286/
+127.0.0.1 spiraldirect.ch #payload_delivery https://threatfox.abuse.ch/ioc/1889276/
 127.0.0.1 45z48gf6.get-aquaburn.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889264/
 127.0.0.1 get-aquaburn.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889261/
 127.0.0.1 c86k6nbm.en-webaquaburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1889258/
@@ -43415,4 +43414,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 43416
+# Number of entries: 43415
