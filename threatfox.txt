@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jefyfyne.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1931032/
+127.0.0.1 wlx9bsjd.gone303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931031/
+127.0.0.1 gone303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931030/
+127.0.0.1 avhew86963.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1931028/
 127.0.0.1 4lb3banh.ace9bet.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931004/
 127.0.0.1 gamesbasedcoach.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1930985/
 127.0.0.1 911cm.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1930982/
@@ -45831,4 +45835,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45832
+# Number of entries: 45836
