@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vuxotowe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1929615/
+127.0.0.1 q3liylkvqd.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1929611/
+127.0.0.1 tsazdbjy.funkboi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1929610/
+127.0.0.1 shipping09.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1929609/
 127.0.0.1 72pxs9dq.osatcarton.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1929603/
 127.0.0.1 osatcarton.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1929602/
 127.0.0.1 ifiyge40.infinityjoespizzaclearwater.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1929600/
@@ -44526,4 +44530,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44527
+# Number of entries: 44531
