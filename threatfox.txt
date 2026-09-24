@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xudevylo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932285/
+127.0.0.1 ocean012.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1932283/
+127.0.0.1 oceanbiggi907.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1932284/
+127.0.0.1 9xagists.iranwordpres.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932282/
+127.0.0.1 iranwordpres.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932281/
+127.0.0.1 courtoos.icu #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1932277/
+127.0.0.1 61ymhkmp.axee.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932278/
+127.0.0.1 iranmillions.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932275/
+127.0.0.1 delta-canvas.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1932262/
+127.0.0.1 media.hazelnook.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1932265/
+127.0.0.1 blancharl.icu #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1932248/
+127.0.0.1 vutanale.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932246/
+127.0.0.1 siogj96381.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932244/
 127.0.0.1 pv9o9ukf.pinbahis.page #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932243/
 127.0.0.1 pinbahis.page #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932242/
 127.0.0.1 aquaticlamps.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932241/
@@ -46311,4 +46324,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46312
+# Number of entries: 46325
