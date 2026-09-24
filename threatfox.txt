@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 homedesignir.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931260/
+127.0.0.1 pishbini90ai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931257/
+127.0.0.1 saudementalbrasil.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931256/
+127.0.0.1 grupoprimesolution.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931253/
+127.0.0.1 ccc.0101011010010111001.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1931242/
+127.0.0.1 cottages4u.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931225/
+127.0.0.1 cyryzine.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1931223/
+127.0.0.1 326adrian.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1931221/
+127.0.0.1 cookwithlina.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931214/
 127.0.0.1 60kxdwop.al303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931192/
 127.0.0.1 al303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931190/
 127.0.0.1 coretechagile.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931189/
@@ -45333,4 +45342,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45334
+# Number of entries: 45343
