@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 6cf5f1lgwe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932372/
+127.0.0.1 j01nn5zm.istanbul303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932371/
+127.0.0.1 istanbul303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932370/
+127.0.0.1 dnewssuperfast.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932369/
+127.0.0.1 l63gj1o5.bahisbiz.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932367/
+127.0.0.1 bahisbiz.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932365/
 127.0.0.1 kz6e3mq6.pipo303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932363/
 127.0.0.1 pipo303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932361/
 127.0.0.1 barn.blinqueofficial.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932340/
@@ -46341,4 +46347,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46342
+# Number of entries: 46348
