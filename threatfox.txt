@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 secretopanel2.site #botnet_cc https://threatfox.abuse.ch/ioc/1931271/
+127.0.0.1 davidrooter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931269/
+127.0.0.1 janellaleft.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1931268/
+127.0.0.1 lowukari.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1931263/
+127.0.0.1 getin.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1931016/
+127.0.0.1 sk.bumblemovies.com #botnet_cc, jar.microstealer, MicroStealer https://threatfox.abuse.ch/ioc/1931034/
+127.0.0.1 checkmrobot.site #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1931071/
+127.0.0.1 univesalcheckrobot.site #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1931072/
+127.0.0.1 chilloutvrmodded.net #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1931098/
+127.0.0.1 astroznenekey.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931104/
+127.0.0.1 millowouykey.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931111/
+127.0.0.1 chilloutvrmod.org #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1931115/
+127.0.0.1 idcool.codes #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931148/
+127.0.0.1 sso.ebeenj.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1931222/
+127.0.0.1 kmau7r9o.homedesignir.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931262/
+127.0.0.1 m6i6238u.alternatifdekorasyon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931261/
 127.0.0.1 homedesignir.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931260/
 127.0.0.1 pishbini90ai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931257/
 127.0.0.1 saudementalbrasil.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1931256/
@@ -45342,4 +45358,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 45343
+# Number of entries: 45359
