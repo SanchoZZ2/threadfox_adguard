@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.dingleydellestate.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932396/
+127.0.0.1 househunter-mallorca.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932395/
+127.0.0.1 digitalviveksharma.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932379/
+127.0.0.1 dobsonfryedentistry.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932380/
+127.0.0.1 dottutorials.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932381/
+127.0.0.1 voderlence.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932378/
+127.0.0.1 sail.autolabsouthgate.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932375/
+127.0.0.1 coralynsquare.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932373/
 127.0.0.1 6cf5f1lgwe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932372/
 127.0.0.1 j01nn5zm.istanbul303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932371/
 127.0.0.1 istanbul303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932370/
@@ -44933,6 +44941,7 @@
 127.0.0.1 mobbyyt.club #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1761913/
 127.0.0.1 ai-nexora.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1761721/
 127.0.0.1 19.tcp.cpolar.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1761278/
+127.0.0.1 kittiesmc.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1760617/
 127.0.0.1 halroda.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1760498/
 127.0.0.1 infhkkh.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1760499/
 127.0.0.1 pardpew.cyou #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1760500/
@@ -46347,4 +46356,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46348
+# Number of entries: 46357
