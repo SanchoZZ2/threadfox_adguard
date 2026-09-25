@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lizususo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932670/
+127.0.0.1 violetdonia.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1932669/
+127.0.0.1 www.homeworksmusicstudio.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932663/
+127.0.0.1 hoosierdaddygarageclub.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932662/
+127.0.0.1 i.gckni.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1932657/
 127.0.0.1 ey7qdgkv.bazikonbartar.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932641/
 127.0.0.1 bazikonbartar.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932623/
 127.0.0.1 happyscootersmb.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1932622/
@@ -10358,6 +10363,8 @@
 127.0.0.1 bladehostpi.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893601/
 127.0.0.1 longslimpi.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893602/
 127.0.0.1 millionpi66.website #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893603/
+127.0.0.1 cuongthinhsantro.vn #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893596/
+127.0.0.1 cyberku.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893597/
 127.0.0.1 lc19dq2c.usa-cardioslim.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1893591/
 127.0.0.1 alholol-almobtakara.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893565/
 127.0.0.1 hoh-homecare.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1893562/
@@ -15640,6 +15647,7 @@
 127.0.0.1 fcri.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862817/
 127.0.0.1 energizermedia.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862804/
 127.0.0.1 changethefrequency.today #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862751/
+127.0.0.1 cardiocentrope.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862740/
 127.0.0.1 bluesdrummer.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862725/
 127.0.0.1 armeh.com.tr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862698/
 127.0.0.1 mathandchessss.com #payload_delivery https://threatfox.abuse.ch/ioc/1862667/
@@ -46067,4 +46075,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46068
+# Number of entries: 46076
