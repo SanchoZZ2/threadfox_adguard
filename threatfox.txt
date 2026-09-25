@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mesa-zaimmuen.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1934188/
+127.0.0.1 nyloqaba.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1934187/
+127.0.0.1 otlhc61478.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1934182/
+127.0.0.1 vrdx99th.bet313.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934167/
 127.0.0.1 whitecollarmusic.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1934160/
 127.0.0.1 leeandyoondental.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1934159/
 127.0.0.1 usedspares.co.za #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934139/
@@ -47619,4 +47623,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47620
+# Number of entries: 47624
