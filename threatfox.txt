@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 uhwyehxa.leo10.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934526/
+127.0.0.1 leo10.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934524/
+127.0.0.1 dahawetu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1934521/
+127.0.0.1 iy1wc825fz.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1934520/
 127.0.0.1 c71414tk.betxane.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934519/
 127.0.0.1 beauty-tech.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934518/
 127.0.0.1 new-projection.zelenie.info #payload_delivery https://threatfox.abuse.ch/ioc/1932829/
@@ -47063,4 +47067,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47064
+# Number of entries: 47068
