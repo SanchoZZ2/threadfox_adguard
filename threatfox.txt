@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pajype.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1934513/
+127.0.0.1 cggdjdnl.us-usa-burnflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934509/
 127.0.0.1 urcvafs7.betwoon.art #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934507/
 127.0.0.1 betwoon.art #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934506/
 127.0.0.1 aoeonafh.rapfarsino.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934505/
@@ -8019,6 +8021,7 @@
 127.0.0.1 sarahbir.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916531/
 127.0.0.1 sbobrand.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916533/
 127.0.0.1 lydigital.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916492/
+127.0.0.1 misshoustonpageant.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916499/
 127.0.0.1 ervasigorta.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916459/
 127.0.0.1 fusionise.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916467/
 127.0.0.1 gigapixelgaming.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1916470/
@@ -12387,6 +12390,7 @@
 127.0.0.1 yl9wom1c.en-trump-token.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1890594/
 127.0.0.1 janabrik-elixir.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1890580/
 127.0.0.1 jordantrainingacademy.online #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1890581/
+127.0.0.1 multi-sweep.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1890583/
 127.0.0.1 sleepingpi81.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1890568/
 127.0.0.1 triathletenews.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1890549/
 127.0.0.1 beopvcstolarija.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1890525/
@@ -47036,4 +47040,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47037
+# Number of entries: 47041
