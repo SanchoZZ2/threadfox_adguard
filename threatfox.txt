@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ransomoefralti2zh5nrv7iqybp3d5b4a2eeecz5yjosp7ggbepj7iyd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934537/
+127.0.0.1 ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934536/
+127.0.0.1 everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934538/
+127.0.0.1 gxp6yt3wdj7yky27j37jfrrbkuy24n2zo5uxyuoy23uf76d6m2gnfpid.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934539/
+127.0.0.1 aihvh6j6fbkfjyc6jqbsh2ed4s3rym2v2pu6kd3z3exdso2xc2qwcuqd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934540/
+127.0.0.1 bifpwatchoxp7tsb2kpes37b23ogjrb2kj4wgr7yncf4hhgsfahu7jad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934541/
+127.0.0.1 2vqamwfdpis5rkjtpkutigykp56n6hkxfurm6qukdxp6uz5uff5kkaid.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934542/
+127.0.0.1 4p2hmbuy36oau64fcvwz2yvdw7eptlkionm46p2m2cs6dmhone5mxiyd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934543/
+127.0.0.1 wyviwn66c5fhgjkdzn7u3tcp2jc5gr3vamgzzrey5rtzogivofxsecyd.onion #botnet_cc https://threatfox.abuse.ch/ioc/1934544/
+127.0.0.1 znzk3tim.betyek.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934547/
+127.0.0.1 beliefdesk.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934545/
+127.0.0.1 maple30.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1934527/
 127.0.0.1 uhwyehxa.leo10.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934526/
 127.0.0.1 leo10.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934524/
 127.0.0.1 dahawetu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1934521/
@@ -47067,4 +47079,4 @@
 127.0.0.1 akamaclouds.app #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/6147/
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47068
+# Number of entries: 47080
