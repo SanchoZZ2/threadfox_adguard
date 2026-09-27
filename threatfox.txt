@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bmdul37446.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1939498/
+127.0.0.1 24ucaqa7.enobahiss.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939426/
+127.0.0.1 registeredagentsingeorgia.com #payload_delivery, win.latrodectus, BLACKWIDOW, IceNova https://threatfox.abuse.ch/ioc/1939425/
+127.0.0.1 enobahiss.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939424/
+127.0.0.1 www.moonstd.com.ua #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939423/
+127.0.0.1 www.meilaile.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939420/
+127.0.0.1 www.mkgdigital.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939421/
+127.0.0.1 www.miguelangelcueto.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939422/
 127.0.0.1 enfejarkade.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939412/
 127.0.0.1 enfejar-bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939409/
 127.0.0.1 www.metab2b.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939404/
@@ -8,7 +16,7 @@
 127.0.0.1 metricsdataway.com #botnet_cc https://threatfox.abuse.ch/ioc/1939378/
 127.0.0.1 runtimerailbit.com #payload_delivery https://threatfox.abuse.ch/ioc/1939381/
 127.0.0.1 authshipup.net #payload_delivery https://threatfox.abuse.ch/ioc/1939380/
-127.0.0.1 servicestatlab.com #payload_delivery https://threatfox.abuse.ch/ioc/1939382/
+127.0.0.1 servicestatlab.com #payload_delivery, win.lorem_ipsum, AxolotlLoader, OAKGLINT https://threatfox.abuse.ch/ioc/1939382/
 127.0.0.1 revitaceutical.com #payload_delivery https://threatfox.abuse.ch/ioc/1939385/
 127.0.0.1 mindbodyinfusion.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939401/
 127.0.0.1 navaljobie.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1939369/
@@ -48834,4 +48842,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48835
+# Number of entries: 48843
