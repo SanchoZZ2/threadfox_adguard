@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 navaljobie.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1939369/
+127.0.0.1 pavvcqh0.luxerabet5.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939356/
+127.0.0.1 luxerabet5.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939355/
 127.0.0.1 o26fc0qb.en-belly--flush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939345/
 127.0.0.1 en-belly--flush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939344/
 127.0.0.1 precisionproving.com #payload_delivery, win.latrodectus, BLACKWIDOW, IceNova https://threatfox.abuse.ch/ioc/1939343/
@@ -48818,4 +48821,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48819
+# Number of entries: 48822
