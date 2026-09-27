@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 enfejarkade.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939412/
+127.0.0.1 enfejar-bet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939409/
+127.0.0.1 www.metab2b.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939404/
+127.0.0.1 www.misequipmentsales.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939405/
+127.0.0.1 www.merakibakery.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939403/
+127.0.0.1 pulsepathnet.com #botnet_cc https://threatfox.abuse.ch/ioc/1939377/
+127.0.0.1 metricsdataway.com #botnet_cc https://threatfox.abuse.ch/ioc/1939378/
+127.0.0.1 runtimerailbit.com #payload_delivery https://threatfox.abuse.ch/ioc/1939381/
+127.0.0.1 authshipup.net #payload_delivery https://threatfox.abuse.ch/ioc/1939380/
+127.0.0.1 servicestatlab.com #payload_delivery https://threatfox.abuse.ch/ioc/1939382/
+127.0.0.1 revitaceutical.com #payload_delivery https://threatfox.abuse.ch/ioc/1939385/
+127.0.0.1 mindbodyinfusion.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939401/
 127.0.0.1 navaljobie.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1939369/
 127.0.0.1 pavvcqh0.luxerabet5.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939356/
 127.0.0.1 luxerabet5.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939355/
@@ -16846,6 +16858,7 @@
 127.0.0.1 hujg7soj.drubenginecologo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871420/
 127.0.0.1 khivoeg.en-usa-sightfresh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871418/
 127.0.0.1 kbagif.en-us-energyrevolutionsystem.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871417/
+127.0.0.1 en-us-energyrevolutionsystem.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871416/
 127.0.0.1 a0xhb08v.eng--slimsounds.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871415/
 127.0.0.1 qcijapw.en-usa-bpzone.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871414/
 127.0.0.1 pfnwcz.en-us-energyrevolution.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1871413/
@@ -48821,4 +48834,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48822
+# Number of entries: 48835
