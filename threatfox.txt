@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 entry-verifed-cdn.codes #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1939031/
+127.0.0.1 ant.bergamonerazzurra.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1939030/
+127.0.0.1 v33nfut7.elipsbet.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939023/
+127.0.0.1 elipsbet.poker #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939022/
+127.0.0.1 heaucts.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1938961/
+127.0.0.1 ns1.kcsc.tf #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1939013/
+127.0.0.1 ns2.kcsc.tf #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1939014/
 127.0.0.1 www.comoshops.com #cc_skimming, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1939000/
 127.0.0.1 www.ksbiblio.com #cc_skimming, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1939001/
 127.0.0.1 www.resourcebooks.net #cc_skimming, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1939002/
@@ -48526,4 +48533,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 48527
+# Number of entries: 48534
