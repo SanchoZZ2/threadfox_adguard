@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.tanlemtechltd.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941267/
+127.0.0.1 svarela.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941266/
+127.0.0.1 www.sservicesconsulting.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941265/
+127.0.0.1 burnhamlegal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941263/
+127.0.0.1 www.stickerprinting.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941260/
+127.0.0.1 www.streetculture.nu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941261/
+127.0.0.1 www.stjudes.church #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941262/
+127.0.0.1 sweeterhr.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941258/
+127.0.0.1 oo8plu3ylw.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941259/
+127.0.0.1 www.studiotreddi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941257/
+127.0.0.1 hp45qdbt7k.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941254/
 127.0.0.1 www.studiolegaleassociatoimprota.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941241/
 127.0.0.1 www.solfreshlife.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941240/
 127.0.0.1 www.siemenergia.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941239/
@@ -14915,6 +14926,7 @@
 127.0.0.1 generation4union.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884869/
 127.0.0.1 duracoolusa.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884851/
 127.0.0.1 chadearhart.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884847/
+127.0.0.1 110tonn.ru #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884839/
 127.0.0.1 drvishalsawale.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884838/
 127.0.0.1 8jwsinz7.eng-usa-genesisrevival.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884833/
 127.0.0.1 dodstech.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1884826/
@@ -47846,4 +47858,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47847
+# Number of entries: 47859
