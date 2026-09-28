@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 les-manufactures.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940687/
+127.0.0.1 v2y2nkzm.manchester1.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940686/
+127.0.0.1 manchester1.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940685/
+127.0.0.1 www.privateladiesparty.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939740/
+127.0.0.1 prodigitalsecurity.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939741/
+127.0.0.1 www.pistolerasonlineslots.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939739/
+127.0.0.1 bbb.0101011010010111001.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1939738/
 127.0.0.1 www.piccoloparco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939726/
 127.0.0.1 www.poof.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939727/
 127.0.0.1 www.planetcomunication.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939728/
@@ -47673,4 +47680,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47674
+# Number of entries: 47681
