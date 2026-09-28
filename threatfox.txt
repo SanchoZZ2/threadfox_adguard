@@ -1,4 +1,32 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bh.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941050/
+127.0.0.1 bh.32naga.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941052/
+127.0.0.1 cy.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941032/
+127.0.0.1 sm.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941033/
+127.0.0.1 ko.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941034/
+127.0.0.1 ji.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941035/
+127.0.0.1 pl.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941036/
+127.0.0.1 nu.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941037/
+127.0.0.1 tr.27trans.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941025/
+127.0.0.1 cy.27trans.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941026/
+127.0.0.1 sm.27trans.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941027/
+127.0.0.1 ko.27trans.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941028/
+127.0.0.1 ji.27trans.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941029/
+127.0.0.1 pl.27trans.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941030/
+127.0.0.1 tr.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941031/
+127.0.0.1 cove-koi-hk753.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1940997/
+127.0.0.1 dmsi.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1940995/
+127.0.0.1 kh765g0a.faff303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940994/
+127.0.0.1 faff303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940993/
+127.0.0.1 masoqula.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1940983/
+127.0.0.1 kpgng25808.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1940982/
+127.0.0.1 ssmpson.top #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1940950/
+127.0.0.1 tr.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1940958/
+127.0.0.1 accountz.msdos.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1940959/
+127.0.0.1 jdfirmware.ba #botnet_cc https://threatfox.abuse.ch/ioc/1940971/
+127.0.0.1 jdkupdate.cc #botnet_cc https://threatfox.abuse.ch/ioc/1940972/
+127.0.0.1 jdkupdate.pw #botnet_cc https://threatfox.abuse.ch/ioc/1940973/
+127.0.0.1 jdupd.st #botnet_cc https://threatfox.abuse.ch/ioc/1940974/
 127.0.0.1 sboku88.uk.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940947/
 127.0.0.1 84nog8td.nazimhikmetakademisi.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940946/
 127.0.0.1 nazimhikmetakademisi.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1940945/
@@ -47758,4 +47786,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47759
+# Number of entries: 47787
