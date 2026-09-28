@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.piccoloparco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939726/
+127.0.0.1 www.poof.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939727/
+127.0.0.1 www.planetcomunication.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939728/
+127.0.0.1 www.pourmontferrier.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939729/
+127.0.0.1 tenuwoju.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1939725/
+127.0.0.1 coraldorothy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1939724/
+127.0.0.1 legalinsider.top #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939722/
+127.0.0.1 dev.vivovojo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939721/
 127.0.0.1 ft4y9eg8.mars303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939714/
 127.0.0.1 mars303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939713/
 127.0.0.1 83ur68yr.designphotoshop.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1939709/
@@ -47665,4 +47673,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47666
+# Number of entries: 47674
