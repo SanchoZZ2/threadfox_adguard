@@ -1,4 +1,16 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 foundersunfound.com #payload_delivery https://threatfox.abuse.ch/ioc/1941098/
+127.0.0.1 clearvoice1.com #payload_delivery https://threatfox.abuse.ch/ioc/1941099/
+127.0.0.1 techeducate.com #payload_delivery https://threatfox.abuse.ch/ioc/1941100/
+127.0.0.1 photocapital.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941134/
+127.0.0.1 www.robotique.tech #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941128/
+127.0.0.1 www.russellcourthotel.ie #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941129/
+127.0.0.1 www.rosymugno.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941130/
+127.0.0.1 openai-credits.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941125/
+127.0.0.1 marxist.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941126/
+127.0.0.1 charkhsystem.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941127/
+127.0.0.1 5ueb461u.enus-bellyflush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941122/
+127.0.0.1 enus-bellyflush.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941121/
 127.0.0.1 nkrcz65617.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941112/
 127.0.0.1 duhupove.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941111/
 127.0.0.1 zilyoner303.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941109/
@@ -47811,4 +47823,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47812
+# Number of entries: 47824
