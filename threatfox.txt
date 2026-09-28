@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ventuxe.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1941060/
+127.0.0.1 allowcheckd3.cc #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1941084/
+127.0.0.1 us-west.oceandentalcare.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1941063/
+127.0.0.1 www.robertamortgages.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941081/
+127.0.0.1 cloud.edns-server.cfd #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941076/
+127.0.0.1 zenzenzendrnzenzenzenzen.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941077/
+127.0.0.1 ventuxe.biz #payload_delivery https://threatfox.abuse.ch/ioc/1941078/
+127.0.0.1 www.rideaux-metalliques-toulouse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941075/
+127.0.0.1 zionenterprise.com.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941073/
+127.0.0.1 www.robertoscalco.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941074/
+127.0.0.1 www.stemagsrl.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941070/
+127.0.0.1 www.rivistalibera.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941071/
+127.0.0.1 www.tescilliafyonsucugu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941072/
+127.0.0.1 www.redstella.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941066/
+127.0.0.1 www.rideaux-metalliques-orleans.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941067/
+127.0.0.1 revelrecruitment.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941068/
+127.0.0.1 www.rideaux-metalliques-bordeaux.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941069/
+127.0.0.1 97aubry.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941065/
+127.0.0.1 cotygagy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941061/
 127.0.0.1 bh.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941050/
 127.0.0.1 bh.32naga.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941052/
 127.0.0.1 cy.5-rt.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1941032/
@@ -47786,4 +47805,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47787
+# Number of entries: 47806
