@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vgavoile.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941305/
+127.0.0.1 www.tremendoussports.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941300/
+127.0.0.1 www.ufa356.gripe #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941301/
+127.0.0.1 www.ufabet888.party #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941302/
+127.0.0.1 www.tsfdn.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941303/
+127.0.0.1 www.ufabet123.agency #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941304/
+127.0.0.1 www.tss-network.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941299/
+127.0.0.1 16sondra.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941298/
+127.0.0.1 soovt32833.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941297/
 127.0.0.1 www.totilux.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941287/
 127.0.0.1 www.top1tv.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941288/
 127.0.0.1 traditionalturkisharts.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941286/
@@ -14908,6 +14917,7 @@
 127.0.0.1 homeinnovationsunlimited.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884981/
 127.0.0.1 icba.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884982/
 127.0.0.1 illegalbeauty.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884983/
+127.0.0.1 ambiancewax.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884965/
 127.0.0.1 authenticcarebd.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884968/
 127.0.0.1 gearlipi72.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1884959/
 127.0.0.1 portline-express.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1884939/
@@ -47870,4 +47880,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47871
+# Number of entries: 47881
