@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dyliwoxe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942049/
+127.0.0.1 hahinebo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942048/
+127.0.0.1 jamilie.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942047/
+127.0.0.1 aidentyx.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942044/
+127.0.0.1 44384f75.roxymigurdia.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942045/
+127.0.0.1 beblormakran.cc #payload_delivery https://threatfox.abuse.ch/ioc/1942046/
+127.0.0.1 untraceableit.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942043/
+127.0.0.1 rilyrisi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942042/
+127.0.0.1 sawylali.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942036/
 127.0.0.1 86x499ro.finowfurt.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942020/
 127.0.0.1 yyhld3hh.pakketepaksempak.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942019/
 127.0.0.1 pakketepaksempak.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942018/
@@ -16260,6 +16269,7 @@
 127.0.0.1 n00bventures.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874048/
 127.0.0.1 njutamera.se #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874051/
 127.0.0.1 officespacetorent.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874053/
+127.0.0.1 poprockenlinea.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874062/
 127.0.0.1 famat.es #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874014/
 127.0.0.1 firehosechicago.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874017/
 127.0.0.1 guntes.com.tr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874021/
@@ -47849,4 +47859,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47850
+# Number of entries: 47860
