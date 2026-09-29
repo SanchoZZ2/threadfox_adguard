@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 qzys31cq.naff-fgema.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941585/
+127.0.0.1 jcodhdum.eveningneighbor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941583/
+127.0.0.1 in11j2ox.hwgrouppik.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941582/
+127.0.0.1 naff-fgema.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941581/
+127.0.0.1 signalpane.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1941576/
+127.0.0.1 nebuladatastream.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941566/
+127.0.0.1 meteordatastream.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941567/
+127.0.0.1 cosmicnetstream.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941568/
+127.0.0.1 galaxyflowsystems.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941569/
+127.0.0.1 nebulatraffichub.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941570/
+127.0.0.1 novadatastream.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941571/
+127.0.0.1 orbitflownetwork.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941572/
+127.0.0.1 quasartrafficnet.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941573/
+127.0.0.1 starlightnetcore.lol #botnet_cc https://threatfox.abuse.ch/ioc/1941574/
+127.0.0.1 smashshape.com #botnet_cc https://threatfox.abuse.ch/ioc/1941575/
+127.0.0.1 viewable.top #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1941562/
+127.0.0.1 natinformal.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941550/
+127.0.0.1 pcbou28176.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1941549/
+127.0.0.1 teaselnave.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1941542/
 127.0.0.1 cloud-init-config.tj #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1941525/
 127.0.0.1 core-sync-io.tj #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1941526/
 127.0.0.1 db-sync-service.ru #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1941527/
@@ -47529,4 +47548,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 47530
+# Number of entries: 47549
