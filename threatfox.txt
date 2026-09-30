@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ckstj16833.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943298/
+127.0.0.1 rodoza.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943297/
+127.0.0.1 15fc73d7.wignalllindor.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943295/
+127.0.0.1 www.5a71.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943291/
+127.0.0.1 www.altinvadicatering.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943289/
+127.0.0.1 www.autosy.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943290/
+127.0.0.1 ufuoew6n.tanyavondegurechaff.fit #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943287/
 127.0.0.1 38.tcp.vip.cpolar.cn #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1943271/
 127.0.0.1 www.30yrs.co #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943269/
 127.0.0.1 www.html6.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943270/
@@ -46373,4 +46380,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46374
+# Number of entries: 46381
