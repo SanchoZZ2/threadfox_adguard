@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beo39vqi2b.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943374/
+127.0.0.1 tenybuva.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943369/
 127.0.0.1 jet.bowlinggreenwinnelsonco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943350/
 127.0.0.1 www.kellerbooks.com #cc_skimming https://threatfox.abuse.ch/ioc/1943327/
 127.0.0.1 www.lamdhabooks.com.au #cc_skimming https://threatfox.abuse.ch/ioc/1943328/
@@ -46388,4 +46390,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46389
+# Number of entries: 46391
