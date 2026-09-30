@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 38.tcp.vip.cpolar.cn #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1943271/
+127.0.0.1 www.30yrs.co #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943269/
+127.0.0.1 www.html6.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943270/
+127.0.0.1 1100053.1100053.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943261/
+127.0.0.1 30yrs.co #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943262/
+127.0.0.1 gp68.me #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943263/
+127.0.0.1 html6.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943264/
+127.0.0.1 malware.gp68.me #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943265/
+127.0.0.1 malware.simplyodoo.me #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943266/
+127.0.0.1 simplyodoo.me #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943267/
+127.0.0.1 www.1100053.1100053.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943268/
+127.0.0.1 wssc.flavorroute.cc #payload_delivery https://threatfox.abuse.ch/ioc/1943252/
+127.0.0.1 lo.369jk.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943245/
 127.0.0.1 lo.332toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943230/
 127.0.0.1 b4jy90mg.succeswithpaul.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943229/
 127.0.0.1 6cbfarwv.telizant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943228/
@@ -46360,4 +46373,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46361
+# Number of entries: 46374
