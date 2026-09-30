@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lo.332toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943230/
+127.0.0.1 b4jy90mg.succeswithpaul.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943229/
+127.0.0.1 6cbfarwv.telizant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943228/
+127.0.0.1 telizant.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943211/
+127.0.0.1 cynyfuxi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943210/
+127.0.0.1 kekmannetje.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1943209/
+127.0.0.1 hosylumu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943207/
 127.0.0.1 www.galaxyau.ai #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943172/
 127.0.0.1 www.galaxyaus.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943173/
 127.0.0.1 www.mail.wpt-8gek.162-215-130-152.cpanel.site #payload_delivery https://threatfox.abuse.ch/ioc/1943174/
@@ -46353,4 +46360,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46354
+# Number of entries: 46361
