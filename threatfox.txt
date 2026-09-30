@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 who022h5.sallysprattstudio.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942786/
+127.0.0.1 qjpf93vn.roseanne.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942785/
+127.0.0.1 ziguvame.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942782/
+127.0.0.1 zevaqu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942779/
+127.0.0.1 masterconstrucciones.com.co #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1942778/
+127.0.0.1 foremost-financial.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942776/
+127.0.0.1 jyqao0zu.pattysole.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942764/
+127.0.0.1 inkact.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1942760/
+127.0.0.1 sosiska228.net #botnet_cc https://threatfox.abuse.ch/ioc/1942756/
+127.0.0.1 rolity.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942746/
 127.0.0.1 qorigose.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942742/
 127.0.0.1 tpioa51214.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942736/
 127.0.0.1 copperfern.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1942724/
@@ -30403,6 +30413,7 @@
 127.0.0.1 7lqe804i.greyhounds1uidor.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811471/
 127.0.0.1 elbowfrisk.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1811469/
 127.0.0.1 myachtconsulting.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810704/
+127.0.0.1 radioamistadaucayacu.com #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810767/
 127.0.0.1 references.c3pluriel.fr #payload_delivery, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1810772/
 127.0.0.1 briskinternet.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1810924/
 127.0.0.1 ghdfhfjhfg.webhop.me #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1810925/
@@ -45565,6 +45576,7 @@
 127.0.0.1 www.agrogreenalax.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1610229/
 127.0.0.1 Charge0x.at #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1609894/
 127.0.0.1 tree-assistance.gl.at.ply.gg #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1607554/
+127.0.0.1 rjwz.ydns.eu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1604804/
 127.0.0.1 pickleblade.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1604556/
 127.0.0.1 cstest.mucfc.store #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1598100/
 127.0.0.1 ns2.cryptwechat.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1597898/
@@ -46520,4 +46532,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46521
+# Number of entries: 46533
