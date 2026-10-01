@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dev.alexandrasommerauer.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944070/
+127.0.0.1 www.barrycassidyrarebooks.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944059/
+127.0.0.1 www.bluestockingbooks.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944060/
+127.0.0.1 www.booksofparadise.net #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944061/
+127.0.0.1 www.compleatscholar.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944062/
+127.0.0.1 www.covertocoverbooks.ca #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944063/
+127.0.0.1 www.diasparbooks.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944064/
+127.0.0.1 www.elsefinebooksellers.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944065/
+127.0.0.1 www.gwenfoss.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944066/
+127.0.0.1 www.rarechristianbooks.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944067/
+127.0.0.1 www.shopbeautywoodbooks.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944068/
+127.0.0.1 www.thelibrarium.com #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944069/
+127.0.0.1 www.author-author.net #cc_skimming, unknown_webinject, Unknown Webinject https://threatfox.abuse.ch/ioc/1944058/
+127.0.0.1 celebrecorretora.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944053/
+127.0.0.1 www.anubhamehta.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944052/
+127.0.0.1 uw.369jk.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1944050/
+127.0.0.1 www.amaara.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944049/
+127.0.0.1 uw.332toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1944046/
+127.0.0.1 ml4ghwbq.sensa138.pro #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944045/
 127.0.0.1 internetserchinkas.co #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1944029/
 127.0.0.1 zen-prepare-silk-chuckle.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944023/
 127.0.0.1 jucilyru.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944022/
@@ -44835,4 +44854,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44836
+# Number of entries: 44855
