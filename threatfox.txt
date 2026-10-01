@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 f2vxl7ys.thehairnetshop.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943411/
+127.0.0.1 thehairnetshop.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943410/
+127.0.0.1 tantrikashaman.com #payload_delivery https://threatfox.abuse.ch/ioc/1943409/
+127.0.0.1 camilagazola.com.br #payload_delivery https://threatfox.abuse.ch/ioc/1943408/
 127.0.0.1 beo39vqi2b.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943374/
 127.0.0.1 tenybuva.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943369/
 127.0.0.1 jet.bowlinggreenwinnelsonco.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943350/
@@ -25042,6 +25046,7 @@
 127.0.0.1 office-rechnung.life #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833731/
 127.0.0.1 rechnung-lexware.top #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833732/
 127.0.0.1 office-rechnung.icu #payload_delivery, win.purelogs, PureLogs Stealer https://threatfox.abuse.ch/ioc/1833733/
+127.0.0.1 livelaughfite.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833649/
 127.0.0.1 khalsebet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833702/
 127.0.0.1 xeno.lat #payload_delivery https://threatfox.abuse.ch/ioc/1833575/
 127.0.0.1 metrics.demobunfiber.top #botnet_cc, win.amatera, Amatera https://threatfox.abuse.ch/ioc/1833495/
@@ -25123,6 +25128,7 @@
 127.0.0.1 jfxdrqqn.maharatmodiran.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833347/
 127.0.0.1 www.citymoversmagazine.com.ng #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833322/
 127.0.0.1 www.lc3.com.br #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833330/
+127.0.0.1 techwizzardz.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833287/
 127.0.0.1 tecnolozzi.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833288/
 127.0.0.1 royalvet.es #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833265/
 127.0.0.1 ayamprestonyonyalina.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833106/
@@ -46390,4 +46396,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 46391
+# Number of entries: 46397
