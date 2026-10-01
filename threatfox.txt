@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 driveinformation.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1943808/
+127.0.0.1 drivemqx.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1943809/
+127.0.0.1 guest-information-5661939311.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1943810/
+127.0.0.1 informationbnb-september.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1943811/
+127.0.0.1 nomaiei.sbs #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943806/
+127.0.0.1 sevurehostmaineth.com #payload_delivery https://threatfox.abuse.ch/ioc/1943807/
+127.0.0.1 cloudelivrenterprise.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1943805/
+127.0.0.1 teamfenterprise2026.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1943804/
+127.0.0.1 zenterprise2026.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1943803/
+127.0.0.1 fiizo54361.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943801/
+127.0.0.1 hixelelo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943800/
+127.0.0.1 www-cf.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1943752/
+127.0.0.1 cos.v-panel.asia #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943796/
+127.0.0.1 cos.msdos.ru #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943798/
+127.0.0.1 rqziwtbf.truenarrator.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943782/
 127.0.0.1 sensa138.uk.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943777/
 127.0.0.1 loveyoufaith.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1943748/
 127.0.0.1 nothinglikefaith.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1943749/
@@ -59,10 +74,6 @@
 127.0.0.1 www.autosy.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943290/
 127.0.0.1 ufuoew6n.tanyavondegurechaff.fit #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943287/
 127.0.0.1 38.tcp.vip.cpolar.cn #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1943271/
-127.0.0.1 www.html6.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943270/
-127.0.0.1 1100053.1100053.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943261/
-127.0.0.1 html6.io #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943264/
-127.0.0.1 www.1100053.1100053.com #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1943268/
 127.0.0.1 wssc.flavorroute.cc #payload_delivery https://threatfox.abuse.ch/ioc/1943252/
 127.0.0.1 lo.369jk.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943245/
 127.0.0.1 lo.332toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943230/
@@ -75,64 +86,11 @@
 127.0.0.1 www.galaxyau.ai #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943172/
 127.0.0.1 www.galaxyaus.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943173/
 127.0.0.1 www.mail.wpt-8gek.162-215-130-152.cpanel.site #payload_delivery https://threatfox.abuse.ch/ioc/1943174/
-127.0.0.1 thenest.in.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943140/
-127.0.0.1 toplikes.in #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943141/
-127.0.0.1 tribalwars.top #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943142/
-127.0.0.1 uu8833.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943145/
-127.0.0.1 ww88com.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943146/
-127.0.0.1 x88.today #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943149/
-127.0.0.1 xx88.markets #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943152/
-127.0.0.1 xx88.promo #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943153/
-127.0.0.1 cnbbs8.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943124/
-127.0.0.1 demenslot.vip #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943125/
-127.0.0.1 fifa55poipet.pro #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943126/
-127.0.0.1 j88.melbourne #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943128/
-127.0.0.1 j88slot9.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943129/
-127.0.0.1 kupiha.top #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943130/
-127.0.0.1 midox.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943136/
-127.0.0.1 pzp3w.pw #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943138/
-127.0.0.1 themoviezflix.in.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943139/
-127.0.0.1 backdoor.tsntxe2.buzz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943111/
-127.0.0.1 22sandibet.buzz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943083/
-127.0.0.1 8kbet.fitness #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943085/
-127.0.0.1 8kbet.salon #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943086/
-127.0.0.1 8kbeta5.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943087/
-127.0.0.1 8kbeting1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943088/
-127.0.0.1 8kbetn.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943089/
-127.0.0.1 8kbetpro.live #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943090/
-127.0.0.1 8kbett.hair #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943091/
-127.0.0.1 8kbett.icu #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943092/
-127.0.0.1 8kbett.one #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943093/
-127.0.0.1 8kbett.shop #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943094/
-127.0.0.1 8kbetvvip.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943095/
 127.0.0.1 a54a31ac-4977.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943096/
-127.0.0.1 akuwin138.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1943098/
 127.0.0.1 lumejyly.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943048/
 127.0.0.1 beacon.kraynov.org #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1943036/
 127.0.0.1 claudedevz.net #payload_delivery https://threatfox.abuse.ch/ioc/1942966/
 127.0.0.1 hugg1ngvx.top #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943029/
-127.0.0.1 fb88dangnhap.in #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1943024/
-127.0.0.1 mb66.kids #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1943025/
-127.0.0.1 www.8kbet.sh #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1943026/
-127.0.0.1 www.mb66.kids #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1943027/
-127.0.0.1 mu886.pizza #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943008/
-127.0.0.1 mu88trangchu.online #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943009/
-127.0.0.1 mu88vn.guru #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943010/
-127.0.0.1 qh88beting.me #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943011/
-127.0.0.1 shbet8.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943012/
-127.0.0.1 shopfifa4.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943013/
-127.0.0.1 www.mu886.pizza #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943015/
-127.0.0.1 www.mu88trangchu.online #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943016/
-127.0.0.1 www.mu88vn.guru #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943017/
-127.0.0.1 www.qh88beting.me #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943018/
-127.0.0.1 www.shbet8.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943019/
-127.0.0.1 f8bet.art #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1942999/
-127.0.0.1 fifa2018worldcup.co #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943002/
-127.0.0.1 fun88.wien #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943003/
-127.0.0.1 grandefete.in #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943004/
-127.0.0.1 hoiquantv2.online #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943005/
-127.0.0.1 hoiquantv2.site #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943006/
-127.0.0.1 mb-661.online #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1943007/
 127.0.0.1 hlt4n0xl.sylphiette.baby #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1942983/
 127.0.0.1 jawokugy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1942947/
 127.0.0.1 wishgrove.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1942946/
@@ -44846,4 +44804,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44847
+# Number of entries: 44805
