@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 browseid.codes #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943466/
+127.0.0.1 wordpress.pullstack.cloud #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943463/
 127.0.0.1 up.369jk.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943440/
 127.0.0.1 up.332toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943442/
 127.0.0.1 notzen.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943437/
@@ -44866,4 +44868,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44867
+# Number of entries: 44869
