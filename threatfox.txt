@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 internetserchinkas.co #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1944029/
+127.0.0.1 zen-prepare-silk-chuckle.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944023/
+127.0.0.1 jucilyru.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944022/
+127.0.0.1 xw.cizt.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944021/
+127.0.0.1 xw.fexd.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944017/
+127.0.0.1 xw.maxr.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944018/
+127.0.0.1 xw.vyqt.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944019/
+127.0.0.1 xw.vqxt.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944020/
+127.0.0.1 xw.bidz.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944015/
+127.0.0.1 xw.jukt.top #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944016/
+127.0.0.1 xalibovu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944014/
 127.0.0.1 stcdn.yuriykraynov.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1943948/
 127.0.0.1 deleeue.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1943912/
 127.0.0.1 cleo-wasmer-app-deployments.wasmer.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943935/
@@ -44824,4 +44835,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44825
+# Number of entries: 44836
