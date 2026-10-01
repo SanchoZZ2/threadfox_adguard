@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bolyqyru.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943643/
+127.0.0.1 civillatrina.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1943642/
 127.0.0.1 af.369jk.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943621/
 127.0.0.1 af.332toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1943623/
 127.0.0.1 flyhighsmokeshop.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1943614/
@@ -43614,6 +43616,9 @@
 127.0.0.1 bluecurrent.oceanprim.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1751093/
 127.0.0.1 darkspice.bakhkondach.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1751087/
 127.0.0.1 velvet-parrot.com #botnet_cc, win.santa_stealer, SantaStealer https://threatfox.abuse.ch/ioc/1750783/
+127.0.0.1 daroughgan8hajous30.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1750765/
+127.0.0.1 daroughgan8hajous40.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1750766/
+127.0.0.1 daroughgan8hajous50.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1750767/
 127.0.0.1 kitsoinsbebeclique.shop #botnet_cc, win.socks5_systemz, ProxyBox, Socks5Systemz https://threatfox.abuse.ch/ioc/1750283/
 127.0.0.1 ruruurururururu.ru #botnet_cc, win.santa_stealer, SantaStealer https://threatfox.abuse.ch/ioc/1749278/
 127.0.0.1 cdn-clodflare-fotns.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1749010/
@@ -44882,4 +44887,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44883
+# Number of entries: 44888
