@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 infogruposyc.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1944232/
+127.0.0.1 quietthistle.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944228/
+127.0.0.1 pousadaazulcampinas.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944219/
+127.0.0.1 pazzifox.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944220/
+127.0.0.1 miyagi.group #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944221/
+127.0.0.1 bifafu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944218/
+127.0.0.1 qhydz65819.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944217/
+127.0.0.1 pravitsolution.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944216/
+127.0.0.1 s5rjw3c7.sukalihatpantai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944215/
+127.0.0.1 sukalihatpantai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944214/
+127.0.0.1 z9coc5j3.webhostlounge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944213/
 127.0.0.1 sensa69casino.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944204/
 127.0.0.1 www.howtechs.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944202/
 127.0.0.1 e495897b.roxymigurdia.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944199/
@@ -12039,6 +12050,7 @@
 127.0.0.1 mudsquad.io #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903283/
 127.0.0.1 nitrofactory.pe #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903286/
 127.0.0.1 lichsuvanhoa.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903273/
+127.0.0.1 marathonspiritueldefes.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903277/
 127.0.0.1 matechplus.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903278/
 127.0.0.1 yakresume.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903268/
 127.0.0.1 www.maiobarbistro.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903264/
@@ -44986,4 +44998,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44987
+# Number of entries: 44999
