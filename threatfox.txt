@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 edh9mtv8yw.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944946/
+127.0.0.1 lejb8bujjl.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944945/
+127.0.0.1 mqff.preprod.concept-image.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944939/
 127.0.0.1 fujumabu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944922/
 127.0.0.1 hujixowu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1944921/
 127.0.0.1 frontline-coating.pl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944919/
@@ -44710,4 +44713,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44711
+# Number of entries: 44714
