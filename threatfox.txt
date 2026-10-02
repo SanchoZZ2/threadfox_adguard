@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rdumop17.kaarenorge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945287/
+127.0.0.1 ty03679659.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1945286/
+127.0.0.1 invisiblereina.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1945285/
+127.0.0.1 efs.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945282/
 127.0.0.1 4c6b9766.linuxfortravelers.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945231/
 127.0.0.1 feba4a84.linuxfortravelers.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945232/
 127.0.0.1 hik.gettingheadfromduckysmom.st #botnet_cc, elf.potassium, Potassium https://threatfox.abuse.ch/ioc/1945208/
@@ -44901,4 +44905,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 44902
+# Number of entries: 44906
