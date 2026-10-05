@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 majulyxo.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1952686/
+127.0.0.1 kt2jvxol0n.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1952685/
+127.0.0.1 kalerdarpan24.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1952683/
+127.0.0.1 6myj75hx.josephmichaelnh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1952682/
 127.0.0.1 mexq.breakfast-hut.site #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1952640/
 127.0.0.1 tomm-rt.top #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1952639/
 127.0.0.1 ax.396zk.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1952635/
@@ -42752,4 +42756,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 42753
+# Number of entries: 42757
