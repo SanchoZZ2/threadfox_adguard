@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 finowfurt.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1953163/
+127.0.0.1 ln08p2fb.roseanne.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1953160/
+127.0.0.1 zen-earth-pistol-alpha.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1953159/
+127.0.0.1 aonetruss.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1953156/
+127.0.0.1 amsrealtors.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1953155/
+127.0.0.1 lolibili.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1953154/
+127.0.0.1 zesukodu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1953153/
 127.0.0.1 gomzablobws.cc #payload_delivery https://threatfox.abuse.ch/ioc/1953109/
 127.0.0.1 www.djmarcas.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1953105/
 127.0.0.1 fu.396zk.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1953101/
@@ -4424,6 +4431,7 @@
 127.0.0.1 websmithcloud.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933906/
 127.0.0.1 webzeit.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933907/
 127.0.0.1 wellingtonneighborhood.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933909/
+127.0.0.1 whisperingpinespups.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933910/
 127.0.0.1 vishakhamouldings.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933889/
 127.0.0.1 vision-project.fr #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933890/
 127.0.0.1 vocacademyltd.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933892/
@@ -39809,4 +39817,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 39810
+# Number of entries: 39818
