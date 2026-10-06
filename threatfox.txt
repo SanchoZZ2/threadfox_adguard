@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 up.3toto.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1955721/
+127.0.0.1 www.renzograciemexico.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955718/
+127.0.0.1 www.promoshops.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955719/
+127.0.0.1 www.reathlefitcenter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955715/
+127.0.0.1 www.qualeilmiglior.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955716/
+127.0.0.1 fjallnascastle.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955717/
+127.0.0.1 www.premierfitnesscamp.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955714/
+127.0.0.1 www.portovecchio-corse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955712/
+127.0.0.1 www.pradelli.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955713/
+127.0.0.1 www.porcelli.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955711/
+127.0.0.1 www.pharmakeys.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955707/
+127.0.0.1 www.pixelmedya.com.tr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955708/
+127.0.0.1 www.polokofuneralservices.co.za #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955709/
+127.0.0.1 www.pintossi-flli.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955710/
+127.0.0.1 www.palermocityblog.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1955706/
 127.0.0.1 up.333vip.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1955701/
 127.0.0.1 zikoqeju.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1955700/
 127.0.0.1 ifxcx06915.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1955699/
@@ -7263,6 +7278,7 @@
 127.0.0.1 moneyhub-walletdrive.click #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926553/
 127.0.0.1 tissuehubco.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926607/
 127.0.0.1 sivasiroll.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926598/
+127.0.0.1 thematchtheory.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926603/
 127.0.0.1 laasiasalon.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926586/
 127.0.0.1 parsifal21.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926592/
 127.0.0.1 hikmafoundation.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1926581/
@@ -14841,6 +14857,7 @@
 127.0.0.1 www.irandavari.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863222/
 127.0.0.1 tudodoporco.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863145/
 127.0.0.1 tesladiagnosticclinic.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863121/
+127.0.0.1 studioathos.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863100/
 127.0.0.1 sdc.contact #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863070/
 127.0.0.1 santamonicaconsultoria.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863062/
 127.0.0.1 nrccvictory.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862981/
@@ -41685,4 +41702,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 41686
+# Number of entries: 41703
