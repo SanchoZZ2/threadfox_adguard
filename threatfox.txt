@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.waypointagency.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956067/
+127.0.0.1 www.wonderfulecuador.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956065/
+127.0.0.1 www.zakazkovestolarstvo.sk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956066/
+127.0.0.1 www.tsas-usa.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956064/
+127.0.0.1 www.viniveri.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956063/
+127.0.0.1 rgboj80418.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956062/
+127.0.0.1 www.twiscouter.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956056/
+127.0.0.1 www.villa-gamrang.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956057/
+127.0.0.1 ncmotores.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956055/
 127.0.0.1 rucihipe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956052/
 127.0.0.1 www.talentr.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956049/
 127.0.0.1 www.tanetting.co.th #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956050/
@@ -6005,6 +6014,7 @@
 127.0.0.1 marcusydg.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934075/
 127.0.0.1 matadaren.se #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934076/
 127.0.0.1 karachiprinter.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934060/
+127.0.0.1 x-trane.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934053/
 127.0.0.1 rhinofencing.co.za #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934004/
 127.0.0.1 roisoftwaresolution.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934006/
 127.0.0.1 saboragloria.co #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934007/
@@ -8165,6 +8175,7 @@
 127.0.0.1 z0mvmrtr.eng-us-puraboost.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920668/
 127.0.0.1 1yyhju9i.noug.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1920656/
 127.0.0.1 www.debrancheexpert.tv #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920647/
+127.0.0.1 www.visionsite.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920654/
 127.0.0.1 xn--q3cxt4bxc8b.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920655/
 127.0.0.1 sharjahtodip.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920633/
 127.0.0.1 ledys-architecte.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920616/
@@ -10102,6 +10113,7 @@
 127.0.0.1 somatutando.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903302/
 127.0.0.1 leonleatherworks.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903272/
 127.0.0.1 marathonspiritueldefes.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903277/
+127.0.0.1 www.yelkenapartoren.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903267/
 127.0.0.1 lunar-quill-fluscriois.live #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903241/
 127.0.0.1 metrix-getrix.icu #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903242/
 127.0.0.1 otter-trioor-m8jr9.space #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903243/
@@ -41746,4 +41758,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 41747
+# Number of entries: 41759
