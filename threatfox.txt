@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.therapie-zentrum-dortmund.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956119/
+127.0.0.1 2ell0jzk.lacek.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956113/
+127.0.0.1 xoqypeka.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956112/
+127.0.0.1 mywolexe.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956111/
 127.0.0.1 cashin24.ca #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956108/
 127.0.0.1 rihan.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956107/
 127.0.0.1 sutisuda.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956105/
@@ -40770,4 +40774,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40771
+# Number of entries: 40775
