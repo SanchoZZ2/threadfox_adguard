@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gicalu.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956192/
+127.0.0.1 checkyoubrowse.codes #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1956191/
+127.0.0.1 z4e0sn7r.keca.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956188/
 127.0.0.1 fvucv35060.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956178/
 127.0.0.1 lopule.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956177/
 127.0.0.1 salgu.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956175/
@@ -5832,6 +5835,7 @@
 127.0.0.1 zoukhrof.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933938/
 127.0.0.1 xleister.de #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933924/
 127.0.0.1 yen-coaching.fr #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933928/
+127.0.0.1 yoruway.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933929/
 127.0.0.1 yourwayoutbailbonds.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933931/
 127.0.0.1 zaibdigital.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933932/
 127.0.0.1 wikitnews.info #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933913/
@@ -40796,4 +40800,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40797
+# Number of entries: 40801
