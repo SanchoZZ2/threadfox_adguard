@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 thymesonnet.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1956293/
+127.0.0.1 rimuludi.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956296/
+127.0.0.1 sarmo.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956288/
+127.0.0.1 didi31.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956285/
+127.0.0.1 apexfd.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1956281/
+127.0.0.1 cryonex.sbs #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1956282/
+127.0.0.1 cfcher.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1956283/
 127.0.0.1 kb.3toto.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1956278/
 127.0.0.1 7wlvj9nh.lezo.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956277/
 127.0.0.1 lh5yl7g0.pegy.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956276/
@@ -39693,6 +39700,7 @@
 127.0.0.1 08tk02ji.nexorhino.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1739333/
 127.0.0.1 e4gdb4pt.velostager.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1739206/
 127.0.0.1 r2rr3y5p.velostager.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1739204/
+127.0.0.1 www.ski-snowboardvancouver.ca #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1738878/
 127.0.0.1 luvxcide.duckdns.org #botnet_cc, win.nanocore, Nancrat, NanoCore https://threatfox.abuse.ch/ioc/1738776/
 127.0.0.1 ns1.ns-apache.jo3.org #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1737454/
 127.0.0.1 vn-au88.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1736884/
@@ -40839,4 +40847,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40840
+# Number of entries: 40848
