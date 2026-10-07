@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.engetecengenharia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956876/
+127.0.0.1 aacarrentals.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956868/
+127.0.0.1 tivex.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956866/
+127.0.0.1 buqusily.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956865/
+127.0.0.1 3hgcabfd1k.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956864/
+127.0.0.1 letmeliveit.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956861/
+127.0.0.1 63ruwbkm.pinke.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956857/
 127.0.0.1 gy.3toto.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1956855/
 127.0.0.1 zavekote.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956854/
 127.0.0.1 pinke.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956853/
@@ -41060,4 +41067,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 41061
+# Number of entries: 41068
