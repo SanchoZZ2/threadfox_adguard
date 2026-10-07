@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 botsportscanning.duckdns.org #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1955694/
+127.0.0.1 rosemaryballad.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1956059/
+127.0.0.1 rooertson.top #payload_delivery https://threatfox.abuse.ch/ioc/1956078/
+127.0.0.1 brownpelicanwifi.com #payload_delivery https://threatfox.abuse.ch/ioc/1956079/
+127.0.0.1 match.sitefulia.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1956096/
+127.0.0.1 fog.blacklabelfremont.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956132/
+127.0.0.1 ruut.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956139/
+127.0.0.1 gogymowy.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956133/
+127.0.0.1 fog.blacklabelfremont.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1956131/
+127.0.0.1 kpxypqg0.kalem.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956129/
 127.0.0.1 www.therapie-zentrum-dortmund.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956119/
 127.0.0.1 2ell0jzk.lacek.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1956113/
 127.0.0.1 xoqypeka.workers.dev #botnet_cc, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1956112/
@@ -40774,4 +40784,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40775
+# Number of entries: 40785
