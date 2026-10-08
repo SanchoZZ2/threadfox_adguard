@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mt1x5cl9.renad.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957020/
+127.0.0.1 renad.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957019/
+127.0.0.1 luck.blacklabelfremont.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957014/
+127.0.0.1 luck.blacklabelfremont.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1957013/
+127.0.0.1 office-fit.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957011/
+127.0.0.1 pl-allegro.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1957005/
+127.0.0.1 allegrolokalnie.kzulbt395368.shop #payload_delivery https://threatfox.abuse.ch/ioc/1957007/
+127.0.0.1 papm-gmbh.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957004/
 127.0.0.1 plf7x.valci.store #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1956664/
 127.0.0.1 clubsoar.com #payload_delivery, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1956723/
 127.0.0.1 artistichairlounge.com #payload_delivery, win.stealc, Stealc https://threatfox.abuse.ch/ioc/1956724/
@@ -40594,4 +40602,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40595
+# Number of entries: 40603
