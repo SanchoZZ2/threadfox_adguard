@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 couteaux-fontaine.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957044/
+127.0.0.1 distrostation.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957042/
+127.0.0.1 servtechh.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957041/
+127.0.0.1 zeodth.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1957031/
+127.0.0.1 www.regioncheck.xyz #payload_delivery, js.contagious_drop, ContagiousDrop https://threatfox.abuse.ch/ioc/1957032/
+127.0.0.1 fireipsrevolt.top #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1957033/
+127.0.0.1 verify.proxy08.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1957034/
+127.0.0.1 tight-dew-df89.esbpomiqpz.workers.dev #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1957035/
 127.0.0.1 hdios.cn #payload_delivery https://threatfox.abuse.ch/ioc/1957022/
 127.0.0.1 jakob-webdesign.de #payload_delivery https://threatfox.abuse.ch/ioc/1957023/
 127.0.0.1 iti1sfwe.misle.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957029/
@@ -10659,6 +10667,7 @@
 127.0.0.1 flashbrn.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1888820/
 127.0.0.1 drivingfeel.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888737/
 127.0.0.1 tempsgraphie.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888731/
+127.0.0.1 thewebsitezone.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888720/
 127.0.0.1 ed-hausmeister.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1888695/
 127.0.0.1 faceit-account.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1888585/
 127.0.0.1 google-meet-call.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1888586/
@@ -40605,4 +40614,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40606
+# Number of entries: 40615
