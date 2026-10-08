@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hdios.cn #payload_delivery https://threatfox.abuse.ch/ioc/1957022/
+127.0.0.1 jakob-webdesign.de #payload_delivery https://threatfox.abuse.ch/ioc/1957023/
+127.0.0.1 iti1sfwe.misle.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957029/
 127.0.0.1 mt1x5cl9.renad.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957020/
 127.0.0.1 renad.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957019/
 127.0.0.1 luck.blacklabelfremont.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957014/
@@ -40602,4 +40605,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40603
+# Number of entries: 40606
