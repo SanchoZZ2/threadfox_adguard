@@ -1,4 +1,29 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 midtown.ilovecollege.info #botnet_cc https://threatfox.abuse.ch/ioc/1957499/
+127.0.0.1 renotad.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1957345/
+127.0.0.1 cosmical2049.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1957344/
+127.0.0.1 lavendertome.co #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1957111/
+127.0.0.1 api.kookjar.com #botnet_cc, apk.badbox, BADBOX https://threatfox.abuse.ch/ioc/1957275/
+127.0.0.1 nosabely.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1957333/
+127.0.0.1 www.mcdanielwoolf.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957287/
+127.0.0.1 content.dlcore.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1957286/
+127.0.0.1 www.oniramen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957285/
+127.0.0.1 www.nyankids.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957284/
+127.0.0.1 www.sonquimet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957282/
+127.0.0.1 www.riverviewpharmacynj.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957283/
+127.0.0.1 www.milleniummortgage.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957281/
+127.0.0.1 ukagir.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957280/
+127.0.0.1 www.verbum.cz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957277/
+127.0.0.1 juniorjoias.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957278/
+127.0.0.1 www.platino.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957279/
+127.0.0.1 gorsefield.cc #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957276/
+127.0.0.1 www.toutvabienbien.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957269/
+127.0.0.1 www.n-sommer.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957267/
+127.0.0.1 www.rkpelet.sk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957268/
+127.0.0.1 www.mariusbroeders.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957264/
+127.0.0.1 www.espacesante-suisse.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957262/
+127.0.0.1 dr-sorayatavakoli.ir #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957261/
+127.0.0.1 1c6pukow.sadis.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957260/
 127.0.0.1 trinea.cn #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957248/
 127.0.0.1 verbum.cz #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957249/
 127.0.0.1 vessant.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957250/
@@ -40780,4 +40805,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40781
+# Number of entries: 40806
