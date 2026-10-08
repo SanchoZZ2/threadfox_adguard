@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 keca.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957840/
+127.0.0.1 coppertrack.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957834/
+127.0.0.1 fluszoif.sulaf.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957832/
+127.0.0.1 main-salesforce.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957831/
+127.0.0.1 www.usa-salesforce.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1957830/
+127.0.0.1 fast-api.thelist2win.org #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1957643/
+127.0.0.1 haergreve.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1957642/
 127.0.0.1 zuma789-z.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957825/
 127.0.0.1 zypupmp.xyz #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957826/
 127.0.0.1 stthomasselfstorage.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957796/
@@ -41013,4 +41020,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 41014
+# Number of entries: 41021
