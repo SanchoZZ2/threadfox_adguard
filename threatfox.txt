@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ohetl1ri2c.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959563/
+127.0.0.1 purizezo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959561/
+127.0.0.1 f81503e8.b00kself.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959528/
+127.0.0.1 bf5f2f9e.b00kself.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959527/
+127.0.0.1 google-proxy-66-249-88-100.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959526/
 127.0.0.1 google-proxy-66-249-88-229.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959525/
 127.0.0.1 zyxube.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959521/
 127.0.0.1 ecned5tg.roseanne.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959516/
@@ -5262,6 +5267,7 @@
 127.0.0.1 noasdoastrien.top #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1944796/
 127.0.0.1 amber-weave-otter-luor.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1944797/
 127.0.0.1 solar-glide-moss-luon.top #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1944798/
+127.0.0.1 shepherdsbushmobiletyrefitting.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1944639/
 127.0.0.1 0nmf90it.sallysprattstudio.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944252/
 127.0.0.1 46fe21f9.eveningneighbor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944250/
 127.0.0.1 4585d800.eveningneighbor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1944251/
@@ -40968,4 +40974,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40969
+# Number of entries: 40975
