@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gkpuc66191.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958318/
+127.0.0.1 mars-uae.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958317/
+127.0.0.1 restaurant.moovent.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958316/
+127.0.0.1 48ypnsgk.porel.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958314/
+127.0.0.1 google-proxy-66-249-88-198.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958304/
 127.0.0.1 hofugo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958301/
 127.0.0.1 hakaxylu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958298/
 127.0.0.1 juynu31926.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958294/
@@ -38813,6 +38818,7 @@
 127.0.0.1 bigsmart.beer #payload_delivery https://threatfox.abuse.ch/ioc/1769276/
 127.0.0.1 lstyle-sdn.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1769274/
 127.0.0.1 callpit.icu #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1769059/
+127.0.0.1 laughing-octo.info #botnet_cc, win.santa_stealer, SantaStealer https://threatfox.abuse.ch/ioc/1768102/
 127.0.0.1 webanalytics-cdn.icu #payload_delivery https://threatfox.abuse.ch/ioc/1768064/
 127.0.0.1 webanalytics-cdn.cyou #payload_delivery https://threatfox.abuse.ch/ioc/1768063/
 127.0.0.1 webanalytics-cdn.cfd #payload_delivery https://threatfox.abuse.ch/ioc/1768039/
@@ -38860,6 +38866,7 @@
 127.0.0.1 ns-cyber-server.sbs #payload_delivery https://threatfox.abuse.ch/ioc/1762338/
 127.0.0.1 ooe.myserver.com.bd #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1762153/
 127.0.0.1 mullenpalimpseststudio.com #botnet_cc, win.hijackloader, DOILoader, GHOSTPULSE https://threatfox.abuse.ch/ioc/1762086/
+127.0.0.1 crispy-rusty.com #botnet_cc, win.santa_stealer, SantaStealer https://threatfox.abuse.ch/ioc/1761756/
 127.0.0.1 brocaez.club #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1761911/
 127.0.0.1 familbg.club #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1761912/
 127.0.0.1 mobbyyt.club #botnet_cc, win.lumma, LummaC2 Stealer, Lumma Stealer https://threatfox.abuse.ch/ioc/1761913/
@@ -40114,4 +40121,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40115
+# Number of entries: 40122
