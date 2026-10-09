@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 check-pdf-image.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1958204/
+127.0.0.1 checkingdrive-october.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1958205/
+127.0.0.1 driveinformation-octob.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1958206/
+127.0.0.1 pdf-check-now.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1958207/
+127.0.0.1 pdf-check-online.com #payload_delivery, js.tonrat, TONResolver, TonRAT https://threatfox.abuse.ch/ioc/1958208/
+127.0.0.1 rh3et1zh.sawah.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958202/
+127.0.0.1 woluqeny.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958193/
 127.0.0.1 dreamcastlegacy.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958189/
 127.0.0.1 segadreamcasthub.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958190/
 127.0.0.1 segagamingnexus.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958191/
@@ -40080,4 +40087,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40081
+# Number of entries: 40088
