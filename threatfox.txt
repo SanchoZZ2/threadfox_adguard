@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kofonidi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958027/
+127.0.0.1 google-proxy-192-178-15-9.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958026/
+127.0.0.1 qokomuqi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958023/
+127.0.0.1 ec2-16-146-96-209.us-west-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958022/
+127.0.0.1 ec2-44-242-253-11.us-west-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958021/
+127.0.0.1 ec2-54-69-124-190.us-west-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958020/
+127.0.0.1 ec2-184-33-142-175.us-west-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958019/
+127.0.0.1 ec2-44-248-186-42.us-west-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958018/
+127.0.0.1 ec2-16-147-31-138.us-west-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958017/
+127.0.0.1 lezo.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958014/
 127.0.0.1 mahoomahtab.ir #payload_delivery https://threatfox.abuse.ch/ioc/1958010/
 127.0.0.1 goseryvy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958006/
 127.0.0.1 lepope.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958004/
@@ -41112,4 +41122,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 41113
+# Number of entries: 41123
