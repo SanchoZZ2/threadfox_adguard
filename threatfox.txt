@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ski.blacklabelfremont.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1958173/
+127.0.0.1 bu6l986k.rihan.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958169/
+127.0.0.1 rexifo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958168/
 127.0.0.1 nr.3toto.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1958158/
 127.0.0.1 nr.333vip.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1958160/
 127.0.0.1 134.116.205.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958157/
@@ -40066,4 +40069,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40067
+# Number of entries: 40070
