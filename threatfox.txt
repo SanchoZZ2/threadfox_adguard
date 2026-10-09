@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dreamcastlegacy.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958189/
+127.0.0.1 segadreamcasthub.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958190/
+127.0.0.1 segagamingnexus.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958191/
+127.0.0.1 segaretrocorner.cfd #payload_delivery, win.satacom, CurlyGate, LegionLoader https://threatfox.abuse.ch/ioc/1958192/
+127.0.0.1 status.fernhollow.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1958185/
+127.0.0.1 ikovrsps.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1957921/
+127.0.0.1 stellaspicy.org #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1958097/
+127.0.0.1 ski.blacklabelfremont.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958174/
+127.0.0.1 v6pggtfljylf5cekfssrdhcyaxsk6m5xoudrqnvskw73iueyvaexsnad.onion #botnet_cc https://threatfox.abuse.ch/ioc/1958179/
+127.0.0.1 habysilo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958178/
+127.0.0.1 mariquillalime.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958177/
 127.0.0.1 ski.blacklabelfremont.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1958173/
 127.0.0.1 bu6l986k.rihan.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958169/
 127.0.0.1 rexifo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958168/
@@ -40069,4 +40080,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40070
+# Number of entries: 40081
