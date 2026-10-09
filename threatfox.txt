@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 hofugo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958301/
+127.0.0.1 hakaxylu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958298/
+127.0.0.1 juynu31926.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958294/
+127.0.0.1 1rvrental.com #payload_delivery https://threatfox.abuse.ch/ioc/1958263/
+127.0.0.1 edgnltatqptann.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1958266/
+127.0.0.1 aeyibtnr.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1958267/
+127.0.0.1 anwhinweudee.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1958268/
+127.0.0.1 xya.supercrone.cc #botnet_cc, elf.aisuru, Aisuru https://threatfox.abuse.ch/ioc/1958283/
+127.0.0.1 feds.iphaven.qzz.io #botnet_cc, elf.aisuru, Aisuru https://threatfox.abuse.ch/ioc/1958284/
+127.0.0.1 javeqe.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958280/
 127.0.0.1 qsvl1hxbh1.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958269/
 127.0.0.1 asea4ied.ruut.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1958261/
 127.0.0.1 213-180-203-5.spider.yandex.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1958241/
@@ -40104,4 +40114,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40105
+# Number of entries: 40115
