@@ -1,4 +1,23 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 146-241-111-165.dyn.eolo.it #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959803/
+127.0.0.1 j0p0cibb.lunza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959782/
+127.0.0.1 www.osmb.net #payload_delivery, win.coinminer, Coinminer https://threatfox.abuse.ch/ioc/1959442/
+127.0.0.1 osbot.net #payload_delivery, win.coinminer, Coinminer https://threatfox.abuse.ch/ioc/1959443/
+127.0.0.1 999.34c9f78b4ef541baac4a6e84d4f832a7.lol #botnet_cc https://threatfox.abuse.ch/ioc/1959489/
+127.0.0.1 prod-static.nascarnash.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1959513/
+127.0.0.1 33pedia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1959647/
+127.0.0.1 9bf7j6bzrzzg.ifuckurmomjaffacakes.win #botnet_cc https://threatfox.abuse.ch/ioc/1959648/
+127.0.0.1 ifuckurmomjaffacakes.win #botnet_cc https://threatfox.abuse.ch/ioc/1959649/
+127.0.0.1 4toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1959650/
+127.0.0.1 7ubpxz82hg.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959774/
+127.0.0.1 penislandrocket.gov.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959772/
+127.0.0.1 32323421342.gov.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959770/
+127.0.0.1 3232342342.gov.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959768/
+127.0.0.1 brows-check-ids.codes #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959765/
+127.0.0.1 check-codbrowse.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959763/
+127.0.0.1 misle.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959762/
+127.0.0.1 rtplive-miliarbet.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959755/
+127.0.0.1 kflm3k81.rtplive-miliarbet.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959754/
 127.0.0.1 zodysate.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959753/
 127.0.0.1 40faint.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959751/
 127.0.0.1 samehoo229.fun #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959739/
@@ -11417,6 +11436,7 @@
 127.0.0.1 productstudio.me #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885089/
 127.0.0.1 psicologialorenalonso.es #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885090/
 127.0.0.1 sergiomarquesillustration.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885091/
+127.0.0.1 smec.group #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885092/
 127.0.0.1 tabrettbethell.info #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885093/
 127.0.0.1 thamyresheros.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885095/
 127.0.0.1 thinkomdigital.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885096/
@@ -40330,4 +40350,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40331
+# Number of entries: 40351
