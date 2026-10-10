@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mdtupbnx.mawos.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959943/
+127.0.0.1 instantanes.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959937/
+127.0.0.1 gran1xea.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959936/
+127.0.0.1 ridiculousgwynne.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959935/
+127.0.0.1 dominiaband.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959934/
+127.0.0.1 n2dypmy2.smanbotu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959933/
+127.0.0.1 waimana.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959932/
+127.0.0.1 smanbotu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959931/
+127.0.0.1 xt.33pedia.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1959921/
+127.0.0.1 xt.4toto.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1959922/
 127.0.0.1 espace-zigzag.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959893/
 127.0.0.1 atelierdezigzag.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959890/
 127.0.0.1 momytojy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959885/
@@ -40375,4 +40385,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40376
+# Number of entries: 40386
