@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 espace-zigzag.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959893/
+127.0.0.1 atelierdezigzag.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959890/
+127.0.0.1 momytojy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959885/
+127.0.0.1 hopypo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959884/
 127.0.0.1 832nw30kq5rb0j4onh9tfw.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959882/
 127.0.0.1 7ujni7galhy2l8y6431l.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959880/
 127.0.0.1 xwezrnmm0tf1vd3llbdwl.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1959878/
@@ -39321,6 +39325,7 @@
 127.0.0.1 digital.stc4tech.net #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1671240/
 127.0.0.1 aryabet.bet #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1671136/
 127.0.0.1 aslidomino.pro #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1671140/
+127.0.0.1 amenom.jp #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1671125/
 127.0.0.1 www.strimex.de #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1670607/
 127.0.0.1 proseiec.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1670538/
 127.0.0.1 mail.physioxrsize.nl #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1670519/
@@ -40370,4 +40375,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40371
+# Number of entries: 40376
