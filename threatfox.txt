@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tr.4-win.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960125/
+127.0.0.1 tr.54toto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960123/
+127.0.0.1 aidigi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960122/
+127.0.0.1 fmbaj52595.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960121/
+127.0.0.1 245.178.156.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960118/
+127.0.0.1 e-learning.fly-and-film.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960116/
+127.0.0.1 awtad.biz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960117/
+127.0.0.1 16t38k5v.rtp-k86sportop.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960115/
 127.0.0.1 nekizuzy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960111/
 127.0.0.1 nz.54toto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960105/
 127.0.0.1 a2czenco6n.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960102/
@@ -40425,4 +40433,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40426
+# Number of entries: 40434
