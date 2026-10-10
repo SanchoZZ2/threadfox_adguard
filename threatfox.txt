@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cegazy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960077/
+127.0.0.1 static-host119-73-101-199.link.net.pk #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960076/
+127.0.0.1 hucukoly.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960075/
+127.0.0.1 google-proxy-66-249-88-103.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960066/
+127.0.0.1 blog.xlab.qianxin.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960065/
+127.0.0.1 4cuissch.wcimbali2016.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960061/
+127.0.0.1 praxis-koerperquelle.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960060/
+127.0.0.1 wcimbali2016.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960059/
+127.0.0.1 vyloxosi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960058/
+127.0.0.1 nyp67fb4.rtpk86sport-happy.click #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960056/
 127.0.0.1 kyzizowa.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960025/
 127.0.0.1 fh.4-win.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960021/
 127.0.0.1 fh.54toto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960023/
@@ -6234,6 +6244,7 @@
 127.0.0.1 seal.co.ke #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935477/
 127.0.0.1 sequum.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935481/
 127.0.0.1 seumunicipio.shop #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935482/
+127.0.0.1 sexfilmsdelen.nl #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935483/
 127.0.0.1 sgalha.com.br #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935484/
 127.0.0.1 silpetro.pt #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935486/
 127.0.0.1 simatec-sarl.fr #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935488/
@@ -40404,4 +40415,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40405
+# Number of entries: 40416
