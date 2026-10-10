@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jp168amp-super.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959986/
+127.0.0.1 google-proxy-66-102-8-168.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959985/
+127.0.0.1 google-proxy-66-102-8-162.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959984/
+127.0.0.1 kesahanu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959958/
+127.0.0.1 lulisola.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959957/
+127.0.0.1 tpp6b30z.kulonprogo.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959956/
+127.0.0.1 jabrzoza.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959955/
+127.0.0.1 xn--instantans-j7a.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959948/
+127.0.0.1 v6k91pk4.truenarrator.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959947/
+127.0.0.1 cimovo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959946/
+127.0.0.1 lonulody.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1959945/
 127.0.0.1 mdtupbnx.mawos.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959943/
 127.0.0.1 instantanes.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959937/
 127.0.0.1 gran1xea.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1959936/
@@ -40385,4 +40396,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40386
+# Number of entries: 40397
