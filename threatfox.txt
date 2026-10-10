@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 flingtrainer.io #payload_delivery, win.remotecontrolclient, remotecontrolclient, RemoteControl https://threatfox.abuse.ch/ioc/1960055/
+127.0.0.1 fling-trainer.com #payload_delivery, win.remotecontrolclient, remotecontrolclient, RemoteControl https://threatfox.abuse.ch/ioc/1960057/
+127.0.0.1 jydyciry.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960086/
+127.0.0.1 foipwjgt.paketmalam.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960085/
 127.0.0.1 cegazy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960077/
 127.0.0.1 static-host119-73-101-199.link.net.pk #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960076/
 127.0.0.1 hucukoly.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960075/
@@ -40415,4 +40419,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40416
+# Number of entries: 40420
