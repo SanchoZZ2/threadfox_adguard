@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zoastklaeon.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960340/
+127.0.0.1 analyze-me2.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960336/
+127.0.0.1 mellow-flicker-comet-pluio.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960337/
+127.0.0.1 ochre-roam-rook-geoum.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960338/
+127.0.0.1 poalmcreorvelvet.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960339/
+127.0.0.1 nmtjl55277.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960335/
 127.0.0.1 3cipm334.pilkada2017.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960324/
 127.0.0.1 apinetsolworkspace.network #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1960321/
 127.0.0.1 devicehubcloud.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1960322/
@@ -40444,4 +40450,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40445
+# Number of entries: 40451
