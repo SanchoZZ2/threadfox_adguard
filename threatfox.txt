@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 jig.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961020/
+127.0.0.1 kat.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961011/
+127.0.0.1 kat.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961013/
+127.0.0.1 google-proxy-66-249-88-228.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961006/
+127.0.0.1 hik.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961002/
+127.0.0.1 hik.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961000/
+127.0.0.1 eyxiukwn.aryllabs.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960997/
+127.0.0.1 vjh.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960992/
+127.0.0.1 vjh.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960994/
 127.0.0.1 bkm.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960935/
 127.0.0.1 bkm.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960937/
 127.0.0.1 gwi.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960925/
@@ -38094,4 +38103,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 38095
+# Number of entries: 38104
