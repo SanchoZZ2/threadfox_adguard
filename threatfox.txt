@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bkm.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960935/
+127.0.0.1 bkm.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960937/
+127.0.0.1 gwi.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960925/
+127.0.0.1 gwi.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960927/
+127.0.0.1 64.88.205.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960922/
+127.0.0.1 sandstrahlungen.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960921/
+127.0.0.1 goh.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960916/
+127.0.0.1 goh.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960918/
+127.0.0.1 afude814uu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960914/
+127.0.0.1 ferugyby.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960913/
 127.0.0.1 careertools.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960909/
 127.0.0.1 iji.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960903/
 127.0.0.1 iji.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960905/
@@ -38084,4 +38094,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 38085
+# Number of entries: 38095
