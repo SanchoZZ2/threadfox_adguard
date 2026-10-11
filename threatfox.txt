@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lovecasino.co #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1960423/
+127.0.0.1 3bse5c5d.b00kself.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960422/
+127.0.0.1 5deeeyo6rt.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960420/
+127.0.0.1 toqekihe.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960419/
+127.0.0.1 posomywu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960418/
+127.0.0.1 obrly07273.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960411/
 127.0.0.1 google-proxy-66-249-88-104.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960394/
 127.0.0.1 gp.4-win.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960388/
 127.0.0.1 www.miei.education #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960387/
@@ -37966,4 +37972,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37967
+# Number of entries: 37973
