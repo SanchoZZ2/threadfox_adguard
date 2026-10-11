@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gp.54toto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960385/
+127.0.0.1 gxpey55565.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960384/
+127.0.0.1 fedane.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960382/
 127.0.0.1 tcea.top #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960368/
 127.0.0.1 tennis-forecast.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960369/
 127.0.0.1 unigadgetz.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960370/
@@ -10295,6 +10298,7 @@
 127.0.0.1 bibliacientifica.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903318/
 127.0.0.1 2ndhandbiz.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903304/
 127.0.0.1 somatutando.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903302/
+127.0.0.1 ms2designstudio.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903281/
 127.0.0.1 leonleatherworks.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903272/
 127.0.0.1 www.yelkenapartoren.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903267/
 127.0.0.1 lunar-quill-fluscriois.live #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1903241/
@@ -40475,4 +40479,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 40476
+# Number of entries: 40480
