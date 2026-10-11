@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 careertools.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960909/
+127.0.0.1 iji.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960903/
+127.0.0.1 iji.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960905/
+127.0.0.1 willow-62.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1960902/
+127.0.0.1 msnbot-40-77-167-156.search.msn.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960896/
+127.0.0.1 glk.iakmialor.web.id #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960890/
+127.0.0.1 tgt.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960888/
+127.0.0.1 v6jp1uh6xg.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960886/
+127.0.0.1 cap.camp-cantina.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960870/
+127.0.0.1 wsl5y6zq.aryl.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960885/
+127.0.0.1 ggb.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960883/
 127.0.0.1 cap.camp-cantina.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1960869/
 127.0.0.1 fkr.5tr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1960861/
 127.0.0.1 9-231-89-188.ftth.glasoperator.nl #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960838/
@@ -38073,4 +38084,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 38074
+# Number of entries: 38085
