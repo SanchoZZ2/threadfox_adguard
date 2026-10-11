@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 nexahub.lat #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1960692/
+127.0.0.1 mgxyuko.xyz #botnet_cc https://threatfox.abuse.ch/ioc/1960638/
+127.0.0.1 9931burning.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960683/
+127.0.0.1 truenarrator.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960682/
+127.0.0.1 ivkie17529.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960681/
 127.0.0.1 releqebi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1960678/
 127.0.0.1 portfolio.hillairet-enzo.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960654/
 127.0.0.1 bnr1b90s.kaarenorge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1960653/
@@ -10373,6 +10378,7 @@
 127.0.0.1 roddyki9911.icu #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874105/
 127.0.0.1 rokkko89123.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874106/
 127.0.0.1 rvlconsultoria.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874069/
+127.0.0.1 trazoseguro.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874086/
 127.0.0.1 plantaodosvidros.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874060/
 127.0.0.1 pluzz899.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874061/
 127.0.0.1 hbaw.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1874024/
@@ -38036,4 +38042,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 38037
+# Number of entries: 38043
