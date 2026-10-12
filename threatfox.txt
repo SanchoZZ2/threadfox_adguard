@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 google-proxy-66-249-88-101.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961430/
+127.0.0.1 xsl.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961425/
+127.0.0.1 profacelisting.info #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1961423/
+127.0.0.1 hsk19cqn.kaarenorge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961422/
+127.0.0.1 sobiqisi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961421/
+127.0.0.1 fifaclubchamps.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1961420/
+127.0.0.1 fqa.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961418/
+127.0.0.1 solidebi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961417/
+127.0.0.1 startrekfleetcommand.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961412/
+127.0.0.1 www.jbnowclassprojecttodaybackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1961410/
+127.0.0.1 www.jbnowclassprojecttodaybackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1961411/
+127.0.0.1 www.jbnowclassprojecttoday.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1961408/
+127.0.0.1 www.jbnowclassprojecttodaybackup.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1961409/
+127.0.0.1 mim.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961406/
+127.0.0.1 proxy-us-east008-cip6.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961386/
 127.0.0.1 bru.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961384/
 127.0.0.1 internetlouisiana.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1961383/
 127.0.0.1 944i66mcky.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961380/
@@ -37514,4 +37529,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37515
+# Number of entries: 37530
