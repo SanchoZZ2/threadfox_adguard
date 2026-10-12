@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fubavy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961948/
 127.0.0.1 95.249.234.8.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961836/
 127.0.0.1 updates.howclens.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961804/
 127.0.0.1 foi.666iapk.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961829/
@@ -37608,4 +37609,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37609
+# Number of entries: 37610
