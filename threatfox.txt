@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lunza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962029/
+127.0.0.1 cadelo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962028/
+127.0.0.1 proxy-us-east009-cip16.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962025/
+127.0.0.1 google-proxy-66-249-88-105.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962024/
+127.0.0.1 jui.666iapk.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1962022/
+127.0.0.1 kodigi.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962015/
+127.0.0.1 www.guidaratatouille.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962016/
+127.0.0.1 madenova.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962014/
+127.0.0.1 runelite.is #botnet_cc https://threatfox.abuse.ch/ioc/1961989/
+127.0.0.1 client-runelite.is #botnet_cc https://threatfox.abuse.ch/ioc/1961988/
+127.0.0.1 runelite.menu #payload_delivery https://threatfox.abuse.ch/ioc/1961990/
 127.0.0.1 node-ex1.pool-1-1.dynamic.nt-isp.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961977/
 127.0.0.1 reed-koaor-tekzr.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961975/
 127.0.0.1 seo.codesmithsystems.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961976/
@@ -5622,6 +5633,8 @@
 127.0.0.1 l561if8k.capitol303.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934971/
 127.0.0.1 capitol303.vip #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934965/
 127.0.0.1 smartmindltd.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1934916/
+127.0.0.1 nextdaymarble1.wpenginepowered.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1934904/
+127.0.0.1 duslermoda.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1934868/
 127.0.0.1 pb6aoj2p.luxerabet.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934841/
 127.0.0.1 pbuwzlmw.bordestan.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934830/
 127.0.0.1 bordestan.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934829/
@@ -37622,4 +37635,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37623
+# Number of entries: 37636
