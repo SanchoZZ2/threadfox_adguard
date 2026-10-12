@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 profile.turquoisequadrant.info #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1961613/
+127.0.0.1 sik.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961625/
+127.0.0.1 mke.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961610/
+127.0.0.1 aquamarineselena.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961609/
+127.0.0.1 sonido13.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961605/
+127.0.0.1 brightbunnyservices.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961603/
+127.0.0.1 digitalleads.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961604/
+127.0.0.1 butlerskateland.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961602/
+127.0.0.1 b6wbn1i0id.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961601/
+127.0.0.1 vty.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961599/
 127.0.0.1 efq.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961568/
 127.0.0.1 ingestwebneo.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961565/
 127.0.0.1 heartbeatyardpoint.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961566/
@@ -37554,4 +37564,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37555
+# Number of entries: 37565
