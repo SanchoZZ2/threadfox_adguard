@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vtr.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961446/
+127.0.0.1 rozsignificant.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961445/
+127.0.0.1 policysync.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961428/
+127.0.0.1 taxlow.top #payload_delivery, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1961433/
+127.0.0.1 taxcerf.top #payload_delivery, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1961434/
+127.0.0.1 taxyy.top #payload_delivery, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1961435/
+127.0.0.1 taxzz.top #payload_delivery, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1961436/
+127.0.0.1 taxgg.top #payload_delivery, win.valley_rat, Winos, ValleyRAT https://threatfox.abuse.ch/ioc/1961437/
 127.0.0.1 google-proxy-66-249-88-101.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961430/
 127.0.0.1 xsl.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961425/
 127.0.0.1 profacelisting.info #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1961423/
@@ -37529,4 +37537,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37530
+# Number of entries: 37538
