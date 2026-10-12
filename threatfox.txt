@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 msm.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961739/
+127.0.0.1 lp.imersaosevenx.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961736/
+127.0.0.1 robinsoo.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1961734/
+127.0.0.1 lra.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961732/
+127.0.0.1 dypaqaqu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961725/
+127.0.0.1 wefygedo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961723/
+127.0.0.1 mgs.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961704/
+127.0.0.1 browse-veriid.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961702/
 127.0.0.1 dp1.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961699/
 127.0.0.1 nnf.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961694/
 127.0.0.1 mgtjw41233.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961689/
@@ -32055,6 +32063,7 @@
 127.0.0.1 p1a5-watch.1zoravel.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797017/
 127.0.0.1 my-googlemeeting.com #payload_delivery https://threatfox.abuse.ch/ioc/1797015/
 127.0.0.1 sku4jn.1zoravel.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797012/
+127.0.0.1 document-share-id382929992933.sisregcel.com #payload_delivery https://threatfox.abuse.ch/ioc/1797008/
 127.0.0.1 fast-7k.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797007/
 127.0.0.1 noir-land-3.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797006/
 127.0.0.1 soft-1.inject-mitroph.in.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1797005/
@@ -37570,4 +37579,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37571
+# Number of entries: 37580
