@@ -1,4 +1,27 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bob.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961800/
+127.0.0.1 x3a.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961798/
+127.0.0.1 win-changer.xyz #payload_delivery, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1961788/
+127.0.0.1 winchanger-api.asiriswin.workers.dev #payload_delivery, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1961789/
+127.0.0.1 winchanger-rc.64-188-64-143.sslip.io #payload_delivery, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1961790/
+127.0.0.1 ttasqdwmpwnaw.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1961793/
+127.0.0.1 dilruire.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1961794/
+127.0.0.1 tensoehhitrln.com #botnet_cc, win.deerstealer, DeerStealer https://threatfox.abuse.ch/ioc/1961795/
+127.0.0.1 32cb0fe5.roseanne.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961791/
+127.0.0.1 palm.blueridgekcmo.com #botnet_cc, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961777/
+127.0.0.1 nyr.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961786/
+127.0.0.1 107.195.247.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961778/
+127.0.0.1 palm.blueridgekcmo.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1961776/
+127.0.0.1 ochuss.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961775/
+127.0.0.1 cyan8115.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961772/
+127.0.0.1 q6.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961769/
+127.0.0.1 zpz.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961757/
+127.0.0.1 raft.asyoulike.nyc #botnet_cc, win.telepuz, TELEPUZ https://threatfox.abuse.ch/ioc/1961742/
+127.0.0.1 clay.asianpalaceii.com #botnet_cc, win.telepuz, TELEPUZ https://threatfox.abuse.ch/ioc/1961743/
+127.0.0.1 frog.britishboxing.net #botnet_cc, win.telepuz, TELEPUZ https://threatfox.abuse.ch/ioc/1961744/
+127.0.0.1 laicaishuli.com #botnet_cc, win.atlas_rat, Atlas RAT https://threatfox.abuse.ch/ioc/1961754/
+127.0.0.1 yilufafafa.club #botnet_cc, win.atlas_rat, Atlas RAT https://threatfox.abuse.ch/ioc/1961755/
+127.0.0.1 zixungongsi.top #botnet_cc, win.atlas_rat, Atlas RAT https://threatfox.abuse.ch/ioc/1961756/
 127.0.0.1 msm.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961739/
 127.0.0.1 lp.imersaosevenx.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961736/
 127.0.0.1 robinsoo.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1961734/
@@ -37579,4 +37602,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37580
+# Number of entries: 37603
