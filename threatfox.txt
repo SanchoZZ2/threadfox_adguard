@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 systemnotifier.st #payload_delivery https://threatfox.abuse.ch/ioc/1962068/
+127.0.0.1 bra.666iapk.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1962065/
 127.0.0.1 lunza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962029/
 127.0.0.1 cadelo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962028/
 127.0.0.1 proxy-us-east009-cip16.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962025/
@@ -36872,6 +36874,7 @@
 127.0.0.1 trfsgysu28opask02.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1403240/
 127.0.0.1 service-rchqbzvz-1301033415.sh.tencentapigw.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1402480/
 127.0.0.1 wmds946t.life #botnet_cc, win.bumblebee, COLDTRAIN, SHELLSTING https://threatfox.abuse.ch/ioc/1393459/
+127.0.0.1 idc6.yjzj.org #botnet_cc, win.ghost_rat, Farfli, Gh0st RAT https://threatfox.abuse.ch/ioc/1391890/
 127.0.0.1 1brainfix.ddns.net #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1390969/
 127.0.0.1 2ffahbg8eydhr96hx3x2lje2ymygt5iq.duckdns.org #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1388561/
 127.0.0.1 ftp.horeca-bucuresti.ro #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1385416/
@@ -37635,4 +37638,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37636
+# Number of entries: 37639
