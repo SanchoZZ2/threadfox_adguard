@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zxi.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961254/
+127.0.0.1 pepezunu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961253/
+127.0.0.1 rtp-k86sportop.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1961252/
+127.0.0.1 vo8.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961247/
+127.0.0.1 mii.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961231/
 127.0.0.1 vve.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961228/
 127.0.0.1 522jsf6oyx.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1961227/
 127.0.0.1 bro.6666k.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1961225/
@@ -3870,6 +3875,14 @@
 127.0.0.1 4ty8o308.aonetruss.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1949871/
 127.0.0.1 magicworks.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1949820/
 127.0.0.1 checkmybtrobot.cc #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1949063/
+127.0.0.1 d9mjs.sbs #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949191/
+127.0.0.1 xynero.xyz #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949192/
+127.0.0.1 bagueie.xyz #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949193/
+127.0.0.1 hahah1101.mom #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949194/
+127.0.0.1 hugg1ngvx.top #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949195/
+127.0.0.1 nomaiei.sbs #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949196/
+127.0.0.1 couhe79.xyz #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949197/
+127.0.0.1 jrxciw2.xyz #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1949198/
 127.0.0.1 srv-stat-node.ru #botnet_cc, elf.xorddos, XORDDOS, XOR DDoS https://threatfox.abuse.ch/ioc/1949590/
 127.0.0.1 ebnyn6t3.sallysprattstudio.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1949684/
 127.0.0.1 9qxhxbbl.amsrealtors.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1949594/
@@ -37452,4 +37465,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37453
+# Number of entries: 37466
