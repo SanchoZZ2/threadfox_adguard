@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zmngfjl.fun #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962683/
+127.0.0.1 f7a91683.b00kself.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962672/
+127.0.0.1 uduka.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962663/
+127.0.0.1 marinnamilitary.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962627/
 127.0.0.1 sxtbd04071.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962623/
 127.0.0.1 ariesit.in #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1962615/
 127.0.0.1 nagukato.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962588/
@@ -7836,6 +7840,7 @@
 127.0.0.1 861rhd3p.gharoga.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905376/
 127.0.0.1 jndlj3g6.us-thetrumptoken.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905310/
 127.0.0.1 ho5k07c2.web-enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905309/
+127.0.0.1 monkeydigital.asia #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1904364/
 127.0.0.1 9ycgpww9.composition-fleurs-et-plumes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904127/
 127.0.0.1 soduncdn.com #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1904006/
 127.0.0.1 composition-fleurs-et-plumes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904126/
@@ -36330,6 +36335,7 @@
 127.0.0.1 tcp.cloudpub.ru #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1462102/
 127.0.0.1 captcha-cf.com #payload_delivery https://threatfox.abuse.ch/ioc/1461877/
 127.0.0.1 accountability.thefenceanddeckguys.com #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1461162/
+127.0.0.1 letaryzipthone.ddns.net #botnet_cc, win.dcrat, DarkCrystal RAT, DCRat https://threatfox.abuse.ch/ioc/1458801/
 127.0.0.1 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1458716/
 127.0.0.1 such-captain.gl.at.ply.gg #botnet_cc, win.njrat, Bladabindi, Lime-Worm https://threatfox.abuse.ch/ioc/1453798/
 127.0.0.1 umarmira055.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1451591/
@@ -37115,4 +37121,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37116
+# Number of entries: 37122
