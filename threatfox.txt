@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 namecheaps.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962810/
+127.0.0.1 google-proxy-66-102-8-169.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962796/
+127.0.0.1 6ah8ena1.kulonprogo.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962792/
+127.0.0.1 dev.basquecountrycom.online #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1962779/
+127.0.0.1 livincredible.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962743/
+127.0.0.1 was.cantdown.su #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1962744/
+127.0.0.1 hook.ftp21.cc #botnet_cc, win.ghost_rat, Farfli, Gh0st RAT https://threatfox.abuse.ch/ioc/1962740/
+127.0.0.1 ssl.ftp21.cc #botnet_cc, win.ghost_rat, Farfli, Gh0st RAT https://threatfox.abuse.ch/ioc/1962738/
+127.0.0.1 jyxigy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962735/
+127.0.0.1 mafchik.lobby-join.cc #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1962726/
+127.0.0.1 rabota-nazavode-panel.lol #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1962727/
+127.0.0.1 www.4i7i.com #botnet_cc, win.younglotus, DarkShare, YoungLotus https://threatfox.abuse.ch/ioc/1962087/
+127.0.0.1 xzttyt.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1962523/
+127.0.0.1 ym8ey0u71i.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962696/
 127.0.0.1 zmngfjl.fun #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962683/
 127.0.0.1 f7a91683.b00kself.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962672/
 127.0.0.1 uduka.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962663/
@@ -12544,6 +12558,7 @@
 127.0.0.1 joydesigns.studio #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864389/
 127.0.0.1 include.co.kr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864354/
 127.0.0.1 ikriomata.gr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864349/
+127.0.0.1 dk-bat.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864171/
 127.0.0.1 carlomahfouz.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1864083/
 127.0.0.1 amicsmartorelles.es #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863968/
 127.0.0.1 yeja56.duckdns.org #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1863911/
@@ -37121,4 +37136,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37122
+# Number of entries: 37137
