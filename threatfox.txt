@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 raster-87.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1963431/
+127.0.0.1 karmazarbaza.com #payload_delivery https://threatfox.abuse.ch/ioc/1963433/
+127.0.0.1 f1shh.at #botnet_cc https://threatfox.abuse.ch/ioc/1963347/
+127.0.0.1 8909451279.f1shh.at #botnet_cc https://threatfox.abuse.ch/ioc/1963348/
+127.0.0.1 7834156259.dojiner.at #botnet_cc https://threatfox.abuse.ch/ioc/1963408/
+127.0.0.1 8393546939.dojiner.at #botnet_cc https://threatfox.abuse.ch/ioc/1963409/
+127.0.0.1 www.aperce.com.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1963400/
 127.0.0.1 lhurl39127.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963343/
 127.0.0.1 cyrus.anondns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1963336/
 127.0.0.1 0zj2voyo.roseanne.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1963317/
@@ -37190,4 +37197,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37191
+# Number of entries: 37198
