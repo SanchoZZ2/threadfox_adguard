@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 agpoferroli1.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964187/
+127.0.0.1 deqazy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1964173/
+127.0.0.1 kyduqu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1964160/
+127.0.0.1 www.slighfoxinc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964142/
+127.0.0.1 www.stmichaelsway.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964143/
 127.0.0.1 www.view360.lk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964133/
 127.0.0.1 www.solevento.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964131/
 127.0.0.1 www.sumuttoday.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964132/
@@ -37569,4 +37574,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37570
+# Number of entries: 37575
