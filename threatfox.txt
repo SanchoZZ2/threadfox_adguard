@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 clevernurse.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1963192/
+127.0.0.1 98win99m.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1963185/
+127.0.0.1 bitne65539.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963183/
+127.0.0.1 70.230.108.136.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963174/
+127.0.0.1 eindgren.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1963150/
+127.0.0.1 zippis.xyz #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1963155/
+127.0.0.1 google-proxy-66-249-88-67.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963149/
+127.0.0.1 google-proxy-66-249-88-69.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963137/
+127.0.0.1 google-proxy-66-249-88-65.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963136/
 127.0.0.1 majalaganja.cc #payload_delivery https://threatfox.abuse.ch/ioc/1963102/
 127.0.0.1 emmmi88295.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963098/
 127.0.0.1 qucifopa.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1963094/
@@ -37164,4 +37173,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37165
+# Number of entries: 37174
