@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lileduki.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962989/
+127.0.0.1 16s4e82txk.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962983/
+127.0.0.1 dg0x81sh.pattysole.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962978/
+127.0.0.1 proxy-us-east008-cip4.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962956/
+127.0.0.1 biqcs87242.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962951/
+127.0.0.1 fileserver.devin-hk.shop #botnet_cc, win.overlord, Overlord RAT https://threatfox.abuse.ch/ioc/1962937/
+127.0.0.1 dasdase13.icu #payload_delivery https://threatfox.abuse.ch/ioc/1962941/
+127.0.0.1 intgspace.com #payload_delivery https://threatfox.abuse.ch/ioc/1962942/
+127.0.0.1 sevabrigade.org #payload_delivery https://threatfox.abuse.ch/ioc/1962944/
+127.0.0.1 magkaisacentre.org #payload_delivery https://threatfox.abuse.ch/ioc/1962945/
+127.0.0.1 ecodation.com #payload_delivery https://threatfox.abuse.ch/ioc/1962946/
 127.0.0.1 olababamazi.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962916/
 127.0.0.1 www.olababamazinow.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962917/
 127.0.0.1 www.olababamazinowbackup.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962918/
@@ -37145,4 +37156,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37146
+# Number of entries: 37157
