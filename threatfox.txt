@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fomeweli.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962880/
+127.0.0.1 98win.fast #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1962877/
+127.0.0.1 aafesorder.com #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1962821/
+127.0.0.1 indigonan.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962824/
 127.0.0.1 namecheaps.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1962810/
 127.0.0.1 google-proxy-66-102-8-169.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1962796/
 127.0.0.1 6ah8ena1.kulonprogo.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1962792/
@@ -19153,6 +19157,7 @@
 127.0.0.1 premiumcloudguard.com #payload_delivery https://threatfox.abuse.ch/ioc/1836928/
 127.0.0.1 cloudsupergatekeeper.com #payload_delivery https://threatfox.abuse.ch/ioc/1836927/
 127.0.0.1 zarinfile.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1836917/
+127.0.0.1 thesoccerarena.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1836901/
 127.0.0.1 seubertchallenge.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1836891/
 127.0.0.1 physiothetics.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1836876/
 127.0.0.1 dev.esteghlal.news #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1836788/
@@ -37136,4 +37141,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37137
+# Number of entries: 37142
