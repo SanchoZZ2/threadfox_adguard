@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 importdoortodoor.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964634/
+127.0.0.1 lagenteruzafa.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964617/
+127.0.0.1 dzwv4rjsj3.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1964598/
 127.0.0.1 checkvbbrows39.cc #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1964229/
 127.0.0.1 hel1uuve.asesoriabamk.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964225/
 127.0.0.1 agpoferroli1.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1964187/
@@ -5693,6 +5696,7 @@
 127.0.0.1 www.sauconybookshop.com #cc_skimming, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1939003/
 127.0.0.1 www.shinyowlbooks.com.au #cc_skimming, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1939004/
 127.0.0.1 hw7qps35.luxerabet1068.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1938994/
+127.0.0.1 internetandcableservicesatgadget.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1938978/
 127.0.0.1 xingyaotec.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1938992/
 127.0.0.1 calibray.in #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1938974/
 127.0.0.1 s1m5xdj6.edebiyatkonulari.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1938962/
@@ -37576,4 +37580,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 37577
+# Number of entries: 37581
