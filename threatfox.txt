@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 phs72t70.citasasesor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1965551/
+127.0.0.1 csbmy02344.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965534/
+127.0.0.1 cisycy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965531/
+127.0.0.1 tenniskurs-zollikon.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1965496/
+127.0.0.1 amanahtotoid.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1965487/
 127.0.0.1 43cycles.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1965480/
 127.0.0.1 luzekily.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965472/
 127.0.0.1 tatovlog.top #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1965461/
@@ -35257,4 +35262,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 35258
+# Number of entries: 35263
