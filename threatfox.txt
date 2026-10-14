@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wuntred.com #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1965360/
+127.0.0.1 ip-vm.vercel.app #payload_delivery, js.contagious_drop, ContagiousDrop https://threatfox.abuse.ch/ioc/1965308/
+127.0.0.1 ibespai.es #payload_delivery https://threatfox.abuse.ch/ioc/1965319/
+127.0.0.1 lelyweby.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965356/
+127.0.0.1 kx4z8st8.escritoriovirtualasesor.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1965351/
+127.0.0.1 amanahtotoceria.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1965349/
+127.0.0.1 liavruizskioo.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1965343/
+127.0.0.1 brisk-sail-ridge-dreor.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1965342/
 127.0.0.1 fyhixuge.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965300/
 127.0.0.1 7z8lxhnj.citaasesoriareyes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1965296/
 127.0.0.1 sapphireilla.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965295/
@@ -35238,4 +35246,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 35239
+# Number of entries: 35247
