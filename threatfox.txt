@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 43cycles.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1965480/
+127.0.0.1 luzekily.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965472/
+127.0.0.1 tatovlog.top #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1965461/
+127.0.0.1 blog.donitesmithy.info #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1965394/
+127.0.0.1 50.241.254.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965433/
+127.0.0.1 221.149.70.136.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965431/
+127.0.0.1 84-105-233-69.cable.dynamic.v4.ziggo.nl #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965423/
 127.0.0.1 ec2-44-217-127-22.compute-1.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965421/
 127.0.0.1 ec2-100-24-96-96.compute-1.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965420/
 127.0.0.1 l9rm22ww1r.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1965405/
@@ -35250,4 +35257,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 35251
+# Number of entries: 35258
