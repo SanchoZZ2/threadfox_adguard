@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 quaintailey.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966896/
+127.0.0.1 khgzh40665.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966890/
+127.0.0.1 cjjjmoney.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1966882/
+127.0.0.1 vuacas.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1966883/
+127.0.0.1 www.uchihachakamarubackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1966875/
+127.0.0.1 www.uchihachakamarubackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1966876/
+127.0.0.1 www.uchihachakamarubackup3.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1966877/
+127.0.0.1 www.uchihachakamaru.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1966874/
+127.0.0.1 anthonysplumbinganddrain.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1966867/
 127.0.0.1 bggyafniwiadvaddfa.blog #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1966832/
 127.0.0.1 kiqaduqe.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966811/
 127.0.0.1 pibygybu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966804/
@@ -34508,4 +34517,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 34509
+# Number of entries: 34518
