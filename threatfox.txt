@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lugeka.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1967073/
+127.0.0.1 bgw.magn.space #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967055/
 127.0.0.1 jb6p5nn8.rtplive-miliarbet.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967003/
 127.0.0.1 basickantoor1.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967000/
 127.0.0.1 xolelavi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966998/
@@ -6472,6 +6474,7 @@
 127.0.0.1 azm8xtz8.us-us-us-blinzador.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1902933/
 127.0.0.1 us-us-us-blinzador.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1902931/
 127.0.0.1 6ue3vviv.usen-flashburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1902930/
+127.0.0.1 bricksstaging.wpenginepowered.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902498/
 127.0.0.1 bapixkar1241.buzz #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902252/
 127.0.0.1 borrilkapi4422.icu #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902253/
 127.0.0.1 688vbet.pro #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1902239/
@@ -34676,4 +34679,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 34677
+# Number of entries: 34680
