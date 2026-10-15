@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kixixoty.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966369/
+127.0.0.1 18.98.185.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966367/
+127.0.0.1 6stmmehy.mdaasesorias.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1966339/
+127.0.0.1 trywebdesign.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1966331/
 127.0.0.1 nedac84898.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966317/
 127.0.0.1 notable240.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966144/
 127.0.0.1 google-proxy-74-125-212-67.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1966134/
@@ -35345,4 +35349,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 35346
+# Number of entries: 35350
