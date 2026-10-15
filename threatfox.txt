@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xanaze.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1967130/
+127.0.0.1 johohu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1967124/
+127.0.0.1 hail.cocova.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967113/
 127.0.0.1 lugeka.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1967073/
 127.0.0.1 bgw.magn.space #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967055/
 127.0.0.1 jb6p5nn8.rtplive-miliarbet.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967003/
@@ -4509,6 +4512,7 @@
 127.0.0.1 businessplatform.whatswhat.ie #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935159/
 127.0.0.1 bytecubit.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935160/
 127.0.0.1 careers.cybereye.vn #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935163/
+127.0.0.1 aspltextile.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935129/
 127.0.0.1 better-horse.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935140/
 127.0.0.1 bluerockfinancing.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935145/
 127.0.0.1 bodrumgazetecilercemiyeti.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1935146/
@@ -34679,4 +34683,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 34680
+# Number of entries: 34684
