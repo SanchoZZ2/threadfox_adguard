@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 google-proxy-66-249-88-64.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968729/
+127.0.0.1 49.74.199.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968724/
+127.0.0.1 zadivy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968701/
+127.0.0.1 148.20.176.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968700/
+127.0.0.1 zylobeza.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968694/
 127.0.0.1 qatinaci.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968659/
 127.0.0.1 wsip-72-194-152-157.ph.ph.cox.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968631/
 127.0.0.1 km0gj1ovc5.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1968586/
@@ -34223,4 +34228,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 34224
+# Number of entries: 34229
