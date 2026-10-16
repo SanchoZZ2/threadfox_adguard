@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 trekkernel4.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1970117/
+127.0.0.1 nova-75.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1970116/
+127.0.0.1 zambraao.lol #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/1970171/
+127.0.0.1 bocmf50748.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970315/
+127.0.0.1 hejehygo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970307/
+127.0.0.1 102.175.6.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970256/
 127.0.0.1 gametyzy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970253/
 127.0.0.1 xi.88bravo.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1970251/
 127.0.0.1 www.xmmtbxbackup3.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1970206/
@@ -66,25 +72,8 @@
 127.0.0.1 backdoor.doyanslot.us #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969543/
 127.0.0.1 backdoor.61116222b2.buzz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969544/
 127.0.0.1 backdoor.qh88eu.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969539/
-127.0.0.1 qq88.studio #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969540/
 127.0.0.1 backdoor.afribus.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969541/
-127.0.0.1 ex88.jp.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969536/
-127.0.0.1 tk88lighting.in.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969537/
-127.0.0.1 anxietyinchildren.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969538/
-127.0.0.1 afribus.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969533/
-127.0.0.1 arkaan.cc #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969534/
-127.0.0.1 juad888.us #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969535/
-127.0.0.1 999betslot.vip #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969529/
-127.0.0.1 mwpoker.us #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969530/
-127.0.0.1 eficiencia-energetica.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969531/
 127.0.0.1 webnghean.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969532/
-127.0.0.1 fifareport.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969528/
-127.0.0.1 61116222b2.buzz #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969521/
-127.0.0.1 doyanslot.us #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969522/
-127.0.0.1 fifa55hr.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969523/
-127.0.0.1 way2ship.in #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969524/
-127.0.0.1 fifa55red.me #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969519/
-127.0.0.1 abgstore.com.co #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1969520/
 127.0.0.1 citaasesoriareyes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1969504/
 127.0.0.1 lehaqadi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1969491/
 127.0.0.1 0bfor2xlm0.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1969483/
@@ -34369,4 +34358,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 34370
+# Number of entries: 34359
