@@ -1,4 +1,21 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 telemetry-relay.kartohaantoha36-6a9.workers.dev #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1970435/
+127.0.0.1 usefilebox.com #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970483/
+127.0.0.1 cdn.wovplaying.help #payload_delivery, win.salatstealer, SalatStealer https://threatfox.abuse.ch/ioc/1970539/
+127.0.0.1 finikasi.homes #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970654/
+127.0.0.1 randlain.mom #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970655/
+127.0.0.1 gdalla.pics #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970656/
+127.0.0.1 trucnher.skin #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970657/
+127.0.0.1 bellows.pics #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970658/
+127.0.0.1 satinett.pics #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970659/
+127.0.0.1 buillingereio.com #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970788/
+127.0.0.1 fmyummk.com #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970789/
+127.0.0.1 firstalwayshere.com #payload_delivery, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970790/
+127.0.0.1 oldisgoldgameis.com #payload_delivery, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1970791/
+127.0.0.1 eyesarelying.online #botnet_cc, vbs.gammaload, GammaLoad https://threatfox.abuse.ch/ioc/1970861/
+127.0.0.1 ijdaiajsidjfif.cloud-ip.cc #botnet_cc https://threatfox.abuse.ch/ioc/1970863/
+127.0.0.1 btjwv9qbhw.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970897/
+127.0.0.1 69bs66ln.socop.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1970895/
 127.0.0.1 egakqe36ey.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970854/
 127.0.0.1 relatedissy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970853/
 127.0.0.1 index.searchchinas.top #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1970804/
@@ -33060,4 +33077,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33061
+# Number of entries: 33078
