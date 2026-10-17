@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 barusariankala.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1971831/
+127.0.0.1 coccicocci.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1971832/
+127.0.0.1 fadsphere.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1971833/
+127.0.0.1 gatorpixelai.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1971834/
+127.0.0.1 pigeonsafaris.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1971835/
+127.0.0.1 saffronsocial.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1971836/
+127.0.0.1 3.68.116.136.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971825/
+127.0.0.1 zisygy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971823/
 127.0.0.1 arylhive.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1971791/
 127.0.0.1 melamie9134.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971786/
 127.0.0.1 w1.88idn.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971770/
@@ -33534,4 +33542,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33535
+# Number of entries: 33543
