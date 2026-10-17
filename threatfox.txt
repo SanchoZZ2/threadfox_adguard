@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 iae44bmf.cita-top.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1971112/
+127.0.0.1 vqgrx18019.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971107/
+127.0.0.1 ju.8-hhh.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971102/
+127.0.0.1 fr.8mytogel.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971103/
+127.0.0.1 t.88mdc.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971104/
+127.0.0.1 k.88mdc.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971105/
+127.0.0.1 b.7sot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971083/
+127.0.0.1 l.7sot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1971084/
 127.0.0.1 google-proxy-66-102-8-170.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971057/
 127.0.0.1 lajytyre.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971055/
 127.0.0.1 lahyfybu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1971053/
@@ -33131,4 +33139,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33132
+# Number of entries: 33140
