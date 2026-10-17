@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 x8kxy5pfxh.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970731/
+127.0.0.1 4q7l3aauklpq0bj86rdnvr.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970729/
+127.0.0.1 huzylati.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970727/
+127.0.0.1 rcyjc64bglyz21olcgtt.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970725/
+127.0.0.1 wvrbkeshcii77eb3urvai.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970723/
+127.0.0.1 p3nqewz0nzrfs50w24qpun.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970721/
+127.0.0.1 zgjxvuzn2a9l3vc7qczlom.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970719/
+127.0.0.1 2h7bybpbc521sa1hbmf0qo.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970718/
+127.0.0.1 r.88bravo.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1970716/
+127.0.0.1 code.nvc-info.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1970713/
+127.0.0.1 cyclingjordan.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1970669/
 127.0.0.1 u50ichq2.amanahsuara.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1970608/
 127.0.0.1 mp24jhoc.zorgwelbrabant.nl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1970607/
 127.0.0.1 sydihypy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1970597/
@@ -33043,4 +33054,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33044
+# Number of entries: 33055
