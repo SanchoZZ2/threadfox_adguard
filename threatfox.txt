@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 genniferclinical.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972137/
+127.0.0.1 6cnxgj35.cyclingjordan.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972128/
 127.0.0.1 lolati.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972109/
 127.0.0.1 asesoriamerenlinea.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972106/
 127.0.0.1 byqarywu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972078/
@@ -33694,4 +33696,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33695
+# Number of entries: 33697
