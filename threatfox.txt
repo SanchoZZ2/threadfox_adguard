@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mapledesk.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1972689/
+127.0.0.1 compassbase.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1972687/
+127.0.0.1 wubezizo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972680/
+127.0.0.1 9d2a8bbd.bociljp.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972678/
+127.0.0.1 paneact.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1972660/
 127.0.0.1 bociljp.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972658/
 127.0.0.1 bociljp.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972627/
 127.0.0.1 hureneqo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972612/
@@ -33387,4 +33392,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33388
+# Number of entries: 33393
