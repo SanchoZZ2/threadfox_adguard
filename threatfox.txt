@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 3p3m51o8.bociljepe.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972797/
+127.0.0.1 q2xcpigj.betweentwospaces.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972796/
+127.0.0.1 gd.88idn.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1972778/
+127.0.0.1 bocillanang.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972770/
+127.0.0.1 mykunego.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972769/
+127.0.0.1 ray-id-v3.com #botnet_cc, win.amadey, Amadey https://threatfox.abuse.ch/ioc/1972761/
 127.0.0.1 sky.dolcefantasia.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972746/
 127.0.0.1 t.99rtp.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1972740/
 127.0.0.1 cdn-edge-updates.hostcloud-eu.net #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1972734/
@@ -33401,4 +33407,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33402
+# Number of entries: 33408
