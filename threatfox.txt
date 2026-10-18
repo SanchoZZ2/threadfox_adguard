@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 frame97.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1972602/
+127.0.0.1 ota.proxystream.st #botnet_cc, elf.xmrig, XMRIG https://threatfox.abuse.ch/ioc/1972577/
+127.0.0.1 9win.cyou #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1972584/
+127.0.0.1 tjt7bjni.bociljepe.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972592/
+127.0.0.1 if.88idn.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1972589/
+127.0.0.1 npugr18830.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972585/
+127.0.0.1 2ayvag06.berrythebear.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972582/
 127.0.0.1 bociljp.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972527/
 127.0.0.1 bociljp.site #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972446/
 127.0.0.1 85.185.221.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972436/
@@ -33377,4 +33384,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33378
+# Number of entries: 33385
