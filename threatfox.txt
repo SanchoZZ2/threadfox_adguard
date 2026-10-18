@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bulkcompressimages.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973549/
+127.0.0.1 ezn9tfkz.bewiseimmunize.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973524/
+127.0.0.1 t7.88idn.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1973515/
+127.0.0.1 de67y1vlab.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973500/
+127.0.0.1 rogocinu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973499/
 127.0.0.1 melodicviolante.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973414/
 127.0.0.1 bonecaambalabu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973399/
 127.0.0.1 vvrs-info.be #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973308/
@@ -33821,4 +33826,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33822
+# Number of entries: 33827
