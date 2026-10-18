@@ -1,4 +1,35 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xawipo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972397/
+127.0.0.1 bociljp.online #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972360/
+127.0.0.1 54.5.200.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972354/
+127.0.0.1 genesis-hub.cc #payload_delivery https://threatfox.abuse.ch/ioc/1972292/
+127.0.0.1 shells.su #payload_delivery https://threatfox.abuse.ch/ioc/1972289/
+127.0.0.1 gitbase.su #payload_delivery https://threatfox.abuse.ch/ioc/1972290/
+127.0.0.1 verificator.cc #payload_delivery https://threatfox.abuse.ch/ioc/1972291/
+127.0.0.1 7w3h1e8nfj.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972285/
+127.0.0.1 funtar.vercel.app #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1971716/
+127.0.0.1 funrat.cam #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1971717/
+127.0.0.1 hitsfolder.click #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1971718/
+127.0.0.1 youshouldvecomeover.lol #botnet_cc https://threatfox.abuse.ch/ioc/1971697/
+127.0.0.1 tooyoungtoholdon.world #botnet_cc https://threatfox.abuse.ch/ioc/1971698/
+127.0.0.1 cdn.youshouldvecomeover.lol #botnet_cc https://threatfox.abuse.ch/ioc/1971699/
+127.0.0.1 cdn.tooyoungtoholdon.world #botnet_cc https://threatfox.abuse.ch/ioc/1971700/
+127.0.0.1 maximalmaxing.com #botnet_cc, win.cloudhaze, zenith, CLOUDHAZE https://threatfox.abuse.ch/ioc/1971775/
+127.0.0.1 www.divinex.to #payload_delivery, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1972020/
+127.0.0.1 warrette.quest #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1972017/
+127.0.0.1 olingri.skin #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1972018/
+127.0.0.1 divinex.to #payload_delivery, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1972019/
+127.0.0.1 falaheeh.mom #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1972016/
+127.0.0.1 api.recapcha.fun #payload_delivery https://threatfox.abuse.ch/ioc/1971869/
+127.0.0.1 ricarle.homes #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/1972015/
+127.0.0.1 tokenmetrics.org #payload_delivery https://threatfox.abuse.ch/ioc/1971868/
+127.0.0.1 mops.to #botnet_cc https://threatfox.abuse.ch/ioc/1971817/
+127.0.0.1 minefox.lol #payload_delivery https://threatfox.abuse.ch/ioc/1972036/
+127.0.0.1 gfisoda.biz #botnet_cc https://threatfox.abuse.ch/ioc/1972280/
+127.0.0.1 joknsdfgjojipogfdfgsjksf.icu #botnet_cc https://threatfox.abuse.ch/ioc/1972281/
+127.0.0.1 e.88idn.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1972277/
+127.0.0.1 ijj4ciid.blinkhorizon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972263/
+127.0.0.1 ljpjw6ws.bebaskanlah.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1972262/
 127.0.0.1 qijyxidi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972254/
 127.0.0.1 bihykyto.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1972238/
 127.0.0.1 verifing-server.codes #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972234/
@@ -33342,4 +33373,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33343
+# Number of entries: 33374
