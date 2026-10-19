@@ -1,4 +1,18 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 815krissie.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974337/
+127.0.0.1 caffe-store-like.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1974335/
+127.0.0.1 groverudder12.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1974330/
+127.0.0.1 cloud-browse.codes #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1974321/
+127.0.0.1 REMBXP.TOP #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1974319/
+127.0.0.1 xxx.sytes.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1974317/
+127.0.0.1 pm44.gotdns.ch #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1974318/
+127.0.0.1 wifihgu.duckdns.org #botnet_cc, elf.moobot, MooBot https://threatfox.abuse.ch/ioc/1974316/
+127.0.0.1 ou.9kio.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1974312/
+127.0.0.1 cdn.img.76e1e5fa.PNAlumni.dgitd.anchorbolnorth.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1974269/
+127.0.0.1 upi.log.30ca777733df8aa6e4404bd8beadb65c36105e9346e15819152e9ecc4.fd746f6f221867dd6d504e00569cc108bbf5c5e0daf7628d26285775.86174a0a1dc3dd1625fc62e486572c26425c95ffef342f6dddb5ffe0.1b1f3f2edc.7605f6.pnalumni.dgitd.anchorbolnorth.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1974270/
+127.0.0.1 calciteperistyle.info #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1974293/
+127.0.0.1 slotwallet777.co #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1974305/
+127.0.0.1 qhqkc41j.coletteloire.rest #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1974297/
 127.0.0.1 comewivy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974287/
 127.0.0.1 coletteloire.rest #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1974274/
 127.0.0.1 checkgwfwtg465.art #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1974271/
@@ -33611,4 +33625,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33612
+# Number of entries: 33626
