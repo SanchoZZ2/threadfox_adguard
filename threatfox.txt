@@ -1,4 +1,43 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cinecluster.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973974/
+127.0.0.1 5kpuhypo.blinderai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973963/
+127.0.0.1 zvg9pesses.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973958/
+127.0.0.1 j9jsia3y.bociljp.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973955/
+127.0.0.1 nexus-panel.in #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1972781/
+127.0.0.1 ghostx-panel-default-rtdb.firebaseio.com #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1972782/
+127.0.0.1 ghostx-panel.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1972783/
+127.0.0.1 myuse-60542-default-rtdb.asia-southeast1.firebasedatabase.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1972784/
+127.0.0.1 myuse-60542.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1972785/
+127.0.0.1 mparivahan.hs.vc #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1972786/
+127.0.0.1 mparivahan772.s.gy #payload_delivery, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973185/
+127.0.0.1 gitview.sbs #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973471/
+127.0.0.1 gitsl.xyz #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973470/
+127.0.0.1 gitrm.sbs #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973473/
+127.0.0.1 viewgit.sbs #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973472/
+127.0.0.1 gitrm.cfd #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973474/
+127.0.0.1 wtf.btwpayme.top #botnet_cc https://threatfox.abuse.ch/ioc/1973490/
+127.0.0.1 x.btwpayme.top #botnet_cc https://threatfox.abuse.ch/ioc/1973491/
+127.0.0.1 nova-client.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973531/
+127.0.0.1 donutclients.st #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973532/
+127.0.0.1 floppaclient.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973533/
+127.0.0.1 cheetoclient.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1973534/
+127.0.0.1 nsx1-7f7aa-default-rtdb.asia-southeast1.firebasedatabase.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973588/
+127.0.0.1 nsx1-7f7aa.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973589/
+127.0.0.1 mparivahansms-default-rtdb.asia-southeast1.firebasedatabase.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973615/
+127.0.0.1 mparivahansms.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973616/
+127.0.0.1 hdfc-bank-8ab58-default-rtdb.firebaseio.com #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973617/
+127.0.0.1 hdfc-bank-8ab58.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973618/
+127.0.0.1 panel-sms.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973619/
+127.0.0.1 andromeda-d389d.firebasestorage.app #botnet_cc, apk.smsspy, SMSspy https://threatfox.abuse.ch/ioc/1973620/
+127.0.0.1 kjhg.lol #botnet_cc, win.hermes, Hermes https://threatfox.abuse.ch/ioc/1973895/
+127.0.0.1 kjhg.shop #botnet_cc, win.hermes, Hermes https://threatfox.abuse.ch/ioc/1973896/
+127.0.0.1 qo.88idr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1973917/
+127.0.0.1 wc.88qr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1973919/
+127.0.0.1 www.jennywilliamlogisticsbackup2.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1973916/
+127.0.0.1 www.jennywilliamlogistics.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1973913/
+127.0.0.1 www.jennywilliamlogisticsbackup.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1973914/
+127.0.0.1 www.jennywilliamlogisticsbackup1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1973915/
+127.0.0.1 monthlybrittani.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973893/
 127.0.0.1 zudufuso.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973869/
 127.0.0.1 j.9kio.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1973861/
 127.0.0.1 heqosyco.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973851/
@@ -33551,4 +33590,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33552
+# Number of entries: 33591
