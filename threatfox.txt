@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 143.99.14.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973742/
+127.0.0.1 cerridwen.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973740/
+127.0.0.1 dyhuvemy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973725/
 127.0.0.1 leafdraft18.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1973718/
 127.0.0.1 wolibo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973696/
 127.0.0.1 xx5m70m0.beyonce.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973693/
@@ -33841,4 +33844,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33842
+# Number of entries: 33845
