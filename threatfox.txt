@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 xywaso.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974176/
+127.0.0.1 bismarckchiropractor.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1974171/
+127.0.0.1 model.bytedrop.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1974168/
+127.0.0.1 spscryspy.com #payload_delivery https://threatfox.abuse.ch/ioc/1974167/
+127.0.0.1 pijaqypi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974159/
+127.0.0.1 google-proxy-66-249-88-66.google.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974152/
+127.0.0.1 dns.bagsrad.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1973976/
+127.0.0.1 cnd.bagsrad.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1973977/
+127.0.0.1 kisudi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973975/
 127.0.0.1 cinecluster.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973974/
 127.0.0.1 5kpuhypo.blinderai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973963/
 127.0.0.1 zvg9pesses.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973958/
@@ -33590,4 +33599,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33591
+# Number of entries: 33600
