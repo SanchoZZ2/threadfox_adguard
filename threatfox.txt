@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mfc7lcz8.bociljp.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973822/
+127.0.0.1 q9ke10zjfu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973821/
+127.0.0.1 s0106b85e715d725e.cg.shawcable.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973814/
+127.0.0.1 j7.88idr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1973806/
+127.0.0.1 f.88qr.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1973808/
+127.0.0.1 zen-ignore-tree-include.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973791/
+127.0.0.1 xasysoru.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973790/
 127.0.0.1 zttrych.icu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973773/
 127.0.0.1 a2bfc593.cerridwen.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1973759/
 127.0.0.1 1049j0vwsn.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1973747/
@@ -33539,4 +33546,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33540
+# Number of entries: 33547
