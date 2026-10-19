@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 lorijuku.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974494/
+127.0.0.1 imaweirdo.my #botnet_cc https://threatfox.abuse.ch/ioc/1974458/
+127.0.0.1 paranoidjuice.info #botnet_cc https://threatfox.abuse.ch/ioc/1974459/
+127.0.0.1 smithsonn-s.top #botnet_cc https://threatfox.abuse.ch/ioc/1974460/
+127.0.0.1 howtodisappearcompletely.zip #botnet_cc https://threatfox.abuse.ch/ioc/1974461/
 127.0.0.1 lpjlb51212.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1974451/
 127.0.0.1 h.9qoi.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1974435/
 127.0.0.1 atc5j2vt.coletteloire.rest #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1974426/
@@ -33649,4 +33654,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33650
+# Number of entries: 33655
