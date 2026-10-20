@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rai1u9u3.bociljp.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976431/
+127.0.0.1 o9et1u5q.maseratis.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976424/
+127.0.0.1 maseratis.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976406/
+127.0.0.1 enywb85427.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976403/
+127.0.0.1 zotamejy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976389/
+127.0.0.1 injurylawsocal.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1976376/
+127.0.0.1 light-zip.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976369/
+127.0.0.1 iq-capital.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976365/
+127.0.0.1 q.9winn.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1976358/
 127.0.0.1 vonujava.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976314/
 127.0.0.1 m2.88kfc.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1976302/
 127.0.0.1 nn9ixw7m.martabakcinta.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976245/
@@ -6706,6 +6715,7 @@
 127.0.0.1 jndlj3g6.us-thetrumptoken.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905310/
 127.0.0.1 ho5k07c2.web-enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905309/
 127.0.0.1 monkeydigital.asia #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1904364/
+127.0.0.1 galaxiaeventos.pt #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1904138/
 127.0.0.1 9ycgpww9.composition-fleurs-et-plumes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904127/
 127.0.0.1 soduncdn.com #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1904006/
 127.0.0.1 composition-fleurs-et-plumes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904126/
@@ -32359,6 +32369,7 @@
 127.0.0.1 minimalist-blog.net #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1742261/
 127.0.0.1 odeme.tunasuaritma.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1742268/
 127.0.0.1 perfume-casablanca.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1742271/
+127.0.0.1 smartbowls.co.za.rocketrobs.co.za #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1742277/
 127.0.0.1 u0y3o2q0.inspirpatience.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1742183/
 127.0.0.1 menangmulu.jp.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1739974/
 127.0.0.1 willlog7.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1739831/
@@ -33475,4 +33486,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33476
+# Number of entries: 33487
