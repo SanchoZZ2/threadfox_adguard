@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 86y4vfwl.lssbo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1975489/
+127.0.0.1 lssbo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1975488/
+127.0.0.1 proxy-us-east002-cip8.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975483/
+127.0.0.1 afbus03701.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975481/
+127.0.0.1 r.88kfc.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1975474/
+127.0.0.1 proxy-us-east009-cip9.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975456/
 127.0.0.1 fisucofo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975425/
 127.0.0.1 proxy-us-east008-cip13.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975421/
 127.0.0.1 hemokivo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975394/
@@ -33389,4 +33395,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33390
+# Number of entries: 33396
