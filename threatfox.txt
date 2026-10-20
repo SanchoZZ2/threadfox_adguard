@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vulyga.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975711/
+127.0.0.1 m52axger.lmgnc.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1975550/
 127.0.0.1 luqaqisy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975505/
 127.0.0.1 proxy-us-east000-cip7.ahrefs.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1975503/
 127.0.0.1 86y4vfwl.lssbo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1975489/
@@ -33397,4 +33399,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33398
+# Number of entries: 33400
