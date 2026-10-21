@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 zaraqicy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1977012/
+127.0.0.1 baobabstoa.tech #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1976251/
+127.0.0.1 player-js.joelbauer.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1976801/
+127.0.0.1 opsbridge.digital #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1976946/
+127.0.0.1 rockytomholland.casacam.net #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1976947/
+127.0.0.1 code.nvc-info.beer #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976983/
+127.0.0.1 nvc-info.beer #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976984/
+127.0.0.1 ganeer.com #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976985/
+127.0.0.1 verifing-server.codes #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976986/
+127.0.0.1 55tf6pmevunm8ct.xyz #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976987/
+127.0.0.1 toolstally.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1977004/
+127.0.0.1 j9ow3zid.mokonaj.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976988/
+127.0.0.1 mokonaj.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976981/
 127.0.0.1 akhfbttn.blinderai.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976955/
 127.0.0.1 fkvnt76031.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976953/
 127.0.0.1 c.9winn.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1976922/
@@ -32651,4 +32664,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32652
+# Number of entries: 32665
