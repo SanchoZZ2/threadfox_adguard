@@ -1,4 +1,20 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 abc212.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978052/
+127.0.0.1 a9bet.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978053/
+127.0.0.1 r.abc212.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978054/
+127.0.0.1 rv.abc212.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978055/
+127.0.0.1 t0902rv3jt.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1978080/
+127.0.0.1 boost-90.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1978071/
+127.0.0.1 genbkin39.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/1978062/
+127.0.0.1 blackjackspelen247.nl #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977955/
+127.0.0.1 cdn.img.5a09f6f2.PNAlumni.dgitd.anchorbolnorth.com #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1978025/
+127.0.0.1 z.a9bet.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978029/
+127.0.0.1 m.a9bet.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978026/
+127.0.0.1 l.9winn.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978021/
+127.0.0.1 zaboxano.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1978019/
+127.0.0.1 w.9winn.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978003/
+127.0.0.1 wf.abad777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978001/
+127.0.0.1 frugetable.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1977982/
 127.0.0.1 hemoby.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1977960/
 127.0.0.1 orbitwindow.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1977958/
 127.0.0.1 swiss-ps-reinigung.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1977944/
@@ -33427,4 +33443,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33428
+# Number of entries: 33444
