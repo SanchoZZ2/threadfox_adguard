@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.triffitt-trailers.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1978396/
+127.0.0.1 www.vmcloans.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1978393/
+127.0.0.1 www.studioa.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1978394/
+127.0.0.1 www.vinstabilskadecenter.se #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1978395/
+127.0.0.1 luxadaza.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1978391/
+127.0.0.1 host-89-110-89-15.hosted-by-vdsina.ru #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1978387/
+127.0.0.1 dantasfarkat.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1978381/
+127.0.0.1 f.abad777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978376/
+127.0.0.1 vtivcdc.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1978366/
+127.0.0.1 uberdox.aishdas.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1978193/
+127.0.0.1 sajapyly.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1978191/
+127.0.0.1 testes.graficca.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1978187/
+127.0.0.1 108.199.58.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1978181/
+127.0.0.1 o.a9bet.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/1978178/
+127.0.0.1 teakbasilica.org #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1978159/
 127.0.0.1 kaizentekacademy.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1978150/
 127.0.0.1 locandaskansen.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1978151/
 127.0.0.1 polymathconsultant.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1978152/
@@ -33465,4 +33480,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33466
+# Number of entries: 33481
