@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mgmcoffee.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1976749/
+127.0.0.1 jscdncloude.beer #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976746/
+127.0.0.1 vubyqi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976704/
+127.0.0.1 187-102-16-66.ghnet.com.br #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976702/
+127.0.0.1 vmi1489563.contaboserver.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/1976701/
 127.0.0.1 indigo-flicker-zephyr-truior.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976666/
 127.0.0.1 naamtravel.com.sg #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1976663/
 127.0.0.1 holistixwellness.co.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1976661/
@@ -33588,4 +33593,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33589
+# Number of entries: 33594
