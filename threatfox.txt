@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 leap19.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2021756/
+127.0.0.1 deltaoutline8.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2021753/
+127.0.0.1 providencefarmltd.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2021752/
+127.0.0.1 cl.amor76.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2021742/
+127.0.0.1 prodavnica.vraneskadolina.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2021695/
+127.0.0.1 www.somalicomputer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2021694/
+127.0.0.1 d67-193-172-159.home3.cgocable.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2021693/
+127.0.0.1 b1sqrl0e.audi-zen.fit #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2021692/
 127.0.0.1 audi-zen.fit #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2021691/
 127.0.0.1 purplekaren.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2021681/
 127.0.0.1 y.dax96.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2021679/
@@ -30043,4 +30051,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 30044
+# Number of entries: 30052
