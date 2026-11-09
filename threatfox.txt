@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 tigerknight-xyst.xyz #botnet_cc https://threatfox.abuse.ch/ioc/2022237/
+127.0.0.1 collector.iad.agenttru.st #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022227/
+127.0.0.1 w7hmlnobuv.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022224/
+127.0.0.1 g.dax96.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022221/
+127.0.0.1 ir.amoy323.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022222/
+127.0.0.1 revotekitsolutions.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022219/
+127.0.0.1 eivirtz4.beecliffpress.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022208/
+127.0.0.1 beecliffpress.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022201/
 127.0.0.1 u0.amoy323.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022198/
 127.0.0.1 dequjomi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022193/
 127.0.0.1 goonbus.pt #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022183/
@@ -30148,4 +30156,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 30149
+# Number of entries: 30157
