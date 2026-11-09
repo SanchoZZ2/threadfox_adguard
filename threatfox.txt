@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 bebeloofficial.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2022121/
+127.0.0.1 xk.akuntoti.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022120/
+127.0.0.1 170.152.185.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022119/
+127.0.0.1 friendsgrove.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2022117/
+127.0.0.1 prolitobobitovan.fun #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2022116/
+127.0.0.1 sd.amoy323.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022115/
+127.0.0.1 fmvz6hv3c2.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022114/
+127.0.0.1 briarfenland.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/2022108/
+127.0.0.1 fernholtton.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/2022109/
+127.0.0.1 graywickton.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/2022110/
+127.0.0.1 heathmoorston.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/2022111/
+127.0.0.1 hollowmereley.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/2022112/
+127.0.0.1 mottledellham.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/2022113/
+127.0.0.1 gof77.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022105/
+127.0.0.1 myx24.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022106/
+127.0.0.1 prime3.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022089/
+127.0.0.1 keyw0rd.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022090/
+127.0.0.1 afforabl3.com #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022091/
+127.0.0.1 flow19.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022085/
+127.0.0.1 jump77.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022086/
+127.0.0.1 key5.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022087/
+127.0.0.1 next222.click #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/2022088/
 127.0.0.1 qtztcqie.backhomeagaincafe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022082/
 127.0.0.1 backhomeagaincafe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022081/
 127.0.0.1 farmaciamicenas.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022075/
@@ -3066,6 +3088,7 @@
 127.0.0.1 yo88v.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005624/
 127.0.0.1 zowin.exposed #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005630/
 127.0.0.1 saharaquads.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005570/
+127.0.0.1 newtampapet.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005529/
 127.0.0.1 hoffmanclub.ru #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005488/
 127.0.0.1 iwin.immo #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005498/
 127.0.0.1 kim99.top #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005506/
@@ -30095,4 +30118,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 30096
+# Number of entries: 30119
