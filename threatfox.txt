@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 qtztcqie.backhomeagaincafe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022082/
+127.0.0.1 backhomeagaincafe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022081/
+127.0.0.1 farmaciamicenas.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022075/
+127.0.0.1 alerton.360elevate.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022076/
+127.0.0.1 li.amoy323.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022072/
+127.0.0.1 amoy323.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022073/
+127.0.0.1 federalsiobhan.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022071/
+127.0.0.1 jucaniqu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022070/
+127.0.0.1 chikaaaaa1.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/2022055/
 127.0.0.1 xwarmert.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/2022052/
 127.0.0.1 59.85.195.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022051/
 127.0.0.1 uo6nlrth.buckaroosandbones.shop #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022048/
@@ -4632,6 +4641,7 @@
 127.0.0.1 facturacionlapaca.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979502/
 127.0.0.1 frank-psy.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979503/
 127.0.0.1 fusseltuning.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979504/
+127.0.0.1 auditair.com.co #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979473/
 127.0.0.1 autodesign-marinkovic.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979474/
 127.0.0.1 avianrescuecorp.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979475/
 127.0.0.1 axoniki.gr #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979476/
@@ -4651,7 +4661,6 @@
 127.0.0.1 artofsen.sk #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979470/
 127.0.0.1 ascaprints.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979471/
 127.0.0.1 aspenhotelistanbul.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979472/
-127.0.0.1 auditair.com.co #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979473/
 127.0.0.1 29meadowoodln.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979452/
 127.0.0.1 3machados.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979453/
 127.0.0.1 8bitwarrior.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979454/
@@ -21084,6 +21093,7 @@
 127.0.0.1 xlyvz7lr.motuntakhasosi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833349/
 127.0.0.1 m7nohnc7.modiriyatnikbakht.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833348/
 127.0.0.1 jfxdrqqn.maharatmodiran.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833347/
+127.0.0.1 htxvanthanhphat.vn #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833193/
 127.0.0.1 ayamprestonyonyalina.com #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1833106/
 127.0.0.1 gzipfktz.mabanishimi.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833084/
 127.0.0.1 vslaa.melbetkade.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1833083/
@@ -30085,4 +30095,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 30086
+# Number of entries: 30096
