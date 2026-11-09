@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 u0.amoy323.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022198/
+127.0.0.1 dequjomi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022193/
+127.0.0.1 goonbus.pt #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022183/
+127.0.0.1 eared.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022182/
 127.0.0.1 msnbot-40-77-167-4.search.msn.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022175/
 127.0.0.1 sih81hf3.camatrix.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022174/
 127.0.0.1 camatrix.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022173/
@@ -30144,4 +30148,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 30145
+# Number of entries: 30149
