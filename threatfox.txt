@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 clientservices118.cozyloft.cc #payload_delivery https://threatfox.abuse.ch/ioc/2023016/
+127.0.0.1 www.rr88vipa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/2023013/
+127.0.0.1 c2.rr88vipa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/2023014/
+127.0.0.1 backdoor.rr88vipa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/2023015/
+127.0.0.1 rr88vipa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/2023012/
+127.0.0.1 smashroomcity.com.au #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2023010/
+127.0.0.1 tj.akuntoti.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023007/
+127.0.0.1 rq.anakraja87.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023006/
+127.0.0.1 kiqyhata.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023005/
+127.0.0.1 soporte5.jlmarketing.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023000/
 127.0.0.1 ybkms92144.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022996/
 127.0.0.1 h.dewa2.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022994/
 127.0.0.1 nl.anakraja87.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022995/
@@ -29205,4 +29215,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29206
+# Number of entries: 29216
