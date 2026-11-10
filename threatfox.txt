@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ukppolonia.pl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2022499/
+127.0.0.1 lm23tnez.egydes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022498/
+127.0.0.1 egydes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022497/
+127.0.0.1 a.dewa2.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022494/
+127.0.0.1 dewa2.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022495/
+127.0.0.1 s.amper888.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022496/
+127.0.0.1 qalaatalnahreen.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022492/
+127.0.0.1 www.malo-coaching.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022493/
+127.0.0.1 xtremexperience.rwcreativestudio.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2022450/
 127.0.0.1 artikel.glorise.id #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/2022449/
 127.0.0.1 sipyma.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022448/
 127.0.0.1 6llgnbbe.fun4pic.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022447/
@@ -29076,4 +29085,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29077
+# Number of entries: 29086
