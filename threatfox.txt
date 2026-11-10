@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 clientservices63.cozyloft.cc #payload_delivery https://threatfox.abuse.ch/ioc/2023287/
+127.0.0.1 holepticglovec.com #payload_delivery https://threatfox.abuse.ch/ioc/2023286/
+127.0.0.1 111-255-212-206.dynamic-ip.hinet.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023285/
+127.0.0.1 k9.andaltoto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023284/
+127.0.0.1 qid1bvvr64.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023265/
+127.0.0.1 zzkuntai.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2023264/
 127.0.0.1 scarletcathrine.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023263/
 127.0.0.1 nxdke73805.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023262/
 127.0.0.1 wocuzy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023261/
@@ -29237,4 +29243,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29238
+# Number of entries: 29244
