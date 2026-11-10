@@ -1,4 +1,19 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vmi3740367.contaboserver.net #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2023382/
+127.0.0.1 vmi3740354.contaboserver.net #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2023383/
+127.0.0.1 dugwd.cc #botnet_cc, win.spark_rat, SparkRAT https://threatfox.abuse.ch/ioc/2023379/
+127.0.0.1 ki.ichwjnc.com #botnet_cc, win.spark_rat, SparkRAT https://threatfox.abuse.ch/ioc/2023380/
+127.0.0.1 asiancon.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2023328/
+127.0.0.1 kerotilex.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/2023378/
+127.0.0.1 vps-c0d891ff.vps.ovh.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023377/
+127.0.0.1 deshbanglabd.tv #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2023376/
+127.0.0.1 dialogstrategy.com.br #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2023375/
+127.0.0.1 daithangfood.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023373/
+127.0.0.1 carpetcleaningmedford.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023374/
+127.0.0.1 bg.andaltoto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023372/
+127.0.0.1 rejos53752.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023370/
+127.0.0.1 delhidda.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023369/
+127.0.0.1 www.chioscochiringuito.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023368/
 127.0.0.1 wire-pixel.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2023341/
 127.0.0.1 nimbus-90.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2023338/
 127.0.0.1 vrzy0gxr.familymeal.restaurant #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023337/
@@ -3583,6 +3598,7 @@
 127.0.0.1 mkbaldwin.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984056/
 127.0.0.1 myoshc.net.au #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984052/
 127.0.0.1 pat.styk.tv #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984040/
+127.0.0.1 airbedcomparisons.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1984002/
 127.0.0.1 cvetox.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1983942/
 127.0.0.1 fashionoutlet.it #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1983943/
 127.0.0.1 9c9yctp3.energedia.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983940/
@@ -29271,4 +29287,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29272
+# Number of entries: 29288
