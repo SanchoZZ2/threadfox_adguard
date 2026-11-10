@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 0899gsml.fwdtheatre.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022910/
+127.0.0.1 fwdtheatre.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022909/
+127.0.0.1 hk.anakraja87.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022907/
+127.0.0.1 anakraja87.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022908/
 127.0.0.1 gheghe.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/2022883/
 127.0.0.1 providerss.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2022884/
 127.0.0.1 wp.milanmenezes.me #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2022881/
@@ -29161,4 +29165,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29162
+# Number of entries: 29166
