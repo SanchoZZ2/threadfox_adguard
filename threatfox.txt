@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rz8whp3p.citafm1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022601/
+127.0.0.1 citafm1.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022600/
+127.0.0.1 v.ampluna.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022599/
+127.0.0.1 aybgdwrzza.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022554/
 127.0.0.1 77.19.38.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022553/
 127.0.0.1 rw.ampluna.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022551/
 127.0.0.1 ampluna.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022552/
@@ -29092,4 +29096,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29093
+# Number of entries: 29097
