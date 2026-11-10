@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gheghe.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/2022883/
+127.0.0.1 providerss.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2022884/
+127.0.0.1 wp.milanmenezes.me #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2022881/
+127.0.0.1 v.dewa2.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022879/
+127.0.0.1 ui.ampluna.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2022880/
+127.0.0.1 kijijichetu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022873/
+127.0.0.1 wafoja.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2022867/
+127.0.0.1 support.istudio.ng #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022862/
 127.0.0.1 brother.dynns.com #botnet_cc, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2022861/
 127.0.0.1 dve4us1d.coffeeshopcrawler.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022858/
 127.0.0.1 coffeeshopcrawler.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2022857/
@@ -29153,4 +29161,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29154
+# Number of entries: 29162
