@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 i.dewa2.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023042/
+127.0.0.1 asseload.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2023041/
+127.0.0.1 aatyg3a4.deocultismo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023040/
+127.0.0.1 deocultismo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023039/
+127.0.0.1 g.anakraja87.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023038/
+127.0.0.1 qljgm30215.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023037/
+127.0.0.1 technoseal.co #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023036/
 127.0.0.1 9rc1op44.geturoflow.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023031/
 127.0.0.1 geturoflow.app #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023030/
 127.0.0.1 8g129ptz4k.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023029/
@@ -29221,4 +29228,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29222
+# Number of entries: 29229
