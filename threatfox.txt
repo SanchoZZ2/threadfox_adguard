@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wire-pixel.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2023341/
+127.0.0.1 nimbus-90.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2023338/
+127.0.0.1 vrzy0gxr.familymeal.restaurant #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023337/
+127.0.0.1 ic.amav5d.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023335/
+127.0.0.1 uac.andaltoto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023336/
+127.0.0.1 familymeal.restaurant #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023332/
 127.0.0.1 0kezc3bqdy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023327/
 127.0.0.1 v.andaltoto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023324/
 127.0.0.1 8xbetpro.me #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023318/
@@ -2601,6 +2607,7 @@
 127.0.0.1 angelsmobilebar.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007237/
 127.0.0.1 anhngumsthanh.vn #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007238/
 127.0.0.1 apexproservices.com.pk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007239/
+127.0.0.1 arcoirisvirtual.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007160/
 127.0.0.1 quinzel.com.sg #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2007099/
 127.0.0.1 sync1.thriveforge.lat #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/2007097/
 127.0.0.1 realzz.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2007071/
@@ -29264,4 +29271,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29265
+# Number of entries: 29272
