@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 cleberson.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023597/
+127.0.0.1 www.colegiojeanpiaget.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023598/
+127.0.0.1 hosodiky.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2023595/
+127.0.0.1 galk6043.gundamaustralia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023594/
+127.0.0.1 d.dps69.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023592/
+127.0.0.1 v.andora188.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2023593/
+127.0.0.1 gundamaustralia.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023591/
 127.0.0.1 bookdekho.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023576/
 127.0.0.1 buluanato.eu #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023574/
 127.0.0.1 castech-mx.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2023570/
@@ -3454,6 +3461,7 @@
 127.0.0.1 liverupdate.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984937/
 127.0.0.1 t-trustrest.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1984936/
 127.0.0.1 rocksaltlight.tinyzoo.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984906/
+127.0.0.1 classdigital.com.br #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1984831/
 127.0.0.1 brightcaresolution.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1984625/
 127.0.0.1 brightravel.co.za #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1984626/
 127.0.0.1 brownstoneservicestx.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1984627/
@@ -29055,4 +29063,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 29056
+# Number of entries: 29064
