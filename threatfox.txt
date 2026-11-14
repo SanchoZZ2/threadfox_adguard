@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 2q942xck.rochi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028930/
+127.0.0.1 e.appel4d.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028704/
+127.0.0.1 www.olip-international.at #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028703/
 127.0.0.1 lygawuqu.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2028702/
 127.0.0.1 boost-19.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2028698/
 127.0.0.1 c.geng7.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028697/
@@ -12961,6 +12964,7 @@
 127.0.0.1 zlhmp377.burn-burnblend.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883431/
 127.0.0.1 zto37lic.blenzador.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883358/
 127.0.0.1 blenzador.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883357/
+127.0.0.1 cutaxyl.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1883261/
 127.0.0.1 a8ps09r7.easybatteryfixed.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883230/
 127.0.0.1 easybatteryfixed.us #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1883229/
 127.0.0.1 kestrelgable.top #botnet_cc, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/1883200/
@@ -31453,4 +31457,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31454
+# Number of entries: 31458
