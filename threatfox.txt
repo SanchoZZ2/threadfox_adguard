@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 wvat5jzlpr.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2028945/
+127.0.0.1 bo.appel4d.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028944/
+127.0.0.1 zo.apaljitu.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028943/
+127.0.0.1 hdrichmondstag.wpengine.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028936/
+127.0.0.1 wordpress-1226367-4631498.cloudwaysapps.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028937/
 127.0.0.1 2q942xck.rochi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028930/
 127.0.0.1 e.appel4d.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028704/
 127.0.0.1 www.olip-international.at #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028703/
@@ -31457,4 +31462,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31458
+# Number of entries: 31463
