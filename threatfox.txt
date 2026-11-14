@@ -1,4 +1,15 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 mystore-assets-wordpress.integrationsnetz.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2028684/
+127.0.0.1 microsoftoffice365.macrosoft.ch #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2028683/
+127.0.0.1 decapiwo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2028682/
+127.0.0.1 pcsofthub.cfd #payload_delivery, win.remus, Remus https://threatfox.abuse.ch/ioc/2028622/
+127.0.0.1 tz.5671234.xyz #botnet_cc https://threatfox.abuse.ch/ioc/2028664/
+127.0.0.1 h99.anka69.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028676/
+127.0.0.1 appel4d.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028675/
+127.0.0.1 jk.apaljitu.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028673/
+127.0.0.1 kc.appel4d.com #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028674/
+127.0.0.1 s7lgx4no.rochi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028670/
+127.0.0.1 172-238-204-199.ip.linodeusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2028666/
 127.0.0.1 rochi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028661/
 127.0.0.1 mutel.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028660/
 127.0.0.1 y.geng7.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028658/
@@ -31435,4 +31446,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31436
+# Number of entries: 31447
