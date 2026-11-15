@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 dralouise.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029546/
+127.0.0.1 archtivedesigns.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029544/
+127.0.0.1 bhhcare.ae #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029545/
+127.0.0.1 cozy-room.ru #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029541/
+127.0.0.1 cdcleaning.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029542/
+127.0.0.1 dublinsolar.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029543/
+127.0.0.1 nv.aprendizajeeslibertad.cl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029530/
+127.0.0.1 luxivybe.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2029527/
 127.0.0.1 w.gg018.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029523/
 127.0.0.1 inn.aprendizajeeslibertad.cl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029497/
 127.0.0.1 ometv.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029490/
@@ -31085,4 +31093,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31086
+# Number of entries: 31094
