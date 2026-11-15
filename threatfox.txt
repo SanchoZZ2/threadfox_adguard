@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 t4.aradi777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029862/
+127.0.0.1 alert.bakerypark51.wiki #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/2029853/
+127.0.0.1 hz0pdzsw.zayce.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029852/
+127.0.0.1 tasma.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029851/
 127.0.0.1 www.multiwijaya75.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029838/
 127.0.0.1 www.mahibloom.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029839/
 127.0.0.1 www.metiers-vins-spiritueux.fr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029840/
@@ -31366,4 +31370,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31367
+# Number of entries: 31371
