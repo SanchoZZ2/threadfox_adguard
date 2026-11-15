@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 celebrationoflifechapel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030485/
+127.0.0.1 canfrec.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030486/
+127.0.0.1 aladin138-id.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030471/
+127.0.0.1 aueh.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030470/
+127.0.0.1 angrezify.com.pk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030467/
+127.0.0.1 ynq.adg.mybluehost.me #payload_delivery https://threatfox.abuse.ch/ioc/2030468/
+127.0.0.1 alulinks.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030469/
+127.0.0.1 jl.apibet99.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030464/
+127.0.0.1 j4u.araytoto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030465/
+127.0.0.1 158.42.203.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2030461/
 127.0.0.1 texbo.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030459/
 127.0.0.1 www.victorycaseadvance.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030456/
 127.0.0.1 www.laresandlawconstruction.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030457/
@@ -6710,8 +6720,8 @@
 127.0.0.1 www.accessrxhealth.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982232/
 127.0.0.1 www-staging.winservice.it #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982231/
 127.0.0.1 wpdemo.iranhostdir.ir #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982209/
-127.0.0.1 p.2137gang.pl #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1982169/
 127.0.0.1 p.2137gang.st #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1982168/
+127.0.0.1 p.2137gang.pl #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1982169/
 127.0.0.1 p.2137gang.net #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1982170/
 127.0.0.1 p.2137gang.shop #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1982171/
 127.0.0.1 p.2137gang.store #botnet_cc, elf.redtail, RedTail https://threatfox.abuse.ch/ioc/1982172/
@@ -7871,6 +7881,9 @@
 127.0.0.1 g.obrn.cc #botnet_cc https://threatfox.abuse.ch/ioc/1967846/
 127.0.0.1 mini-kit.nashstuder.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1967847/
 127.0.0.1 internetmissouri.com #payload_delivery, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/1968024/
+127.0.0.1 archipelagos.nyc #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967892/
+127.0.0.1 asases.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967894/
+127.0.0.1 bakadirtour.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967901/
 127.0.0.1 chloesteph.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967825/
 127.0.0.1 x2sj7x7t.diorauction.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967695/
 127.0.0.1 zen-agent-oil-comic.xyz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1967689/
@@ -32237,4 +32250,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32238
+# Number of entries: 32251
