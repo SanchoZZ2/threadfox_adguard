@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 p.gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030684/
+127.0.0.1 gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030685/
+127.0.0.1 gug.anka69.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030680/
+127.0.0.1 fuchsiaprudi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2030679/
+127.0.0.1 nimipalo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2030675/
+127.0.0.1 wbjqs46442.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2030674/
+127.0.0.1 ie.arema39.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030673/
+127.0.0.1 hamararadio.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030672/
+127.0.0.1 udap.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030671/
 127.0.0.1 www.deluxvacations.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030667/
 127.0.0.1 www.firstnationconcrete.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030668/
 127.0.0.1 www.hermexpress.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030669/
@@ -7294,6 +7303,7 @@
 127.0.0.1 astp.africa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1977890/
 127.0.0.1 blanctestarossa.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1977848/
 127.0.0.1 syke-kasino.fi #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977764/
+127.0.0.1 genevahealing.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977504/
 127.0.0.1 epimdev.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977472/
 127.0.0.1 diyshedsandplans.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977449/
 127.0.0.1 bctechnol.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977366/
@@ -32342,4 +32352,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32343
+# Number of entries: 32353
