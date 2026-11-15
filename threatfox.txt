@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 czerninstrategies.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029480/
+127.0.0.1 xp.aprendizajeeslibertad.cl #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029478/
+127.0.0.1 www.pkf.co.in #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029477/
+127.0.0.1 www.rohabuilders.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029476/
+127.0.0.1 www.proaktiftumbuhsolusi.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029469/
+127.0.0.1 www.relan-eg.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029470/
+127.0.0.1 www.sohbetozel.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029468/
 127.0.0.1 gbtz1zfg7p.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2029464/
 127.0.0.1 www.redlinedivision.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029461/
 127.0.0.1 www.medtacglobal.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029462/
@@ -31075,4 +31082,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31076
+# Number of entries: 31083
