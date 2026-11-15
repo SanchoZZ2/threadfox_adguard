@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kasogomo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2029005/
+127.0.0.1 o.geng7.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029003/
+127.0.0.1 f.apaljitu.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029001/
+127.0.0.1 ty.appel88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029002/
+127.0.0.1 c911rjp1.ruhus.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029000/
+127.0.0.1 cad-kon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028994/
 127.0.0.1 nunza.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2028993/
 127.0.0.1 c6.appel88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2028992/
 127.0.0.1 webrtwtre22.cc #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2028989/
@@ -31473,4 +31479,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31474
+# Number of entries: 31480
