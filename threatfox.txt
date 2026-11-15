@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 fahr-sulz.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029616/
+127.0.0.1 o2.aradi777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029614/
+127.0.0.1 aradi777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2029615/
 127.0.0.1 static.wanderreef37.wiki #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/2029607/
 127.0.0.1 osira.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029606/
 127.0.0.1 www.gsrunners.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2029605/
@@ -31143,4 +31146,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31144
+# Number of entries: 31147
