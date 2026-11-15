@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 elenacontidesign.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030413/
+127.0.0.1 nakatomi-research.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030414/
+127.0.0.1 reevenement.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030415/
+127.0.0.1 soyzarate.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030416/
+127.0.0.1 www.inspireddecks.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030417/
+127.0.0.1 www.slaapstudiojouwrust.nl #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030418/
+127.0.0.1 maytanky.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030374/
+127.0.0.1 wp.araytoto.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030373/
+127.0.0.1 thesigncore.com.au #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030368/
 127.0.0.1 selenitehammam.info #payload_delivery, js.smartapesg, HANEYMANEY, ZPHP https://threatfox.abuse.ch/ioc/2030361/
 127.0.0.1 www.first-frankfurt.de #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030343/
 127.0.0.1 www.fratellifoschiani.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2030344/
@@ -32215,4 +32224,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32216
+# Number of entries: 32225
