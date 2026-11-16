@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ineditas.top #botnet_cc https://threatfox.abuse.ch/ioc/2031379/
+127.0.0.1 mng.digafertiliser.com #botnet_cc, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/2031642/
+127.0.0.1 s7.apigacor77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031638/
+127.0.0.1 bx.arenapildun.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031639/
+127.0.0.1 arenapildun.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031640/
+127.0.0.1 pttec.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031633/
+127.0.0.1 www.lacan.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031634/
 127.0.0.1 z.gki4d.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031377/
 127.0.0.1 gki4d.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031378/
 127.0.0.1 myjazfov.sishi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031376/
@@ -6776,6 +6783,7 @@
 127.0.0.1 www.renataprates.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982620/
 127.0.0.1 www.rochaemucholowski.adv.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982618/
 127.0.0.1 www.rateon.co.uk.lubcononline.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982609/
+127.0.0.1 www.salon-new.ru #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982607/
 127.0.0.1 www.riccardogiovannipatriarca.it #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982602/
 127.0.0.1 www.pyjs.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982594/
 127.0.0.1 www.ptip.us #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982592/
@@ -32339,4 +32347,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32340
+# Number of entries: 32348
