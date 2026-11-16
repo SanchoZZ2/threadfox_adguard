@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vq8m3920.zalfa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031188/
+127.0.0.1 aniyara.icu #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031187/
+127.0.0.1 xcbdrixzll001.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2031186/
+127.0.0.1 s.gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031184/
+127.0.0.1 st.arena003.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031185/
+127.0.0.1 famac.cl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031179/
+127.0.0.1 www.elolivarspa.cl #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031180/
+127.0.0.1 trun.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031163/
 127.0.0.1 tizaca.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2031161/
 127.0.0.1 fileagreement.cfd #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2031158/
 127.0.0.1 saofera6lakog0.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/2031155/
@@ -32273,4 +32281,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32274
+# Number of entries: 32282
