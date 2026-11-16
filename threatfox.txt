@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vancez.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031008/
+127.0.0.1 m12pl989.yanok.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031007/
+127.0.0.1 m5.arena003.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031006/
+127.0.0.1 vmi3534777.contaboserver.net #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2031005/
 127.0.0.1 jzfer95304.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2030996/
 127.0.0.1 jfn.apibet99.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030989/
 127.0.0.1 dx.arena003.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030990/
@@ -32199,4 +32203,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32200
+# Number of entries: 32204
