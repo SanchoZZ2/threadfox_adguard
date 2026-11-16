@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 obsidianpickaxe.com #botnet_cc, win.nightshade_c2, CastleRAT, NightshadeC2 https://threatfox.abuse.ch/ioc/2031214/
+127.0.0.1 guild.hopto.me #botnet_cc, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2031189/
+127.0.0.1 asniqdkw.com #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2031191/
+127.0.0.1 bsadbnqwic.com #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2031192/
+127.0.0.1 u7.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031212/
+127.0.0.1 arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031213/
 127.0.0.1 vq8m3920.zalfa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031188/
 127.0.0.1 aniyara.icu #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031187/
 127.0.0.1 xcbdrixzll001.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2031186/
@@ -32281,4 +32287,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32282
+# Number of entries: 32288
