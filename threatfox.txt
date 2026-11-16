@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gwfshj13.zodi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030705/
+127.0.0.1 hkhbt93799.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2030697/
+127.0.0.1 re.arema39.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030696/
+127.0.0.1 stikpantekulu.ac.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2030695/
 127.0.0.1 v.gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030691/
 127.0.0.1 kl.apibet99.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030689/
 127.0.0.1 d1.arema39.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030690/
@@ -10219,6 +10223,7 @@
 127.0.0.1 ns1.kcsc.tf #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1939013/
 127.0.0.1 ns2.kcsc.tf #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1939014/
 127.0.0.1 hw7qps35.luxerabet1068.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1938994/
+127.0.0.1 internetandcableservicesatgadget.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1938978/
 127.0.0.1 xingyaotec.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1938992/
 127.0.0.1 s1m5xdj6.edebiyatkonulari.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1938962/
 127.0.0.1 edebiyatkonulari.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1938960/
@@ -32356,4 +32361,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32357
+# Number of entries: 32362
