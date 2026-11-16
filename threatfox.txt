@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ridercheer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031229/
+127.0.0.1 iv.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031227/
 127.0.0.1 obsidianpickaxe.com #botnet_cc, win.nightshade_c2, CastleRAT, NightshadeC2 https://threatfox.abuse.ch/ioc/2031214/
 127.0.0.1 guild.hopto.me #botnet_cc, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2031189/
 127.0.0.1 asniqdkw.com #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2031191/
@@ -4256,6 +4258,7 @@
 127.0.0.1 famousfansindustries.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2019483/
 127.0.0.1 dunlinsurveys.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2019475/
 127.0.0.1 elitebinary.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2019474/
+127.0.0.1 sickfat.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2019461/
 127.0.0.1 lepafonso.bz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2019439/
 127.0.0.1 azsabr.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2019429/
 127.0.0.1 k.dak69.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2019421/
@@ -32287,4 +32290,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32288
+# Number of entries: 32291
