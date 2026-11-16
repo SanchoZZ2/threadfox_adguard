@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 z.gki4d.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031377/
+127.0.0.1 gki4d.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031378/
+127.0.0.1 myjazfov.sishi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031376/
+127.0.0.1 sishi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031375/
+127.0.0.1 mq.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031328/
+127.0.0.1 geotekstil.com.ua #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031314/
+127.0.0.1 neppe92157.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2031313/
+127.0.0.1 cdn.cloudfront-assets.online #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/2031312/
 127.0.0.1 kingnet1.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/2031295/
 127.0.0.1 ulb18ixh.zayce.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031290/
 127.0.0.1 aj.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031289/
@@ -32331,4 +32339,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32332
+# Number of entries: 32340
