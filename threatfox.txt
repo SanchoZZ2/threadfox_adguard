@@ -1,4 +1,17 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kingnet1.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/2031295/
+127.0.0.1 ulb18ixh.zayce.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031290/
+127.0.0.1 aj.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031289/
+127.0.0.1 hyuhyuyhy.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031284/
+127.0.0.1 a00e2eok.sanbo.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031283/
+127.0.0.1 womenscollegekolkata.in #payload_delivery https://threatfox.abuse.ch/ioc/2031272/
+127.0.0.1 kafluzglobal.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031276/
+127.0.0.1 fxtincan.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031277/
+127.0.0.1 www.dinao.store #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031278/
+127.0.0.1 www.cartogram.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031279/
+127.0.0.1 uppjampea.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2031280/
+127.0.0.1 9e5nx7qm.sidar.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031282/
+127.0.0.1 update.lux-lingua.tech #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031281/
 127.0.0.1 z0.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031271/
 127.0.0.1 robotikboya.com.tr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031270/
 127.0.0.1 status.reido.in #payload_delivery https://threatfox.abuse.ch/ioc/2031267/
@@ -6829,6 +6842,7 @@
 127.0.0.1 drmbehqw.bociljepe.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1982178/
 127.0.0.1 rice.cartinonailspigeonforge.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1982164/
 127.0.0.1 bociljepe.info #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1982163/
+127.0.0.1 virtualtourpro.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982145/
 127.0.0.1 vigiafiscal.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982135/
 127.0.0.1 vigaforte.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982131/
 127.0.0.1 vidinesdurys.lt #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1982127/
@@ -32317,4 +32331,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32318
+# Number of entries: 32332
