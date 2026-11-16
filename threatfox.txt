@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 pearcleaner.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2031265/
+127.0.0.1 fernandoac.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2031264/
+127.0.0.1 m.gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031263/
+127.0.0.1 sidar.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031262/
+127.0.0.1 vivea.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031261/
+127.0.0.1 bz.apigacor77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031258/
+127.0.0.1 apigacor77.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031259/
+127.0.0.1 p6a.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031260/
+127.0.0.1 www.embalafacil.es #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031257/
 127.0.0.1 ridercheer.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031229/
 127.0.0.1 iv.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031227/
 127.0.0.1 obsidianpickaxe.com #botnet_cc, win.nightshade_c2, CastleRAT, NightshadeC2 https://threatfox.abuse.ch/ioc/2031214/
@@ -32290,4 +32299,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32291
+# Number of entries: 32300
