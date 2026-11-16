@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 weedstealer.xyz #payload_delivery https://threatfox.abuse.ch/ioc/2030982/
+127.0.0.1 t8y.arema39.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030981/
+127.0.0.1 r.gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2030980/
 127.0.0.1 weedstealer.xyz #botnet_cc https://threatfox.abuse.ch/ioc/2030773/
 127.0.0.1 steamconnectserver.cc #botnet_cc https://threatfox.abuse.ch/ioc/2030772/
 127.0.0.1 microsoftgeo.com #botnet_cc https://threatfox.abuse.ch/ioc/2030771/
@@ -30444,6 +30447,7 @@
 127.0.0.1 lastore7kajp3.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1804678/
 127.0.0.1 gapo.rako9jabus1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1804674/
 127.0.0.1 firewai.biz #botnet_cc, win.remus, Remus https://threatfox.abuse.ch/ioc/1804643/
+127.0.0.1 churchillsthonglor.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1804229/
 127.0.0.1 quej77v5.acce1eratpacify.digital #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1803741/
 127.0.0.1 secure-server.sbs #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1803685/
 127.0.0.1 update.cdn-update.workers.dev #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1803686/
@@ -32191,4 +32195,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32192
+# Number of entries: 32196
