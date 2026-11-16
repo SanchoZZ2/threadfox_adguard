@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 z0.arena213.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031271/
+127.0.0.1 robotikboya.com.tr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2031270/
+127.0.0.1 status.reido.in #payload_delivery https://threatfox.abuse.ch/ioc/2031267/
+127.0.0.1 vvnza25033.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2031266/
 127.0.0.1 pearcleaner.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2031265/
 127.0.0.1 fernandoac.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2031264/
 127.0.0.1 m.gg180.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2031263/
@@ -4772,6 +4776,7 @@
 127.0.0.1 sun.gady-gady.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2014647/
 127.0.0.1 ruby.gady-gady.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2014648/
 127.0.0.1 teal.gady-gady.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2014649/
+127.0.0.1 tudiencongnghiep.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2014637/
 127.0.0.1 alzizinternational.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2014589/
 127.0.0.1 astroblendindia.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2014590/
 127.0.0.1 brainclinic.com.br #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2014592/
@@ -5487,6 +5492,8 @@
 127.0.0.1 trilochansubedi.com.np #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2008068/
 127.0.0.1 c.bok13.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2008019/
 127.0.0.1 ev.afterbet88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2008015/
+127.0.0.1 www.fondazioneoav.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007931/
+127.0.0.1 uniprolings.ru #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007915/
 127.0.0.1 palerospm.gr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007860/
 127.0.0.1 lamisandhanna.net #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007830/
 127.0.0.1 coris-asset.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2007762/
@@ -5648,6 +5655,7 @@
 127.0.0.1 salsabilaschool.sch.id #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2005643/
 127.0.0.1 j1uz3zee.bonolo.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2005641/
 127.0.0.1 newtampapet.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005529/
+127.0.0.1 divyaplasticindustries.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2005445/
 127.0.0.1 saidbelmir.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2005322/
 127.0.0.1 unigovn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2005310/
 127.0.0.1 qqe7snob.bossbeybrk.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2005308/
@@ -9683,6 +9691,8 @@
 127.0.0.1 quill-soaor-xhsw9.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945670/
 127.0.0.1 velvetreoskslaon.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945671/
 127.0.0.1 f113c084.wignalllindor.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945622/
+127.0.0.1 wetrainsimulation.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945621/
+127.0.0.1 www.kampaiima.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945614/
 127.0.0.1 0n1d6w64.wignalllindor.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945534/
 127.0.0.1 wignalllindor.wiki #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945533/
 127.0.0.1 serrarea.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1945532/
@@ -10306,6 +10316,7 @@
 127.0.0.1 russetmoor.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1934694/
 127.0.0.1 apricotrun.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1934695/
 127.0.0.1 quiverlake.cc #botnet_cc, win.acr_stealer, ACR Stealer https://threatfox.abuse.ch/ioc/1934696/
+127.0.0.1 wholefamilieshome.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1934673/
 127.0.0.1 mogi.com.ng #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1934655/
 127.0.0.1 s0y9huzr.ravanshenasibartar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934616/
 127.0.0.1 ravanshenasibartar.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1934615/
@@ -11394,6 +11405,7 @@
 127.0.0.1 updates.rootwave.cc #botnet_cc, win.animate_clipper, AnimateClipper https://threatfox.abuse.ch/ioc/1921088/
 127.0.0.1 stream.echovale.cc #botnet_cc, win.animate_clipper, AnimateClipper https://threatfox.abuse.ch/ioc/1921087/
 127.0.0.1 www.lambayecano.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1921039/
+127.0.0.1 geneparks.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1921008/
 127.0.0.1 speedpi12321.xyz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920988/
 127.0.0.1 trombler312.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920989/
 127.0.0.1 viorsoonlucid.life #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1920990/
@@ -12253,6 +12265,7 @@
 127.0.0.1 861rhd3p.gharoga.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905376/
 127.0.0.1 jndlj3g6.us-thetrumptoken.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905310/
 127.0.0.1 ho5k07c2.web-enerflow.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1905309/
+127.0.0.1 ihet.ens.tn #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1904203/
 127.0.0.1 9ycgpww9.composition-fleurs-et-plumes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904127/
 127.0.0.1 soduncdn.com #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/1904006/
 127.0.0.1 composition-fleurs-et-plumes.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1904126/
@@ -12388,6 +12401,7 @@
 127.0.0.1 6ue3vviv.usen-flashburn.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1902930/
 127.0.0.1 chroniclestick.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902582/
 127.0.0.1 carbon-critical.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902535/
+127.0.0.1 bybusiness.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902518/
 127.0.0.1 bethelbiblechapel.org #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902453/
 127.0.0.1 bharathnewstv.in #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902458/
 127.0.0.1 bagagliculinari.it #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1902418/
@@ -16870,6 +16884,7 @@
 127.0.0.1 setup.waveboard.one #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/1865973/
 127.0.0.1 sepolia.gateway.tenderly.co #botnet_cc https://threatfox.abuse.ch/ioc/1865131/
 127.0.0.1 donovanna.com #payload_delivery https://threatfox.abuse.ch/ioc/1865132/
+127.0.0.1 www.visualizerstudio.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1865248/
 127.0.0.1 cfqgojh.bulan77login.id #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1865146/
 127.0.0.1 bmoplt.allurenailbarmonroe.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1865137/
 127.0.0.1 qpcytsl.browhutsalon.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1865136/
@@ -17181,6 +17196,8 @@
 127.0.0.1 wifewithabudget.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863323/
 127.0.0.1 ydmtrvn.zagspizzamenu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863317/
 127.0.0.1 zagspizzamenu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1863316/
+127.0.0.1 www.residences-anna.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863258/
+127.0.0.1 website-wizard.de #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863170/
 127.0.0.1 simelicuir.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1863079/
 127.0.0.1 orionplus.biz #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862993/
 127.0.0.1 jacmedicalgt.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1862890/
@@ -23762,6 +23779,7 @@
 127.0.0.1 betmegapari.net #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835344/
 127.0.0.1 uqz8xcw9.gamebc.bet #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1835341/
 127.0.0.1 www.septondespositives.com #payload_delivery, win.remus, Remus https://threatfox.abuse.ch/ioc/1835320/
+127.0.0.1 www.hlsre.com #payload_delivery, win.remus, Remus https://threatfox.abuse.ch/ioc/1835300/
 127.0.0.1 cookinamos.es #payload_delivery, win.remus, Remus https://threatfox.abuse.ch/ioc/1835066/
 127.0.0.1 freesoftupdater.com #botnet_cc https://threatfox.abuse.ch/ioc/1834981/
 127.0.0.1 invokeupdate.com #botnet_cc https://threatfox.abuse.ch/ioc/1834982/
@@ -32299,4 +32317,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32300
+# Number of entries: 32318
