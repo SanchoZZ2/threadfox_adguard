@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 d.gl111.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2032521/
+127.0.0.1 gl111.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2032522/
+127.0.0.1 uv.aretabetlink.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2032523/
+127.0.0.1 marineclaude.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2032520/
 127.0.0.1 pm55.bounceme.net #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2032481/
 127.0.0.1 ondemandpharma.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2032477/
 127.0.0.1 www.frescofiore.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2032478/
@@ -33457,4 +33461,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33458
+# Number of entries: 33462
