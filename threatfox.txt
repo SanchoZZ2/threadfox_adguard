@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 g.gp108.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034908/
+127.0.0.1 cf.asastogel.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034909/
+127.0.0.1 gujyqylo.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2034903/
+127.0.0.1 www.bytecraftid.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2034902/
 127.0.0.1 www.braddugdalejr.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2034901/
 127.0.0.1 lifeofarebel.com #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/2034898/
 127.0.0.1 laperoter.rest #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/2034899/
@@ -33584,4 +33588,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33585
+# Number of entries: 33589
