@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 o.gp108.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035276/
+127.0.0.1 i5.ankasanet4drtp.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035250/
+127.0.0.1 gk.asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035251/
+127.0.0.1 habitixo.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035173/
+127.0.0.1 projecthomelessconnect.org #payload_delivery https://threatfox.abuse.ch/ioc/2034952/
+127.0.0.1 remoto.painelst.com #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/2034971/
+127.0.0.1 taguje.com.br #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/2034976/
+127.0.0.1 nota-fical-online.lat #payload_delivery, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/2034977/
 127.0.0.1 88ltmwh6m8.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2034970/
 127.0.0.1 tmf.asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034969/
 127.0.0.1 weedstealer.icu #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2034958/
@@ -33596,4 +33604,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33597
+# Number of entries: 33605
