@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 rc.asia608.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035680/
+127.0.0.1 asia608.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035681/
+127.0.0.1 90xfksds.americaspadel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035679/
+127.0.0.1 americaspadel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035677/
+127.0.0.1 tepepeja.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2035676/
 127.0.0.1 al08.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035669/
 127.0.0.1 r63o8kfc.ceomutual.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035667/
 127.0.0.1 ll.gp11.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035664/
@@ -8615,6 +8620,7 @@
 127.0.0.1 nova-49.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/1973005/
 127.0.0.1 socolive.cash #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972970/
 127.0.0.1 thegurubarber.com.au #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972980/
+127.0.0.1 lightmagazines.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972922/
 127.0.0.1 canhtienfarm.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972858/
 127.0.0.1 derma-care.uk #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972875/
 127.0.0.1 ajtscleaning.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1972832/
@@ -8955,6 +8961,7 @@
 127.0.0.1 unitsol.nl #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967965/
 127.0.0.1 aescenavientoymarea.es #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967888/
 127.0.0.1 archipelagos.nyc #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967892/
+127.0.0.1 ardenpeaksolutions.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967893/
 127.0.0.1 asases.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967894/
 127.0.0.1 bakadirtour.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967901/
 127.0.0.1 chefdanielepriori.it #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1967904/
@@ -33709,4 +33716,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33710
+# Number of entries: 33717
