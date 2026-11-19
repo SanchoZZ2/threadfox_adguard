@@ -1,4 +1,25 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 al06.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035632/
+127.0.0.1 postu.cloud #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035590/
+127.0.0.1 baseupdate2798.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035598/
+127.0.0.1 www.pawtage.com.au #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035607/
+127.0.0.1 www.elisirdelbenessere.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035608/
+127.0.0.1 www.fabriziobiagioli.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035609/
+127.0.0.1 www.chicagowushu.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035610/
+127.0.0.1 www.modeldent.it #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035613/
+127.0.0.1 www.ceenux.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035611/
+127.0.0.1 www.isecure-cctv.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035612/
+127.0.0.1 www.congecar2000.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035614/
+127.0.0.1 agwe.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035629/
+127.0.0.1 startupclaudemain.net #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035627/
+127.0.0.1 grokaiagenticattkexp.net #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035628/
+127.0.0.1 mamalamakiska.fun #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035626/
+127.0.0.1 adminbigprint.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035625/
+127.0.0.1 3iksoaw0.tpdistanbul.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035624/
+127.0.0.1 va.ankasanet4drtp.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035622/
+127.0.0.1 bcr.asia211.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035623/
+127.0.0.1 party-villa-balloons.pages.dev #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035617/
+127.0.0.1 julevoru.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2035615/
 127.0.0.1 c4q.asia211.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035604/
 127.0.0.1 161.7.108.136.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2035597/
 127.0.0.1 sp.asia211.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035596/
@@ -33680,4 +33701,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33681
+# Number of entries: 33702
