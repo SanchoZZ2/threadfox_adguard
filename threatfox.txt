@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 creatum.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2034643/
+127.0.0.1 121.22.233.35.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2034642/
+127.0.0.1 69.81.175.207.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2034641/
+127.0.0.1 x8.asas777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034640/
 127.0.0.1 cyanjustina.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2034637/
 127.0.0.1 meadow-facet.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2034633/
 127.0.0.1 q.goo55.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034627/
@@ -11755,9 +11759,27 @@
 127.0.0.1 storylingoo.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934131/
 127.0.0.1 sa888.bar #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934114/
 127.0.0.1 karachiprinter.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934060/
+127.0.0.1 saintpatricksanglicanchurch.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1934009/
 127.0.0.1 bet303iran.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1933940/
 127.0.0.1 zazathc.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933933/
+127.0.0.1 ww2.tdm-bg.org #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933923/
+127.0.0.1 wcyshopb.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933904/
+127.0.0.1 webdesignchamps.in #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933905/
 127.0.0.1 whisperingpinespups.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933910/
+127.0.0.1 vocacademyltd.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933892/
+127.0.0.1 vertisapremiumincek.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933880/
+127.0.0.1 vestirygroup.com.br #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933882/
+127.0.0.1 vieclambacninh24h.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933884/
+127.0.0.1 vantilenj.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933873/
+127.0.0.1 vavoomdesign.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933874/
+127.0.0.1 vectoriplaw.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933875/
+127.0.0.1 unnorte.digital #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933863/
+127.0.0.1 unscrewyourkids.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933864/
+127.0.0.1 tykhea.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933852/
+127.0.0.1 trippias.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933843/
+127.0.0.1 topbodytrainer.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933834/
+127.0.0.1 thenewparentplaybook.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933820/
+127.0.0.1 tharwatpress.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933809/
 127.0.0.1 orkids.in #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933619/
 127.0.0.1 narayanganjdairy.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1933578/
 127.0.0.1 sescominfo.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1933219/
@@ -34151,4 +34173,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 34152
+# Number of entries: 34174
