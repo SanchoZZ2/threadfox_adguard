@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 beliefridge.xyz #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2035540/
+127.0.0.1 kufazworld.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/2035539/
+127.0.0.1 foheko.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2035389/
+127.0.0.1 x.gp108.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035386/
+127.0.0.1 g.asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035387/
+127.0.0.1 www.nue-immobilien.de #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2035382/
+127.0.0.1 test.98web.eu.org #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/2035376/
 127.0.0.1 www.formulario.inpulsestore.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2035345/
 127.0.0.1 wk.asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035338/
 127.0.0.1 queue.restorefabric.work #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/2035278/
@@ -33635,4 +33642,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33636
+# Number of entries: 33643
