@@ -1,4 +1,12 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 al08.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035669/
+127.0.0.1 r63o8kfc.ceomutual.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035667/
+127.0.0.1 ll.gp11.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035664/
+127.0.0.1 gp11.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035665/
+127.0.0.1 aez.asia211.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035666/
+127.0.0.1 aziz-info.epizy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035661/
+127.0.0.1 www.chemspecsolutions.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035660/
+127.0.0.1 al07.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035659/
 127.0.0.1 al06.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035632/
 127.0.0.1 postu.cloud #payload_delivery, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035590/
 127.0.0.1 baseupdate2798.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035598/
@@ -33701,4 +33709,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33702
+# Number of entries: 33710
