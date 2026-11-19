@@ -1,4 +1,14 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 panelwp.net #botnet_cc https://threatfox.abuse.ch/ioc/2035578/
+127.0.0.1 83754ka9.ceoinsurancecorp.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035587/
+127.0.0.1 cj.asia211.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2035586/
+127.0.0.1 uidqaxan.libersity.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035585/
+127.0.0.1 d65vnso5.adeac.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035584/
+127.0.0.1 swiftwatch.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2035582/
+127.0.0.1 adeac.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035581/
+127.0.0.1 danmek.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2035576/
+127.0.0.1 9uu08koj.taksims.click #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035575/
+127.0.0.1 10city.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2035574/
 127.0.0.1 pitobi.ddns.net #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/2035567/
 127.0.0.1 perplexityauauai.net #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035560/
 127.0.0.1 geminoargotai.net #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2035559/
@@ -66,7 +76,6 @@
 127.0.0.1 every.trade4rex.com #botnet_cc https://threatfox.abuse.ch/ioc/2034749/
 127.0.0.1 relay.papuzziskreen.top #botnet_cc https://threatfox.abuse.ch/ioc/2034750/
 127.0.0.1 thetemplateslibrary.com #payload_delivery https://threatfox.abuse.ch/ioc/2034754/
-127.0.0.1 cm88.wales #botnet_cc, osx.3cx_backdoor, 3CX Backdoor https://threatfox.abuse.ch/ioc/2034871/
 127.0.0.1 www.tangentemotors.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2034872/
 127.0.0.1 rainiercompanies.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2034873/
 127.0.0.1 bot-vinted.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2034874/
@@ -32688,6 +32697,7 @@
 127.0.0.1 hrjob-forward-build.store #botnet_cc, apk.hook, Hook https://threatfox.abuse.ch/ioc/1635451/
 127.0.0.1 urs.org.vn #payload_delivery https://threatfox.abuse.ch/ioc/1633345/
 127.0.0.1 buildtoolsrvcore.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/1633293/
+127.0.0.1 brille.kozow.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1630857/
 127.0.0.1 gestcular.cfd #botnet_cc, win.hijackloader, DOILoader, GHOSTPULSE https://threatfox.abuse.ch/ioc/1628768/
 127.0.0.1 ns1.servicedata.services #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1628195/
 127.0.0.1 dhdjisksnsbhssu.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1628098/
@@ -33653,4 +33663,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33654
+# Number of entries: 33664
