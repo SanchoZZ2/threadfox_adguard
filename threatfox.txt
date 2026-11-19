@@ -1,4 +1,10 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 88ltmwh6m8.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2034970/
+127.0.0.1 tmf.asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034969/
+127.0.0.1 weedstealer.icu #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2034958/
+127.0.0.1 weedstealer.pl #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2034959/
+127.0.0.1 src.img-codes-cloude.info #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2034951/
+127.0.0.1 img-codes-cloude.info #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2034930/
 127.0.0.1 j8.asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034921/
 127.0.0.1 asdlot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034922/
 127.0.0.1 g.gp108.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2034908/
@@ -33590,4 +33596,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33591
+# Number of entries: 33597
