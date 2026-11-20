@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 abosdro-minimum.info #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/2036487/
+127.0.0.1 commercialogs.com #payload_delivery https://threatfox.abuse.ch/ioc/2036495/
 127.0.0.1 jacksons.mlbfan.org #botnet_cc, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2036485/
 127.0.0.1 vmi3767938.contaboserver.net #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2036482/
 127.0.0.1 vmi3767928.contaboserver.net #payload_delivery, win.grandoreiro, Grandoreiro https://threatfox.abuse.ch/ioc/2036483/
@@ -10396,7 +10398,6 @@
 127.0.0.1 ksplay88hoki.space #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945066/
 127.0.0.1 leitingvpn.space #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945067/
 127.0.0.1 litseaochre.life #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945068/
-127.0.0.1 loopatl.space #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945069/
 127.0.0.1 m4imi4w.space #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945070/
 127.0.0.1 meinepacks.live #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945071/
 127.0.0.1 metanoashopinsoutlook.space #botnet_cc, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1945073/
@@ -32966,4 +32967,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32967
+# Number of entries: 32968
