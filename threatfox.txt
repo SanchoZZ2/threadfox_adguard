@@ -1,4 +1,13 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kickzorggroep.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2036295/
+127.0.0.1 yellow-monkey.cfd #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036293/
+127.0.0.1 iq.asiabet303.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036179/
+127.0.0.1 asiabet303.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036180/
+127.0.0.1 dijitalpencere.com.tr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036172/
+127.0.0.1 www.doublexoxoproject2026duckdns.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2036170/
+127.0.0.1 www.doublexoxoproject2026duckdns1.com #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2036171/
+127.0.0.1 doublexoxoproject2026.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/2036169/
+127.0.0.1 0ln8r6lz.sidar.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036167/
 127.0.0.1 52s8sojv.zalfa.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036144/
 127.0.0.1 cihiqyhe.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2036143/
 127.0.0.1 meatronic.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036142/
@@ -7243,6 +7252,7 @@
 127.0.0.1 encompass-graphics.co.uk #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983550/
 127.0.0.1 www.grarg.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983547/
 127.0.0.1 clinicasenise.com.br #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983539/
+127.0.0.1 shavondezilva.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1983536/
 127.0.0.1 www.cloudespacios.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983297/
 127.0.0.1 www.neumaticosmarsili.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983294/
 127.0.0.1 www.kurbad-st-leonhard.de #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1983295/
@@ -32880,4 +32890,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32881
+# Number of entries: 32891
