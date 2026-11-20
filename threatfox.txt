@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 losuxufi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2036305/
+127.0.0.1 jx.asiabet303.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036302/
+127.0.0.1 muckduck.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/2036301/
+127.0.0.1 servicios778899.duckdns.org #botnet_cc https://threatfox.abuse.ch/ioc/2036298/
 127.0.0.1 kickzorggroep.nl #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2036295/
 127.0.0.1 yellow-monkey.cfd #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036293/
 127.0.0.1 iq.asiabet303.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036179/
@@ -6615,6 +6619,7 @@
 127.0.0.1 mub6hbsm.bixk.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2000765/
 127.0.0.1 ngofederation.in #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2000764/
 127.0.0.1 darrylphilip.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2000742/
+127.0.0.1 navasluna.es #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2000723/
 127.0.0.1 obrasyurbanismoim.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2000694/
 127.0.0.1 skating.kz #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/2000628/
 127.0.0.1 0dd93xws.bossbey20.click #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2000627/
@@ -7684,6 +7689,7 @@
 127.0.0.1 pantjoranteahouse.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1980427/
 127.0.0.1 gastric.mezmd.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980417/
 127.0.0.1 garciarico.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980334/
+127.0.0.1 fylabs.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980265/
 127.0.0.1 erpan.tonnels.me #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1980237/
 127.0.0.1 fundus.klicperovodivadlo.cz #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980226/
 127.0.0.1 fttec.co.uk #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980223/
@@ -32890,4 +32896,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32891
+# Number of entries: 32897
