@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 www.prasannatherapy.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036464/
+127.0.0.1 www.zbavseauta.cz #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036463/
+127.0.0.1 w.gpy88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036460/
+127.0.0.1 gpy88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036461/
+127.0.0.1 qj.asiabet303.net #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036462/
 127.0.0.1 ftp.brightlearning.com.my #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/2036436/
 127.0.0.1 ftp.hngandpartners.com #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/2036438/
 127.0.0.1 ftp.mukosin.cam #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/2036433/
@@ -31653,6 +31658,7 @@
 127.0.0.1 vps3000.kozow.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1754326/
 127.0.0.1 mimundofinanciero.online #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1754305/
 127.0.0.1 miloukempers.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1754298/
+127.0.0.1 mikeyandthemagicmedicine.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1754268/
 127.0.0.1 analyticshore.icu #payload_delivery https://threatfox.abuse.ch/ioc/1754120/
 127.0.0.1 metricspixel.live #payload_delivery https://threatfox.abuse.ch/ioc/1754165/
 127.0.0.1 pixelinsights.xyz #payload_delivery https://threatfox.abuse.ch/ioc/1754168/
@@ -32950,4 +32956,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32951
+# Number of entries: 32957
