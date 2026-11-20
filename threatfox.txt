@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 vcuvrehd.taksim-fil.click #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036591/
+127.0.0.1 dc55crk8.nowfromhome.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036590/
+127.0.0.1 rydyhobi.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2036579/
 127.0.0.1 sdhagreyr.cc #botnet_cc https://threatfox.abuse.ch/ioc/2036562/
 127.0.0.1 base-render.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2036556/
 127.0.0.1 havenleaf3.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2036555/
@@ -32999,4 +33002,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33000
+# Number of entries: 33003
