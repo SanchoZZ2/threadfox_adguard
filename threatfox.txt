@@ -7937,6 +7937,7 @@
 127.0.0.1 astp.africa.com #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1977890/
 127.0.0.1 blanctestarossa.us.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1977848/
 127.0.0.1 genevahealing.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977504/
+127.0.0.1 carsparkle.com.au #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1977401/
 127.0.0.1 taha121.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1977279/
 127.0.0.1 thangmaythienthanh.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1977284/
 127.0.0.1 omniroofing.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/1977240/
@@ -32998,4 +32999,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32999
+# Number of entries: 33000
