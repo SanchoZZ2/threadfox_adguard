@@ -1,4 +1,26 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 duckroad.net #botnet_cc, unknown_rat, Unknown RAT https://threatfox.abuse.ch/ioc/2036105/
+127.0.0.1 mallosis.gr #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036103/
+127.0.0.1 zhfa.zhwkr.co.uk #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2035668/
+127.0.0.1 mail.huynam.net #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/2035702/
+127.0.0.1 mail.danaeng.kz #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/2035703/
+127.0.0.1 www.exposition-lyon.fr #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035715/
+127.0.0.1 www.dayaquest.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035717/
+127.0.0.1 www.egypthologram.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2035718/
+127.0.0.1 cdn.876553.xyz #botnet_cc https://threatfox.abuse.ch/ioc/2035808/
+127.0.0.1 147816.us6.myftpupload.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2036076/
+127.0.0.1 rivuk.com #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/2036079/
+127.0.0.1 as6rion.wiki #botnet_cc, win.warden_stealer, WARDENStealer https://threatfox.abuse.ch/ioc/2036080/
+127.0.0.1 app.wavestock.one #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/2036084/
+127.0.0.1 docardebiary.blog #botnet_cc, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2036085/
+127.0.0.1 gatlex.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/2036086/
+127.0.0.1 m.17taya.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2036088/
+127.0.0.1 www.nutriliciousme.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036089/
+127.0.0.1 www.q-lingua.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036092/
+127.0.0.1 www.riaddarcouscous.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036093/
+127.0.0.1 www.riadbabyacout.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036094/
+127.0.0.1 r0.asdselot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036101/
+127.0.0.1 qr.asia689.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036102/
 127.0.0.1 fcdae25986.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2036090/
 127.0.0.1 bz.asia689.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036071/
 127.0.0.1 9f4akq5z.yanok.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036065/
@@ -32846,4 +32868,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32847
+# Number of entries: 32869
