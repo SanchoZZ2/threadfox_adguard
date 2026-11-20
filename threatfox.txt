@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 sdhagreyr.cc #botnet_cc https://threatfox.abuse.ch/ioc/2036562/
+127.0.0.1 base-render.com #botnet_cc, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2036556/
+127.0.0.1 havenleaf3.com #payload_delivery, osx.amos, Atomic macOS Stealer, AMOS https://threatfox.abuse.ch/ioc/2036555/
+127.0.0.1 x.gpy88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036550/
+127.0.0.1 tnvqz72643.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2036547/
 127.0.0.1 shizaahmedmakeup.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2036534/
 127.0.0.1 www.chefvoyage.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2036533/
 127.0.0.1 panchmukhiinfra.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2036535/
@@ -32993,4 +32998,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32994
+# Number of entries: 32999
