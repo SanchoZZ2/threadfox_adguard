@@ -1,4 +1,11 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 qlsjk94464.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2038626/
+127.0.0.1 grandivini.altervista.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038618/
+127.0.0.1 stexa.kerotilex.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/2038602/
+127.0.0.1 ddf8ckm4.movilidadacademica.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038601/
+127.0.0.1 stella.grihemiaziarirubiav.com #payload_delivery, js.fakeupdates, FakeUpdate, GhoLoader https://threatfox.abuse.ch/ioc/2038593/
+127.0.0.1 www.wandpllc.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038580/
+127.0.0.1 mail.afsanehansari.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038547/
 127.0.0.1 tawny-ridge-zoandgoaara.pro #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2038525/
 127.0.0.1 prescottpearson.com #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2038491/
 127.0.0.1 provanlocksolutions.co.uk #payload_delivery, unknown_loader, Unknown Loader https://threatfox.abuse.ch/ioc/2038492/
@@ -7111,6 +7118,7 @@
 127.0.0.1 tonicteaching.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984363/
 127.0.0.1 chicassalondebelleza.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984342/
 127.0.0.1 fourseasonsgarden.hu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984340/
+127.0.0.1 fat.ag #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984339/
 127.0.0.1 gmvision.be #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984329/
 127.0.0.1 ricardoavelar.com.br #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984323/
 127.0.0.1 whitehorseceilidhband.co.uk #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1984307/
@@ -32810,4 +32818,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32811
+# Number of entries: 32819
