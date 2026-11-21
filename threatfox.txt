@@ -1,4 +1,5 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 kudefy.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2037836/
 127.0.0.1 console.hazelcadence.website #botnet_cc, win.revstealer, RevStealer https://threatfox.abuse.ch/ioc/2037832/
 127.0.0.1 sandiegopartybusrentals.com #botnet_cc, osx.macsync, MacSync https://threatfox.abuse.ch/ioc/2037831/
 127.0.0.1 michiko.casacam.net #botnet_cc, win.lxbaserat, LxBase RAT https://threatfox.abuse.ch/ioc/2037818/
@@ -32582,4 +32583,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32583
+# Number of entries: 32584
