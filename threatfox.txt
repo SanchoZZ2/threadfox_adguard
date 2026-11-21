@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ariuc8vw.ceomutual.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038166/
+127.0.0.1 ceomutual.com.mx #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038165/
+127.0.0.1 2xxu139r.americaspadel.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038164/
+127.0.0.1 wc-doge.ddns.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/2038141/
+127.0.0.1 wc-vps.ddns.net #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/2038142/
 127.0.0.1 ec2-52-14-78-149.us-east-2.compute.amazonaws.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2037931/
 127.0.0.1 appropriateyellow.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2037922/
 127.0.0.1 107.10.76.34.bc.googleusercontent.com #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2037897/
@@ -31975,6 +31980,7 @@
 127.0.0.1 moneymaker.dynuddns.net #botnet_cc, win.asyncrat, AsyncRAT https://threatfox.abuse.ch/ioc/1158028/
 127.0.0.1 stopman.ooguy.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157137/
 127.0.0.1 manuel3.publicvm.com #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157092/
+127.0.0.1 wc-ltc.ddns.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1157028/
 127.0.0.1 4Mekey.myftp.biz #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/1156862/
 127.0.0.1 nov231122.con-ip.com #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1156181/
 127.0.0.1 csxv.sec.cm #botnet_cc, win.cobalt_strike, Agentemis, BEACON https://threatfox.abuse.ch/ioc/1155921/
@@ -32603,4 +32609,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32604
+# Number of entries: 32610
