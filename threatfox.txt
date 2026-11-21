@@ -1,4 +1,8 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 gokyzuro.workers.dev #payload_delivery, php.shin_webshell, php.shin_webshell https://threatfox.abuse.ch/ioc/2036667/
+127.0.0.1 hardener33.opik.net #botnet_cc, win.quasar_rat, CinaRAT, QuasarRAT https://threatfox.abuse.ch/ioc/2036666/
+127.0.0.1 j.gpy88.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036665/
+127.0.0.1 w.asiabet777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2036657/
 127.0.0.1 8w9hvvdk.zodi.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036643/
 127.0.0.1 d037tqeu.movilidadacademica.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036595/
 127.0.0.1 movilidadacademica.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036592/
@@ -7863,6 +7867,7 @@
 127.0.0.1 rising-vercel.vercel.app #payload_delivery, js.ottercandy, HardHatRAT, UNSEENMINK https://threatfox.abuse.ch/ioc/1978621/
 127.0.0.1 bloxstrap.top #botnet_cc, unknown_stealer, Unknown Stealer https://threatfox.abuse.ch/ioc/1978645/
 127.0.0.1 btacreative.net #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979192/
+127.0.0.1 bunaholic.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979175/
 127.0.0.1 book.mangozero.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979155/
 127.0.0.1 blog.kibotics.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979139/
 127.0.0.1 blog.jusun.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1979122/
@@ -33005,4 +33010,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 33006
+# Number of entries: 33011
