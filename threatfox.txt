@@ -1,4 +1,9 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 282929.xyz #botnet_cc https://threatfox.abuse.ch/ioc/2036803/
+127.0.0.1 suijker.biz #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/2036802/
+127.0.0.1 alarcoo.biz #payload_delivery, js.kongtuke, TAG-124, js.LandUpdate808 https://threatfox.abuse.ch/ioc/2036801/
+127.0.0.1 perfume-essence.com #cc_skimming, win.skimer, Skimer https://threatfox.abuse.ch/ioc/2036793/
+127.0.0.1 dug17jle.oakislandtheories.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036789/
 127.0.0.1 k-landscape.com #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/2036788/
 127.0.0.1 ippis.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036783/
 127.0.0.1 tauzzvhy.zuppy.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2036782/
@@ -24905,6 +24910,7 @@
 127.0.0.1 chrispoorten.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830601/
 127.0.0.1 colonyparklakeside.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830605/
 127.0.0.1 colonyparklakeside.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830606/
+127.0.0.1 apartmani-majda.eu #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830573/
 127.0.0.1 arendalsjakk.no #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830574/
 127.0.0.1 4uagenciamarketing.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830542/
 127.0.0.1 a-talentagency.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1830546/
@@ -32171,4 +32177,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32172
+# Number of entries: 32178
