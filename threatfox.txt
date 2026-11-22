@@ -1,4 +1,6 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 app.wetrading.io #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038702/
+127.0.0.1 rh.asiagacor777.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2038683/
 127.0.0.1 5m48xpxq.bossbeyclub.click #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038638/
 127.0.0.1 lacariaautomobile.ch #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038630/
 127.0.0.1 5h30holu.zayce.store #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2038628/
@@ -6881,6 +6883,7 @@
 127.0.0.1 gumduck1.duckdns.org #botnet_cc, win.remcos, RemcosRAT, Remvio https://threatfox.abuse.ch/ioc/1990902/
 127.0.0.1 formazionedocenti.org #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1990890/
 127.0.0.1 flexyyservices.pt #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1990882/
+127.0.0.1 familylegacyprotection.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1990875/
 127.0.0.1 cpw81zy7.emanuellejaques.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1990845/
 127.0.0.1 vallxx.duckdns.org #botnet_cc, win.xworm, XWorm https://threatfox.abuse.ch/ioc/1990839/
 127.0.0.1 ftp.jmacsafety.com #botnet_cc, win.agent_tesla, AgenTesla, AgentTesla https://threatfox.abuse.ch/ioc/1990836/
@@ -7678,6 +7681,7 @@
 127.0.0.1 geopoynt.london #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980476/
 127.0.0.1 ginapacelli.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980472/
 127.0.0.1 ghostsmith.com #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980462/
+127.0.0.1 geomagnet-io.stango.solutions #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980461/
 127.0.0.1 gearmonkey.bike #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980444/
 127.0.0.1 gdvzm.ru #payload_delivery, win.strelastealer, StrelaStealer https://threatfox.abuse.ch/ioc/1980434/
 127.0.0.1 thunder.godofthunder.st #botnet_cc, elf.mirai, Katana, Mirai https://threatfox.abuse.ch/ioc/1980208/
@@ -32822,4 +32826,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 32823
+# Number of entries: 32827
