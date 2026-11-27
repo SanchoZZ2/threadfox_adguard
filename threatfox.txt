@@ -1,4 +1,7 @@
 # Generated from https://threatfox.abuse.ch/export/csv/domains/full/
+127.0.0.1 ggipvpl7.aafikerinci.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2054802/
+127.0.0.1 aafikerinci.org #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/2054800/
+127.0.0.1 up.babe818.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2054799/
 127.0.0.1 z5.ayuselot.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2054788/
 127.0.0.1 si0.babe818.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2054789/
 127.0.0.1 babe818.org #botnet_cc, win.vidar, Vidar https://threatfox.abuse.ch/ioc/2054790/
@@ -13875,6 +13878,7 @@
 127.0.0.1 7ejjnjb6.eng-usa-glycomute.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885122/
 127.0.0.1 eng-usa-glycomute.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885118/
 127.0.0.1 8gmcvfr9.eng-neuro-wave.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885109/
+127.0.0.1 productstudio.me #payload_delivery, js.iclickfix, IClickFix https://threatfox.abuse.ch/ioc/1885089/
 127.0.0.1 5g6unmz0.eng-usa-glycofree.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885072/
 127.0.0.1 rs53tvhu.eng--memorylift.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885070/
 127.0.0.1 jd4zow6i.eng--geniusbrainsignal.com #payload_delivery, js.clearfake, ClearFake https://threatfox.abuse.ch/ioc/1885069/
@@ -31534,4 +31538,4 @@
 127.0.0.1 lukkeze.club #botnet_cc, win.fickerstealer, Ficker Stealer https://threatfox.abuse.ch/ioc/4514/
 127.0.0.1 google-js.org.za #cc_skimming, js.magecart, magecart https://threatfox.abuse.ch/ioc/1489/
 127.0.0.1 servx278x.xyz #botnet_cc, win.systembc, Coroxy, DroxiDat https://threatfox.abuse.ch/ioc/1003/
-# Number of entries: 31535
+# Number of entries: 31539
